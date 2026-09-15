@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-08-24T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -362,6 +362,17 @@
       "verificationStatus": "unverified",
       "notes": "The attribution axis fails: per Quote Investigator (quoteinvestigator.com/2011/03/30/not-inferior/, citing Ralph Keyes, The Quote Verifier, 2006, pp. 97-98), a thorough search of Roosevelt's authored books and archived writings — including This Is My Story (1937), the book most often cited as its source — found no instance of this exact wording; quotation researcher Rosalie Maggio reported the same. QI traces the likely seed to a March 1935 White House press conference, where Roosevelt was asked whether Labor Secretary Frances Perkins had been snubbed over a UC Berkeley Charter Day speaking invitation and replied, per the Associated Press (News and Courier, Mar. 26, 1935, p. 7): \"A snub is the effort of a person who feels superior to make someone else feel inferior. To do so, he has to find someone who can be made to feel inferior.\" Sometime between 1935 and 1940 — by Roosevelt herself or an unknown editor — that remark was condensed into the aphorism first seen in the September 1940 Reader's Digest; it recurred with attribution to Roosevelt in newspapers through the 1940s (e.g. Walter Winchell's column, Feb. 1944 and Feb. 1945). The Yale Book of Quotations (Fred Shapiro, 2006, p. 143) notes an 1838 precursor by clergyman William Ellery Channing: \"No power in society, no hardship in your condition can depress you, keep you down, in knowledge, power, virtue, influence, but by your own consent.\" QI's verdict: Roosevelt's 1935 remarks are the most likely inspiration, but whether she or someone else authored the final wording is unresolved.",
       "addedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "courage-033",
+      "content": "Well-behaved women seldom make history.",
+      "authorName": "Laurel Thatcher Ulrich",
+      "source": "\"Vertuous Women Found: New England Ministerial Literature, 1668-1735,\" American Quarterly, vol. 28, no. 1 (1976)",
+      "sourceType": "article",
+      "quoteDate": "c. 1976",
+      "verificationStatus": "verified",
+      "notes": "Ulrich, a historian (later Pulitzer Prize winner), coined the line in this scholarly article describing pious 17th-century New England women remembered only through funeral sermons — an observation about the historical record, not an endorsement of misbehavior. She later used it as the title of her 2007 book.",
+      "addedAt": "2026-09-15T12:00:00Z"
     }
   ]
 }
