@@ -92,11 +92,11 @@
   "cursor": {
     "fileIndex": 18,
     "file": "dream-big",
-    "quoteIndex": 0,
-    "note": "disney-animated finishes this pass (52/52). Next run begins dream-big quotes[0] (dream-big-001 or equivalent first id)."
+    "quoteIndex": 12,
+    "note": "dream-big in progress (12/29). Next run begins dream-big quotes[12] (dream-013)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 508,
+  "totalQuotesAudited": 520,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -823,6 +823,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/151",
       "processNote": "Found PR #149 (branch claude/charming-cannon-rawz6r, supersedes #145 and #146, both already closed) open at the start of this run, already covering disney-013..044 -- well ahead of this run's own cursor (quoteIndex 12) -- including two real corrections to disney-013..024 that a still-earlier run had missed (disney-014's Fitzgerald/Silverstein wording conflation, disney-016's dropped leading 'For'). Independently re-verified both corrections from scratch via WebSearch before trusting them (Tomorrow Society/AllEars corroborate the Horizons wall mural read 'If we can dream it, we can do it'; two independent transcript-style sources confirm Zeus's line opens with 'For') -- both hold. Also independently spot-checked PR #149's disney-037 (Dory/Finding Nemo) correction against a transcript source -- confirmed. Reset this run's branch to PR #149's exact tip (a clean fast-forward from main per `git merge-base --is-ancestor`) rather than creating a conflicting PR, then continued with new coverage (disney-045..052) -- this run's PR is a strict superset of #149. Recommend closing #149 as superseded once this run's PR merges. PR #148 ('Add 3 verified quotes: great-scientists, legendary-coaches, great-economists') independently re-reviewed: all three new quotes (Sowell's own book, Noether's letter via Dick's 1981 biography, Krzyzewski's own book) trace to genuine primary/authoritative sources, no aggregator reliance -- consistent with #149's own review of the same PR. Not merged, per repo convention. No coverage gaps: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86)."
+    },
+    {
+      "runDate": "2026-09-13",
+      "file": "dream-big",
+      "quoteRange": "dream-001..dream-012",
+      "count": 12,
+      "passed": 12,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- dream-001/002 (Langston Hughes, \"Dreams\" and \"Harlem\", both public-domain poems), dream-003 (MLK, \"I Have a Dream\", March on Washington 1963), dream-004 (Thoreau, Walden \"Conclusion\"), dream-005 (T. E. Lawrence, Seven Pillars of Wisdom -- stored wording \"wake in the day to find that it was vanity\" independently corroborated verbatim by a direct primary-text citation (quotes.net), a different secondary paraphrase surfaced first with \"wake up... find it was vanity\" but the collection's exact phrasing checks out against the citation, not a defect), dream-006 (Emily Dickinson, \"I dwell in Possibility\", Franklin 466), dream-007 (Emerson, \"Civilization\" in Society and Solitude 1870, confirmed via Bartleby/UMich digitized text -- stored line is the standalone-catchphrase excerpt of the full sentence, consistent with this collection's partial-quote convention), dream-008 (Browning, \"Andrea del Sarto\"), dream-009 (Wilde, Lady Windermere's Fan Act III), dream-010 (Shaw, Back to Methuselah Part I), dream-011 (J. K. Rowling, 2008 Harvard commencement address -- confirmed verbatim as the opening sentence of a longer passage via the official Harvard Gazette transcript), and dream-012 (Malala Yousafzai, UN Youth Assembly speech 2013) all verified verbatim against primary or authoritative texts -- no issues.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/154",
+      "processNote": "Reconciled the disney-animated superseding-PR chain before starting new work: found PR #150 (branch claude/charming-cannon-xh6hn4, supersedes #149, which itself superseded #145/#146) open and clean at the start of this run, already finishing disney-animated's pass 1 (52/52) -- well ahead of this run's own stale cursor (which still read quoteIndex 12, disney-013, because #150 was never merged). Verified with `git merge-base --is-ancestor` that #150 is a clean fast-forward from main, reset this run's branch to its exact tip, independently spot-verified a sample of its carried-forward fixes from scratch (disney-013's 'partial excerpt, not a defect' call, disney-016's dropped 'For', disney-033's Moana wording, dream... n/a) rather than trusting the chain blindly, then continued with genuinely new coverage (dream-big dream-001..012). This run's PR is a strict superset of #145/#146/#149/#150. PR review: #148 ('Add 3 verified quotes') unchanged since the 2026-09-11/12 reviews (identical single commit, same head sha) -- prior findings (Noether/Dick 1981, Krzyzewski's own book, Sowell's own book, all genuine primary/authoritative sources) still hold, nothing new to flag; still intentionally left unmerged per its own note. #152 ('Release 1.15.1') is a second release PR superseding #140 (merged 2026-09-06 but never tagged) -- explicitly marked 'should not be merged automatically... stays a human decision' in its own body, so left untouched. Housekeeping: as of this run's start, disney-animated's audit chain had gone FOUR PRs deep (#145 to #146 to #149 to #150) without any of them landing on main, each new run correctly discovering and building on the last rather than duplicating -- the chain-following process is working, but the underlying PRs are not getting merged. Recommend merging #150 (folds in #145/#146/#149) and closing those three as superseded once it lands. 12 open audit-report issues remain untriaged (oldest from 2026-08-23); left untouched as before -- outside this run's explicit scope."
     }
   ]
 }
