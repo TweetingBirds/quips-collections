@@ -9,7 +9,7 @@
   "iconName": "figure.american.football",
   "category": "Sports",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-09-10T12:00:00Z",
   "quotes": [
     {
       "id": "coach-001",
@@ -318,6 +318,17 @@
       "sourceType": "interview",
       "notes": "Belichick's repeated deflection after a lopsided loss became a team rallying cry en route to a Super Bowl title.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "coach-029",
+      "content": "My hunger is not for success, it's for excellence, because when you attain excellence, success just naturally follows.",
+      "authorName": "Mike Krzyzewski",
+      "source": "Leading with the Heart: Coach K's Successful Strategies for Basketball, Business, and Life (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Krzyzewski's own book on the leadership philosophy he built over decades coaching Duke basketball.",
+      "addedAt": "2026-09-10T12:00:00Z"
     }
   ]
 }

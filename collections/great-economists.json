@@ -9,7 +9,7 @@
   "iconName": "chart.line.uptrend.xyaxis",
   "category": "Business & Leadership",
   "addedAt": "2026-08-13T12:00:00Z",
-  "lastUpdated": "2026-08-20T12:00:00Z",
+  "lastUpdated": "2026-09-10T12:00:00Z",
   "quotes": [
     {
       "id": "econ-001",
@@ -461,6 +461,17 @@
       "sourceType": "book",
       "notes": "Bagehot's observation that bank credit rests on presumed, unquestioned confidence rather than on argument; wording confirmed against Econlib's and Wikisource's editions of the chapter.",
       "addedAt": "2026-08-20T12:00:00Z"
+    },
+    {
+      "id": "econ-042",
+      "content": "There are no solutions. There are only trade-offs.",
+      "authorName": "Thomas Sowell",
+      "source": "A Conflict of Visions: Ideological Origins of Political Struggles (1987)",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sowell's summary of his central argument: policy choices exchange one set of costs for another rather than eliminating costs outright.",
+      "addedAt": "2026-09-10T12:00:00Z"
     }
   ]
 }

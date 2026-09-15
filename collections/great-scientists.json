@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-09-10T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -373,6 +373,17 @@
       "sourceType": "television",
       "notes": "Oppenheimer, in filmed interview footage, recalls this line from the Bhagavad Gita as his reaction on witnessing the 1945 Trinity test.",
       "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "sci-034",
+      "content": "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
+      "authorName": "Emmy Noether",
+      "source": "Letter to Helmut Hasse (1931), quoted in Auguste Dick, Emmy Noether: 1882-1935 (1981)",
+      "quoteDate": "1931",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Noether on how her abstract methods in algebra spread through later mathematicians' work without attribution; from a letter to fellow mathematician Helmut Hasse.",
+      "addedAt": "2026-09-10T12:00:00Z"
     }
   ]
 }

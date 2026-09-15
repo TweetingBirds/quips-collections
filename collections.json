@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-03T12:00:00Z",
+  "lastUpdated": "2026-09-10T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1027,7 +1027,7 @@
       "name": "Legendary Coaches",
       "description": "Hard-won wisdom on winning, discipline, and teamwork from the greatest coaches in sports.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "We're on to Cincinnati.",
         "Be quick, but don't hurry."
@@ -1038,9 +1038,9 @@
       "iconName": "figure.american.football",
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-r8/gH09IJ3JJrSuv6rGZml4DsYL0Oxi0gWoNlrsnpoI=",
-      "bytes": 14584
+      "lastUpdated": "2026-09-10T12:00:00Z",
+      "contentHash": "sha256-t0RveQJ0fgR72Q/TsIpi0qV3fyuELmcQhBLmY5zF4IY=",
+      "bytes": 15174
     },
     {
       "id": "champions-mindset",
@@ -1147,7 +1147,7 @@
       "name": "Great Economists",
       "description": "Sharp thinking on markets, money, and human choice from the economists who shaped how we see the world.",
       "author": "Quips Editorial",
-      "quoteCount": 41,
+      "quoteCount": 42,
       "previewQuotes": [
         "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.",
         "If something cannot go on forever, it will stop."
@@ -1158,9 +1158,9 @@
       "iconName": "chart.line.uptrend.xyaxis",
       "category": "Business & Leadership",
       "addedAt": "2026-08-13T12:00:00Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-gUC3pSX4WCGN6q58yGTKaTlvY8FTtuwlLz3KOd0iOeQ=",
-      "bytes": 24029
+      "lastUpdated": "2026-09-10T12:00:00Z",
+      "contentHash": "sha256-Un2fsXF8g9OQ1n7VlNAPa9QYqG+3+YRAZ7+vnuNS4R4=",
+      "bytes": 24554
     },
     {
       "id": "great-speeches",
@@ -1247,7 +1247,7 @@
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1258,9 +1258,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-FOrJh+GpqUZFv9B5ffQoZbxABEzSyJEt+e2g3lHS/0M=",
-      "bytes": 19886
+      "lastUpdated": "2026-09-10T12:00:00Z",
+      "contentHash": "sha256-ifOnSb13gLG37a1xstw242jDo0lp0q9FgP5b7lmmI9c=",
+      "bytes": 20510
     },
     {
       "id": "curiosity-discovery",
