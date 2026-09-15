@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-20T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -373,6 +373,17 @@
       "sourceType": "book",
       "notes": "Rubin, whose observations of galaxy rotation provided key evidence for dark matter, on the humility science requires; from the preface to her collected papers.",
       "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "cosmos-034",
+      "content": "Okay, Houston, we've had a problem here.",
+      "authorName": "Jack Swigert",
+      "source": "Apollo 13 air-to-ground transcript, April 13, 1970",
+      "quoteDate": "1970-04-13",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "Swigert's actual transmission after the oxygen tank explosion, in the past tense; commander Jim Lovell then repeated it. The film Apollo 13 (1995) changed it to the now-famous present-tense \"Houston, we have a problem\" for dramatic effect.",
+      "addedAt": "2026-09-15T12:00:00Z"
     }
   ]
 }

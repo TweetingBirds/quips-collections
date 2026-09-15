@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-10T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1227,7 +1227,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1238,9 +1238,9 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-3UcRz9Gsco8mXI7abdccrhisrHMIsIyYVP2kzsvFRyM=",
-      "bytes": 17750
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-w0kGdrIuWUFt75TuKgLkhNTYEPLmlu81vOobHoUCsBc=",
+      "bytes": 18358
     },
     {
       "id": "great-scientists",
