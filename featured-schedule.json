@@ -80,6 +80,30 @@
       "weekStart": "2026-11-16",
       "collectionId": "great-economists",
       "note": "Our freshest collection yet — clear-eyed thinking on markets and money from history's great economists."
+    },
+    {
+      "weekStart": "2026-11-23",
+      "collectionId": "friendship",
+      "quoteId": "friend-001",
+      "note": "Aristotle on the friends who make a life worth living, for the week of Thanksgiving gatherings."
+    },
+    {
+      "weekStart": "2026-11-30",
+      "collectionId": "andor-rogue-one",
+      "quoteId": "andor-001",
+      "note": "Our newest collection makes its featured debut — the Rebellion's hard-won hope from Andor and Rogue One."
+    },
+    {
+      "weekStart": "2026-12-07",
+      "collectionId": "cs-lewis",
+      "quoteId": "cslewis-001",
+      "note": "C. S. Lewis's reflections on faith and reason for the year's turn toward quieter, more contemplative weeks."
+    },
+    {
+      "weekStart": "2026-12-14",
+      "collectionId": "star-wars",
+      "quoteId": "starwars-001",
+      "note": "The saga that started it all finally gets its featured turn, held a few weeks clear of Andor & Rogue One so the two Star Wars collections don't run back to back."
     }
   ]
 }
