@@ -39,7 +39,7 @@ import urllib.request
 DEFAULT_URL = "https://quipsapp.com/icons.json"
 MIRROR_REL = os.path.join("schema", "website-icons.json")
 TIMEOUT = 30
-USER_AGENT = "quips-collections refresh_website_icons.py (+https://github.com/natebird/quips-collections)"
+USER_AGENT = "quips-collections refresh_website_icons.py (+https://github.com/TweetingBirds/quips-collections)"
 
 NOTE = (
     "Mirror of the iconName values quipsapp.com can render, from "

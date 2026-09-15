@@ -61,7 +61,7 @@ Two extra notes for these runs:
   may carry an `issueNumber` it didn't already own publicly. Never write
   "Featured in Quote Unquote #N" into a collection quote's `notes` — membership
   is derived by `build_newsletter_picks.py`, and authoring it in prose is what
-  put three unsent issues into three releases. `natebird/quote-unquote` has a
+  put three unsent issues into three releases. `TweetingBirds/quote-unquote` has a
   `check_newsletter_sync.py` that verifies this file against the drafts.
 - A collection's `iconName` must be one quipsapp.com can draw. The names it
   supports are mirrored in `schema/website-icons.json` and enforced by the
