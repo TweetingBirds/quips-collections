@@ -156,13 +156,13 @@
     },
     {
       "id": "disney-014",
-      "content": "If you can dream it, you can do it.",
+      "content": "If we can dream it, we can do it.",
       "authorName": "Tom Fitzgerald (often misattributed to Walt Disney)",
       "source": "Epcot's Horizons attraction",
       "sourceType": "unspecified",
       "quoteDate": "1983",
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Walt Disney, but actually written by Disney Imagineer Tom Fitzgerald for Epcot's Horizons attraction in 1983, seventeen years after Walt Disney's death. The misattribution persists in popular culture.",
+      "notes": "Commonly attributed to Walt Disney, but actually written by Disney Imagineer Tom Fitzgerald for Epcot's Horizons attraction wall mural/dialogue in 1983, seventeen years after Walt Disney's death. Audit correction: the Horizons wording Fitzgerald wrote uses 'we' ('If we can dream it, we can do it'), not 'you' -- the 'you' phrasing that circulates as the misattributed Disney quote actually traces to copywriter Sheralyn Silverstein's 1981 General Electric recruitment ad, which is believed to have inspired Fitzgerald's Horizons line. Content corrected to match the actual Horizons wording attributed here.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -178,13 +178,13 @@
     },
     {
       "id": "disney-016",
-      "content": "A true hero isn't measured by the size of his strength, but by the strength of his heart.",
+      "content": "For a true hero isn't measured by the size of his strength, but by the strength of his heart.",
       "authorName": "Zeus",
       "source": "Hercules (1997)",
       "sourceType": "movie",
       "quoteDate": "1997-06-27",
       "verificationStatus": "verified",
-      "notes": "Zeus explaining what makes a true hero. Rip Torn voiced Zeus in the film.",
+      "notes": "Zeus explaining what makes a true hero, responding to Hera's line about Hercules being willing to give his life. Rip Torn voiced Zeus in the film. Audit correction: restored the leading 'For' dropped from the stored wording, confirmed against independent film transcripts.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -365,13 +365,13 @@
     },
     {
       "id": "disney-033",
-      "content": "I am Moana of Motunui. You will board my boat and restore the heart to Te Fiti.",
+      "content": "I am Moana of Motunui. You will board my boat, sail across the sea, and restore the heart of Te Fiti.",
       "authorName": "Moana",
       "source": "Moana (2016)",
       "sourceType": "movie",
       "quoteDate": "2016-11-23",
       "verificationStatus": "verified",
-      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity.",
+      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity. 2026-09-10 audit: corrected wording -- stored text had dropped the middle clause ('sail across the sea, and') and changed 'restore the heart of Te Fiti' to 'restore the heart to Te Fiti'; confirmed exact wording via Disney's own official account and multiple independent transcript sources.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -403,19 +403,19 @@
       "source": "Tangled (2010)",
       "sourceType": "movie",
       "quoteDate": "2010-11-24",
-      "verificationStatus": "verified",
-      "notes": "Rapunzel's realization after leaving her tower. Reflects the film's coming-of-age themes.",
+      "verificationStatus": "unverified",
+      "notes": "Widely attributed to Rapunzel/Tangled across quote-listicle and social sites (Pinterest, TikTok, inspirational-quote pages), but this run could not locate the line in any film transcript, script, or clip archive of Tangled -- no scene or context is ever cited alongside it, which is the hallmark of a fabricated 'movie quote.' Downgraded from verified to unverified; content/attribution not rewritten since no confirmed correct source was found.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-037",
-      "content": "When life gets you down, you know what you gotta do? Just keep swimming.",
+      "content": "When life gets you down, do you know what you've gotta do? Just keep swimming.",
       "authorName": "Dory (Ellen DeGeneres)",
       "source": "Finding Nemo (2003)",
       "sourceType": "movie",
       "quoteDate": "2003-05-30",
       "verificationStatus": "verified",
-      "notes": "Extended version of Dory's mantra. DeGeneres' real-life optimism influenced the character.",
+      "notes": "Extended version of Dory's mantra, addressed to Marlin ('Mr. Grumpy Gills'). DeGeneres' real-life optimism influenced the character. Audit correction: restored 'do' and \"'ve\" dropped from the stored wording ('do you know what you've gotta do'), confirmed against multiple independent transcript sources.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -447,8 +447,8 @@
       "source": "The Jungle Book (1967)",
       "sourceType": "song",
       "quoteDate": "1967-10-18",
-      "verificationStatus": "verified",
-      "notes": "From 'The Bare Necessities.' Phil Harris voiced Baloo in the original film.",
+      "verificationStatus": "unverified",
+      "notes": "From 'The Bare Necessities.' Phil Harris voiced Baloo in the original film. Audit note: 'forget about your worries and your strife' is genuine and well-attested as the song's own line, but this run could not confirm the leading clause ('When there's too much to do, don't let it bother you') against any lyrics source or transcript -- it does not match the song's well-documented opening ('Look for the bare necessities...'), and may be a paraphrase stitched onto the genuine closing clause. Downgraded to unverified pending direct lyrics-sheet access (WebFetch was blocked on every lyrics site tried this run); content not rewritten since the correct full line wasn't confirmed either way.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

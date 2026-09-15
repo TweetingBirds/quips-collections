@@ -90,13 +90,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 17,
-    "file": "disney-animated",
-    "quoteIndex": 12,
-    "note": "disney-animated in progress (12/52). Next run begins disney-animated quotes[12] (disney-013)."
+    "fileIndex": 18,
+    "file": "dream-big",
+    "quoteIndex": 0,
+    "note": "disney-animated finishes this pass (52/52). Next run begins dream-big quotes[0] (dream-big-001 or equivalent first id)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 468,
+  "totalQuotesAudited": 508,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -765,6 +765,64 @@
       "resolution": "both fixed in this run's PR: disney-002 content corrected to the full line; disney-005 authorName corrected to 'Randy Newman' and notes rewritten to describe it accurately as the film's non-diegetic theme song.",
       "reportedIn": "see this run's report",
       "processNote": "disney-001 (Hakuna Matata refrain), disney-003 (Mufasa's ghost, 'Remember who you are' -- confirmed as an accurate excerpt of a longer three-line exchange, not the whole line), disney-004 (Buzz Lightyear), disney-006 (Dory), disney-007 (Bruce the Shark's shark-pledge line, confirmed via the Pixar Wiki's Shark Pledge page and multiple transcript sources), disney-008/disney-010 (Elsa, Let It Go), disney-009 (Olaf, confirmed exact line and scene via quotes.net/IMDb), disney-011 (Lilo, 'Ohana means family' -- confirmed the full line including 'or forgotten' is genuine film dialogue split across Lilo and Nani in the actual script, just compressed under Lilo as the line's originator; not a defect), and disney-012 (Cinderella) all verified against the films themselves (or, for disney-011, a full script transcript) as primary/authoritative sources -- no issues. No open PRs at the start of this run. Re-checked order[] against collections/*.json and collections.json for coverage gaps -- none found, all three remain in exact agreement (86/86). Pass 1 total after this run: 468/2806. Pass 1 is NOT yet complete -- disney-animated is index 17 of 86 in order[] and has 52 quotes (only 12 audited so far). Next run begins disney-animated quotes[12] (disney-013)."
+    },
+    {
+      "runDate": "2026-09-09",
+      "file": "disney-animated",
+      "quoteRange": "disney-013..disney-024",
+      "count": 12,
+      "passed": 12,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "n/a",
+      "processNote": "disney-013 (Fairy Godmother, Cinderella, confirmed as a genuine partial excerpt of 'But we have to hurry, because even miracles take a little time.'), disney-014 (already correctly unverified with an accurate note on the Tom Fitzgerald/Epcot Horizons misattribution, left as-is), disney-015 (The Emperor, Mulan), disney-016 (Zeus, Hercules, confirmed exact via IMDb/Wikiquote), disney-017 (Ellie, Up -- confirmed via IMDb's own quotes page that Ellie is the credited speaker, not Carl or Muntz who also use the phrase), disney-018 (Dug, Up), disney-019 (Gusteau, Ratatouille, confirmed exact), disney-020 (Gusteau, Ratatouille -- confirmed genuine via quotes.net/Wikiquote/IMDb convergence; stored text drops the leading 'And', consistent with this collection's partial-quote convention, not a defect), disney-021 (Scar, The Lion King), disney-022 (Merida, Brave -- double-checked the closing-narration attribution given dc-comics' history of narrator mixups; confirmed via IMDb/quotes.net that this is Merida's own closing narration, not the Witch's dialogue), disney-023 (Rapunzel, Tangled, 'I See the Light' duet lyric) and disney-024 (Rapunzel, Tangled -- checked whether 'I've got a dream!' is actually Hook Hand Thug's opening declaration rather than Rapunzel's, since the thugs sing it first; confirmed via multiple independent song-summary sources that Rapunzel also sings this exact line herself later in the number, with the thug chorus responding 'She's got a dream!', so the existing attribution is correct) all verified against primary/authoritative sourcing (the films/songs themselves) -- no issues. 0 open PRs found at the start of this run. WebFetch remains EGRESS_BLOCKED on every content domain tried this run (disneyclips.com), consistent with the long-running pattern; verification relied on WebSearch snippet triangulation across multiple independent sources per quote. Re-checked order[] against collections/*.json for coverage gaps -- none found (86/86). Pass 1 total after this run: 480/2806. Next run begins disney-animated quotes[24] (disney-025)."
+    },
+    {
+      "runDate": "2026-09-10",
+      "file": "disney-animated",
+      "quoteRange": "disney-025..disney-034",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "disney-033"
+      ],
+      "issue": "disney-025..032, 034 all verified verbatim against the films/songs themselves as primary sources (Under the Sea, Part of Your World, Beauty and the Beast title song, Belle Reprise, A Whole New World, Friend Like Me, How Far I'll Go, You're Welcome). disney-031 (Aladdin, 'I'm not worthless. And I don't have fleas.') confirmed exact via transcript sources. disney-033 (Moana's declaration to Maui) was missing the middle clause 'sail across the sea, and' and had 'restore the heart of Te Fiti' altered to 'restore the heart to Te Fiti' -- confirmed the correct full wording via Disney's own official account (twitter/x.com) plus independent transcript sources.",
+      "resolution": "disney-033 fixed in this run's PR: content corrected to the full, exact line. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "This run found PR #145 (branch claude/charming-cannon-3dnoke) already open and unmerged from 2026-09-09, independently auditing this exact next batch (disney-013..024, 12 quotes, 0 flagged, state-only change, mergeable_state clean). Verified via `git merge-base --is-ancestor` that #145's single commit sits directly on top of main's tip with nothing else in between, so this run's branch was fast-forwarded onto #145's commit (a true superset, confirmed by direct ancestry rather than assumed) before continuing with new work. Independently re-verified disney-013..022 (matches #145's findings exactly) and additionally checked disney-023/024 (also matches). PR #145 is being closed as superseded by this run's PR, which contains its exact commit. No coverage gaps found: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86)."
+    },
+    {
+      "runDate": "2026-09-11",
+      "file": "disney-animated",
+      "quoteRange": "disney-014 + disney-016 (carryover corrections) + disney-035..disney-044",
+      "count": 10,
+      "passed": 7,
+      "flagged": 3,
+      "flaggedIds": [
+        "disney-036",
+        "disney-037",
+        "disney-040"
+      ],
+      "issue": "This run found PR #146 (branch claude/charming-cannon-u0gxf6, disney-013..034, 0 issues besides disney-033) already open and further along than this run's own cursor; independently re-derived disney-013..024 from scratch before trusting the PR's '0 issues' claim on that batch, and found two the 2026-09-09 run had missed: disney-014 (Tom Fitzgerald/Epcot Horizons quote) was correctly flagged unverified but its stored wording ('If you can dream it, you can do it') is actually the Sheralyn Silverstein/1981 GE ad phrasing, not what Fitzgerald wrote for the Horizons wall/script ('If we can dream it, we can do it') -- the two phrasings and their origins had been conflated. disney-016 (Zeus, Hercules) was marked verified with 'A true hero isn't measured...' but the film's actual line (confirmed via two independent transcript sources, responding to Hera's preceding line) opens with 'For a true hero isn't measured...' -- the leading 'For' was dropped. New batch, disney-035..044: disney-035 (Remy, Ratatouille), disney-038 (Edna Mode, 'I never look back'), disney-039 ('No capes!'), disney-041/042 (Kuzco, Emperor's New Groove narration and 'groove' lines), disney-043 (Kuzco on Yzma), disney-044 ('No touchy') all verified verbatim against primary/authoritative sourcing (film dialogue itself) -- no issues. disney-036 (Rapunzel, Tangled, 'Venture outside your comfort zone. The rewards are worth it.') could not be located in any Tangled script, transcript, or clip archive -- it circulates exclusively on inspirational-quote/social sites (Pinterest, TikTok, listicles), the same pattern as a fabricated movie-quote attribution; a similar line ('Venture outside your comfort zone. To stop growing is to stop living.') is independently and specifically attributed to Robin Roberts' book 'From the Heart', suggesting cross-contamination. disney-037 (Dory, Finding Nemo) dropped 'do' and \"'ve\" from the actual line, confirmed via multiple independent transcript sources as 'When life gets you down, do you know what you've gotta do?' not 'you know what you gotta do?'. disney-040 (Baloo, 'The Bare Necessities') has a confirmed-genuine closing clause ('forget about your worries and your strife') but this run could not confirm its leading clause ('When there's too much to do, don't let it bother you') against any lyrics source -- it does not match the song's well-documented opening line and may be a paraphrase stitched onto the real fragment; WebFetch was blocked on every lyrics site tried, so this is a tooling-access gap, not a resolved finding.",
+      "resolution": "disney-014 content corrected to 'If we can dream it, we can do it.' with notes clarifying the Fitzgerald/Silverstein wording split (stays unverified -- misattribution note, not a clean verified fix). disney-016 content corrected to restore the leading 'For'. disney-036 downgraded from verified to unverified, content/attribution not rewritten (no confirmed correct source located). disney-037 content corrected to restore 'do'/\"'ve\". disney-040 downgraded from verified to unverified pending lyrics-sheet access; content not rewritten. All in this run's PR; hashes refreshed via compute_hashes.py and validate_collections.py --strict passed (0 errors, 0 warnings, 86 collections).",
+      "reportedIn": "see this run's report",
+      "processNote": "PR #146 (branch claude/charming-cannon-u0gxf6, supersedes #145) was open at the start of this run, covering disney-013..034 -- further than this run's cursor (which pointed at disney-035). Verified via `git merge-base --is-ancestor` that #146 is a clean fast-forward from main, then reset this run's branch to #146's exact tip before adding fixes and new coverage, rather than creating a conflicting PR. This run's PR is therefore a strict superset of #146 (and, transitively, #145); recommend closing both as superseded once this run's PR merges. PR #148 ('Add 3 verified quotes: great-scientists, legendary-coaches, great-economists') reviewed: all three new quotes (Emmy Noether letter to Hasse via Dick's 1981 biography, Krzyzewski's own 'Leading with the Heart' book, Sowell's own 'A Conflict of Visions' book) trace to genuine primary/authoritative sources, no aggregator reliance -- one minor, non-blocking wording variant noted: coach-029's stored 'it's for excellence' reads as 'it is for excellence' (no contraction) across several independent secondary citations (Quotefancy, AZQuotes); flagged in this run's report but not fixed since it isn't this run's file to edit and no primary page citation was available either way. Not merged (left for manual review per repo convention -- no standing instruction to merge PRs autonomously). No coverage gaps: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86). Next run begins disney-animated quotes[44] (disney-045); disney-animated has 8 quotes remaining and will finish this pass on the next run."
+    },
+    {
+      "runDate": "2026-09-12",
+      "file": "disney-animated",
+      "quoteRange": "disney-045..disney-052",
+      "count": 8,
+      "passed": 8,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- disney-045..047 (Yzma, The Emperor's New Groove: lever command, exasperated follow-up, and the 'extract of llama' realization) and disney-048..050 (Kronk: the soup-and-salad non-sequitur, the deadpan poison-mixup excuse, and 'Yeah, weird.') all verified verbatim against primary transcript/clip sources (clip.cafe closed-caption transcript for disney-049, confirming 'You might think about relabeling' over a lower-confidence meme-site paraphrase 'You might consider relabeling' that surfaced during search). disney-051 (Pacha, '6 generations' line) and disney-052 (Pacha's llama-Kuzco leverage line) both confirmed verbatim against movie-sounds.org's sound-clip-backed quote page and independent transcript sources. disney-animated collection finishes this pass (52/52 quotes audited).",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/151",
+      "processNote": "Found PR #149 (branch claude/charming-cannon-rawz6r, supersedes #145 and #146, both already closed) open at the start of this run, already covering disney-013..044 -- well ahead of this run's own cursor (quoteIndex 12) -- including two real corrections to disney-013..024 that a still-earlier run had missed (disney-014's Fitzgerald/Silverstein wording conflation, disney-016's dropped leading 'For'). Independently re-verified both corrections from scratch via WebSearch before trusting them (Tomorrow Society/AllEars corroborate the Horizons wall mural read 'If we can dream it, we can do it'; two independent transcript-style sources confirm Zeus's line opens with 'For') -- both hold. Also independently spot-checked PR #149's disney-037 (Dory/Finding Nemo) correction against a transcript source -- confirmed. Reset this run's branch to PR #149's exact tip (a clean fast-forward from main per `git merge-base --is-ancestor`) rather than creating a conflicting PR, then continued with new coverage (disney-045..052) -- this run's PR is a strict superset of #149. Recommend closing #149 as superseded once this run's PR merges. PR #148 ('Add 3 verified quotes: great-scientists, legendary-coaches, great-economists') independently re-reviewed: all three new quotes (Sowell's own book, Noether's letter via Dick's 1981 biography, Krzyzewski's own book) trace to genuine primary/authoritative sources, no aggregator reliance -- consistent with #149's own review of the same PR. Not merged, per repo convention. No coverage gaps: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86)."
     }
   ]
 }
