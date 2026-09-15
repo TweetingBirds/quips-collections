@@ -11,7 +11,7 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [1.15.1] - 2026-09-05
+## [1.15.1] - 2026-09-12
 ### Changed
 **Sherlock Holmes** gains 2 verified quotes: the dog-in-the-night-time exchange
 from "Silver Blaze" and the "villainy in the countryside vs. London" line from
@@ -38,10 +38,22 @@ after a release had already shipped (as happened with v1.15.0's
 sync with the website's published list.
 
 ### Fixed
-**Dhammapada** `dhamma-010` (verse 43, Max Muller translation) read "nor any
-other relatives"; corrected to "nor any other relative" (singular), matching
-Muller's actual wording. Found during a sourcing audit of dhamma-001..012,
-which confirmed the other 11 quotes verbatim.
+**Dhammapada** completed a full sourcing audit (dhamma-001 through dhamma-030,
+Max Muller translation). `dhamma-010` (verse 43) read "nor any other
+relatives"; corrected to "nor any other relative" (singular). `dhamma-026`
+(verse 239) read "of himself" and added a spurious comma after "silver";
+corrected to "of his self" and the comma removed, both matching Muller's
+actual wording. `dhamma-028` (verse 276) read "The Awakened are only
+preachers"; corrected to "The Tathagatas (Buddhas) are only preachers," and
+the accompanying note's incorrect claim that Muller renders "the Awakened"
+for Tathagatas was removed. The other 27 quotes were confirmed verbatim.
+
+**Disney Animated** `disney-002` had dropped the opening "Oh yes," and the
+word "from" in Rafiki's line to Simba; both restored to match *The Lion
+King* (1994). `disney-005` credited "You've got a friend in me" to "Woody
+(Tom Hanks)"; corrected to Randy Newman, who wrote and performs the song as
+non-diegetic underscore rather than as on-screen dialogue sung by Woody.
+Found during a sourcing audit of disney-001..012.
 
 ## [1.15.0] - 2026-09-02
 ### Added
