@@ -571,6 +571,42 @@ first pass. Rebalanced so `kindness` leads 4 and `compassion` 8, with `identity`
 the rest. Two batches running, a single-subject collection has needed this after
 the first pass — it is worth treating as a required step rather than a check.
 
+### Batch 15 (2026-09-16): shakespeare, sherlock-holmes, sikh-wisdom, spider-man, standup-legends
+
+183/186 tagged, only 3 empty, 3.11 per tagged quote, no flags.
+Corpus: **2271/2928 (77.6%)**, vocabulary **149/158 (94%)**.
+
+`standup-legends` came in at **0/26 empty**, as the claim-rule predicted after
+batch 14: it collects jokes, not catchphrases, so Carlin on stuff and Hedberg on
+escalators are about `money`, `simplicity`, `technology`. That is three comedy
+collections now — `one-liners` 0%, `standup-legends` 0%, `seinfeld` 96% — and
+the split falls exactly where the rule says it should.
+
+`shakespeare` (54/54) needed no lead intervention: the top lead is `love` at 6
+of 54. A collection drawn from thirty different plays spreads naturally.
+
+**Four of the five added tags have spread well beyond the collection that
+prompted them; `rest` has not.** Spread is the real test of a vocabulary
+addition — a tag that only ever fires in its home collection is a category
+wearing a tag's clothes.
+
+| tag | uses | collections | most in |
+|---|---|---|---|
+| `pride` | 43 | 25 | champions-mindset (4) |
+| `sacrifice` | 28 | 20 | great-speeches (4) |
+| `shame` | 14 | 11 | avatar-last-airbender (2) |
+| `envy` | 6 | 6 | cs-lewis (1) |
+| **`rest`** | **29** | **3** | **rest-balance (27)** |
+
+`rest` has escaped its home collection exactly twice — `sherlock-holmes` ("my
+mind rebels at stagnation") and `spider-man` ("You do too much… You're not
+Superman, you know"). Three collections remain untagged that should use it
+(`tao-te-ching`, `stoic-wisdom`, `zen-wisdom` all have something to say about
+stillness), so the verdict is not in yet. **Worth re-checking at the end of the
+pass**: if `rest` finishes under ~5 collections it was the wrong call, and the
+honest fix is to fold it back into `peace` and `simplicity` rather than leave a
+slug that means "this is the rest collection".
+
 Per batch, in order:
 
 ```bash
