@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Buffett crediting Munger for pushing him from cigar-butt bargains toward quality businesses.",
+      "tags": [
+        "money",
+        "patience",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Buffett attributes this maxim to his teacher Ben Graham in the 2008 letter.",
+      "tags": [
+        "money",
+        "truth",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Graham's summation of his central investing principle in the book's final chapter.",
+      "tags": [
+        "money",
+        "risk",
+        "humility"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On temperament, not intellect, as the true test of the investor.",
+      "tags": [
+        "self-knowledge",
+        "money",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Unverified: this tidy wording is not found verbatim in Security Analysis or The Intelligent Investor; Buffett recalls Graham saying it in class. Wording/source axis fails.",
+      "tags": [
+        "money",
+        "patience",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "newspaper",
       "notes": "Buffett's contrarian rule, stated in his op-ed urging stock buying during the financial crisis.",
+      "tags": [
+        "fear",
+        "money",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "On hidden risks exposed when markets turn, written in the wake of insurance losses.",
+      "tags": [
+        "risk",
+        "truth",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "The full sentence behind the often-truncated 'favorite holding period is forever.'",
+      "tags": [
+        "patience",
+        "money",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Written after the 2008 crash on treating market declines as sales.",
+      "tags": [
+        "money",
+        "patience",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Unverified: no primary Buffett speech or letter carries this exact phrasing; it traces to a secondary compilation. Source axis fails.",
+      "tags": [
+        "risk",
+        "money",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "unverified",
       "sourceType": "newspaper",
       "notes": "Unverified: reported secondhand and, per Quote Investigator, compressed from non-adjacent phrases. Wording axis fails.",
+      "tags": [
+        "risk",
+        "ignorance",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Munger on patience as the real engine of compounding returns.",
+      "tags": [
+        "patience",
+        "money",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Munger's inversion principle, later reprinted in Poor Charlie's Almanack.",
+      "tags": [
+        "humility",
+        "wisdom",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Munger on continuous learning as a compounding advantage over a long career.",
+      "tags": [
+        "learning",
+        "patience",
+        "excellence"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The Vanguard founder's case for owning the whole market via low-cost index funds.",
+      "tags": [
+        "simplicity",
+        "money",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Bogle on patience and the cost of emotional trading.",
+      "tags": [
+        "patience",
+        "self-control",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Unverified: universally attributed to Lynch's book but confirmed here only via quote aggregators, not primary text. Source axis fails.",
+      "tags": [
+        "self-knowledge",
+        "money",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Unverified: attributed to Lynch's book but confirmed here only via aggregators, not primary text. Source axis fails.",
+      "tags": [
+        "risk",
+        "learning",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Dalio's core formula, rendered in the book as 'Pain + Reflection = Progress.'",
+      "tags": [
+        "suffering",
+        "self-knowledge",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A market adage Dalio says he learned young and cites in Principles; he credits it as an existing saying.",
+      "tags": [
+        "destiny",
+        "humility",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The book's central thesis, from its introduction.",
+      "tags": [
+        "money",
+        "habits",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Housel distinguishing spent income (things) from unspent wealth (options).",
+      "tags": [
+        "money",
+        "simplicity",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On restraint rather than income as the driver of savings.",
+      "tags": [
+        "money",
+        "pride",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Unverified: signature Ramsey line but confirmed here only via aggregators, not primary text; wording also circulates in variant forms. Source axis fails.",
+      "tags": [
+        "money",
+        "discipline",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From Franklin's Poor Richard essay compiling his thrift maxims.",
+      "tags": [
+        "money",
+        "habits",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A proverb Franklin popularized in the 1735 almanac; earlier versions predate him.",
+      "tags": [
+        "habits",
+        "discipline",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +436,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Franklin on the true cost of debt.",
+      "tags": [
+        "money",
+        "humility",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +452,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Franklin quoting Poor Richard on the irrecoverable cost of wasted time.",
+      "tags": [
+        "time",
+        "regret",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +468,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Morgan's sworn reply on what credit rests upon; from the Money Trust investigation transcript.",
+      "tags": [
+        "integrity",
+        "money",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +484,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Unverified: the transcript reads 'The money is gold, and nothing else'; this tidy paraphrase is not the verbatim testimony. Wording axis fails.",
+      "tags": [
+        "money",
+        "truth",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -350,6 +500,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Marks's maxim from the book's chapters on risk, on why hard markets teach the lessons easy ones cannot.",
+      "tags": [
+        "failure",
+        "learning",
+        "wit"
+      ],
       "addedAt": "2026-07-06T12:25:35Z"
     },
     {
@@ -361,6 +516,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Often misattributed to Taleb's later Skin in the Game; the aphorism originates in this 2010 collection.",
+      "tags": [
+        "work",
+        "money",
+        "satire"
+      ],
       "addedAt": "2026-07-06T12:25:35Z"
     },
     {
@@ -372,6 +532,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used.",
+      "tags": [
+        "dissent",
+        "money",
+        "craft"
+      ],
       "addedAt": "2026-07-06T12:25:35Z"
     },
     {
@@ -383,6 +548,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Buffett's admission that he had foreseen a September 11-style catastrophic loss at General Re but hadn't acted on it; wording confirmed against independent full-text reproductions of the 2001 annual letter.",
+      "tags": [
+        "effort",
+        "risk",
+        "confession"
+      ],
       "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
