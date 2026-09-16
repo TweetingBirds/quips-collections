@@ -538,6 +538,39 @@ and all three were caught before tagging rather than after.
 corpus, which is simply what Wilde is. Both are tone tags, so neither can breach
 the 25% theme ceiling.
 
+### Batch 14 (2026-09-16): rpg-wisdom, rumi, scifi-screen, seinfeld, self-compassion
+
+118/153 tagged, 35 empty, 3.12 per tagged quote, no flags.
+Corpus: **2088/2928 (71.3%)**, vocabulary **149/158 (94%)**.
+
+**Two comedy collections, 96% apart.** `seinfeld` came in at 25/26 empty — the
+highest rate in the project — against `one-liners` at 0/27 in batch 12. Both are
+comedy. The difference is what each was curated *for*: `one-liners` collects
+jokes, which are about marriage and money and ignorance; `seinfeld` collects
+catchphrases, and "Yada yada yada", "Giddy up!" and "Festivus for the rest of
+us!" are about nothing. The single quote that tagged — "It's not a lie if you
+believe it" — is the only one in the collection making a claim, false though it
+is.
+
+This is the claim-rule stated as cleanly as the data can state it. Genre,
+medium and even humour are all irrelevant; only whether the line asserts
+something.
+
+| | empty |
+|---|---|
+| `seinfeld` | 25/26 (96%) |
+| `scifi-screen` | 24/47 (51%) |
+| `rpg-wisdom` | 11/26 (42%) |
+| `rumi` | 0/23 |
+| `self-compassion` | 0/31 |
+
+**The lead-variance trap caught a second collection**, exactly as batch 13
+predicted it would. `self-compassion` had `kindness` leading 16 of 31 on the
+first pass. Rebalanced so `kindness` leads 4 and `compassion` 8, with `identity`,
+`courage`, `language`, `legacy`, `time`, `memory`, `generosity` and `joy` taking
+the rest. Two batches running, a single-subject collection has needed this after
+the first pass — it is worth treating as a required step rather than a check.
+
 Per batch, in order:
 
 ```bash

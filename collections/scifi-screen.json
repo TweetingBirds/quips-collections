@@ -20,6 +20,7 @@
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
       "notes": "The franchise's signature blessing. First spoken by General Dodonna, but Obi-Wan made it iconic.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -31,6 +32,11 @@
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
       "notes": "Yoda's lesson to Luke about commitment. Frank Oz's puppetry brought the character to life.",
+      "tags": [
+        "effort",
+        "choice",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -42,6 +48,7 @@
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
       "notes": "Cinema's greatest twist. Often misquoted as 'Luke, I am your father.' Kept secret even from most cast.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -53,6 +60,11 @@
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
       "notes": "Obi-Wan's parting message to Luke before the Death Star assault. A promise fulfilled across the saga.",
+      "tags": [
+        "loyalty",
+        "friendship",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -64,6 +76,7 @@
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
       "notes": "Running joke in the franchise. Every Star Wars film contains a variation of this line.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -75,6 +88,11 @@
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
       "notes": "Han dismissing C-3PO's probability calculations. Defines Han's reckless confidence.",
+      "tags": [
+        "risk",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -86,6 +104,7 @@
       "quoteDate": "2019-11-12",
       "verificationStatus": "verified",
       "notes": "Mandalorian creed response. Became a cultural catchphrase from the Disney+ series.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -97,6 +116,7 @@
       "quoteDate": "1966-09-08",
       "verificationStatus": "verified",
       "notes": "Vulcan greeting with the split-finger salute. Nimoy based the gesture on a Jewish blessing.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -108,6 +128,7 @@
       "quoteDate": "1966-09-08",
       "verificationStatus": "verified",
       "notes": "Opening narration of the original series. Became Trek's mission statement for 50+ years.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -119,6 +140,7 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "unverified",
       "notes": "Never actually said in this exact form. A cultural condensation of various transport requests. Date reflects the original run of Star Trek (1966-1969), from which the phrase was condensed.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -130,6 +152,11 @@
       "quoteDate": "1982-06-04",
       "verificationStatus": "verified",
       "notes": "Spock's logical justification for his sacrifice. Kirk later reverses it in Search for Spock.",
+      "tags": [
+        "sacrifice",
+        "community",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -141,6 +168,7 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "notes": "Borg collective's warning. First appeared in 'Q Who.' Became shorthand for overwhelming conformity.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -152,6 +180,7 @@
       "quoteDate": "1987-09-28",
       "verificationStatus": "verified",
       "notes": "Picard's command phrase. Stewart's Shakespearean delivery gave it gravitas.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -163,6 +192,7 @@
       "quoteDate": "1984-10-26",
       "verificationStatus": "verified",
       "notes": "Became Schwarzenegger's signature line. Used in many of his subsequent films.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -174,6 +204,7 @@
       "quoteDate": "1984-10-26",
       "verificationStatus": "verified",
       "notes": "Kyle's first words to Sarah. Later said by different characters in sequels.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -185,6 +216,11 @@
       "quoteDate": "1982-06-25",
       "verificationStatus": "verified",
       "notes": "Beginning of Roy's 'tears in rain' monologue. Hauer partly improvised the speech.",
+      "tags": [
+        "memory",
+        "wonder",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -196,6 +232,12 @@
       "quoteDate": "1982-06-25",
       "verificationStatus": "verified",
       "notes": "Final line of Roy's death soliloquy. Hauer added 'like tears in rain' himself.",
+      "tags": [
+        "memory",
+        "mortality",
+        "impermanence",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -207,6 +249,11 @@
       "quoteDate": "2021-10-22",
       "verificationStatus": "verified",
       "notes": "From the Bene Gesserit Litany Against Fear. Originally from Frank Herbert's 1965 novel.",
+      "tags": [
+        "fear",
+        "self-control",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -218,6 +265,7 @@
       "quoteDate": "1984-12-14",
       "verificationStatus": "verified",
       "notes": "Emphasizes spice's economic importance. David Lynch's film version popularized this phrasing.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -229,6 +277,11 @@
       "quoteDate": "1965",
       "verificationStatus": "verified",
       "notes": "Encapsulates the novel's political themes. Spice as metaphor for oil is often discussed.",
+      "tags": [
+        "power",
+        "money",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -240,6 +293,7 @@
       "quoteDate": "1979-05-25",
       "verificationStatus": "verified",
       "notes": "Marketing tagline that became iconic. Captures the isolation horror of the film.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -251,6 +305,7 @@
       "quoteDate": "1986-07-18",
       "verificationStatus": "verified",
       "notes": "Hudson's panicked outburst. Paxton's delivery made it quotable for generations.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -262,6 +317,7 @@
       "quoteDate": "1986-07-18",
       "verificationStatus": "verified",
       "notes": "Ripley protecting Newt from the Queen. One of cinema's great action hero moments.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -273,6 +329,11 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Morpheus showing Neo the truth. The red pill/blue pill choice became cultural shorthand.",
+      "tags": [
+        "truth",
+        "change",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -284,6 +345,11 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Lesson about bending reality. Represents understanding that the Matrix isn't real.",
+      "tags": [
+        "truth",
+        "doubt",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -295,6 +361,7 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Neo after his first training upload. Reeves' amazed delivery became iconic.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -306,6 +373,11 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Morpheus questioning perception. Introduced philosophical concepts to mainstream audiences.",
+      "tags": [
+        "truth",
+        "questions",
+        "doubt"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -317,6 +389,11 @@
       "quoteDate": "1985-07-03",
       "verificationStatus": "verified",
       "notes": "Doc's closing line before the DeLorean flies. Sets up the sequel's promise.",
+      "tags": [
+        "travel",
+        "change",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -328,6 +405,7 @@
       "quoteDate": "1985-07-03",
       "verificationStatus": "verified",
       "notes": "Doc's exclamation of surprise. Lloyd's eccentric delivery defined the character.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -339,6 +417,7 @@
       "quoteDate": "1982-06-11",
       "verificationStatus": "verified",
       "notes": "E.T.'s request to contact his species. Spielberg's film became a cultural phenomenon.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -350,6 +429,11 @@
       "quoteDate": "1993-06-11",
       "verificationStatus": "verified",
       "notes": "Malcolm's chaos theory observation. Goldblum's unique delivery made it memorable.",
+      "tags": [
+        "nature",
+        "change",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -361,6 +445,7 @@
       "quoteDate": "1993-06-11",
       "verificationStatus": "verified",
       "notes": "Muldoon's last words, realizing the raptor's trap. Perfect blend of respect and doom.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -372,6 +457,7 @@
       "quoteDate": "1993-06-11",
       "verificationStatus": "verified",
       "notes": "Arnold before rebooting the park systems. One of Jackson's most quotable lines.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -383,6 +469,11 @@
       "quoteDate": "2004-10-18",
       "verificationStatus": "verified",
       "notes": "Colonial affirmation of unity. The 2004 series reinvented sci-fi television.",
+      "tags": [
+        "community",
+        "rallying-cry",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -394,6 +485,11 @@
       "quoteDate": "2005-09-30",
       "verificationStatus": "verified",
       "notes": "Mal's defiant declaration. Firefly fans made it a rallying cry for the cancelled series.",
+      "tags": [
+        "dissent",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -405,6 +501,7 @@
       "quoteDate": "2005-09-30",
       "verificationStatus": "verified",
       "notes": "Jayne's enthusiastic agreement to a job. 'Shiny' became part of Firefly fan vocabulary.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -416,6 +513,11 @@
       "quoteDate": "1979-05-25",
       "verificationStatus": "verified",
       "notes": "Ash's chilling final assessment. Reveals the android's true lack of humanity.",
+      "tags": [
+        "honesty",
+        "mortality",
+        "blunt"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -427,6 +529,7 @@
       "quoteDate": "1951-09-28",
       "verificationStatus": "verified",
       "notes": "Command to stop Gort. Referenced in Army of Darkness and many other films.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -438,6 +541,7 @@
       "quoteDate": "1968-04-02",
       "verificationStatus": "verified",
       "notes": "Dave's request to the malfunctioning AI. Kubrick's film set the standard for sci-fi cinema.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -449,6 +553,11 @@
       "quoteDate": "1968-04-02",
       "verificationStatus": "verified",
       "notes": "HAL's polite refusal became template for sinister AI. Rain's calm voice made it chilling.",
+      "tags": [
+        "technology",
+        "power",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -460,6 +569,7 @@
       "quoteDate": "1973-04-06",
       "verificationStatus": "verified",
       "notes": "Thorn's horrified revelation closing the film; one of cinema's most famous dystopian twists and a lasting shorthand for corporate dehumanization.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -471,6 +581,11 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Smith's dismissive line just before ordering sentinels deployed instead of relying on human agents to hunt Morpheus's crew.",
+      "tags": [
+        "technology",
+        "pride",
+        "one-liner"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     },
     {
@@ -482,6 +597,11 @@
       "quoteDate": "2003-05-15",
       "verificationStatus": "verified",
       "notes": "Morpheus's rebuttal to the Merovingian during their philosophical clash over free will.",
+      "tags": [
+        "choice",
+        "beginnings",
+        "one-liner"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     },
     {
@@ -493,6 +613,11 @@
       "quoteDate": "2003-05-15",
       "verificationStatus": "verified",
       "notes": "The Merovingian's determinist counter-argument to Morpheus at Le Vrai restaurant.",
+      "tags": [
+        "choice",
+        "power",
+        "paradox"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     },
     {
@@ -504,6 +629,11 @@
       "quoteDate": "2003-11-05",
       "verificationStatus": "verified",
       "notes": "Smith recalling the Oracle's words during the climactic rain-soaked duel with Neo.",
+      "tags": [
+        "endings",
+        "impermanence",
+        "one-liner"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     },
     {
@@ -515,6 +645,11 @@
       "quoteDate": "2021-12-22",
       "verificationStatus": "verified",
       "notes": "Bugs explaining how the Matrix weaponizes and trivializes important ideas by burying them in fiction.",
+      "tags": [
+        "truth",
+        "technology",
+        "questions"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     },
     {
@@ -526,6 +661,11 @@
       "quoteDate": "2021-12-22",
       "verificationStatus": "verified",
       "notes": "Trinity (as 'Tiffany') mulling free will vs. conditioning during a coffee-shop conversation with Thomas Anderson.",
+      "tags": [
+        "authenticity",
+        "identity",
+        "questions"
+      ],
       "addedAt": "2026-07-05T03:48:30Z"
     }
   ]
