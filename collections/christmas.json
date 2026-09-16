@@ -138,7 +138,7 @@
       "quoteDate": "1870",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Written by Brooks for his Sunday school in 1868 after riding to Bethlehem on Christmas Eve 1865. This is the earliest surviving printing; hymnals soften its three colons, and Brooks's own autograph has no punctuation at all.",
+      "notes": "Written by Brooks for his Sunday school in 1868 after riding to Bethlehem on Christmas Eve 1865. This is the earliest surviving printing; his own autograph has no punctuation at all, and his posthumous collection reads \"The silent hours go by\" and \"thy dark street\" singular.",
       "tags": [
         "hope",
         "fear",
@@ -200,13 +200,13 @@
     },
     {
       "id": "xmas-012",
-      "content": "Truly He taught us to love one another;\nHis law is love and His gospel is peace.\nChains shall He break, for the slave is our brother,\nAnd in His name all oppression shall cease.",
+      "content": "Truly he taught us to love one another;\nHis law is Love and his gospel is Peace;\nChains shall he break, for the slave is our brother,\nAnd in his name, all oppression shall cease,",
       "authorName": "John Sullivan Dwight",
-      "source": "\"O Holy Night,\" third verse — Dwight's 1855 English version of Placide Cappeau's \"Minuit, chrétiens\" (1847)",
-      "quoteDate": "1855",
+      "source": "\"Christmas Song\" (Cantique de Noel), English words by J. S. Dwight, in Gems of English Song (Oliver Ditson, 1875)",
+      "quoteDate": "1858",
       "verificationStatus": "verified",
       "sourceType": "song",
-      "notes": "Dwight, a Boston abolitionist, sharpened the French original into the verse the carol is most often sung without.",
+      "notes": "Dwight's English of Cappeau's third verse. The abolition image is Cappeau's own — \"il voit un frere ou n'etait qu'un esclave\" — not Dwight's addition; he moves the French perfect into a future, if anything softening it. Earliest documented printing is 1858; the often-repeated 1855 date appears nowhere in Dwight's own journal. Text follows the 1875 engraving, so its pointing is provisional.",
       "tags": [
         "freedom",
         "justice",
@@ -444,7 +444,7 @@
       "quoteDate": "1897-09-21",
       "verificationStatus": "verified",
       "sourceType": "newspaper",
-      "notes": "Church answered eight-year-old Virginia O'Hanlon anonymously; his authorship was made public only after his death in 1906.",
+      "notes": "Church answered eight-year-old Virginia O'Hanlon anonymously on page 6; his authorship was made public only after his death in 1906. The Sun set her name in small caps.",
       "tags": [
         "imagination",
         "doubt",
