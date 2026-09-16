@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The opening words of both Sagan's book and the companion PBS television series.",
+      "tags": [
+        "the-cosmos",
+        "eternity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Sagan's reflection that the atoms in our bodies were forged inside stars.",
+      "tags": [
+        "the-cosmos",
+        "identity",
+        "wonder",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +53,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the opening chapter, on pairing imagination with skepticism.",
+      "tags": [
+        "imagination",
+        "curiosity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +69,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Popularized by Sagan as the 'Sagan standard' for evaluating extraordinary claims.",
+      "tags": [
+        "science",
+        "doubt",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +86,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Inspired by Voyager 1's 1990 photograph of Earth as a mote of dust in a sunbeam.",
+      "tags": [
+        "the-cosmos",
+        "earth",
+        "humility",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +103,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The closing of the Pale Blue Dot passage, urging stewardship of Earth.",
+      "tags": [
+        "humility",
+        "pride",
+        "earth",
+        "the-cosmos"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +120,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A thematic line near the end of Sagan's only novel.",
+      "tags": [
+        "love",
+        "the-cosmos",
+        "lyrical",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +137,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts. Date is estimated from the earliest documented appearance: the closing line of Sharon Begley's Newsweek profile of Sagan, 15 August 1977, which Begley has confirmed she wrote herself.",
+      "tags": [
+        "curiosity",
+        "wonder",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +153,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Tyson's answer to 'the most astounding fact about the universe,' later made into a viral video.",
+      "tags": [
+        "the-cosmos",
+        "identity",
+        "wonder"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +169,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Said in conversation with Stephen Colbert and later posted verbatim to Tyson's verified account.",
+      "tags": [
+        "science",
+        "truth",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +186,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The book's concluding sentence; Hawking later said he used 'God' figuratively.",
+      "tags": [
+        "science",
+        "the-divine",
+        "curiosity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +202,12 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "The first of three pieces of advice Hawking said he gave his children.",
+      "tags": [
+        "wonder",
+        "hope",
+        "advice",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +219,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered by webcast when illness kept Hawking from attending the event in person.",
+      "tags": [
+        "hope",
+        "perseverance",
+        "encouragement"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +235,12 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it. Content corrected 2026-08-20: prior wording was a commonly-circulated shortened/altered variant ('just an advanced breed of monkeys on a minor planet of'; 'That makes us something very special.') that drops 'little' and 'small planet orbiting around,' and splits the closing clause into a new sentence. Corrected wording matches the original 17 October 1988 Der Spiegel text.",
+      "tags": [
+        "humility",
+        "wonder",
+        "the-cosmos",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +252,11 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Armstrong maintained he said 'for a man'; recordings are inconclusive and NASA transcripts render the 'a' in parentheses.",
+      "tags": [
+        "the-cosmos",
+        "history",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +268,10 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Armstrong's spontaneous call sign change confirmed the Lunar Module had touched down safely.",
+      "tags": [
+        "the-cosmos",
+        "history"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +283,11 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Recorded in NASA's air-to-ground transcript; Aldrin chose opposing words to capture the Moon's stark beauty.",
+      "tags": [
+        "the-cosmos",
+        "wonder",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +299,7 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "His exclamation at lift-off, 'Poyekhali!', became a motto of the Soviet space program.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +311,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Wording axis fails: historians dispute whether this was said in one breath or reassembled from separate transmissions and later recollections.",
+      "tags": [
+        "earth",
+        "wonder",
+        "the-cosmos"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +327,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ride was the first American woman in space, aboard STS-7 in 1983.",
+      "tags": [
+        "earth",
+        "wonder",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +343,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ride describing the raw experience of a rocket launch.",
+      "tags": [
+        "risk",
+        "fear",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +359,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The signature motto McAuliffe adopted during selection; she died aboard Challenger in 1986.",
+      "tags": [
+        "teaching",
+        "legacy",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +375,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: repeated across quote sites but not confirmed against a primary transcript or recording of the interview.",
+      "tags": [
+        "the-cosmos",
+        "identity",
+        "earth"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +391,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Hubble later showed the universe is expanding, giving rise to the concept of the Big Bang.",
+      "tags": [
+        "science",
+        "curiosity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +407,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Translated from the Latin; Kepler saw mathematical harmony as evidence of divine order in the heavens.",
+      "tags": [
+        "science",
+        "the-divine",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +423,12 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "The astronomer's own epitaph, written shortly before his death and documented in his collected works.",
+      "tags": [
+        "mortality",
+        "science",
+        "eulogy",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +440,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Literal translation of the Russian; often paraphrased as 'Earth is the cradle of humanity.'",
+      "tags": [
+        "the-cosmos",
+        "change",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +456,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "The passage inscribed on the obelisk marking the rocketry pioneer's grave.",
+      "tags": [
+        "the-cosmos",
+        "curiosity",
+        "destiny"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +472,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "The NASA mathematician whose orbital calculations were trusted by John Glenn for Friendship 7.",
+      "tags": [
+        "curiosity",
+        "habits",
+        "craft"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +488,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Johnson on the enduring importance of mathematics to human progress.",
+      "tags": [
+        "science",
+        "technology",
+        "hope"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -350,6 +504,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Collins's reflection on his roughly 48 minutes of solitude aboard the Apollo 11 command module, alone on the far side of the Moon during Armstrong and Aldrin's descent.",
+      "tags": [
+        "solitude",
+        "the-cosmos",
+        "lyrical"
+      ],
       "addedAt": "2026-07-09T12:40:13Z"
     },
     {
@@ -361,6 +520,12 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript.",
+      "tags": [
+        "peace",
+        "hope",
+        "farewell",
+        "the-cosmos"
+      ],
       "addedAt": "2026-07-09T12:40:13Z"
     },
     {
@@ -372,6 +537,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Rubin, whose observations of galaxy rotation provided key evidence for dark matter, on the humility science requires; from the preface to her collected papers.",
+      "tags": [
+        "ignorance",
+        "humility",
+        "science"
+      ],
       "addedAt": "2026-08-06T12:00:00Z"
     },
     {
@@ -383,6 +553,11 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Swigert's actual transmission after the oxygen tank explosion, in the past tense; commander Jim Lovell then repeated it. The film Apollo 13 (1995) changed it to the now-famous present-tense \"Houston, we have a problem\" for dramatic effect.",
+      "tags": [
+        "adversity",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     }
   ]
