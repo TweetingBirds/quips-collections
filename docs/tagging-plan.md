@@ -668,6 +668,92 @@ because most of its quotes mention it. Rebalanced to 2, with the lead moving to
 single-subject case: **any collection with a category-like tag running through
 it will pile onto that tag as the lead unless checked.**
 
+### Batch 18 (2026-09-16): western-movies, words-of-jesus, yogi-berra, zen-wisdom — **the pass is complete**
+
+103/124 tagged, 21 empty. `words-of-jesus` and `zen-wisdom` both at zero;
+`western-movies` at 53%, another catchphrase-heavy screen collection.
+
+```
+$ python3 scripts/tag_report.py --next 5
+nothing pending — every collection is fully tagged
+```
+
+## Phase 2 result
+
+**2,928 quotes across 88 collections. 2,585 tagged (88.3%), 343 deliberately
+empty, 8,009 tag applications, 3.10 tags per tagged quote. 149 of 158 slugs in
+use.** Seventeen batches, no disagreements, no over-broad flags at any point.
+
+### `--require-tags` is now on in CI — and its meaning had to be fixed first
+
+The flag was written in Phase 0, before the `tags: []` convention existed, so it
+errored on *any* quote without a positive tag — all 343 deliberate empties
+included. That made it unusable as the finish line it was meant to be.
+
+Corrected: it now errors only on a **missing `tags` key**, and accepts `[]`.
+Absent means "the pass has not reached this quote"; `[]` means "read, and
+deliberately none". Only the first is a gap. Both `validate.yml` and
+`release.yml` now run `--strict --require-tags`, so **no quote can enter this
+repo again without someone deciding about its tags.**
+
+### The three deferred questions, answered
+
+**1. Was `rest` a mistake?** No. It finished at **36 uses across 7 collections**,
+clearing the ~5 bar set in batch 15. Final spread of all five additions:
+
+| tag | uses | collections |
+|---|---|---|
+| `pride` | 56 | 32 |
+| `rest` | 36 | 7 |
+| `sacrifice` | 30 | 22 |
+| `shame` | 16 | 13 |
+| `envy` | 8 | 8 |
+
+`rest` is the most concentrated of the five and the only one where the question
+was live. `zen-wisdom`, `tao-te-ching`, `yogi-berra` and `words-of-jesus` all
+picked it up after batch 15, which is what settled it.
+
+**2. The 9 unused slugs — vocabulary problem or data gap?** Data gap. **All nine
+are `occasion` tags**: `apology`, `birthday`, `get-well`, `milestone`,
+`new-baby`, `new-job`, `new-year`, `toast`, `welcome`. These are the everyday
+occasions, and this corpus is literature, scripture, speeches, film and games.
+It genuinely contains no birthday quotes.
+
+**Keep them.** Two reasons. `new-year` has a collection waiting on the unmerged
+`featured/2026-q4-events` branch, so it is not dead at all — only unmeasured.
+And `schema/tags.json` is what the `add-quotes` skill reads when someone adds a
+quote: a vocabulary pruned to exactly what today's corpus uses cannot guide
+tomorrow's collection. The counter-argument — that nine never-used slugs are
+noise to scroll past — is real but smaller, because this file is a reference a
+writer consults, not a picker they click through.
+
+**3. `iconic-game-lines` (24/31 empty) — grant the tone-only exception?** No.
+The theme-required rule held across 88 collections and produced the single
+clearest finding of the project; carving an exception for one collection's
+import experience is the wrong trade. Those 24 quotes still import with their
+category tag. If the collection's import experience matters, the honest fix is
+upstream: a collection curated from catchphrases is arguably mis-curated for a
+quote app, and that is an editorial question, not a tagging one.
+
+### What the rollout actually established
+
+**A quote needs a subject to tag.** Four shapes of line have none: catchphrases
+("Zug zug", "Suit up!"), running gags (the Bro Code, Emperor's New Groove),
+scene-setting first sentences ("Mrs. Dalloway said she would buy the flowers
+herself"), and context-dependent answers (the Beatles' press conferences). Genre,
+medium and humour are all irrelevant — `one-liners` and `standup-legends` tagged
+at 0% empty while `seinfeld` hit 96%, and all three are comedy.
+
+**Lead variance is a required step, not a check.** Three collections needed
+rebalancing after a first pass — `rest-balance` (`rest` led 28/28),
+`self-compassion` (`kindness` led 16/31), `tech-visionaries` (`technology` led
+13/30). The lead is what bulk import applies, so an unchecked collection imports
+as N copies of one tag.
+
+**Run the duplicate query before tagging, not after.** It caught 52 quotes
+across the rollout. As an exit gate the disagreement check would have found them
+after the fact; as an entry step they never became disagreements at all.
+
 Per batch, in order:
 
 ```bash

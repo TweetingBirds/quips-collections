@@ -26,7 +26,10 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
     - quote tags, when present, are known slugs from schema/tags.json, unique,
       at most MAX_TAGS_PER_QUOTE of them, and include at least one 'theme' tag
       (skipped with a warning if the vocabulary is missing or unreadable)
-    - a quote carries no tags at all -- only under --require-tags
+    - a quote has no `tags` key at all -- only under --require-tags. An empty
+      `tags: []` passes: it records that the quote was read and deliberately
+      left untagged (a catchphrase, a running gag, a line with no subject),
+      which is a decision, not an omission.
 
   WARN
     - description differs between index entry and file
@@ -47,12 +50,16 @@ Usage:
     --collection    validate only this collection + its index entry
                     (skips orphan and cross-collection prefix checks)
     --strict        treat warnings as errors (use in CI)
-    --require-tags  error on any quote with no tags. Off by default, and
-                    deliberately not a warning: CI runs --strict, where a
-                    warning is a failure, so warning on untagged quotes would
-                    redden main for the whole of a multi-PR tagging rollout.
-                    Turn it on in CI once coverage reaches 100% -- until then
-                    scripts/tag_report.py is what tracks the gap.
+    --require-tags  error on any quote with no `tags` key, i.e. one the tagging
+                    pass has not reached. An empty `tags: []` passes: absent
+                    means "not looked at", [] means "looked at, deliberately
+                    none", and only the first is a gap.
+
+                    Off by default, and deliberately not a warning: CI runs
+                    --strict, where a warning is a failure, so warning on
+                    untagged quotes would redden main for the whole of a
+                    multi-PR rollout. Turn it on in CI once every quote is
+                    decided; scripts/tag_report.py tracks the gap until then.
 
 Exit code 0 on success, 1 on failure.
 """
@@ -196,13 +203,15 @@ def validate_quote_tags(cid, qid, tags, vocab, rep, require_tags):
 
     if tags is None:
         if require_tags:
-            rep.error(f"{cid}/{qid}: no tags")
+            rep.error(f"{cid}/{qid}: no 'tags' key — the tagging pass has not reached it")
         return
     if not isinstance(tags, list):
         rep.error(f"{cid}/{qid}: 'tags' is not a list")
         return
-    if require_tags and not tags:
-        rep.error(f"{cid}/{qid}: no tags")
+    # An empty list is a decision, not an omission, so --require-tags accepts
+    # it. Treating [] as a gap would make the flag unusable: 343 quotes in this
+    # corpus are catchphrases, running gags, scene-setting or context-dependent
+    # answers, and none of them has a subject to tag.
 
     if len(tags) > MAX_TAGS_PER_QUOTE:
         rep.error(f"{cid}/{qid}: {len(tags)} tags (max {MAX_TAGS_PER_QUOTE})")
@@ -333,7 +342,7 @@ def main():
     ap.add_argument(
         "--require-tags",
         action="store_true",
-        help="error on any quote with no tags (turn on in CI once coverage is complete)",
+        help="error on any quote with no 'tags' key; an empty [] is a decision and passes",
     )
     args = ap.parse_args()
 
