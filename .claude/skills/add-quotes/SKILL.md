@@ -77,6 +77,11 @@ is an index of every collection and must be kept in sync (its `quoteCount` and `
      - **An `occasion` tag is a claim about use.** `wedding` belongs on a line
        someone would actually read at a wedding, not on every quote mentioning
        love. Wrong here is worse than absent.
+     - **If the quote is not about anything, write `"tags": []`.** Some lines are
+       famous for being iconic, not for having a subject ("Hey! Listen!").
+       An empty array records that you read it and decided; omitting the key
+       means nobody has looked yet. Stretching a theme onto such a line is
+       worse than leaving it bare — it still imports with its category tag.
      - Match the file: if the collection's existing entries have no `tags`, it
        has not been through the tagging pass — tag your new quotes anyway.
    - `addedAt` — ISO-8601 UTC timestamp of when the quote is added, as

@@ -83,6 +83,9 @@ Rules enforced in CI:
 - Required quote fields: `id`, `content`, `authorName`, `source`,
   `verificationStatus`, `notes`.
 - `verificationStatus` ∈ `verified`, `attributed`, `unverified`, `folk-wisdom`.
+- `tags: []` (empty) means the quote was read and deliberately left untagged —
+  distinct from having no `tags` key, which means the tagging pass has not
+  reached it. Use it for a line that is iconic rather than about anything.
 - `tags` (optional) must be slugs from `schema/tags.json`: at most 6, unique,
   ordered most-specific-first, and at least one of them a `theme` tag. Unknown
   slugs fail validation; a rejected spelling (e.g. `grit`) is told which tag to

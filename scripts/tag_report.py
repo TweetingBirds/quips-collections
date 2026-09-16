@@ -23,6 +23,16 @@ Three failure modes it is built to catch, none of which are schema errors:
 Usage:
     tag_report.py [--root ROOT] [--collection ID] [--check]
                   [--max-share FRACTION] [--min-uses N] [--json]
+                  [--next N]
+
+    --next N      print the next N collections still needing tags, in
+                  alphabetical order, and exit. This is how a batch picks its
+                  work: what is left is *derived from the data* rather than
+                  read from a stored cursor, so it cannot go stale the way a
+                  hand-maintained pointer does (the same failure this repo
+                  already guards against for collections.json hashes). A
+                  partially tagged collection is listed first -- finishing one
+                  beats starting another.
 
     --check       exit 1 if any threshold is breached (for a batch's own gate)
     --max-share   flag a theme/occasion tag used on more than this share of
@@ -69,26 +79,34 @@ def collect(root, only=None):
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
         for q in data.get("quotes", []):
-            # Anything but a list is malformed data, which is
-            # validate_collections.py's call to make. Reporting it as tags would
-            # be worse than ignoring it: a bare string iterates as characters,
-            # and "humor" would enter the histogram as five one-letter tags.
+            # None and [] mean different things and must stay distinct:
+            #   absent  -> the tagging pass has not reached this quote
+            #   []      -> it was read and deliberately left untagged
+            # Collapsing them would make a finished collection look unfinished
+            # forever, and --next would keep handing it back.
+            #
+            # Anything else is malformed, which is validate_collections.py's
+            # call to make; reporting it would be worse than ignoring it, since
+            # a bare string iterates as characters and "humor" would enter the
+            # histogram as five one-letter tags.
             tags = q.get("tags")
-            rows.append((cid, q.get("id", "?"), tags if isinstance(tags, list) else []))
+            rows.append((cid, q.get("id", "?"), tags if isinstance(tags, list) else None))
     return rows
 
 
 def build(rows, vocab):
     tagged = [r for r in rows if r[2]]
-    uses = Counter(t for _, _, tags in rows for t in tags)
+    uses = Counter(t for _, _, tags in rows for t in (tags or []))
     # Leading tag only -- this is what bulk import actually applies, so a slug
     # that never leads is invisible on the path most users take.
     leads = Counter(tags[0] for _, _, tags in rows if tags)
-    per_coll = defaultdict(lambda: [0, 0, 0])  # quotes, tagged, tag-applications
+    # quotes, tagged, tag-applications, decided (tagged or deliberately empty)
+    per_coll = defaultdict(lambda: [0, 0, 0, 0])
     for cid, _, tags in rows:
         per_coll[cid][0] += 1
         per_coll[cid][1] += 1 if tags else 0
-        per_coll[cid][2] += len(tags)
+        per_coll[cid][2] += len(tags or [])
+        per_coll[cid][3] += 1 if tags is not None else 0
     facet_hits = Counter()
     for _, _, tags in rows:
         if not tags:
@@ -98,6 +116,7 @@ def build(rows, vocab):
     return {
         "quotes": len(rows),
         "tagged": len(tagged),
+        "deliberately_untagged": sum(1 for _, _, t in rows if t == []),
         "coverage": len(tagged) / len(rows) if rows else 0.0,
         "applications": sum(uses.values()),
         "mean_tags": sum(uses.values()) / len(tagged) if tagged else 0.0,
@@ -120,6 +139,8 @@ def main():
     ap.add_argument("--min-uses", type=int, default=5,
                     help="flag a tag used fewer than this many times (default 5)")
     ap.add_argument("--json", action="store_true", help="machine-readable output")
+    ap.add_argument("--next", type=int, metavar="N",
+                    help="print the next N collections needing tags, then exit")
     args = ap.parse_args()
 
     try:
@@ -133,6 +154,20 @@ def main():
         print("[ERROR] no quotes found", file=sys.stderr)
         return 1
     st = build(rows, vocab)
+
+    if args.next:
+        pending = [
+            (cid, n, dec) for cid, (n, _, _, dec) in sorted(st["per_collection"].items())
+            if dec < n
+        ]
+        # Partially decided first: an interrupted collection is a loose end, and
+        # leaving it half-done is how a quote gets missed for good.
+        pending.sort(key=lambda r: (r[2] == 0, r[0]))
+        for cid, n, dec in pending[: args.next]:
+            print(f"{cid}\t{n - dec} undecided of {n}" + ("  (partial)" if dec else ""))
+        if not pending:
+            print("nothing pending — every collection is fully tagged")
+        return 0
 
     unused = sorted(s for s in vocab if not st["uses"][s])
 
@@ -195,12 +230,12 @@ def main():
                   f"quotes are tagged; now {100 * st['coverage']:.0f}%, {st['tagged']})")
 
         incomplete = sorted(
-            (cid, v) for cid, v in st["per_collection"].items() if v[1] and v[1] < v[0]
+            (cid, v) for cid, v in st["per_collection"].items() if v[3] and v[3] < v[0]
         )
         if incomplete:
             print(f"\n[FLAG] partially tagged collections ({len(incomplete)}):")
-            for cid, (n, tg, _) in incomplete:
-                print(f"  {cid}: {tg}/{n}")
+            for cid, (n, _, _, dec) in incomplete:
+                print(f"  {cid}: {dec}/{n} decided")
 
     breached = bool(over or thin)
     if args.check and breached:

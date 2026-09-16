@@ -172,11 +172,46 @@ Two findings that are not vocabulary problems:
 
 ## Phase 2 — full pass, batched and resumable
 
-`.tag-state.json`, a sibling of `.audit-state.json`: same `order` array
-(alphabetical collection ids), its own cursor, its own pass counter. Batches are
-deterministic and a stopped run resumes where it left off.
+**There is no `.tag-state.json`.** The plan called for one, a sibling of
+`.audit-state.json` carrying an order array and a cursor. Building the batch
+selector made it a liability instead: a stored cursor is a second copy of
+something the data already knows, and a second copy that goes stale silently is
+the exact failure this repo has a rule about at the top of CLAUDE.md. The pilot
+had already broken such a cursor anyway by tagging four collections out of
+alphabetical order.
 
-**5 collections (~165 quotes) per PR — about 17 PRs.**
+`tag_report.py --next N` derives the next batch from the data instead, and git
+history is the run log. A collection is done when every quote has a `tags` key —
+which is why the empty array matters:
+
+- **no `tags` key** — the pass has not reached this quote
+- **`"tags": []`** — it was read and deliberately left untagged
+
+Without that distinction a collection with one un-taggable line looks unfinished
+forever and `--next` keeps handing it back. Partially decided collections sort
+first, because a half-done collection is how a quote gets missed for good.
+
+**5 collections (~170 quotes) per PR — about 17 PRs.**
+
+### Batch 1 (2026-09-15): andor-rogue-one, avatar-last-airbender, battlestar-galactica, bhagavad-gita, bible-wisdom
+
+156/172 tagged, 16 deliberately empty, 3.35 tags per tagged quote, no
+over-broad flags. Corpus-wide this took coverage to 269/2928 (9.2%) and
+vocabulary use to **129/156 slugs (83%)**.
+
+`sacrifice` added (v3) — `service` covers working for others' good, but not the
+cost, and Luthen's "What is my sacrifice? Everything!" and Yangchen's "selfless
+duty calls you to sacrifice" both forced the wrong tag.
+
+The facet-aware ceiling proved itself: `aphorism` was 38% of the pilot and is
+22.7% across the corpus, already under even the stricter theme ceiling. Judging
+tone at 25% would have sent the pilot chasing a number that dilution fixes on
+its own.
+
+The 16 empties are concentrated in Avatar (11 of 47) — a comedy-heavy show where
+"Drink cactus juice" and "That's rough, buddy" are famous for being memes, not
+for having a subject. Fiction collections should expect this; `bhagavad-gita`
+and `bible-wisdom` have none.
 
 Per batch, in order:
 
