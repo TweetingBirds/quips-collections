@@ -269,6 +269,35 @@ importing as 33 copies of one tag.
 Lewis's "Pride gets no pleasure out of having something, only out of having
 more of it than the next man."
 
+### Batch 4 (2026-09-15): dc-comics, dhammapada, disney-animated, dream-big, dystopian-fiction
+
+145/176 tagged, **31 empty**, 3.30 per tagged quote, no flags.
+Corpus: **722/2928 (24.7%)**, vocabulary **142/157 (90%)**.
+
+The empty rate is the story, and it splits cleanly by *medium* rather than by
+genre:
+
+| collection | empty | |
+|---|---|---|
+| `disney-animated` | 21/52 | **40%** |
+| `dc-comics` | 9/35 | 26% |
+| `dystopian-fiction` | 1/30 | 3% |
+| `dhammapada` | 0/30 | 0% |
+| `dream-big` | 0/29 | 0% |
+
+Animation and comics quote *catchphrases* — "Squirrel!", "No capes!", "Pull the
+lever, Kronk!", "I'm Batman." — which are beloved and have no subject. Prose
+dystopia quotes *sentences*, and scripture and aspiration quote *claims*; both
+tag at essentially 100%.
+
+This is worth knowing before the remaining film and television collections:
+expect roughly a third of an animated or superhero collection to come back
+empty, and do not read it as an incomplete pass. A user importing
+`disney-animated` still gets its category tag on all 52.
+
+Two Emperor's New Groove runs (`disney-042` through `disney-050`) are empty
+nearly end to end. That is the correct outcome, not a gap.
+
 Per batch, in order:
 
 ```bash

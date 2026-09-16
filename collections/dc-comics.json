@@ -20,6 +20,12 @@
       "quoteDate": "2005-06-15",
       "verificationStatus": "verified",
       "notes": "Thomas Wayne's lesson to young Bruce at the well. Alfred later echoes this ('Why do we fall, sir?'), making it a thematic throughline of Nolan's trilogy. Corrected 2026-09-02: dropped the leading 'And' from the actual line.",
+      "tags": [
+        "resilience",
+        "failure",
+        "teaching",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -31,6 +37,11 @@
       "quoteDate": "2005-06-15",
       "verificationStatus": "verified",
       "notes": "Bruce echoes Rachel's earlier words back to her, revealing his identity. Central theme of the film.",
+      "tags": [
+        "identity",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -42,6 +53,7 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Joker's menacing catchphrase during his 'scar story' scenes. Ledger won a posthumous Oscar for this role.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -53,6 +65,11 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Dent's prophetic statement that foreshadows his transformation into Two-Face. One of the film's most quoted lines.",
+      "tags": [
+        "integrity",
+        "aging",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -64,6 +81,11 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Alfred's explanation of the Joker's motivations. Became a widely-used phrase for describing irrational chaos.",
+      "tags": [
+        "sin",
+        "power",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -75,6 +97,11 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Joker's self-justification during his interrogation scene. Shows his view of himself as an agent of truth.",
+      "tags": [
+        "identity",
+        "sin",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -86,6 +113,11 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Joker's closing philosophy to Batman. Summarizes his worldview that everyone is corruptible.",
+      "tags": [
+        "sin",
+        "warning",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -97,6 +129,12 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Dent's optimistic speech before his downfall. The irony deepens as he becomes Two-Face.",
+      "tags": [
+        "hope",
+        "adversity",
+        "hard-times",
+        "encouragement"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -108,6 +146,7 @@
       "quoteDate": "1989-06-23",
       "verificationStatus": "verified",
       "notes": "Keaton's iconic delivery to a mugger. Became the definitive Batman introduction across all media.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -119,6 +158,11 @@
       "quoteDate": "2012-07-20",
       "verificationStatus": "verified",
       "notes": "Batman reveals his identity to Gordon by referencing Gordon's kindness to him as a child. Closes the trilogy's arc. Corrected 2026-09-02: restored the truncated second half of the line ('and reassuring... to let him know that the world hadn't ended'), which is the actual point of the line.",
+      "tags": [
+        "kindness",
+        "courage",
+        "tender"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -130,6 +174,7 @@
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
       "notes": "Gotham's campaign slogan for Dent. Appears on buttons and signs throughout the film.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -141,6 +186,11 @@
       "quoteDate": "2013-06-14",
       "verificationStatus": "verified",
       "notes": "Martha's advice to Clark about his choice to be a hero. Emphasizes that heroism is a choice, not an obligation.",
+      "tags": [
+        "freedom",
+        "choice",
+        "tender"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -152,6 +202,11 @@
       "quoteDate": "2013-06-14",
       "verificationStatus": "verified",
       "notes": "Jor-El's vision for his son's role on Earth. Defines Superman as a symbol of hope.",
+      "tags": [
+        "hope",
+        "purpose",
+        "legacy"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -163,6 +218,11 @@
       "quoteDate": "2017-06-02",
       "verificationStatus": "unverified",
       "notes": "Diana's declaration of her purpose. Encapsulates Wonder Woman's protective warrior ethos. 2026-09-03 audit: independent sources for this scene (Diana telling Hippolyta why she must leave Themyscira) converge on 'I understand enough. That I'm willing to fight for those who cannot fight for themselves' -- not the simple-present 'I fight' stored here. Downgraded pending a primary-transcript check to settle the exact wording; not rewritten since sources vary between 'will fight' and 'willing to fight'.",
+      "tags": [
+        "service",
+        "justice",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -174,6 +234,11 @@
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
       "notes": "Diana's response to Ares. Love as a philosophy distinguishes Wonder Woman from other DC heroes.",
+      "tags": [
+        "love",
+        "faith",
+        "choice"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -185,6 +250,11 @@
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
       "notes": "Closing narration reflecting on Diana's disillusionment. Wraps up her journey in the film. 2026-09-04 audit: restored the dropped middle sentence ('To end war and bring peace to mankind.'), confirmed via multiple convergent independent transcriptions of the full closing monologue; the stored two-sentence version spliced together non-adjacent lines. Also corrected 'Opening' to 'Closing' in these notes -- this line closes the film, it doesn't open it.",
+      "tags": [
+        "sin",
+        "compassion",
+        "change"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -196,6 +266,11 @@
       "quoteDate": "2017-06-02",
       "verificationStatus": "unverified",
       "notes": "Hippolyta describing Amazon warrior standards. Establishes the culture Diana was raised in. 2026-09-03 audit: couldn't find this line in independent sourcing of the film. The only 'fiercest' line found is Hippolyta telling young Diana she cannot wield the God Killer sword ('only the fiercest among us even could... and that's not you, Diana'), a different scene and point. Downgraded pending primary-transcript confirmation; content not rewritten since no confirmed correct replacement text was found.",
+      "tags": [
+        "courage",
+        "excellence",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -207,6 +282,11 @@
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
       "notes": "Batman's threat to Superman during their first confrontation. Became a trailer highlight.",
+      "tags": [
+        "fear",
+        "power",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -218,6 +298,11 @@
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
       "notes": "Bruce's paranoid logic about Superman. Shows his post-trauma mindset after Metropolis. 2026-09-03 audit: restored 'we believe' (was flattened to an objective claim, 'If there is...') and the line's actual conclusion, 'And we have to destroy him,' which the stored text dropped -- that clause is the point of the line (Bruce's justification for a pre-emptive strike), not incidental, per the pattern already fixed in dc-010.",
+      "tags": [
+        "fear",
+        "power",
+        "warning"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -229,6 +314,11 @@
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
       "notes": "Media commentary on Superman's polarizing presence. Reflects real-world debates about power and accountability.",
+      "tags": [
+        "power",
+        "politics",
+        "questions"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -240,6 +330,7 @@
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
       "notes": "This Batman's self-identification. The film explores how this identity limits him until he becomes hope.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -251,6 +342,11 @@
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
       "notes": "Opening narration explaining Batman's psychological warfare approach. Sets the film's noir tone. 2026-09-03 audit: the two sentences were stored in reverse order from the monologue -- the film says the Bat-Signal line first, then 'Fear is a tool,' which leads into 'They think I'm hiding in the shadows. But I am the shadows.' Reordered to match.",
+      "tags": [
+        "fear",
+        "power",
+        "warning"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -262,6 +358,7 @@
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
       "notes": "Selina's playful acknowledgment of their partnership. Hints at their comic book romance. 2026-09-04 audit: corrected 'It has' to \"It's got\", confirmed via multiple independent sources quoting the line verbatim (including outlets using it as an article headline).",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -273,6 +370,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Arthur's journal entry about his mental state. Phoenix won the Oscar for his portrayal of mental illness.",
+      "tags": [
+        "despair",
+        "confession",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -284,6 +386,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Arthur's observation to his social worker. Reflects societal breakdown as a theme.",
+      "tags": [
+        "anxiety",
+        "questions",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -295,6 +402,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Arthur's journal entry about societal expectations. Resonated with mental health advocacy discussions.",
+      "tags": [
+        "suffering",
+        "anxiety",
+        "confession"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -306,6 +418,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Arthur's transformation moment. Marks his full embrace of the Joker identity.",
+      "tags": [
+        "despair",
+        "identity",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -317,6 +434,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Joker's declaration during the climactic talk show scene. The film's most shocking moment.",
+      "tags": [
+        "anger",
+        "justice",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -328,6 +450,11 @@
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
       "notes": "Arthur explaining his forced positivity. His mother's advice becomes tragically ironic.",
+      "tags": [
+        "shame",
+        "family",
+        "confession"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -339,6 +466,7 @@
       "quoteDate": "2018-12-21",
       "verificationStatus": "unverified",
       "notes": "Arthur claiming his birthright. Momoa's portrayal reinvented Aquaman for modern audiences. 2026-09-04 audit: could not confirm Arthur speaks this exact line in the 2018 film -- available dialogue from the climax has Nereus and others proclaiming him king ('Then that half-breed is your king'), not Arthur declaring it himself in these words; a very similar line ('I am the King of Atlantis') is confirmed spoken by Arthur in the 2023 sequel. Downgraded pending primary-transcript confirmation; content not rewritten since no single confirmed-correct wording was found for the 2018 film specifically.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -350,6 +478,7 @@
       "quoteDate": "2018-12-21",
       "verificationStatus": "verified",
       "notes": "Arthur's quip arriving at a submarine. Shows his irreverent humor.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -361,6 +490,7 @@
       "quoteDate": "2017-11-17",
       "verificationStatus": "verified",
       "notes": "Barry awkwardly introducing himself to Commissioner Gordon. Comic relief in the team's first assembly.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -372,6 +502,7 @@
       "quoteDate": "1980-12-04",
       "verificationStatus": "verified",
       "notes": "Zod's demand for submission. Became one of the most quoted villain lines in superhero cinema.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -383,6 +514,11 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "notes": "The Yellow Lantern oath, counterpart to the Green Lantern oath. Fear-based power source. The Sinestro Corps oath was introduced in DC's 2007 Sinestro Corps War storyline (Green Lantern: Sinestro Corps Special and Green Lantern vol. 4 #21-25).",
+      "tags": [
+        "fear",
+        "power",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -394,6 +530,11 @@
       "quoteDate": "1959",
       "verificationStatus": "verified",
       "notes": "The iconic Green Lantern oath, first appeared in Green Lantern #9 (1959). Recited when charging power rings.",
+      "tags": [
+        "justice",
+        "courage",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
