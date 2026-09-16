@@ -20,6 +20,12 @@
       "quoteDate": "1813-01-28",
       "verificationStatus": "verified",
       "notes": "Opening line of the novel. One of the most famous first lines in English literature, establishing the novel's ironic tone.",
+      "tags": [
+        "marriage",
+        "money",
+        "satire",
+        "wit"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -31,6 +37,11 @@
       "quoteDate": "1877",
       "verificationStatus": "verified",
       "notes": "Opening line of the novel. Known as the 'Anna Karenina principle' in fields from evolutionary biology to business.",
+      "tags": [
+        "family",
+        "happiness",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -42,6 +53,11 @@
       "quoteDate": "1859",
       "verificationStatus": "verified",
       "notes": "Opening line of the novel set during the French Revolution. The full first sentence continues for 119 words.",
+      "tags": [
+        "history",
+        "change",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -53,6 +69,11 @@
       "quoteDate": "1925-04-10",
       "verificationStatus": "verified",
       "notes": "The novel's famous closing line. Encapsulates the theme of pursuing an unattainable dream.",
+      "tags": [
+        "memory",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -64,6 +85,11 @@
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "notes": "Gandalf's words to Frodo in Moria. One of the most quoted passages from The Lord of the Rings.",
+      "tags": [
+        "time",
+        "choice",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -75,6 +101,11 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "notes": "Dumbledore's words to Harry in the Chamber of Secrets. A central theme of the Harry Potter series.",
+      "tags": [
+        "choice",
+        "identity",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -86,6 +117,11 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "notes": "Catherine Earnshaw speaking about Heathcliff. Expresses the intense, almost supernatural connection between them.",
+      "tags": [
+        "love",
+        "identity",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -97,6 +133,11 @@
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
       "notes": "Beginning of Hamlet's famous soliloquy on existence. Perhaps the most famous line in English literature.",
+      "tags": [
+        "mortality",
+        "questions",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -108,6 +149,7 @@
       "quoteDate": "1851",
       "verificationStatus": "verified",
       "notes": "Opening line of the novel. One of literature's most recognizable first lines, establishing the narrator's identity.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -119,6 +161,7 @@
       "quoteDate": "1949-06-08",
       "verificationStatus": "verified",
       "notes": "Opening line immediately signals a world where things are not as they should be. The 13-hour clock suggests totalitarian control.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -130,6 +173,11 @@
       "quoteDate": "1925-04-10",
       "verificationStatus": "verified",
       "notes": "Opening line introducing Nick Carraway as narrator. Sets up the novel's themes of judgment and moral complexity.",
+      "tags": [
+        "memory",
+        "parenthood",
+        "aging"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -141,6 +189,11 @@
       "quoteDate": "1945",
       "verificationStatus": "verified",
       "notes": "The pigs' final corruption of the original Seven Commandments. A satirical critique of Soviet communism.",
+      "tags": [
+        "equality",
+        "power",
+        "satire"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -152,6 +205,11 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "notes": "From Jean Valjean's reflections near the novel's end. Expresses the theme of redemption through living fully.",
+      "tags": [
+        "mortality",
+        "meaning",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -163,6 +221,11 @@
       "quoteDate": "1969",
       "verificationStatus": "verified",
       "notes": "From Angelou's autobiography about her childhood. Reflects the importance of voice and storytelling in healing.",
+      "tags": [
+        "writing",
+        "suffering",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -174,6 +237,11 @@
       "quoteDate": "1942",
       "verificationStatus": "verified",
       "notes": "Concluding line of Camus' philosophical essay. Suggests finding meaning in struggle despite absurdity.",
+      "tags": [
+        "meaning",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -185,6 +253,11 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "Esther Greenwood's moment of reconnection with life. Represents recovery and the persistence of being.",
+      "tags": [
+        "identity",
+        "resilience",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -196,6 +269,11 @@
       "quoteDate": "1944-07-15",
       "verificationStatus": "verified",
       "notes": "Written while hiding from the Nazis. Remarkable optimism given her circumstances; she died in Bergen-Belsen.",
+      "tags": [
+        "hope",
+        "compassion",
+        "adversity"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -207,6 +285,11 @@
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "notes": "From the poem 'All that is gold does not glitter' about Aragorn. Often quoted independently of the novel.",
+      "tags": [
+        "travel",
+        "authenticity",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -218,6 +301,11 @@
       "quoteDate": "1818",
       "verificationStatus": "verified",
       "notes": "The creature's words to Victor Frankenstein. Warns of the danger of creating something one cannot control.",
+      "tags": [
+        "fear",
+        "power",
+        "defiance"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -229,6 +317,11 @@
       "quoteDate": "1949-06-08",
       "verificationStatus": "verified",
       "notes": "Party slogan in the novel. Describes how totalitarian regimes manipulate historical truth.",
+      "tags": [
+        "power",
+        "history",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -240,6 +333,11 @@
       "quoteDate": "2005",
       "verificationStatus": "verified",
       "notes": "Central theme of the novel. The labyrinth question is taken from Gabriel García Márquez's 'The General in His Labyrinth.'",
+      "tags": [
+        "forgiveness",
+        "suffering",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -251,6 +349,11 @@
       "quoteDate": "1936",
       "verificationStatus": "verified",
       "notes": "Scarlett O'Hara's famous closing declaration. Represents resilience and hope despite loss.",
+      "tags": [
+        "hope",
+        "resilience",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -262,6 +365,11 @@
       "quoteDate": "1892",
       "verificationStatus": "verified",
       "notes": "Lord Darlington's line in the play. One of Wilde's most quoted aphorisms about aspiration despite circumstances.",
+      "tags": [
+        "hope",
+        "wonder",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -273,6 +381,11 @@
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
       "notes": "Hamlet to Rosencrantz and Guildenstern. An early expression of cognitive philosophy about perception and reality.",
+      "tags": [
+        "choice",
+        "truth",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -284,6 +397,7 @@
       "quoteDate": "c. 1610",
       "verificationStatus": "verified",
       "notes": "Miranda's line 'O brave new world, that has such people in't!' Huxley used it ironically as his 1932 novel title.",
+      "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -295,6 +409,10 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "notes": "Jane's direct address to the reader announcing her marriage to Rochester. Iconic for its simple directness.",
+      "tags": [
+        "marriage",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -306,6 +424,11 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "notes": "Dumbledore's line from the film script by Steve Kloves, not the original novel. Widely attributed to J. K. Rowling but originated in the screenplay.",
+      "tags": [
+        "happiness",
+        "hope",
+        "hard-times"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -317,6 +440,11 @@
       "quoteDate": "1951",
       "verificationStatus": "verified",
       "notes": "Gavin Stevens' line. Reflects Faulkner's recurring theme of history's persistent influence on the present.",
+      "tags": [
+        "history",
+        "memory",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -328,6 +456,11 @@
       "quoteDate": "1883",
       "verificationStatus": "verified",
       "notes": "From Zarathustra's discourses. Explores the irrational nature of love while acknowledging its internal logic.",
+      "tags": [
+        "love",
+        "paradox",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -339,6 +472,11 @@
       "quoteDate": "1929",
       "verificationStatus": "verified",
       "notes": "Narrator Frederic Henry's reflection on suffering and resilience; the 1929 Scribner's first edition spells 'every one' as two words, modernized here per common transcription convention.",
+      "tags": [
+        "resilience",
+        "suffering",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -350,6 +488,11 @@
       "quoteDate": "1937",
       "verificationStatus": "verified",
       "notes": "Introduces young Janie's questioning of what marriage owes her; distinct from the novel's famous opening line already in the first-lines collection.",
+      "tags": [
+        "time",
+        "questions",
+        "aphorism"
+      ],
       "addedAt": "2026-07-30T12:00:00Z"
     }
   ]
