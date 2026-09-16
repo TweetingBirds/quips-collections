@@ -16,6 +16,13 @@
     "colorDarkHex": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$", "description": "Dark-appearance hex for colorName's Palette 2.0 token." },
     "iconName": { "type": "string" },
     "category": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "maxItems": 8,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "description": "Optional: the slugs most characteristic of this collection as a whole, for browse-by-tag. Not consumed by import, which reads each quote's own tags."
+    },
     "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$", "description": "ISO-8601 UTC timestamp of when this collection first entered the dataset. Powers recency-based dynamic collections (e.g. Recently Added)." },
     "lastUpdated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$" },
     "quotes": {
@@ -48,6 +55,13 @@
           ]
         },
         "quoteDate": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "maxItems": 6,
+          "uniqueItems": true,
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Controlled-vocabulary tag slugs from schema/tags.json, ordered most-specific-first. The ordering is the ranking: bulk import applies only the leading few, so put the tag that most distinguishes this quote first. At least one must be a 'theme' tag. validate_collections.py rejects unknown slugs."
+        },
         "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$", "description": "ISO-8601 UTC timestamp of when this quote was added to the dataset. A quote added with its collection shares the collection's addedAt." }
       }
     }

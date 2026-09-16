@@ -20,6 +20,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The old man hands Link his first sword in the opening cave; one of gaming's most-quoted lines.",
+      "tags": [
+        "generosity",
+        "beginnings",
+        "warning",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +48,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Deku Tree describes Link's destiny as he sends Navi to summon the young hero.",
+      "tags": [
+        "destiny",
+        "purpose",
+        "justice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +75,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Sheik reflects on time and memory as Link awakens seven years into the future.",
+      "tags": [
+        "time",
+        "impermanence",
+        "aphorism",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +92,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "One of Sheik's meditations on growth and change delivered before teaching a song.",
+      "tags": [
+        "time",
+        "change",
+        "impermanence",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +109,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Happy Mask Salesman greets a transformed Link with the game's most iconic line.",
+      "tags": [
+        "destiny",
+        "adversity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +125,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Salesman's parting words to Link after reclaiming Majora's Mask.",
+      "tags": [
+        "endings",
+        "impermanence",
+        "farewell",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +142,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Ganondorf's wind monologue explaining his longing for Hyrule's land near the game's climax.",
+      "tags": [
+        "longing",
+        "home",
+        "suffering",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +159,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Ganondorf's final words as he is turned to stone at the end of the game.",
+      "tags": [
+        "endings",
+        "mortality",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +175,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The King of Red Lions makes his wish on the Triforce for the next generation's future.",
+      "tags": [
+        "hope",
+        "legacy",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +191,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Zelda explains the bond between the light and twilight realms to Midna.",
+      "tags": [
+        "wisdom",
+        "paradox",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +207,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Midna's tearful farewell before shattering the Mirror of Twilight.",
+      "tags": [
+        "friendship",
+        "endings",
+        "farewell",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +224,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Demon Lord Ghirahim introduces himself to Link with flamboyant menace.",
+      "tags": [
+        "pride",
+        "power",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +240,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The sword spirit Fi's parting words before entering an eternal sleep within the Master Sword.",
+      "tags": [
+        "gratitude",
+        "endings",
+        "farewell",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +257,10 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Zelda's voice awakens Link in the Shrine of Resurrection as the game opens.",
+      "tags": [
+        "beginnings",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +272,12 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The spirit of King Rhoam reassures a memory-less Link on the Great Plateau.",
+      "tags": [
+        "courage",
+        "memory",
+        "legacy",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +289,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "King Rhoam charges Link with defeating Calamity Ganon and rescuing Zelda.",
+      "tags": [
+        "destiny",
+        "purpose",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +305,10 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Zelda, a devoted researcher, describes the fragile silent princess flower in a recovered memory.",
+      "tags": [
+        "nature",
+        "earth"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +320,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Demon King Ganondorf taunts Link after breaking the Master Sword in the prologue.",
+      "tags": [
+        "power",
+        "warning",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
