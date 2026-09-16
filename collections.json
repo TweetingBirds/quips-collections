@@ -1003,6 +1003,26 @@
       "bytes": 16567
     },
     {
+      "id": "hanukkah",
+      "name": "Hanukkah",
+      "description": "Light, dedication, and stubborn hope — the Festival of Lights from the Maccabees to the candle in the window.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Not by might, nor by power, but by My spirit, saith the LORD of hosts.",
+        "It is not on the size of the army that victory in battle depends, but strength comes from Heaven."
+      ],
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
+      "iconName": "flame.fill",
+      "category": "Faith",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-YfelmtBa8/sgnH7XLgo4PRDbdwarocCkE/i0dQ24xt0=",
+      "bytes": 17524
+    },
+    {
       "id": "sikh-wisdom",
       "name": "Sikh Wisdom",
       "description": "Teachings of the Gurus on devotion, equality, and honest living from the Guru Granth Sahib.",
@@ -1221,6 +1241,26 @@
       "lastUpdated": "2026-08-13T12:00:00Z",
       "contentHash": "sha256-/+BQN9CBC/s+6cl4Y9d+60xTZ+s0LvG2rJhsgfZE3d0=",
       "bytes": 18273
+    },
+    {
+      "id": "civic-life-democracy",
+      "name": "Civic Life & Democracy",
+      "description": "The vote, the jury, the town meeting, the dissent — voices on the daily work of governing ourselves.",
+      "author": "Quips Editorial",
+      "quoteCount": 35,
+      "previewQuotes": [
+        "The spirit of liberty is the spirit which is not too sure that it is right.",
+        "Do not obey in advance. Most of the power of authoritarianism is freely given."
+      ],
+      "colorName": "sky",
+      "colorLightHex": "#1F9ED4",
+      "colorDarkHex": "#45C2FC",
+      "iconName": "building.columns.fill",
+      "category": "History & Speeches",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-qGSL5u/ehVzE8FC4bxKGEOnfz98pQ1Ky69bLC+Gj9Ko=",
+      "bytes": 22659
     },
     {
       "id": "cosmos-space",
