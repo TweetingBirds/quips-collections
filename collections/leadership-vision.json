@@ -20,6 +20,11 @@
       "quoteDate": "1994-01-01",
       "verificationStatus": "verified",
       "notes": "Mandela recalls the axiom of the Thembu regent Jongintaba in his autobiography; the quoteDate reflects the book's publication year, not a precise day.",
+      "tags": [
+        "humility",
+        "leadership",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -31,6 +36,11 @@
       "quoteDate": "1957-11-14",
       "verificationStatus": "verified",
       "notes": "Eisenhower framed it as an old Army maxim he had heard, illustrating that the discipline of planning outlasts any single plan.",
+      "tags": [
+        "work",
+        "paradox",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -42,6 +52,11 @@
       "quoteDate": "1943-09-06",
       "verificationStatus": "verified",
       "notes": "From Churchill's wartime speech receiving an honorary degree at Harvard, urging Anglo-American shared duty.",
+      "tags": [
+        "honor",
+        "leadership",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -53,6 +68,11 @@
       "quoteDate": "1963-11-22",
       "verificationStatus": "verified",
       "notes": "From the address Kennedy was to give the day he was assassinated; the text was released though never spoken.",
+      "tags": [
+        "learning",
+        "leadership",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -64,6 +84,11 @@
       "quoteDate": "1990-01-01",
       "verificationStatus": "verified",
       "notes": "Senge's definition of shared vision as a felt commitment rather than a slogan; quoteDate reflects publication year.",
+      "tags": [
+        "purpose",
+        "community",
+        "leadership"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -75,6 +100,11 @@
       "quoteDate": "1989-01-01",
       "verificationStatus": "verified",
       "notes": "The opening frame of the former Herman Miller chairman's book on leadership as stewardship; quoteDate reflects publication year.",
+      "tags": [
+        "truth",
+        "gratitude",
+        "leadership"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -86,6 +116,11 @@
       "quoteDate": "1970-01-01",
       "verificationStatus": "verified",
       "notes": "The founding statement of the servant-leadership movement, from Greenleaf's original essay; quoteDate reflects publication year.",
+      "tags": [
+        "service",
+        "leadership",
+        "humility"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -97,6 +132,11 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "attributed",
       "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations. Date reflects the traditional composition period of the Tao Te Ching.",
+      "tags": [
+        "humility",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -108,6 +148,11 @@
       "quoteDate": "c. 1985",
       "verificationStatus": "attributed",
       "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text. Date is estimated from the earliest documented printing, Warren Bennis and Burt Nanus's Leaders (1985), p. 21; the underlying distinction goes back to Drucker's The Effective Executive (1967).",
+      "tags": [
+        "integrity",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -119,6 +164,11 @@
       "quoteDate": "c. 1950s",
       "verificationStatus": "attributed",
       "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented. Date is a broad estimate spanning Eisenhower's presidency, when the remark is usually placed, not a documented one.",
+      "tags": [
+        "leadership",
+        "craft",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -130,6 +180,11 @@
       "quoteDate": "1995-01-01",
       "verificationStatus": "attributed",
       "notes": "Drawn from Powell's memoir and later leadership talks; wording varies slightly across retellings, so marked attributed.",
+      "tags": [
+        "leadership",
+        "honesty",
+        "warning"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -141,6 +196,11 @@
       "quoteDate": "c. 1985",
       "verificationStatus": "attributed",
       "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page. Date is a broad estimate from Bennis's leadership books beginning with Leaders (1985), not a documented one.",
+      "tags": [
+        "leadership",
+        "purpose",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -152,6 +212,11 @@
       "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
       "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established. Date is a broad estimate from Carter's post-White House speaking and writing, not a documented one.",
+      "tags": [
+        "leadership",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -163,6 +228,11 @@
       "quoteDate": "c. 2005",
       "verificationStatus": "attributed",
       "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text. Date is a broad estimate from Welch's book Winning (2005) and the talks around it, not a documented one.",
+      "tags": [
+        "teaching",
+        "leadership",
+        "success"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -174,6 +244,11 @@
       "quoteDate": "2014-01-01",
       "verificationStatus": "attributed",
       "notes": "A signature Sinek theme expressed across his book and talks; exact phrasing varies, so marked attributed.",
+      "tags": [
+        "service",
+        "leadership",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -185,6 +260,11 @@
       "quoteDate": "c. 1900s",
       "verificationStatus": "attributed",
       "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here. Date is a broad estimate spanning Roosevelt's presidency, not a documented one.",
+      "tags": [
+        "self-control",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -196,6 +276,11 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "attributed",
       "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page. Date is a broad estimate from Maxwell's The 21 Irrefutable Laws of Leadership (1998) and the talks around it, not a documented one.",
+      "tags": [
+        "leadership",
+        "integrity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -207,6 +292,11 @@
       "quoteDate": "c. 1982",
       "verificationStatus": "attributed",
       "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies. Date is estimated from the earliest documented appearances of Hopper making this distinction in the early 1980s; it was printed in the OCLC Newsletter in 1987.",
+      "tags": [
+        "leadership",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -218,6 +308,11 @@
       "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
       "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented. Date is a broad estimate spanning Reagan's presidency, not a documented one.",
+      "tags": [
+        "leadership",
+        "humility",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -229,6 +324,11 @@
       "quoteDate": "c. 2000s",
       "verificationStatus": "attributed",
       "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source. Date is a broad estimate from the period of Blanchard's books and talks, not a documented one.",
+      "tags": [
+        "power",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -240,6 +340,11 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
       "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people. Date is estimated from the decade in which this exact wording circulated widely; Truman was first credited only in 1988, and the idea traces to a 19th-century saying.",
+      "tags": [
+        "humility",
+        "teamwork",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -251,6 +356,11 @@
       "quoteDate": "c. 1948",
       "verificationStatus": "unverified",
       "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle. Date reflects the posthumous publication of Citadelle in 1948, from which the sentiment derives.",
+      "tags": [
+        "longing",
+        "purpose",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -262,6 +372,11 @@
       "quoteDate": "c. 1883",
       "verificationStatus": "unverified",
       "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution. Date is estimated from the earliest documented appearance, Robert G. Ingersoll's Washington address of 16 January 1883, where he said it about Lincoln; the Lincoln ascription appears only by 1931.",
+      "tags": [
+        "power",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -273,6 +388,11 @@
       "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
       "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source. The century is a broad estimate for the line's modern circulation, not a documented date.",
+      "tags": [
+        "leadership",
+        "teaching",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -284,6 +404,11 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text. Date is a broad estimate from the period of Nader's public statements on leadership, not a documented one.",
+      "tags": [
+        "teaching",
+        "leadership",
+        "legacy"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -295,6 +420,11 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established. Date is a broad estimate from the decade in which Gates was writing and speaking about the coming century, not a documented one.",
+      "tags": [
+        "leadership",
+        "service",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -306,6 +436,11 @@
       "quoteDate": "1967",
       "verificationStatus": "verified",
       "notes": "Verified in chapter 4, where the sentence opens 'Ultimately a genuine leader is not a searcher for consensus but a molder of consensus.'",
+      "tags": [
+        "leadership",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -317,6 +452,11 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
       "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript. Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
+      "tags": [
+        "effort",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -328,6 +468,11 @@
       "quoteDate": "c. 1975",
       "verificationStatus": "attributed",
       "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain. Date is estimated from the earliest documented appearance, an October 1975 Fairbanks Daily News-Miner item crediting the union leader Jesse Carr; Thatcher repeated it by 1988.",
+      "tags": [
+        "power",
+        "humility",
+        "wit"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -339,6 +484,11 @@
       "quoteDate": "c. 2000s",
       "verificationStatus": "attributed",
       "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript. Date is a broad estimate spanning Nooyi's years leading PepsiCo, when she gave the interviews it comes from, not a documented one.",
+      "tags": [
+        "leadership",
+        "loyalty",
+        "confession"
+      ],
       "addedAt": "2026-07-01T01:53:56Z"
     }
   ]
