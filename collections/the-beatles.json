@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Lennon's cheeky aside to the royal box before the Beatles' closing number, preserved on the broadcast recording.",
+      "tags": [
+        "equality",
+        "wit",
+        "satire"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo's deadpan reply when a reporter asked what he thought of Beethoven, captured on the filmed press conference.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +48,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon's response to a reporter who called the Beatles nothing but a bunch of British Elvis Presleys.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +60,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon answering a reporter who suggested there was some doubt the group could actually sing.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +72,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo replying to the question of how many of the Beatles were bald and had to wear wigs.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +84,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "George's answer when asked whether he was going to get a haircut while in America.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +96,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Paul's comeback after being told Detroit fans were handing out 'Stamp Out The Beatles' stickers.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +108,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo asked what the Beatles' music does for their fans.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +120,7 @@
       "verificationStatus": "unverified",
       "sourceType": "interview",
       "notes": "Widely told reply to 'How did you find America?', but authorship is disputed (George also recounted the exchange as a group gag) — attribution axis unverified.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +132,11 @@
       "verificationStatus": "unverified",
       "sourceType": "interview",
       "notes": "Frequently quoted Lennon reaction to the MBE, but exact wording survives only through aggregators — wording axis unverified.",
+      "tags": [
+        "honor",
+        "wit",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +148,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon's quip about the band still enjoying their fame during the 1965 North American tour.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +160,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Paul brushing off persistent press speculation about his marriage plans.",
+      "tags": [
+        "truth",
+        "wit",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +176,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo on the tedium of touring life during the 1965 tour.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +188,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo answering a reporter who asked why he always looked so sad.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +200,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "George making light of how little he had contributed to the Beatles' songwriting at that point.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo joking about his own songwriting output alongside Lennon and McCartney.",
+      "tags": [
+        "craft",
+        "humor",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +228,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon describing the palace rehearsal before the group met the Queen to collect their MBEs.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +240,7 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Ringo's throwaway answer, recounted at the press conference, when the Queen asked how long the Beatles had been together.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +252,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "The full 'more popular than Jesus' passage in context; Cleave noted Lennon was observing Christianity's decline, not boasting.",
+      "tags": [
+        "faith",
+        "change",
+        "dissent"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +268,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon's public clarification at the start of the 1966 US tour after the Jesus remark caused an uproar.",
+      "tags": [
+        "humility",
+        "faith",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +284,11 @@
       "verificationStatus": "unverified",
       "sourceType": "interview",
       "notes": "Consistently attributed to a 1974 interview, but no primary transcript located to confirm exact wording — source axis unverified.",
+      "tags": [
+        "friendship",
+        "blunt",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +300,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Harrison distinguishing his private self from the public 'Beatle George' persona in his memoir.",
+      "tags": [
+        "identity",
+        "authenticity",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +316,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Lennon on self-reliance, from his last major interview, published shortly before his death.",
+      "tags": [
+        "authenticity",
+        "dissent",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +332,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "McCartney debunking the notion that he and Lennon wrote songs free of any thought of earning a living.",
+      "tags": [
+        "money",
+        "honesty",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +348,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "McCartney recounting the dream of his late mother Mary that inspired the title of a song — his description of the dream, not the lyric.",
+      "tags": [
+        "grief",
+        "hope",
+        "family"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +364,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Family said Harrison 'often said' this, but it traces to no single documented interview or text — source axis unverified.",
+      "tags": [
+        "faith",
+        "compassion",
+        "purpose"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

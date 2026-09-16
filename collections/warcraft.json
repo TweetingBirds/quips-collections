@@ -20,6 +20,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Orc Peon's weary reply when ordered to gather resources.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -31,6 +32,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Orcish for rough agreement — the Peon's acknowledgment, a series-long catchphrase.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -42,6 +44,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Human Peasant's line on finishing a task.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -53,6 +56,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Human Peasant's selection response.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -64,6 +68,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Orc Peon's selection line.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -75,6 +80,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "One of the Peon's joking repeated-click lines.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -86,6 +92,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Orcish for 'I obey' — the Grunt's order acknowledgment.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -97,6 +104,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Human Peasant's exasperated reply after too many clicks.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -108,6 +116,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Orcish war cry meaning 'Victory or death,' the rallying motto of the Horde.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -119,6 +128,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Horde's defining battle cry across the Warcraft series.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -130,6 +140,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Human Footman's charge, naming the kingdom of Lordaeron.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -141,6 +152,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Human Footman's selection response.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -152,6 +164,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Illidan's warning, later immortalized in the World of Warcraft: The Burning Crusade trailer.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -163,6 +176,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Death Knight Arthas speaking of the cursed runeblade Frostmourne.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -174,6 +188,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Goblin greeting that sums up their profit-driven outlook.",
+      "tags": [
+        "money",
+        "time",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -185,6 +204,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The candle-headed Kobold's frantic protest, a beloved early-game meme.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -196,6 +216,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The gurgling battle cry of the Murlocs, an instantly recognizable Warcraft sound.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -207,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Uther refusing Prince Arthas's order to purge Stratholme.",
+      "tags": [
+        "defiance",
+        "honor",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -218,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Arthas, corrupted by Frostmourne, returning to Lordaeron to kill his father.",
+      "tags": [
+        "power",
+        "ambition",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -229,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The dreadlord Mal'Ganis luring Arthas toward his doom in the frozen north.",
+      "tags": [
+        "destiny",
+        "beginnings",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     }
   ]
