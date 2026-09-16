@@ -1,0 +1,1580 @@
+{
+  "note": "Controlled tag vocabulary for per-quote tags. A quote's `tags` array holds these slugs, ordered most-specific-first; `scripts/validate_collections.py` rejects anything not listed here. `displayName` and `colorName` are what the app creates the tag as — without them an imported library mixes Title Case category tags with raw slugs in random colors. `useWhen` draws the boundary against the nearest neighbouring tag; read it before tagging. `avoid` lists spellings that must NOT be introduced as new tags — the validator points at this entry instead. An empty `tags: []` is not the same as no `tags` key: it records that the quote was read and deliberately left untagged, which is the honest outcome for a line famous for being iconic rather than for being about anything. Absent means the pass has not reached it yet.",
+  "version": 3,
+  "facets": {
+    "theme": "What the quote is about. Every tagged quote needs at least one.",
+    "occasion": "When you would actually reach for it. A claim about use, not topic.",
+    "tone": "How it reads, and its form."
+  },
+  "budget": {
+    "target": "3-5 tags per quote",
+    "max": 6,
+    "note": "The app's QuoteValidator.maxTagsPerQuote is 8 and the imported category tag takes one slot; 6 leaves headroom for a user's own tags."
+  },
+  "tags": [
+    {
+      "slug": "authenticity",
+      "displayName": "Authenticity",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Being yourself rather than a performance.",
+      "avoid": [
+        "individuality",
+        "nonconformity"
+      ]
+    },
+    {
+      "slug": "choice",
+      "displayName": "Choice",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "That you get to decide, and that deciding is unavoidable.",
+      "avoid": [
+        "decision",
+        "free-will"
+      ]
+    },
+    {
+      "slug": "destiny",
+      "displayName": "Destiny",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Fate and providence — whether the path was set.",
+      "avoid": [
+        "fate",
+        "providence"
+      ]
+    },
+    {
+      "slug": "freedom",
+      "displayName": "Freedom",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Being unconstrained — political or personal.",
+      "avoid": [
+        "liberty"
+      ]
+    },
+    {
+      "slug": "happiness",
+      "displayName": "Happiness",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Sustained well-being, and whether it can be pursued directly. A moment of it is joy."
+    },
+    {
+      "slug": "identity",
+      "displayName": "Identity",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Who you are — including who others take you to be.",
+      "avoid": [
+        "self"
+      ]
+    },
+    {
+      "slug": "meaning",
+      "displayName": "Meaning",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Whether life has any, and where it is found.",
+      "avoid": [
+        "existence"
+      ]
+    },
+    {
+      "slug": "purpose",
+      "displayName": "Purpose",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Having something to aim at.",
+      "avoid": [
+        "calling",
+        "vocation"
+      ]
+    },
+    {
+      "slug": "self-knowledge",
+      "displayName": "Self-Knowledge",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Seeing yourself accurately.",
+      "avoid": [
+        "introspection",
+        "self-awareness"
+      ]
+    },
+    {
+      "slug": "simplicity",
+      "displayName": "Simplicity",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Less, on purpose.",
+      "avoid": [
+        "minimalism"
+      ]
+    },
+    {
+      "slug": "ambition",
+      "displayName": "Ambition",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Wanting more, and where that leads.",
+      "avoid": [
+        "drive"
+      ]
+    },
+    {
+      "slug": "competition",
+      "displayName": "Competition",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Facing an opponent, and what that brings out.",
+      "avoid": [
+        "rivalry",
+        "winning"
+      ]
+    },
+    {
+      "slug": "craft",
+      "displayName": "Craft",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Skill built by repetition — making a thing well.",
+      "avoid": [
+        "skill",
+        "mastery",
+        "craftsmanship"
+      ]
+    },
+    {
+      "slug": "discipline",
+      "displayName": "Discipline",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Showing up regardless of feeling. Resisting an appetite is self-control."
+    },
+    {
+      "slug": "excellence",
+      "displayName": "Excellence",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "The standard itself: doing it right, refusing less.",
+      "avoid": [
+        "quality"
+      ]
+    },
+    {
+      "slug": "leadership",
+      "displayName": "Leadership",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Leading others — the responsibility, not the rank."
+    },
+    {
+      "slug": "money",
+      "displayName": "Money",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Wealth, poverty, and what money does to people.",
+      "avoid": [
+        "wealth",
+        "finance",
+        "investing"
+      ]
+    },
+    {
+      "slug": "risk",
+      "displayName": "Risk",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Staking something on an uncertain outcome.",
+      "avoid": [
+        "gamble"
+      ]
+    },
+    {
+      "slug": "sport",
+      "displayName": "Sport",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Athletics as the subject. Not merely a quote *said by* an athlete — the quote must be about sport.",
+      "avoid": [
+        "sports",
+        "athletics"
+      ]
+    },
+    {
+      "slug": "success",
+      "displayName": "Success",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Reaching what you aimed at, and what it turns out to be worth.",
+      "avoid": [
+        "achievement"
+      ]
+    },
+    {
+      "slug": "teamwork",
+      "displayName": "Teamwork",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Working as part of a team.",
+      "avoid": [
+        "collaboration"
+      ]
+    },
+    {
+      "slug": "work",
+      "displayName": "Work",
+      "facet": "theme",
+      "colorName": "blue",
+      "useWhen": "Labour itself — the doing of it, its dignity or its grind.",
+      "avoid": [
+        "job",
+        "labor"
+      ]
+    },
+    {
+      "slug": "animals",
+      "displayName": "Animals",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "Creatures, wild or domestic.",
+      "avoid": [
+        "dogs",
+        "cats"
+      ]
+    },
+    {
+      "slug": "earth",
+      "displayName": "Earth",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "The planet as a whole — stewardship and its fragility. The world as encountered is nature.",
+      "avoid": [
+        "environment",
+        "climate"
+      ]
+    },
+    {
+      "slug": "home",
+      "displayName": "Home",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "The place you belong and return to."
+    },
+    {
+      "slug": "nature",
+      "displayName": "Nature",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "The natural world as encountered — its beauty and its indifference.",
+      "avoid": [
+        "outdoors"
+      ]
+    },
+    {
+      "slug": "seasons",
+      "displayName": "Seasons",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "Spring, summer, autumn, winter — as the subject.",
+      "avoid": [
+        "weather",
+        "spring",
+        "winter"
+      ]
+    },
+    {
+      "slug": "the-cosmos",
+      "displayName": "The Cosmos",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "Stars, space, and the scale of the universe.",
+      "avoid": [
+        "space",
+        "stars",
+        "universe"
+      ]
+    },
+    {
+      "slug": "travel",
+      "displayName": "Travel",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "Going somewhere — journeys, roads, being far from home.",
+      "avoid": [
+        "journey",
+        "adventure"
+      ]
+    },
+    {
+      "slug": "wilderness",
+      "displayName": "Wilderness",
+      "facet": "theme",
+      "colorName": "green",
+      "useWhen": "Wild, unmanaged land, and the case for leaving it so.",
+      "avoid": [
+        "wild"
+      ]
+    },
+    {
+      "slug": "aging",
+      "displayName": "Aging",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Growing older, and youth seen from later on.",
+      "avoid": [
+        "old-age",
+        "youth"
+      ]
+    },
+    {
+      "slug": "beginnings",
+      "displayName": "Beginnings",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Starting — a first day, a first step.",
+      "avoid": [
+        "new-starts"
+      ]
+    },
+    {
+      "slug": "change",
+      "displayName": "Change",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Things becoming other than they were.",
+      "avoid": [
+        "transformation"
+      ]
+    },
+    {
+      "slug": "endings",
+      "displayName": "Endings",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Finishing, leaving, the last of something."
+    },
+    {
+      "slug": "impermanence",
+      "displayName": "Impermanence",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "That nothing lasts — offered as a truth to accept, not a loss to mourn.",
+      "avoid": [
+        "transience"
+      ]
+    },
+    {
+      "slug": "legacy",
+      "displayName": "Legacy",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "What outlasts you.",
+      "avoid": [
+        "inheritance"
+      ]
+    },
+    {
+      "slug": "memory",
+      "displayName": "Memory",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "What is remembered, and what is lost.",
+      "avoid": [
+        "remembrance"
+      ]
+    },
+    {
+      "slug": "mortality",
+      "displayName": "Mortality",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Death, and living in the knowledge of it.",
+      "avoid": [
+        "death",
+        "dying"
+      ]
+    },
+    {
+      "slug": "present-moment",
+      "displayName": "Present Moment",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Being here rather than in the past or the future.",
+      "avoid": [
+        "mindfulness",
+        "now"
+      ]
+    },
+    {
+      "slug": "time",
+      "displayName": "Time",
+      "facet": "theme",
+      "colorName": "indigo",
+      "useWhen": "Time itself — its passage, its scarcity, how it is spent."
+    },
+    {
+      "slug": "betrayal",
+      "displayName": "Betrayal",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Trust broken."
+    },
+    {
+      "slug": "community",
+      "displayName": "Community",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Belonging to a group, and what it asks of you.",
+      "avoid": [
+        "belonging"
+      ]
+    },
+    {
+      "slug": "family",
+      "displayName": "Family",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Kin — siblings, grandparents, the household as a whole."
+    },
+    {
+      "slug": "friendship",
+      "displayName": "Friendship",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Friends and what they are for."
+    },
+    {
+      "slug": "love",
+      "displayName": "Love",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Romantic love. Love of humanity is compassion; family affection is family.",
+      "avoid": [
+        "romance"
+      ]
+    },
+    {
+      "slug": "loyalty",
+      "displayName": "Loyalty",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Standing by someone or something.",
+      "avoid": [
+        "fidelity"
+      ]
+    },
+    {
+      "slug": "marriage",
+      "displayName": "Marriage",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Being married — the long middle of it. The day itself is wedding."
+    },
+    {
+      "slug": "parenthood",
+      "displayName": "Parenthood",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Raising children, and being someone's child.",
+      "avoid": [
+        "parenting",
+        "motherhood",
+        "fatherhood",
+        "children"
+      ]
+    },
+    {
+      "slug": "solitude",
+      "displayName": "Solitude",
+      "facet": "theme",
+      "colorName": "magenta",
+      "useWhen": "Chosen aloneness, and what it is good for. Unwanted is loneliness."
+    },
+    {
+      "slug": "dissent",
+      "displayName": "Dissent",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Refusing to go along; speaking against.",
+      "avoid": [
+        "protest",
+        "rebellion"
+      ]
+    },
+    {
+      "slug": "equality",
+      "displayName": "Equality",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Equal standing, and its denial.",
+      "avoid": [
+        "civil-rights",
+        "racism"
+      ]
+    },
+    {
+      "slug": "history",
+      "displayName": "History",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "The past as a subject — what it teaches, who writes it."
+    },
+    {
+      "slug": "justice",
+      "displayName": "Justice",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "What is owed, and the law that should deliver it.",
+      "avoid": [
+        "law",
+        "fairness"
+      ]
+    },
+    {
+      "slug": "peace",
+      "displayName": "Peace",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "The absence of war, and the work of keeping it. Inner calm is contentment.",
+      "avoid": [
+        "nonviolence"
+      ]
+    },
+    {
+      "slug": "politics",
+      "displayName": "Politics",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Governing and being governed.",
+      "avoid": [
+        "government",
+        "democracy"
+      ]
+    },
+    {
+      "slug": "power",
+      "displayName": "Power",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Who holds it and what it does to them.",
+      "avoid": [
+        "authority"
+      ]
+    },
+    {
+      "slug": "service",
+      "displayName": "Service",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Working for others' good, including public service.",
+      "avoid": [
+        "duty-to-others",
+        "volunteering"
+      ]
+    },
+    {
+      "slug": "technology",
+      "displayName": "Technology",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Machines and tools, and what they do to us.",
+      "avoid": [
+        "computers",
+        "invention"
+      ]
+    },
+    {
+      "slug": "war",
+      "displayName": "War",
+      "facet": "theme",
+      "colorName": "orange",
+      "useWhen": "Fighting a war, and what it costs.",
+      "avoid": [
+        "battle",
+        "military"
+      ]
+    },
+    {
+      "slug": "adversity",
+      "displayName": "Adversity",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Hard circumstance, as the setting a quote speaks into.",
+      "avoid": [
+        "hardship",
+        "difficulty",
+        "obstacles"
+      ]
+    },
+    {
+      "slug": "effort",
+      "displayName": "Effort",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Trying hard — the exertion itself.",
+      "avoid": [
+        "hard-work",
+        "hustle"
+      ]
+    },
+    {
+      "slug": "failure",
+      "displayName": "Failure",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Falling short, and what it teaches.",
+      "avoid": [
+        "defeat",
+        "losing"
+      ]
+    },
+    {
+      "slug": "habits",
+      "displayName": "Habits",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "What you do by default.",
+      "avoid": [
+        "routine"
+      ]
+    },
+    {
+      "slug": "mistakes",
+      "displayName": "Mistakes",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Specific errors, and owning them.",
+      "avoid": [
+        "errors"
+      ]
+    },
+    {
+      "slug": "perseverance",
+      "displayName": "Perseverance",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Continuing through difficulty over time. A single brave act is courage.",
+      "avoid": [
+        "grit",
+        "persistence",
+        "determination",
+        "endurance",
+        "tenacity"
+      ]
+    },
+    {
+      "slug": "practice",
+      "displayName": "Practice",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Deliberate repetition to improve.",
+      "avoid": [
+        "training",
+        "repetition"
+      ]
+    },
+    {
+      "slug": "resilience",
+      "displayName": "Resilience",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Recovering after being knocked down.",
+      "avoid": [
+        "bouncing-back"
+      ]
+    },
+    {
+      "slug": "starting-over",
+      "displayName": "Starting Over",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Beginning again after loss or failure. A first start is beginnings.",
+      "avoid": [
+        "second-chances",
+        "comeback"
+      ]
+    },
+    {
+      "slug": "suffering",
+      "displayName": "Suffering",
+      "facet": "theme",
+      "colorName": "red",
+      "useWhen": "Pain endured, especially without an explanation.",
+      "avoid": [
+        "pain"
+      ]
+    },
+    {
+      "slug": "anger",
+      "displayName": "Anger",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Rage and indignation, and what to do with them.",
+      "avoid": [
+        "rage"
+      ]
+    },
+    {
+      "slug": "anxiety",
+      "displayName": "Anxiety",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Worry about what has not happened yet.",
+      "avoid": [
+        "worry",
+        "stress"
+      ]
+    },
+    {
+      "slug": "contentment",
+      "displayName": "Contentment",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Enough, and knowing it. Wanting more is ambition.",
+      "avoid": [
+        "satisfaction"
+      ]
+    },
+    {
+      "slug": "courage",
+      "displayName": "Courage",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Facing fear in a single moment — one act. Sustained effort over time is perseverance.",
+      "avoid": [
+        "bravery",
+        "boldness"
+      ]
+    },
+    {
+      "slug": "despair",
+      "displayName": "Despair",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "The absence of hope, named honestly rather than consoled.",
+      "avoid": [
+        "hopelessness"
+      ]
+    },
+    {
+      "slug": "doubt",
+      "displayName": "Doubt",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Uncertainty about what is true or right, including religious doubt.",
+      "avoid": [
+        "uncertainty",
+        "skepticism"
+      ]
+    },
+    {
+      "slug": "envy",
+      "displayName": "Envy",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Resenting what someone else has or is. Wanting more for yourself is ambition.",
+      "avoid": [
+        "jealousy",
+        "covetousness"
+      ]
+    },
+    {
+      "slug": "fear",
+      "displayName": "Fear",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Being afraid, or what fear does to a person. Overcoming it is courage."
+    },
+    {
+      "slug": "grief",
+      "displayName": "Grief",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Loss and mourning from the inside. Words offered to someone else bereaved are condolences.",
+      "avoid": [
+        "mourning",
+        "loss"
+      ]
+    },
+    {
+      "slug": "hope",
+      "displayName": "Hope",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Expectation that things can be better. Not the same as optimism about nothing in particular.",
+      "avoid": [
+        "optimism"
+      ]
+    },
+    {
+      "slug": "joy",
+      "displayName": "Joy",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Delight and gladness in a moment. Sustained well-being is happiness.",
+      "avoid": [
+        "delight"
+      ]
+    },
+    {
+      "slug": "loneliness",
+      "displayName": "Loneliness",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Being alone and feeling it. Aloneness that was chosen is solitude."
+    },
+    {
+      "slug": "longing",
+      "displayName": "Longing",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Wanting what is absent — desire, yearning, homesickness.",
+      "avoid": [
+        "desire",
+        "yearning",
+        "nostalgia"
+      ]
+    },
+    {
+      "slug": "regret",
+      "displayName": "Regret",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Wishing a past choice undone. The error itself is mistakes."
+    },
+    {
+      "slug": "shame",
+      "displayName": "Shame",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Being exposed as less than you should be. Wishing a past choice undone is regret; wrongdoing before God is sin.",
+      "avoid": [
+        "embarrassment",
+        "humiliation",
+        "disgrace"
+      ]
+    },
+    {
+      "slug": "wonder",
+      "displayName": "Wonder",
+      "facet": "theme",
+      "colorName": "rose",
+      "useWhen": "Awe at something larger than oneself.",
+      "avoid": [
+        "awe"
+      ]
+    },
+    {
+      "slug": "eternity",
+      "displayName": "Eternity",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "What lies beyond this life.",
+      "avoid": [
+        "heaven",
+        "afterlife"
+      ]
+    },
+    {
+      "slug": "faith",
+      "displayName": "Faith",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Belief and trust in God, held or struggled for.",
+      "avoid": [
+        "belief",
+        "religion"
+      ]
+    },
+    {
+      "slug": "grace",
+      "displayName": "Grace",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Unearned favour."
+    },
+    {
+      "slug": "mercy",
+      "displayName": "Mercy",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Punishment withheld, kindness given instead."
+    },
+    {
+      "slug": "prayer",
+      "displayName": "Prayer",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Praying — the practice and the words."
+    },
+    {
+      "slug": "redemption",
+      "displayName": "Redemption",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Being made new after failure.",
+      "avoid": [
+        "salvation",
+        "repentance"
+      ]
+    },
+    {
+      "slug": "scripture",
+      "displayName": "Scripture",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "The sacred text itself, and reading it.",
+      "avoid": [
+        "bible",
+        "the-word"
+      ]
+    },
+    {
+      "slug": "sin",
+      "displayName": "Sin",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Wrongdoing before God.",
+      "avoid": [
+        "evil",
+        "temptation"
+      ]
+    },
+    {
+      "slug": "the-divine",
+      "displayName": "The Divine",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "God's nature and character.",
+      "avoid": [
+        "god",
+        "allah"
+      ]
+    },
+    {
+      "slug": "worship",
+      "displayName": "Worship",
+      "facet": "theme",
+      "colorName": "sky",
+      "useWhen": "Praise and reverence offered.",
+      "avoid": [
+        "praise"
+      ]
+    },
+    {
+      "slug": "compassion",
+      "displayName": "Compassion",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Feeling with someone who suffers, and acting on it.",
+      "avoid": [
+        "empathy",
+        "sympathy"
+      ]
+    },
+    {
+      "slug": "forgiveness",
+      "displayName": "Forgiveness",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Releasing a debt owed to you."
+    },
+    {
+      "slug": "generosity",
+      "displayName": "Generosity",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Giving — money, time, or credit.",
+      "avoid": [
+        "giving",
+        "charity"
+      ]
+    },
+    {
+      "slug": "gratitude",
+      "displayName": "Gratitude",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Thankfulness for what was given. A note sent to a giver is thank-you.",
+      "avoid": [
+        "thankfulness",
+        "appreciation"
+      ]
+    },
+    {
+      "slug": "honesty",
+      "displayName": "Honesty",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Telling the truth, especially when it costs. What is true is truth.",
+      "avoid": [
+        "sincerity"
+      ]
+    },
+    {
+      "slug": "honor",
+      "displayName": "Honor",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Duty to a code, and the cost of keeping it.",
+      "avoid": [
+        "duty"
+      ]
+    },
+    {
+      "slug": "humility",
+      "displayName": "Humility",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Accurate smallness. Not self-deprecation, and not modesty as a manner.",
+      "avoid": [
+        "modesty"
+      ]
+    },
+    {
+      "slug": "integrity",
+      "displayName": "Integrity",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Acting the same whether or not anyone is watching.",
+      "avoid": [
+        "character"
+      ]
+    },
+    {
+      "slug": "kindness",
+      "displayName": "Kindness",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Everyday care for another person."
+    },
+    {
+      "slug": "patience",
+      "displayName": "Patience",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Waiting well."
+    },
+    {
+      "slug": "pride",
+      "displayName": "Pride",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Self-regard that overreaches - vanity, arrogance, hubris. Its opposite is humility.",
+      "avoid": [
+        "vanity",
+        "arrogance",
+        "hubris",
+        "ego"
+      ]
+    },
+    {
+      "slug": "sacrifice",
+      "displayName": "Sacrifice",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Giving up something that costs you, for someone or something else. Working for others' good without that cost is service.",
+      "avoid": [
+        "self-sacrifice",
+        "selflessness",
+        "martyrdom"
+      ]
+    },
+    {
+      "slug": "self-control",
+      "displayName": "Self-Control",
+      "facet": "theme",
+      "colorName": "teal",
+      "useWhen": "Governing appetite and impulse. Sustained voluntary rigor is discipline.",
+      "avoid": [
+        "temperance",
+        "restraint"
+      ]
+    },
+    {
+      "slug": "art",
+      "displayName": "Art",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Art and artists — the thing made and its place in a life.",
+      "avoid": [
+        "painting",
+        "beauty"
+      ]
+    },
+    {
+      "slug": "creativity",
+      "displayName": "Creativity",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Making something new. The skill of making it well is craft.",
+      "avoid": [
+        "innovation",
+        "originality"
+      ]
+    },
+    {
+      "slug": "curiosity",
+      "displayName": "Curiosity",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Wanting to know. The asking itself is questions."
+    },
+    {
+      "slug": "ignorance",
+      "displayName": "Ignorance",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Not knowing — including not knowing that you don't.",
+      "avoid": [
+        "stupidity",
+        "folly"
+      ]
+    },
+    {
+      "slug": "imagination",
+      "displayName": "Imagination",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Picturing what is not there."
+    },
+    {
+      "slug": "language",
+      "displayName": "Language",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Words themselves — their power, their precision, their misuse.",
+      "avoid": [
+        "words"
+      ]
+    },
+    {
+      "slug": "learning",
+      "displayName": "Learning",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Acquiring knowledge or skill; being a student.",
+      "avoid": [
+        "education",
+        "study"
+      ]
+    },
+    {
+      "slug": "music",
+      "displayName": "Music",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Music as the subject: playing it, hearing it, what it does.",
+      "avoid": [
+        "song"
+      ]
+    },
+    {
+      "slug": "questions",
+      "displayName": "Questions",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "The asking itself, and why a good question can beat an answer.",
+      "avoid": [
+        "inquiry"
+      ]
+    },
+    {
+      "slug": "reading",
+      "displayName": "Reading",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Books and readers.",
+      "avoid": [
+        "books",
+        "literature"
+      ]
+    },
+    {
+      "slug": "science",
+      "displayName": "Science",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Scientific work and the scientific temper.",
+      "avoid": [
+        "research"
+      ]
+    },
+    {
+      "slug": "teaching",
+      "displayName": "Teaching",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Passing it on — teachers, mentors, explaining.",
+      "avoid": [
+        "mentorship"
+      ]
+    },
+    {
+      "slug": "truth",
+      "displayName": "Truth",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "What is so, and the cost of saying it. The virtue of saying it is honesty."
+    },
+    {
+      "slug": "wisdom",
+      "displayName": "Wisdom",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "Knowing what matters, as distinct from knowing facts."
+    },
+    {
+      "slug": "writing",
+      "displayName": "Writing",
+      "facet": "theme",
+      "colorName": "violet",
+      "useWhen": "The work of writing, and writers.",
+      "avoid": [
+        "authorship"
+      ]
+    },
+    {
+      "slug": "apology",
+      "displayName": "Apology",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "Offered after doing wrong.",
+      "avoid": [
+        "sorry"
+      ]
+    },
+    {
+      "slug": "condolences",
+      "displayName": "Condolences",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "Said to a bereaved person, one to one. The feeling itself is grief.",
+      "avoid": [
+        "sympathy-note"
+      ]
+    },
+    {
+      "slug": "eulogy",
+      "displayName": "Eulogy",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "Read at a funeral or memorial, addressed to those gathered.",
+      "avoid": [
+        "funeral",
+        "memorial"
+      ]
+    },
+    {
+      "slug": "farewell",
+      "displayName": "Farewell",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "A parting — moving away, a last day, a goodbye.",
+      "avoid": [
+        "goodbye",
+        "departure"
+      ]
+    },
+    {
+      "slug": "get-well",
+      "displayName": "Get Well",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "Sent to someone ill or recovering.",
+      "avoid": [
+        "illness",
+        "recovery"
+      ]
+    },
+    {
+      "slug": "hard-times",
+      "displayName": "Hard Times",
+      "facet": "occasion",
+      "colorName": "gray",
+      "useWhen": "For someone in a bad stretch — illness, lost work, crisis.",
+      "avoid": [
+        "tough-times"
+      ]
+    },
+    {
+      "slug": "anniversary",
+      "displayName": "Anniversary",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Marking years together."
+    },
+    {
+      "slug": "birthday",
+      "displayName": "Birthday",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Marking another year."
+    },
+    {
+      "slug": "encouragement",
+      "displayName": "Encouragement",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Sent to someone who needs to keep going.",
+      "avoid": [
+        "motivation",
+        "pep-talk"
+      ]
+    },
+    {
+      "slug": "graduation",
+      "displayName": "Graduation",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Sent off at the end of schooling.",
+      "avoid": [
+        "commencement"
+      ]
+    },
+    {
+      "slug": "milestone",
+      "displayName": "Milestone",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "An achievement worth marking that has no occasion tag of its own.",
+      "avoid": [
+        "achievement-marker"
+      ]
+    },
+    {
+      "slug": "new-baby",
+      "displayName": "New Baby",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "A birth or an adoption.",
+      "avoid": [
+        "birth",
+        "christening"
+      ]
+    },
+    {
+      "slug": "new-job",
+      "displayName": "New Job",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Starting a role — a first day, a career change.",
+      "avoid": [
+        "new-role"
+      ]
+    },
+    {
+      "slug": "new-year",
+      "displayName": "New Year",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Turning the year over.",
+      "avoid": [
+        "resolutions"
+      ]
+    },
+    {
+      "slug": "retirement",
+      "displayName": "Retirement",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Leaving working life."
+    },
+    {
+      "slug": "thank-you",
+      "displayName": "Thank You",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Sent to someone who gave something. The feeling is gratitude."
+    },
+    {
+      "slug": "toast",
+      "displayName": "Toast",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Raised at a gathering — a dinner, a celebration, a send-off.",
+      "avoid": [
+        "speech-opener"
+      ]
+    },
+    {
+      "slug": "wedding",
+      "displayName": "Wedding",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Read at or written for a wedding — vows, ceremony, a marriage toast.",
+      "avoid": [
+        "nuptials"
+      ]
+    },
+    {
+      "slug": "welcome",
+      "displayName": "Welcome",
+      "facet": "occasion",
+      "colorName": "lime",
+      "useWhen": "Receiving someone — a new hire, a guest, a newcomer."
+    },
+    {
+      "slug": "advice",
+      "displayName": "Advice",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Tells you what to do — second person, or a directive.",
+      "avoid": [
+        "instruction",
+        "guidance"
+      ]
+    },
+    {
+      "slug": "aphorism",
+      "displayName": "Aphorism",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "A compressed general truth, stated as a rule.",
+      "avoid": [
+        "maxim",
+        "proverb",
+        "adage"
+      ]
+    },
+    {
+      "slug": "blessing",
+      "displayName": "Blessing",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Words spoken over someone for their good.",
+      "avoid": [
+        "benediction"
+      ]
+    },
+    {
+      "slug": "blunt",
+      "displayName": "Blunt",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Plain and unsoftened, deliberately.",
+      "avoid": [
+        "harsh",
+        "direct"
+      ]
+    },
+    {
+      "slug": "confession",
+      "displayName": "Confession",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "The speaker admits something about themselves.",
+      "avoid": [
+        "admission"
+      ]
+    },
+    {
+      "slug": "defiance",
+      "displayName": "Defiance",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Refuses to yield — spoken against a power or a fate.",
+      "avoid": [
+        "resistance"
+      ]
+    },
+    {
+      "slug": "humor",
+      "displayName": "Humor",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Meant to be funny.",
+      "avoid": [
+        "funny",
+        "comedy",
+        "joke"
+      ]
+    },
+    {
+      "slug": "lyrical",
+      "displayName": "Lyrical",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "The language itself is the point — imagery, rhythm.",
+      "avoid": [
+        "poetic"
+      ]
+    },
+    {
+      "slug": "one-liner",
+      "displayName": "One-Liner",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Short enough to land alone: a sentence or two, no setup.",
+      "avoid": [
+        "short"
+      ]
+    },
+    {
+      "slug": "paradox",
+      "displayName": "Paradox",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Turns on an apparent contradiction.",
+      "avoid": [
+        "contradiction"
+      ]
+    },
+    {
+      "slug": "rallying-cry",
+      "displayName": "Rallying Cry",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Meant to move a group to act.",
+      "avoid": [
+        "call-to-arms",
+        "exhortation"
+      ]
+    },
+    {
+      "slug": "satire",
+      "displayName": "Satire",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Funny with a target — mocking to make a point.",
+      "avoid": [
+        "irony",
+        "parody"
+      ]
+    },
+    {
+      "slug": "tender",
+      "displayName": "Tender",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Gentle and affectionate in address.",
+      "avoid": [
+        "gentle"
+      ]
+    },
+    {
+      "slug": "warning",
+      "displayName": "Warning",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Names a danger or a cost.",
+      "avoid": [
+        "caution"
+      ]
+    },
+    {
+      "slug": "wit",
+      "displayName": "Wit",
+      "facet": "tone",
+      "colorName": "cyan",
+      "useWhen": "Clever by construction — the turn of phrase is the joke.",
+      "avoid": [
+        "cleverness"
+      ]
+    }
+  ]
+}

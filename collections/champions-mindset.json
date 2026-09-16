@@ -20,6 +20,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage. Attribution-axis doubt flagged 2026-08-06: independent sourcing corroborates \"I shook up the world!\" and \"I am the greatest!\" both being shouted at ringside that night (some sources give the reverse order, \"I shook up the world! I am the greatest!\"), but the \"I'm the prettiest thing that ever lived\" clause -- a genuine, separately-documented Ali catchphrase -- could not be confirmed as part of this same ringside moment rather than stitched in from another occasion. Left verificationStatus as unverified pending a check against primary broadcast footage; content/source not changed since no confirmed correct wording was found to fix it to.",
+      "tags": [
+        "pride",
+        "sport",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Ali's signature braggadocio before the Foreman bout, preserved on film.",
+      "tags": [
+        "pride",
+        "sport",
+        "humor",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +53,11 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "Ali on personal growth; wording and dated print attribution confirmed by Quote Investigator.",
+      "tags": [
+        "change",
+        "aging",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +69,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "His most famous line on failing forward, delivered as a Nike voiceover; wording matches the archived ad.",
+      "tags": [
+        "failure",
+        "success",
+        "sport",
+        "resilience"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +86,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From Jordan's own motivational book, in its section on commitment.",
+      "tags": [
+        "perseverance",
+        "adversity",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +102,11 @@
       "verificationStatus": "verified",
       "sourceType": "documentary",
       "notes": "Jordan's emotional defense of his demanding leadership style, spoken on camera.",
+      "tags": [
+        "leadership",
+        "sacrifice",
+        "competition"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +118,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Bryant's stoic response to taking a 2-0 Finals lead; the press-conference video is hosted by NBA.com.",
+      "tags": [
+        "excellence",
+        "discipline",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +134,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "His most-cited self-definition of the concept, in his own words. Corrected 2026-08-06: previously cited as vague, undated \"c. 2016\" remarks; the passage is from his 2018 book The Mamba Mentality: How I Play.",
+      "tags": [
+        "excellence",
+        "practice",
+        "purpose"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +150,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Pelé on his sense of purpose and destiny for the game.",
+      "tags": [
+        "destiny",
+        "purpose",
+        "sport"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +166,11 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "Pelé on the burden of fame and setting an example; attribution traces to the dated SI piece.",
+      "tags": [
+        "leadership",
+        "service",
+        "teaching"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +182,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Gretzky framing his greatness as self-made through work rather than raw gift.",
+      "tags": [
+        "practice",
+        "discipline",
+        "effort"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +198,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The final line of Robinson's autobiography, later inscribed on his headstone.",
+      "tags": [
+        "legacy",
+        "service",
+        "eulogy",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +215,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the prologue reflecting on his 1947 debut; the fuller wording precedes the title line.",
+      "tags": [
+        "equality",
+        "dissent",
+        "identity",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +232,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Owens correcting the myth after FDR declined to honor his four Berlin gold medals.",
+      "tags": [
+        "equality",
+        "politics",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +248,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From his 'effortless is a myth' theme; confirmed against Dartmouth's official transcript.",
+      "tags": [
+        "effort",
+        "competition",
+        "sport"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +264,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The setup to his 'it's only a point' lesson on resilience; figures appear verbatim in the official transcript.",
+      "tags": [
+        "failure",
+        "resilience",
+        "sport",
+        "questions"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +281,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Federer on discipline over dwelling on setbacks; confirmed against the official transcript.",
+      "tags": [
+        "self-control",
+        "resilience",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +297,12 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "Serena's own framing of stepping away from the sport, from her authored essay.",
+      "tags": [
+        "change",
+        "endings",
+        "retirement",
+        "purpose"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +314,11 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "On the drive for greatness and the mental cost of chasing records. Sentence order corrected 2026-08-07 audit to match original essay order (previously reversed).",
+      "tags": [
+        "regret",
+        "sport",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +330,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Serena on her competitiveness, from the official Australian Open transcript.",
+      "tags": [
+        "competition",
+        "ambition",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +346,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "King's signature maxim; she recounts coining it courtside in 2000 and made it her book title.",
+      "tags": [
+        "anxiety",
+        "gratitude",
+        "paradox",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +363,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "King on the championship mindset, from her memoir.",
+      "tags": [
+        "resilience",
+        "change",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +379,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Biles after withdrawing from the team final; confirmed against NPR's verbatim transcript.",
+      "tags": [
+        "anxiety",
+        "self-knowledge",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +395,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Part of her remarks on protecting athletes' minds and bodies.",
+      "tags": [
+        "identity",
+        "sport",
+        "self-knowledge"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +411,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Follows directly from her 'put mental health first' remark; confirmed against NPR's transcript.",
+      "tags": [
+        "self-knowledge",
+        "courage",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +427,11 @@
       "verificationStatus": "verified",
       "sourceType": "newspaper",
       "notes": "Said immediately after his world-record 9.69s gold in Beijing.",
+      "tags": [
+        "ambition",
+        "purpose",
+        "sport"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +443,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Bolt after defending his Olympic 200m title, quoted verbatim by the sport's governing body.",
+      "tags": [
+        "pride",
+        "legacy",
+        "sport"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +459,10 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "His line after completing the 'triple-triple' with a ninth Olympic gold.",
+      "tags": [
+        "pride",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +474,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Palmer's effort-and-drive philosophy from his late-career memoir.",
+      "tags": [
+        "excellence",
+        "effort",
+        "sport"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +490,12 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "Exact primary wording from Ruth's own bylined article; the common 'It's hard to beat...' form is a paraphrase.",
+      "tags": [
+        "perseverance",
+        "competition",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

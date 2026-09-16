@@ -39,8 +39,8 @@
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-ZWmEpTdRcLSZnEgrsvcnMrZXyIJhVeVSNK8VRAeEEew=",
-      "bytes": 21374
+      "contentHash": "sha256-iCJmN9ZtgvaVWcgj55qW1kwjWI0fCGwQpj6SfZgtvBc=",
+      "bytes": 24729
     },
     {
       "id": "leadership-vision",
@@ -339,8 +339,8 @@
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-08-10T12:00:00Z",
-      "contentHash": "sha256-MCEpBWKwJC4eYxH0Z6qqiCKm7KAzDZsLa2TA1SOcwL8=",
-      "bytes": 14532
+      "contentHash": "sha256-liw5NbAoYS6XVaB5QTpCHgGMOO75n/d97gKjZlZeJNE=",
+      "bytes": 17084
     },
     {
       "id": "first-lines",
@@ -699,8 +699,8 @@
       "category": "Television",
       "addedAt": "2026-09-02T12:00:00Z",
       "lastUpdated": "2026-09-02T12:00:00Z",
-      "contentHash": "sha256-F9rg6uQl47hQYFzkeE3liqPH+Z9kOJWOWwKfjPg0YsE=",
-      "bytes": 26113
+      "contentHash": "sha256-RRHFmy+G5XDHCk//u7qCXbadwivmIMrw946wyL++bxo=",
+      "bytes": 29586
     },
     {
       "id": "lego-movies",
@@ -759,8 +759,8 @@
       "category": "Television",
       "addedAt": "2026-06-27T22:01:13Z",
       "lastUpdated": "2026-07-20T12:00:00Z",
-      "contentHash": "sha256-XQaDnWF6x6X/0urQ0d+KuJ5k5TQcxMx3npLOKujiOic=",
-      "bytes": 13465
+      "contentHash": "sha256-YYXdGzo79bB3qy7PQTD7ib36GjZTb1OSAhaKsn19bvw=",
+      "bytes": 15496
     },
     {
       "id": "bible-wisdom",
@@ -779,8 +779,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-c4wWZNpUGDkBfe/s7Yu/Cem2ONkSgKhMnxeG1gXJFZc=",
-      "bytes": 14973
+      "contentHash": "sha256-ShgUpNjfqyzM5aOM35jaz91mOc4kFZcpSjhTOLLO8E8=",
+      "bytes": 17772
     },
     {
       "id": "words-of-jesus",
@@ -819,8 +819,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-DXCAS+FiLFaA1+DQXr5bZ/klRCkrwcgJ0vki7mIxqvc=",
-      "bytes": 18199
+      "contentHash": "sha256-+nvt3wBjwPNHzsz1hyrxlnPGu68HZjhpk5Cni5BcwfQ=",
+      "bytes": 21371
     },
     {
       "id": "cs-lewis",
@@ -919,8 +919,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-cHKkkh+C7oD4+GY5qppEDV8JSu1OfGw8U0q0T63nmhw=",
-      "bytes": 17469
+      "contentHash": "sha256-//qzXi5OY8dLp/jsjO0OYFJq3o0BFG2XDqJ5YtJ0w5I=",
+      "bytes": 20083
     },
     {
       "id": "dhammapada",
@@ -1003,6 +1003,26 @@
       "bytes": 16567
     },
     {
+      "id": "hanukkah",
+      "name": "Hanukkah",
+      "description": "Light, dedication, and stubborn hope — the Festival of Lights from the Maccabees to the candle in the window.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Not by might, nor by power, but by My spirit, saith the LORD of hosts.",
+        "It is not on the size of the army that victory in battle depends, but strength comes from Heaven."
+      ],
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
+      "iconName": "flame.fill",
+      "category": "Faith",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-YfelmtBa8/sgnH7XLgo4PRDbdwarocCkE/i0dQ24xt0=",
+      "bytes": 17524
+    },
+    {
       "id": "sikh-wisdom",
       "name": "Sikh Wisdom",
       "description": "Teachings of the Gurus on devotion, equality, and honest living from the Guru Granth Sahib.",
@@ -1059,8 +1079,8 @@
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-07T12:00:00Z",
-      "contentHash": "sha256-e2OsjPW2qgkZc/HcezAJlkHOhWEYaZ69kUczCP2OKn8=",
-      "bytes": 18087
+      "contentHash": "sha256-mwXtalhQjXnsYt2pdt5xI8ZRhprg6QcnSUjHPPIbbhE=",
+      "bytes": 20723
     },
     {
       "id": "yogi-berra",
@@ -1219,8 +1239,28 @@
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-13T12:00:00Z",
-      "contentHash": "sha256-/+BQN9CBC/s+6cl4Y9d+60xTZ+s0LvG2rJhsgfZE3d0=",
-      "bytes": 18273
+      "contentHash": "sha256-lK/MxEAriB0S3PaAjupN4lnO3N/M40l9GF+M2C4ojzw=",
+      "bytes": 20872
+    },
+    {
+      "id": "civic-life-democracy",
+      "name": "Civic Life & Democracy",
+      "description": "The vote, the jury, the town meeting, the dissent — voices on the daily work of governing ourselves.",
+      "author": "Quips Editorial",
+      "quoteCount": 35,
+      "previewQuotes": [
+        "The spirit of liberty is the spirit which is not too sure that it is right.",
+        "Do not obey in advance. Most of the power of authoritarianism is freely given."
+      ],
+      "colorName": "sky",
+      "colorLightHex": "#1F9ED4",
+      "colorDarkHex": "#45C2FC",
+      "iconName": "building.columns.fill",
+      "category": "History & Speeches",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-cEqCT/HoFIduIhTkUDDIukcKJjeafkDQwNj7yVIbo8M=",
+      "bytes": 25706
     },
     {
       "id": "cosmos-space",
@@ -1299,8 +1339,8 @@
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-54gb2nYEi+/bxC/kwjG3JfVNbnpH2FVezRxing/YpNI=",
-      "bytes": 13984
+      "contentHash": "sha256-yWQ0utLbbqe4bpAfWDyBQzsKg2INlxyJTmE08BeGd0c=",
+      "bytes": 16160
     },
     {
       "id": "the-beatles",
@@ -1379,8 +1419,8 @@
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-eDY6E/z/5rptSjXmOZWD6BuVEZ0QwjNtKhQHxsmCi0g=",
-      "bytes": 16524
+      "contentHash": "sha256-Te58KHKcKvFo0TNZs14C0i7xiMRJ5EXKTWqN8WR+HHI=",
+      "bytes": 19497
     },
     {
       "id": "standup-legends",
@@ -1619,8 +1659,8 @@
       "category": "Video Games",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-L7LhBLow0uwM1PKmIyfwP4uYq9V4nLIVO9NQ9BXnst4=",
-      "bytes": 10266
+      "contentHash": "sha256-hlJQQmzMQT/IHTMRcuJY+weWOJUfwqc1d5hQgHCFL60=",
+      "bytes": 11899
     },
     {
       "id": "rpg-wisdom",
@@ -1719,8 +1759,8 @@
       "category": "Television",
       "addedAt": "2026-08-08T12:00:00Z",
       "lastUpdated": "2026-08-08T12:00:00Z",
-      "contentHash": "sha256-3hk0FL+FPFu4eDT/5gHvkBgFPDnrFgTJB3LF2btRR68=",
-      "bytes": 25707
+      "contentHash": "sha256-dqn+7TiknsbAnMDQiC0al7+9SyZ6UdnHu3E8DUdP+58=",
+      "bytes": 29021
     },
     {
       "id": "veterans-remembrance",
@@ -1730,7 +1770,7 @@
       "quoteCount": 26,
       "previewQuotes": [
         "Old soldiers never die; they just fade away.",
-        "In our youth our hearts were touched with fire."
+        "The old Lie: Dulce et decorum est\nPro patria mori."
       ],
       "colorName": "red",
       "colorLightHex": "#E92528",
@@ -1750,7 +1790,7 @@
       "quoteCount": 34,
       "previewQuotes": [
         "Snow lands on top.",
-        "You love me. Real or not real?"
+        "I don't think we 'submit.'"
       ],
       "colorName": "orange",
       "colorLightHex": "#E1791C",
@@ -1770,7 +1810,7 @@
       "quoteCount": 29,
       "previewQuotes": [
         "God bless Us, Every One!",
-        "And the Word was made flesh, and dwelt among us."
+        "And the Word was made flesh, and dwelt among us"
       ],
       "colorName": "green",
       "colorLightHex": "#27AE57",

@@ -1,0 +1,583 @@
+{
+  "id": "civic-life-democracy",
+  "name": "Civic Life & Democracy",
+  "description": "The vote, the jury, the town meeting, the dissent — voices on the daily work of governing ourselves.",
+  "author": "Quips Editorial",
+  "colorName": "sky",
+  "colorLightHex": "#1F9ED4",
+  "colorDarkHex": "#45C2FC",
+  "iconName": "building.columns.fill",
+  "category": "History & Speeches",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "civic-001",
+      "content": "We alone regard a man who takes no interest in public affairs, not as a harmless, but as a useless character.",
+      "authorName": "Pericles",
+      "source": "Funeral Oration, as recorded in Thucydides, History of the Peloponnesian War, Book II, trans. Richard Crawley",
+      "quoteDate": "c. 431 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the oration for Athens' first war dead; the Greek word behind 'useless' is idiotes, a purely private person.",
+      "tags": [
+        "service",
+        "politics",
+        "community",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-002",
+      "content": "Our constitution is called a democracy because power is in the hands not of a minority but of the whole people.",
+      "authorName": "Pericles",
+      "source": "Funeral Oration, as recorded in Thucydides, History of the Peloponnesian War, Book II, trans. Rex Warner",
+      "quoteDate": "c. 431 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The earliest surviving definition of democracy offered by someone actually practising it.",
+      "tags": [
+        "politics",
+        "equality",
+        "power"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-003",
+      "content": "Man is by nature a political animal.",
+      "authorName": "Aristotle",
+      "source": "Politics, Book I, trans. Benjamin Jowett",
+      "quoteDate": "c. 350 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Descriptive rather than flattering: Aristotle's claim is that human beings only become fully themselves inside a political community.",
+      "tags": [
+        "politics",
+        "community",
+        "aphorism",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-004",
+      "content": "The condition upon which God hath given liberty to man is eternal vigilance.",
+      "authorName": "John Philpot Curran",
+      "source": "Speech on the Right of Election of the Lord Mayor of Dublin, July 10, 1790",
+      "quoteDate": "1790-07-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The source of 'eternal vigilance is the price of liberty,' a line routinely and wrongly credited to Thomas Jefferson, who never wrote it.",
+      "tags": [
+        "freedom",
+        "warning",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-005",
+      "content": "If all mankind minus one were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.",
+      "authorName": "John Stuart Mill",
+      "source": "On Liberty, ch. 2 (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Mill's case for free discussion turns on the listener, not the speaker: silencing an opinion robs everyone else of the chance to test their own.",
+      "tags": [
+        "dissent",
+        "freedom",
+        "truth"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-006",
+      "content": "Americans of all ages, all conditions, and all dispositions constantly form associations.",
+      "authorName": "Alexis de Tocqueville",
+      "source": "Democracy in America, Volume II (1840), trans. Henry Reeve",
+      "quoteDate": "1840",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Tocqueville's answer to how a country without an aristocracy gets anything done; he thought the habit of joining together was the art that made democracy work.",
+      "tags": [
+        "community",
+        "politics",
+        "history"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-007",
+      "content": "This country, with its institutions, belongs to the people who inhabit it.",
+      "authorName": "Abraham Lincoln",
+      "source": "First Inaugural Address, Washington, D.C., March 4, 1861",
+      "quoteDate": "1861-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lincoln's argument against secession rested on popular sovereignty: the people may amend or overthrow their government, but a minority may not simply walk out of it.",
+      "tags": [
+        "politics",
+        "power",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-008",
+      "content": "Let every American, every lover of liberty, every well-wisher to his posterity, swear by the blood of the Revolution never to violate in the least particular the laws of the country.",
+      "authorName": "Abraham Lincoln",
+      "source": "Address to the Young Men's Lyceum of Springfield, Illinois, January 27, 1838",
+      "quoteDate": "1838-01-27",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lincoln was 28 and speaking about mob violence; he went on to call reverence for the law 'the political religion of the nation.'",
+      "tags": [
+        "justice",
+        "politics",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-009",
+      "content": "We are learning that a standard of social ethics is not attained by travelling a sequestered byway, but by mixing on the thronged and common road where all must turn out for one another, and at least see the size of one another's burdens.",
+      "authorName": "Jane Addams",
+      "source": "Democracy and Social Ethics (1902)",
+      "quoteDate": "1902",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening argument of the book, drawn from Addams's years at Hull-House: democratic ethics are learned by proximity, not by principle.",
+      "tags": [
+        "community",
+        "service",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-010",
+      "content": "Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.",
+      "authorName": "Louis D. Brandeis",
+      "source": "Other People's Money and How the Bankers Use It (1914)",
+      "quoteDate": "1914",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The origin of 'sunlight is the best disinfectant,' written two years before Brandeis joined the Supreme Court, as an argument for disclosure laws rather than as a general maxim.",
+      "tags": [
+        "truth",
+        "justice",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-011",
+      "content": "Those who won our independence believed that the final end of the State was to make men free to develop their faculties, and that in its government the deliberative forces should prevail over the arbitrary.",
+      "authorName": "Louis D. Brandeis",
+      "source": "Whitney v. California, 274 U.S. 357 (1927), concurring",
+      "quoteDate": "1927-05-16",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "From the concurrence that reframed American free-speech law around self-government rather than around individual grievance.",
+      "tags": [
+        "freedom",
+        "politics",
+        "purpose"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-012",
+      "content": "If there be time to expose through discussion the falsehood and fallacies, to avert the evil by the processes of education, the remedy to be applied is more speech, not enforced silence.",
+      "authorName": "Louis D. Brandeis",
+      "source": "Whitney v. California, 274 U.S. 357 (1927), concurring",
+      "quoteDate": "1927-05-16",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "The counter-speech doctrine in one sentence; Brandeis allowed the exception in the clause before it, where there is no time to answer.",
+      "tags": [
+        "freedom",
+        "dissent",
+        "truth"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-013",
+      "content": "The best test of truth is the power of the thought to get itself accepted in the competition of the market.",
+      "authorName": "Oliver Wendell Holmes Jr.",
+      "source": "Abrams v. United States, 250 U.S. 616 (1919), dissenting",
+      "quoteDate": "1919-11-10",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "The origin of the 'marketplace of ideas'; Holmes wrote it in dissent, on behalf of leafleteers convicted for opposing the war.",
+      "tags": [
+        "truth",
+        "freedom",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-014",
+      "content": "If there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein.",
+      "authorName": "Robert H. Jackson",
+      "source": "West Virginia State Board of Education v. Barnette, 319 U.S. 624 (1943)",
+      "quoteDate": "1943-06-14",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Handed down on Flag Day, in the middle of the war, for Jehovah's Witness children expelled from school for refusing to salute the flag.",
+      "tags": [
+        "freedom",
+        "dissent",
+        "politics"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-015",
+      "content": "Liberty lies in the hearts of men and women; when it dies there, no constitution, no law, no court can save it; no constitution, no law, no court can even do much to help it.",
+      "authorName": "Learned Hand",
+      "source": "'The Spirit of Liberty,' I Am an American Day address, Central Park, New York, May 21, 1944",
+      "quoteDate": "1944-05-21",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Hand spoke to a crowd of newly naturalized citizens two weeks before D-Day; he was a federal judge saying that courts are not the thing that saves a republic.",
+      "tags": [
+        "freedom",
+        "warning",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-016",
+      "content": "The spirit of liberty is the spirit which is not too sure that it is right.",
+      "authorName": "Learned Hand",
+      "source": "'The Spirit of Liberty,' I Am an American Day address, Central Park, New York, May 21, 1944",
+      "quoteDate": "1944-05-21",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the same address; the definition is a temperament rather than a doctrine.",
+      "tags": [
+        "freedom",
+        "humility",
+        "paradox"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-017",
+      "content": "Let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and senators and congressmen and government officials, but the voters of this country.",
+      "authorName": "Franklin D. Roosevelt",
+      "source": "Address at Marietta, Ohio, July 8, 1938",
+      "quoteDate": "1938-07-08",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered at the sesquicentennial of the Northwest Territory, during a summer in which Roosevelt was arguing that democracies could still govern effectively.",
+      "tags": [
+        "politics",
+        "community",
+        "power"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-018",
+      "content": "Democracy is the recurrent suspicion that more than half of the people are right more than half of the time.",
+      "authorName": "E. B. White",
+      "source": "'Notes and Comment,' The New Yorker, July 3, 1943",
+      "quoteDate": "1943-07-03",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "White's reply to the Writers' War Board, which had written to ask him for a short statement on the meaning of democracy.",
+      "tags": [
+        "politics",
+        "doubt",
+        "wit",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-019",
+      "content": "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary.",
+      "authorName": "Reinhold Niebuhr",
+      "source": "The Children of Light and the Children of Darkness (1944), foreword",
+      "quoteDate": "1944",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Niebuhr's case is that democracy needs no optimism about human nature — it is the arrangement that survives pessimism.",
+      "tags": [
+        "justice",
+        "politics",
+        "paradox",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-020",
+      "content": "Democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience.",
+      "authorName": "John Dewey",
+      "source": "Democracy and Education, ch. 7 (1916)",
+      "quoteDate": "1916",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dewey's reason for treating schools as civic institutions: the habits of democracy are practised long before anyone votes.",
+      "tags": [
+        "politics",
+        "community",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-021",
+      "content": "Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.",
+      "authorName": "Winston Churchill",
+      "source": "Speech in the House of Commons, November 11, 1947 (Hansard)",
+      "quoteDate": "1947-11-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Quoted in full because the full version shows Churchill attributing the epigram to someone else — the earlier source has never been identified.",
+      "tags": [
+        "politics",
+        "wit",
+        "paradox"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-022",
+      "content": "Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Farewell Address to the Nation, January 17, 1961",
+      "quoteDate": "1961-01-17",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The sentence that follows the warning about the military-industrial complex, and names the only remedy Eisenhower proposed for it.",
+      "tags": [
+        "politics",
+        "power",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-023",
+      "content": "Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring those ripples build a current which can sweep down the mightiest walls of oppression and resistance.",
+      "authorName": "Robert F. Kennedy",
+      "source": "Day of Affirmation Address, University of Cape Town, South Africa, June 6, 1966",
+      "quoteDate": "1966-06-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered to students under apartheid at the invitation of the National Union of South African Students; Kennedy considered it his best speech.",
+      "tags": [
+        "hope",
+        "courage",
+        "justice",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-024",
+      "content": "The vote is the most powerful instrument ever devised by man for breaking down injustice and destroying the terrible walls which imprison men because they are different from other men.",
+      "authorName": "Lyndon B. Johnson",
+      "source": "Remarks on the signing of the Voting Rights Act, Washington, D.C., August 6, 1965",
+      "quoteDate": "1965-08-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Spoken in the Capitol rotunda at the signing, five months after the march from Selma to Montgomery.",
+      "tags": [
+        "justice",
+        "politics",
+        "equality"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-025",
+      "content": "I am not the candidate of black America, although I am black and proud. I am not the candidate of the women's movement of this country, although I am a woman, and I am equally proud of that. I am the candidate of the people of America.",
+      "authorName": "Shirley Chisholm",
+      "source": "Announcement of her candidacy for President, Brooklyn, New York, January 25, 1972",
+      "quoteDate": "1972-01-25",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Chisholm was the first Black woman elected to Congress and the first to seek a major party's presidential nomination.",
+      "tags": [
+        "identity",
+        "politics",
+        "authenticity"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-026",
+      "content": "We are a people in search of a national community.",
+      "authorName": "Barbara Jordan",
+      "source": "Keynote Address, Democratic National Convention, New York, July 12, 1976",
+      "quoteDate": "1976-07-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Jordan was the first Black woman to deliver a keynote at a major party convention; the speech's subject is what citizens owe each other rather than what they owe the state.",
+      "tags": [
+        "community",
+        "politics",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-027",
+      "content": "Freedom is a fragile thing and it's never more than one generation away from extinction. It is not ours by way of inheritance; it must be fought for and defended constantly by each generation, for it comes only once to a people.",
+      "authorName": "Ronald Reagan",
+      "source": "Inaugural Address as Governor of California, Sacramento, January 5, 1967",
+      "quoteDate": "1967-01-05",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Reagan used versions of this line for the rest of his career; this is the earliest documented delivery, in his first inaugural as governor.",
+      "tags": [
+        "freedom",
+        "legacy",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-028",
+      "content": "People, your government has returned to you!",
+      "authorName": "Václav Havel",
+      "source": "New Year's Address to the Nation, Prague, January 1, 1990",
+      "quoteDate": "1990-01-01",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Havel's first address as president, six weeks after the Velvet Revolution; he was quoting the seventeenth-century exile Jan Amos Comenius.",
+      "tags": [
+        "freedom",
+        "politics",
+        "rallying-cry",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-029",
+      "content": "The ideal subject of totalitarian rule is not the convinced Nazi or the convinced Communist, but people for whom the distinction between fact and fiction and the distinction between true and false no longer exist.",
+      "authorName": "Hannah Arendt",
+      "source": "The Origins of Totalitarianism (1951)",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Quoted without Arendt's two parenthetical glosses, which read 'i.e., the reality of experience' and 'i.e., the standards of thought'; the sentence is otherwise as published.",
+      "tags": [
+        "truth",
+        "power",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-030",
+      "content": "Do not obey in advance. Most of the power of authoritarianism is freely given.",
+      "authorName": "Timothy Snyder",
+      "source": "On Tyranny: Twenty Lessons from the Twentieth Century (2017), Lesson 1",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snyder's first lesson, drawn from how quickly institutions in 1930s Europe adapted themselves to expectations no one had yet enforced.",
+      "tags": [
+        "dissent",
+        "power",
+        "advice",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-031",
+      "content": "The vote is precious. It is almost sacred. It is the most powerful non-violent tool we have in a democratic society, and we must use it.",
+      "authorName": "John Lewis",
+      "source": "'Together, You Can Redeem the Soul of Our Nation,' The New York Times, July 30, 2020",
+      "quoteDate": "2020-07-30",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "From the essay Lewis wrote shortly before his death, with instructions that it be published on the day of his funeral.",
+      "tags": [
+        "justice",
+        "politics",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-032",
+      "content": "Throwing out preclearance when it has worked and is continuing to work to stop discriminatory changes is like throwing away your umbrella in a rainstorm because you are not getting wet.",
+      "authorName": "Ruth Bader Ginsburg",
+      "source": "Shelby County v. Holder, 570 U.S. 529 (2013), dissenting",
+      "quoteDate": "2013-06-25",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Ginsburg's dissent from the decision that ended federal preclearance of voting changes in covered jurisdictions.",
+      "tags": [
+        "justice",
+        "equality",
+        "dissent"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-033",
+      "content": "The opposite of poverty is not wealth. The opposite of poverty is justice.",
+      "authorName": "Bryan Stevenson",
+      "source": "Just Mercy: A Story of Justice and Redemption (2014)",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Stevenson's summary of what three decades of capital defence work taught him about who ends up in American prisons.",
+      "tags": [
+        "justice",
+        "money",
+        "equality",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-034",
+      "content": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "authorName": "Margaret Mead",
+      "source": "Widely attributed to Mead; no primary source located",
+      "verificationStatus": "attributed",
+      "sourceType": "unspecified",
+      "notes": "Attribution is the failing axis: the Institute for Intercultural Studies, which Mead founded, has said it can find no original source for the line in her writings or recorded talks, though it is consistent with her views.",
+      "tags": [
+        "community",
+        "change",
+        "hope",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-035",
+      "content": "The practice of democracy is not passed down through the gene pool. It must be taught and learned anew by each generation of citizens.",
+      "authorName": "Sandra Day O'Connor",
+      "source": "Said by O'Connor in speeches and writings on civic education after leaving the Supreme Court",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "attributed",
+      "sourceType": "speech",
+      "notes": "Wording is the failing axis: O'Connor made this argument repeatedly in support of civic education, but the phrasing varies between appearances and no single primary text is definitive.",
+      "tags": [
+        "politics",
+        "teaching",
+        "legacy"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}

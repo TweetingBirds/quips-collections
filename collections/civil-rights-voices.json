@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Douglass's speech marking the anniversary of British West Indian emancipation; text preserved in the Frederick Douglass Papers.",
+      "tags": [
+        "power",
+        "dissent",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Same 1857 address; among the most-cited passages of Douglass's oratory.",
+      "tags": [
+        "dissent",
+        "freedom",
+        "equality",
+        "adversity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +53,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Douglass's reply to the 'no union with slaveholders' abolitionist motto, arguing for pragmatic alliances.",
+      "tags": [
+        "integrity",
+        "justice",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +69,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Tubman's words on her first escape as recorded in Bradford's biography, the earliest documented source for her recollections.",
+      "tags": [
+        "freedom",
+        "courage",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +85,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: fact-checkers (PolitiFact, Snopes, Africa Check) find no evidence Tubman said this; the line surfaced only in the 1990s-2000s and contradicts her own accounts of freeing about 70 people.",
+      "tags": [
+        "freedom",
+        "ignorance",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +101,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From the contemporaneous 1851 transcription by Marius Robinson, whom Truth knew and who reviewed the text with her; considered the most reliable record of the speech.",
+      "tags": [
+        "equality",
+        "identity",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +117,11 @@
       "verificationStatus": "unverified",
       "sourceType": "speech",
       "notes": "Wording axis fails: this famous 'Ain't I a woman?' version is Gage's 1863 reconstruction in a fabricated Southern dialect, published 12 years later and differing sharply from the 1851 Robinson transcript.",
+      "tags": [
+        "equality",
+        "dissent",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +133,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From her posthumously published autobiography, recounting her resolve after the 1892 Memphis lynching of her friend Thomas Moss.",
+      "tags": [
+        "justice",
+        "courage",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +149,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: universally attributed to Wells and reportedly used on her lecture advertising, but not located in a dated primary text such as Southern Horrors.",
+      "tags": [
+        "truth",
+        "justice",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +165,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The thesis Du Bois announces in the 'Forethought' of his landmark essay collection.",
+      "tags": [
+        "equality",
+        "history",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +181,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A recurring refrain in the closing chapter, 'The Legacy of John Brown,' of Du Bois's biography of the abolitionist.",
+      "tags": [
+        "freedom",
+        "power",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +197,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered by the Supreme Court justice; collected in J. Clay Smith Jr., ed., Supreme Justice: Speeches and Writings (2003).",
+      "tags": [
+        "humility",
+        "gratitude",
+        "community"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +213,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Spoken after the murders of James Chaney, Andrew Goodman, and Michael Schwerner; later adapted into 'Ella's Song' by Bernice Johnson Reagon. Content corrected 2026-08-17: prior wording dropped the closing clause ('...we who believe in freedom cannot rest.') and mismatched singular/plural ('a white mother's sons'). Corrected wording corroborated by Wikiquote (citing the 1981 documentary 'Fundi: The Story of Ella Baker') and independent secondary coverage (National Memo); a shorter variant without 'until this happens' also circulates (e.g. HuffPost) but isn't traced to a primary transcript.",
+      "tags": [
+        "equality",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +229,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: widely cited as Baker's personal motto and used as the title of Barbara Ransby's biography, but not traced to a dated primary source.",
+      "tags": [
+        "leadership",
+        "hope",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +245,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Rustin's line, dated by biographers to his return from India around 1948 and echoed in later speeches; collected in his published writings.",
+      "tags": [
+        "dissent",
+        "community",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +261,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From her autobiography, correcting the myth that her refusal to give up her bus seat was merely physical exhaustion.",
+      "tags": [
+        "dissent",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +277,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered at a rally, shared with Malcolm X, supporting the Mississippi Freedom Democratic Party's congressional challenge.",
+      "tags": [
+        "adversity",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +293,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The closing line and title of her address; collected in The Speeches of Fannie Lou Hamer: To Tell It Like It Is.",
+      "tags": [
+        "freedom",
+        "equality",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +310,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "King's reply to clergymen who called him an 'outsider,' written from jail during the Birmingham campaign.",
+      "tags": [
+        "justice",
+        "community",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +326,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From King's published sermon collection; the chapter develops his case for nonviolent, redemptive love.",
+      "tags": [
+        "compassion",
+        "peace",
+        "aphorism",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +343,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Appears in Strength to Love; an earlier version was printed in King's The Measure of a Man (1959).",
+      "tags": [
+        "integrity",
+        "courage",
+        "adversity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +360,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "King's paraphrase of 19th-century abolitionist Theodore Parker, whose source he acknowledged when quoting the line.",
+      "tags": [
+        "justice",
+        "hope",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +376,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Collected in By Any Means Necessary: Speeches, Interviews, and a Letter by Malcolm X (1970).",
+      "tags": [
+        "freedom",
+        "justice",
+        "defiance",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +393,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From a letter written during his pilgrimage to Mecca, quoted in the autobiography's final chapter.",
+      "tags": [
+        "truth",
+        "justice",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +409,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing. Date is estimated from the earliest documented source of the underlying line, Malcolm X's address at the founding rally of the Organization of Afro-American Unity on 28 June 1964: 'Education is our passport to the future, for tomorrow belongs only to the people who prepare for it today.'",
+      "tags": [
+        "learning",
+        "hope",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +425,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "From Lewis's own social-media account; his signature phrase 'good trouble' recurred throughout his speeches and interviews.",
+      "tags": [
+        "dissent",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +441,12 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Lewis asked that this essay be published on the day of his funeral, addressed to future generations.",
+      "tags": [
+        "purpose",
+        "courage",
+        "legacy",
+        "farewell"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +458,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "The guiding slogan of Bridges's own foundation, stated by her in public remarks and on its official site; minor wording variants exist.",
+      "tags": [
+        "equality",
+        "parenthood",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +474,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "From the concluding paragraph of Baldwin's essay on American writers' duty to confront reality; attribution and wording confirmed by Snopes and Quote Investigator against the original review.",
+      "tags": [
+        "change",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-07-30T12:00:00Z"
     },
     {
@@ -339,6 +490,11 @@
       "verificationStatus": "verified",
       "sourceType": "poem",
       "notes": "Closing line of Murray's poem 'Dark Testament'; later used as the title of her posthumously published autobiography, Song in a Weary Throat (1987). Murray was a civil rights lawyer, poet, and priest whose legal theories underpinned Brown v. Board and later gender-discrimination law.",
+      "tags": [
+        "hope",
+        "adversity",
+        "lyrical"
+      ],
       "addedAt": "2026-08-13T12:00:00Z"
     }
   ]

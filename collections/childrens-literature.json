@@ -20,6 +20,12 @@
       "quoteDate": "1990",
       "verificationStatus": "verified",
       "notes": "The book's signature line on self-direction and possibility.",
+      "tags": [
+        "choice",
+        "freedom",
+        "graduation",
+        "encouragement"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -31,6 +37,12 @@
       "quoteDate": "1990",
       "verificationStatus": "verified",
       "notes": "The opening lines of the book, a perennial graduation gift.",
+      "tags": [
+        "beginnings",
+        "graduation",
+        "encouragement",
+        "rallying-cry"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -42,6 +54,12 @@
       "quoteDate": "1990",
       "verificationStatus": "verified",
       "notes": "A playful assurance of success near the book's close.",
+      "tags": [
+        "success",
+        "hope",
+        "graduation",
+        "humor"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -53,6 +71,12 @@
       "quoteDate": "1971",
       "verificationStatus": "verified",
       "notes": "The Once-ler passes on the word 'UNLESS' as the book's environmental message.",
+      "tags": [
+        "service",
+        "earth",
+        "compassion",
+        "rallying-cry"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -64,6 +88,12 @@
       "quoteDate": "1971",
       "verificationStatus": "verified",
       "notes": "The Lorax introduces himself as defender of the Truffula forest.",
+      "tags": [
+        "earth",
+        "nature",
+        "dissent",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -75,6 +105,12 @@
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "notes": "Horton the elephant's refrain about the worth of every living thing.",
+      "tags": [
+        "equality",
+        "compassion",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -86,6 +122,11 @@
       "quoteDate": "1926",
       "verificationStatus": "verified",
       "notes": "Piglet and Pooh walking home together in Chapter 10, 'In Which Christopher Robin Gives Pooh a Party, and We Say Goodbye' -- the closing chapter of the first Pooh book, not The House at Pooh Corner as previously cited here. Genuinely Milne's text (the AZQuotes attribution of this same passage to Benjamin Hoff, author of The Tao of Pooh, is itself an aggregator misattribution, not a legitimate alternate source).",
+      "tags": [
+        "simplicity",
+        "friendship",
+        "humor"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -97,6 +138,11 @@
       "quoteDate": "1928",
       "verificationStatus": "verified",
       "notes": "Said by the grown-up stream as it nears the edge of the Forest.",
+      "tags": [
+        "patience",
+        "simplicity",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -108,6 +154,11 @@
       "quoteDate": "1926",
       "verificationStatus": "verified",
       "notes": "Spoken by Eeyore in Milne's original book.",
+      "tags": [
+        "kindness",
+        "compassion",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -119,6 +170,12 @@
       "quoteDate": "1964",
       "verificationStatus": "verified",
       "notes": "From the Oompa-Loompas' song after Mike Teavee is shrunk.",
+      "tags": [
+        "reading",
+        "technology",
+        "advice",
+        "humor"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -130,6 +187,11 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "notes": "Describing how reading opened the world to young Matilda.",
+      "tags": [
+        "reading",
+        "imagination",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -141,6 +203,11 @@
       "quoteDate": "1982",
       "verificationStatus": "verified",
       "notes": "The Big Friendly Giant on human skepticism.",
+      "tags": [
+        "doubt",
+        "imagination",
+        "wonder"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -152,6 +219,11 @@
       "quoteDate": "1982",
       "verificationStatus": "verified",
       "notes": "The BFG's advice to Sophie about language.",
+      "tags": [
+        "language",
+        "humor",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -163,6 +235,11 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "notes": "Charlotte the spider explaining to Wilbur why she helped him.",
+      "tags": [
+        "friendship",
+        "gratitude",
+        "tender"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -174,6 +251,12 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "notes": "The closing lines of the novel, in tribute to Charlotte.",
+      "tags": [
+        "friendship",
+        "legacy",
+        "eulogy",
+        "tender"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -185,6 +268,7 @@
       "quoteDate": "1865",
       "verificationStatus": "verified",
       "notes": "The Cheshire Cat to Alice in Chapter 6.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -196,6 +280,11 @@
       "quoteDate": "1865",
       "verificationStatus": "verified",
       "notes": "Alice puzzling over her changing identity in Chapter 2.",
+      "tags": [
+        "identity",
+        "questions",
+        "self-knowledge"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -207,6 +296,7 @@
       "quoteDate": "1865",
       "verificationStatus": "verified",
       "notes": "Alice's exclamation as she begins to grow, opening Chapter 2.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -218,6 +308,11 @@
       "quoteDate": "1865",
       "verificationStatus": "verified",
       "notes": "Alice to the Caterpillar in Chapter 5; the exact text, not the popular 'I can't go back' paraphrase.",
+      "tags": [
+        "change",
+        "identity",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -229,6 +324,11 @@
       "quoteDate": "1900",
       "verificationStatus": "verified",
       "notes": "Dorothy to the Scarecrow; the book's wording for the famous sentiment.",
+      "tags": [
+        "home",
+        "community",
+        "longing"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -240,6 +340,11 @@
       "quoteDate": "1964",
       "verificationStatus": "verified",
       "notes": "The book's recurring refrain and final line.",
+      "tags": [
+        "sacrifice",
+        "generosity",
+        "tender"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -251,6 +356,11 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "Max declaring the start of the celebration among the Wild Things.",
+      "tags": [
+        "joy",
+        "imagination",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -262,6 +372,11 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "The Wild Things cry out as Max prepares to sail home.",
+      "tags": [
+        "longing",
+        "love",
+        "farewell"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -273,6 +388,7 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "The final line, about the supper waiting in Max's room.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -284,6 +400,11 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "notes": "The fox's secret to the little prince (Katherine Woods translation).",
+      "tags": [
+        "wisdom",
+        "love",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -295,6 +416,11 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "notes": "The fox on love and commitment (Katherine Woods translation).",
+      "tags": [
+        "loyalty",
+        "love",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -306,6 +432,11 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "notes": "The fox on what gives the prince's rose its value (Katherine Woods translation).",
+      "tags": [
+        "love",
+        "time",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -317,6 +448,11 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "notes": "From the book's dedication (Katherine Woods translation).",
+      "tags": [
+        "aging",
+        "memory",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -328,6 +464,11 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "notes": "The little prince to the narrator in the desert (Katherine Woods translation).",
+      "tags": [
+        "hope",
+        "wonder",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -339,6 +480,12 @@
       "quoteDate": "1922",
       "verificationStatus": "verified",
       "notes": "The Skin Horse explaining to the Rabbit what it means to become Real.",
+      "tags": [
+        "love",
+        "authenticity",
+        "identity",
+        "tender"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -350,6 +497,11 @@
       "quoteDate": "1922",
       "verificationStatus": "verified",
       "notes": "The Skin Horse on the permanence of being Real.",
+      "tags": [
+        "identity",
+        "love",
+        "tender"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     }
   ]

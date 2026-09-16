@@ -23,6 +23,10 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
     - iconName is one the website can render, per schema/website-icons.json
       (skipped with a warning if that mirror is missing or unreadable)
     - no duplicate quote text within a collection
+    - quote tags, when present, are known slugs from schema/tags.json, unique,
+      at most MAX_TAGS_PER_QUOTE of them, and include at least one 'theme' tag
+      (skipped with a warning if the vocabulary is missing or unreadable)
+    - a quote carries no tags at all -- only under --require-tags
 
   WARN
     - description differs between index entry and file
@@ -37,11 +41,18 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
 
 Usage:
     validate_collections.py [--root ROOT] [--collection ID] [--strict]
+                            [--require-tags]
 
-    --root        repo root containing collections.json (default: .)
-    --collection  validate only this collection + its index entry
-                  (skips orphan and cross-collection prefix checks)
-    --strict      treat warnings as errors (use in CI)
+    --root          repo root containing collections.json (default: .)
+    --collection    validate only this collection + its index entry
+                    (skips orphan and cross-collection prefix checks)
+    --strict        treat warnings as errors (use in CI)
+    --require-tags  error on any quote with no tags. Off by default, and
+                    deliberately not a warning: CI runs --strict, where a
+                    warning is a failure, so warning on untagged quotes would
+                    redden main for the whole of a multi-PR tagging rollout.
+                    Turn it on in CI once coverage reaches 100% -- until then
+                    scripts/tag_report.py is what tracks the gap.
 
 Exit code 0 on success, 1 on failure.
 """
@@ -70,6 +81,13 @@ VALID_SOURCE_TYPES = {
 # whole constraint this side needs to enforce. Checked in rather than fetched so
 # validation stays offline and stdlib-only; refresh with refresh_website_icons.py.
 WEBSITE_ICONS_REL = os.path.join("schema", "website-icons.json")
+# Controlled tag vocabulary. Tags are only worth having if two quotes in
+# different collections land on the *same* one, so the set is closed and this
+# file is the whole of it -- see its own "note" field.
+TAGS_REL = os.path.join("schema", "tags.json")
+# Mirrors the app's QuoteValidator.maxTagsPerQuote (8) minus the category tag
+# import also applies, minus headroom for a user's own tags.
+MAX_TAGS_PER_QUOTE = 6
 ID_RE = re.compile(r"^[a-z0-9]+-\d{3,}$")
 TS_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
 # Accepts the date shapes actually used across the collections:
@@ -135,11 +153,82 @@ def load_website_icons(root, rep):
     return set(names)
 
 
+def load_tag_vocabulary(root, rep):
+    """The tag vocabulary as (slugs, theme_slugs, avoid_map), or None.
+
+    Unreadable warns rather than errors, for the same reason the icon mirror
+    does: it makes a check unavailable, which is worth saying, but it is not a
+    defect in the data under validation.
+
+    `avoid_map` turns each tag's `avoid` list inside out, so a quote tagged
+    "grit" is told to use "perseverance" instead of being told only that "grit"
+    is unknown. Naming the replacement is the entire point -- a rollout spread
+    over many PRs drifts precisely when a writer has to guess which near-synonym
+    the vocabulary settled on.
+    """
+    path = os.path.join(root, TAGS_REL)
+    try:
+        with open(path, encoding="utf-8") as f:
+            entries = json.load(f).get("tags")
+    except (OSError, json.JSONDecodeError) as e:
+        rep.warn(f"{TAGS_REL}: unreadable ({e}) - skipping the tag checks")
+        return None
+    if not isinstance(entries, list) or not entries:
+        rep.warn(f"{TAGS_REL}: no 'tags' list - skipping the tag checks")
+        return None
+
+    slugs, themes, avoid_map = set(), set(), {}
+    for e in entries:
+        slug = e.get("slug")
+        if not slug:
+            continue
+        slugs.add(slug)
+        if e.get("facet") == "theme":
+            themes.add(slug)
+        for bad in e.get("avoid", []):
+            avoid_map[bad] = slug
+    return slugs, themes, avoid_map
+
+
+def validate_quote_tags(cid, qid, tags, vocab, rep, require_tags):
+    """Check one quote's `tags`. `vocab` is load_tag_vocabulary's triple."""
+    slugs, themes, avoid_map = vocab
+
+    if tags is None:
+        if require_tags:
+            rep.error(f"{cid}/{qid}: no tags")
+        return
+    if not isinstance(tags, list):
+        rep.error(f"{cid}/{qid}: 'tags' is not a list")
+        return
+    if require_tags and not tags:
+        rep.error(f"{cid}/{qid}: no tags")
+
+    if len(tags) > MAX_TAGS_PER_QUOTE:
+        rep.error(f"{cid}/{qid}: {len(tags)} tags (max {MAX_TAGS_PER_QUOTE})")
+    dupes = sorted(t for t, n in Counter(tags).items() if n > 1)
+    if dupes:
+        rep.error(f"{cid}/{qid}: duplicate tags {dupes}")
+
+    for t in tags:
+        if t in slugs:
+            continue
+        if t in avoid_map:
+            rep.error(f"{cid}/{qid}: tag {t!r} is a rejected spelling - use {avoid_map[t]!r}")
+        else:
+            rep.error(f"{cid}/{qid}: unknown tag {t!r} - add it to {TAGS_REL} or pick an existing slug")
+
+    # A quote tagged only "humor" has not been tagged: tone and occasion say how
+    # you would use it, never what it is about.
+    if tags and not any(t in themes for t in tags):
+        rep.error(f"{cid}/{qid}: no 'theme' tag among {tags}")
+
+
 def prefix_of(quote_id):
     return quote_id.rsplit("-", 1)[0] if "-" in quote_id else quote_id
 
 
-def validate_collection(cid, data, entry, rep, icon_names=None):
+def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, require_tags=False):
     """Validate one collection file against its index entry. Returns the
     collection's quote-id prefix (or None) for the cross-collection check."""
     if data is None:
@@ -157,6 +246,15 @@ def validate_collection(cid, data, entry, rep, icon_names=None):
             f"pick one from {WEBSITE_ICONS_REL}, or add an SVG for it to quipsapp.com's "
             f"js/icons.js and refresh the mirror"
         )
+
+    if vocab is not None and "tags" in data:
+        ctags = data.get("tags")
+        if not isinstance(ctags, list):
+            rep.error(f"{cid}: collection 'tags' is not a list")
+        else:
+            unknown = sorted(t for t in ctags if t not in vocab[0])
+            if unknown:
+                rep.error(f"{cid}: unknown collection tags {unknown}")
 
     quotes = data.get("quotes")
     if not isinstance(quotes, list):
@@ -216,6 +314,8 @@ def validate_collection(cid, data, entry, rep, icon_names=None):
             rep.warn(f"{cid}/{qid}: unrecognized quoteDate {qd!r}")
         if not TS_RE.match(str(q.get("addedAt", ""))):
             rep.warn(f"{cid}/{qid}: addedAt missing or not YYYY-MM-DDTHH:MM:SSZ")
+        if vocab is not None:
+            validate_quote_tags(cid, qid, q.get("tags"), vocab, rep, require_tags)
 
     texts = [str(q.get("content", "")).strip().lower() for q in quotes]
     dup_text = sorted(t for t, n in Counter(t for t in texts if t).items() if n > 1)
@@ -230,6 +330,11 @@ def main():
     ap.add_argument("--root", default=".", help="repo root containing collections.json")
     ap.add_argument("--collection", help="validate only this collection id")
     ap.add_argument("--strict", action="store_true", help="treat warnings as errors")
+    ap.add_argument(
+        "--require-tags",
+        action="store_true",
+        help="error on any quote with no tags (turn on in CI once coverage is complete)",
+    )
     args = ap.parse_args()
 
     rep = Report()
@@ -245,6 +350,7 @@ def main():
         rep.warn("collections.json: top-level lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
 
     icon_names = load_website_icons(args.root, rep)
+    vocab = load_tag_vocabulary(args.root, rep)
 
     entries = {e.get("id"): e for e in index.get("collections", [])}
 
@@ -270,7 +376,9 @@ def main():
         if cid not in files:
             continue
         data = load_json(os.path.join(coll_dir, f"{cid}.json"), rep)
-        prefix = validate_collection(cid, data, entries.get(cid), rep, icon_names)
+        prefix = validate_collection(
+            cid, data, entries.get(cid), rep, icon_names, vocab, args.require_tags
+        )
         if prefix:
             prefixes.setdefault(prefix, []).append(cid)
 

@@ -39,6 +39,7 @@ is an index of every collection and must be kept in sync (its `quoteCount` and `
      "verificationStatus": "verified",
      "sourceType": "television",
      "notes": "One sentence of context about the quote.",
+     "tags": ["friendship", "loyalty", "one-liner"],
      "addedAt": "2026-01-15T12:00:00Z"
    }
    ```
@@ -59,6 +60,30 @@ is an index of every collection and must be kept in sync (its `quoteCount` and `
    - `verificationStatus` — `verified` / `unverified`. See **Verification** below. The default
      is `unverified`; promote to `verified` only when the bar is met.
    - `notes` — a single sentence of context (and, if `unverified`, which axis failed).
+   - `tags` — 3–5 slugs (hard max 6) from the controlled vocabulary in
+     `schema/tags.json`. **Read that file's `useWhen` line for each tag you are
+     considering** — the glosses are what keep the same idea from being tagged
+     `perseverance` one week and `grit` the next, and the validator rejects any
+     slug not listed. Rules:
+     - **Ordered most-specific-first.** The ordering is the ranking: bulk import
+       applies only the leading few, so lead with the tag that most distinguishes
+       this quote from its neighbours, not the most generic one.
+     - **At least one `theme` tag.** A quote tagged only `humor` and `one-liner`
+       has not been tagged — tone and occasion say how you would *use* it, never
+       what it is *about*.
+     - **Tag the quote, not its source.** A Naruto line is not tagged `ninja`;
+       the show is already in `source`, the genre already in `category`. A tag
+       that restates another field is noise in every list that renders tags.
+     - **An `occasion` tag is a claim about use.** `wedding` belongs on a line
+       someone would actually read at a wedding, not on every quote mentioning
+       love. Wrong here is worse than absent.
+     - **If the quote is not about anything, write `"tags": []`.** Some lines are
+       famous for being iconic, not for having a subject ("Hey! Listen!").
+       An empty array records that you read it and decided; omitting the key
+       means nobody has looked yet. Stretching a theme onto such a line is
+       worse than leaving it bare — it still imports with its category tag.
+     - Match the file: if the collection's existing entries have no `tags`, it
+       has not been through the tagging pass — tag your new quotes anyway.
    - `addedAt` — ISO-8601 UTC timestamp of when the quote is added, as
      `<today>T12:00:00Z` (the same value you set for `lastUpdated` in step 5).
      **Required** — CI (`validate_collections.py --strict`) fails without it. It
