@@ -20,6 +20,11 @@
       "quoteDate": "2002-05-03",
       "verificationStatus": "verified",
       "notes": "Uncle Ben's last conversation with Peter, and the line that has defined every Spider-Man story since.",
+      "tags": [
+        "power",
+        "honor",
+        "aphorism"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -31,6 +36,11 @@
       "quoteDate": "2002-05-03",
       "verificationStatus": "verified",
       "notes": "The opening narration that begins Sam Raimi's trilogy.",
+      "tags": [
+        "identity",
+        "adversity",
+        "questions"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -42,6 +52,11 @@
       "quoteDate": "2002-05-03",
       "verificationStatus": "verified",
       "notes": "Peter's closing narration, answering the question his opening narration asked.",
+      "tags": [
+        "power",
+        "honor",
+        "memory"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -53,6 +68,11 @@
       "quoteDate": "2002-05-03",
       "verificationStatus": "verified",
       "notes": "Aunt May worrying over a nephew who is, in fact, roughly Superman.",
+      "tags": [
+        "rest",
+        "family",
+        "warning"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -64,6 +84,11 @@
       "quoteDate": "2002-05-03",
       "verificationStatus": "verified",
       "notes": "The Green Goblin's pitch to Spider-Man, and the fear underneath every hero story in the franchise.",
+      "tags": [
+        "betrayal",
+        "service",
+        "warning"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -75,6 +100,11 @@
       "quoteDate": "2004-06-30",
       "verificationStatus": "verified",
       "notes": "Aunt May's answer when Peter asks whether the world still needs Spider-Man.",
+      "tags": [
+        "courage",
+        "identity",
+        "hope"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -86,6 +116,11 @@
       "quoteDate": "2004-06-30",
       "verificationStatus": "verified",
       "notes": "Doc Ock's fusion experiment, delivered first as a scientist's dream and later as a madman's boast.",
+      "tags": [
+        "pride",
+        "technology",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -97,6 +132,11 @@
       "quoteDate": "2004-06-30",
       "verificationStatus": "verified",
       "notes": "Octavius mentoring Peter before his own experiment takes him over.",
+      "tags": [
+        "service",
+        "humility",
+        "advice"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -108,6 +148,11 @@
       "quoteDate": "2004-06-30",
       "verificationStatus": "verified",
       "notes": "Peter quitting the job, in the film's turning point.",
+      "tags": [
+        "identity",
+        "endings",
+        "confession"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -119,6 +164,11 @@
       "quoteDate": "2007-05-04",
       "verificationStatus": "verified",
       "notes": "Aunt May's warning to Peter after he learns who really killed Uncle Ben.",
+      "tags": [
+        "forgiveness",
+        "anger",
+        "grief"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -130,6 +180,11 @@
       "quoteDate": "2007-05-04",
       "verificationStatus": "verified",
       "notes": "The closing narration of the Raimi trilogy.",
+      "tags": [
+        "choice",
+        "identity",
+        "integrity"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -141,6 +196,11 @@
       "quoteDate": "2007-05-04",
       "verificationStatus": "verified",
       "notes": "Sandman's confession to Peter about the night Uncle Ben died.",
+      "tags": [
+        "regret",
+        "forgiveness",
+        "confession"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -152,6 +212,11 @@
       "quoteDate": "2012-07-03",
       "verificationStatus": "verified",
       "notes": "This film's version of the famous lesson, which never uses the word 'power' at all.",
+      "tags": [
+        "service",
+        "honor",
+        "integrity"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -163,6 +228,11 @@
       "quoteDate": "2012-07-03",
       "verificationStatus": "verified",
       "notes": "Peter on the mystery of his parents' disappearance.",
+      "tags": [
+        "identity",
+        "honesty",
+        "aphorism"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -174,6 +244,11 @@
       "quoteDate": "2014-05-02",
       "verificationStatus": "verified",
       "notes": "From Gwen's valedictorian speech, which the film later replays as her eulogy.",
+      "tags": [
+        "mortality",
+        "impermanence",
+        "aphorism"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -185,6 +260,11 @@
       "quoteDate": "2014-05-02",
       "verificationStatus": "verified",
       "notes": "The opening of Gwen's graduation speech.",
+      "tags": [
+        "hope",
+        "adversity",
+        "warning"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -196,6 +276,11 @@
       "quoteDate": "2014-05-02",
       "verificationStatus": "verified",
       "notes": "The close of Gwen's valedictorian speech to her graduating class.",
+      "tags": [
+        "hope",
+        "purpose",
+        "encouragement"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -207,6 +292,11 @@
       "quoteDate": "2014-05-02",
       "verificationStatus": "verified",
       "notes": "Peter on the arithmetic of the job.",
+      "tags": [
+        "sacrifice",
+        "service",
+        "confession"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -218,6 +308,11 @@
       "quoteDate": "2016-05-06",
       "verificationStatus": "verified",
       "notes": "Peter explaining himself to Tony Stark in his Queens bedroom, the MCU's restatement of the great-power creed.",
+      "tags": [
+        "honor",
+        "choice",
+        "regret"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -229,6 +324,11 @@
       "quoteDate": "2017-07-07",
       "verificationStatus": "verified",
       "notes": "Tony taking the suit back after the ferry disaster, answering Peter's 'I'm nothing without this suit.'",
+      "tags": [
+        "identity",
+        "humility",
+        "blunt"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -240,6 +340,11 @@
       "quoteDate": "2017-07-07",
       "verificationStatus": "verified",
       "notes": "Tony's reply when Peter protests that he only wanted to be like him.",
+      "tags": [
+        "teaching",
+        "leadership",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -251,6 +356,7 @@
       "quoteDate": "2018-04-27",
       "verificationStatus": "verified",
       "notes": "Peter's first words as the snap takes him, largely improvised by Tom Holland on set.",
+      "tags": [],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -262,6 +368,11 @@
       "quoteDate": "2019-07-02",
       "verificationStatus": "verified",
       "notes": "Happy reassuring Peter that he was never meant to be the next Iron Man.",
+      "tags": [
+        "friendship",
+        "doubt",
+        "grief"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -273,6 +384,11 @@
       "quoteDate": "2019-07-02",
       "verificationStatus": "verified",
       "notes": "Mysterio explaining the illusion business after his cover is blown.",
+      "tags": [
+        "truth",
+        "ignorance",
+        "warning"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -284,6 +400,11 @@
       "quoteDate": "2019-07-02",
       "verificationStatus": "verified",
       "notes": "Beck to Peter, on why the world took a fake hero at face value.",
+      "tags": [
+        "truth",
+        "ignorance",
+        "blunt"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -295,6 +416,11 @@
       "quoteDate": "2019-07-02",
       "verificationStatus": "verified",
       "notes": "Fury pressing a grieving teenager back into service.",
+      "tags": [
+        "purpose",
+        "legacy",
+        "leadership"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -306,6 +432,11 @@
       "quoteDate": "2021-12-17",
       "verificationStatus": "verified",
       "notes": "May's last words to Peter, restoring the phrasing from Amazing Fantasy #15 rather than the 2002 film's.",
+      "tags": [
+        "power",
+        "honor",
+        "aphorism"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -317,6 +448,7 @@
       "quoteDate": "2021-12-17",
       "verificationStatus": "verified",
       "notes": "Improvised by Tobey Maguire to Andrew Garfield's Peter, who answers that he needed to hear it.",
+      "tags": [],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -328,6 +460,11 @@
       "quoteDate": "2021-12-17",
       "verificationStatus": "verified",
       "notes": "The three Peters comparing losses on the rooftop.",
+      "tags": [
+        "grief",
+        "failure",
+        "confession"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -339,6 +476,11 @@
       "quoteDate": "2021-12-17",
       "verificationStatus": "verified",
       "notes": "Strange's parting words before the spell erases Peter Parker from the world's memory.",
+      "tags": [
+        "longing",
+        "warning",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -350,6 +492,11 @@
       "quoteDate": "2018-12-14",
       "verificationStatus": "verified",
       "notes": "Miles taking over the film's origin-story narration from Peter Parker.",
+      "tags": [
+        "identity",
+        "beginnings",
+        "confession"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -361,6 +508,11 @@
       "quoteDate": "2018-12-14",
       "verificationStatus": "verified",
       "notes": "Peter B.'s answer to how you know you're ready, paid off in the film's signature falling shot.",
+      "tags": [
+        "faith",
+        "courage",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -372,6 +524,11 @@
       "quoteDate": "2018-12-14",
       "verificationStatus": "verified",
       "notes": "Jefferson speaking through Miles's closed dorm door, the moment Miles finally gets control of his powers.",
+      "tags": [
+        "parenthood",
+        "authenticity",
+        "tender"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -383,6 +540,11 @@
       "quoteDate": "2018-12-14",
       "verificationStatus": "verified",
       "notes": "Miles's closing narration, and the thesis of the whole Spider-Verse.",
+      "tags": [
+        "identity",
+        "equality",
+        "rallying-cry"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -394,6 +556,11 @@
       "quoteDate": "2018-12-14",
       "verificationStatus": "verified",
       "notes": "Stan Lee's cameo as the costume-shop owner selling Miles a Spider-Man suit that's too big.",
+      "tags": [
+        "identity",
+        "destiny",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -405,6 +572,11 @@
       "quoteDate": "2023-06-02",
       "verificationStatus": "verified",
       "notes": "Miles refusing the Spider-Society's rules about which losses are inevitable.",
+      "tags": [
+        "authenticity",
+        "destiny",
+        "defiance"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -416,6 +588,11 @@
       "quoteDate": "2023-06-02",
       "verificationStatus": "verified",
       "notes": "Gwen's narration opening the film, aware she is a recurring tragedy in someone else's story.",
+      "tags": [
+        "love",
+        "destiny",
+        "grief"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -427,6 +604,11 @@
       "quoteDate": "2023-06-02",
       "verificationStatus": "verified",
       "notes": "Miguel introducing canon events, the film's argument that suffering is structural.",
+      "tags": [
+        "destiny",
+        "community",
+        "one-liner"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -438,6 +620,11 @@
       "quoteDate": "2023-06-02",
       "verificationStatus": "verified",
       "notes": "Rio sending Miles off, without knowing what she's actually sending him into.",
+      "tags": [
+        "parenthood",
+        "identity",
+        "tender"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     },
     {
@@ -449,6 +636,11 @@
       "quoteDate": "2023-06-02",
       "verificationStatus": "verified",
       "notes": "Peter B. defending Miles to the Spider-Society, at his own expense.",
+      "tags": [
+        "humility",
+        "teaching",
+        "wit"
+      ],
       "addedAt": "2026-08-15T12:00:00Z"
     }
   ]

@@ -199,8 +199,8 @@
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-uUwpAId1qXouwgGZmPn4IGF2zA8EG7TNiSdK+tMLY+U=",
-      "bytes": 24336
+      "contentHash": "sha256-PIhTdimg2muIin/HSNjV9lvvl9/JrktX5K8gJuOOqQ0=",
+      "bytes": 28727
     },
     {
       "id": "oscar-wilde",
@@ -239,8 +239,8 @@
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-09-03T12:00:00Z",
-      "contentHash": "sha256-bkSEGssxdRiOpFTCK3M7ApfgMpFZ0v9YVbFREWhuKKw=",
-      "bytes": 22750
+      "contentHash": "sha256-4sE48xH/tA8KWP8md0W6njP/2vgnzb3NbfbTJt7BlxM=",
+      "bytes": 26503
     },
     {
       "id": "edgar-allan-poe",
@@ -499,8 +499,8 @@
       "category": "Movies",
       "addedAt": "2026-08-15T12:00:00Z",
       "lastUpdated": "2026-08-15T12:00:00Z",
-      "contentHash": "sha256-X/p/EgHE40yQP3fTqsBQxw85K5ldgKN20kdvNBWbStc=",
-      "bytes": 19891
+      "contentHash": "sha256-4XMKZwDXMZVwK5gqbzAEkmplK7NYAkmFJOd6qFFVtTU=",
+      "bytes": 23060
     },
     {
       "id": "dc-comics",
@@ -1039,8 +1039,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-Fd+WVJbA99P6Ql4fZ9Cii6NM/UFSPkG5MW8bfSM+TdA=",
-      "bytes": 11759
+      "contentHash": "sha256-9ylr/K+B6keUNpdQicD3nKqG8Qo3wxAC4ee/qzwWopI=",
+      "bytes": 13314
     },
     {
       "id": "legendary-coaches",
@@ -1439,8 +1439,8 @@
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-NYLa45rWY/PvKG03E3FgTd5JsNQKrZZz/b3CCAZy33k=",
-      "bytes": 13321
+      "contentHash": "sha256-auQM/HPJrAUk12aHedoOlrS8A+Sgt9CJeD+PLeINBMc=",
+      "bytes": 15434
     },
     {
       "id": "love-and-romance",
