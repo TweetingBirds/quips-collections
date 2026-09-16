@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Feynman's summary of scientific integrity, delivered to Caltech's graduating class and later reprinted in his essays.",
+      "tags": [
+        "honesty",
+        "self-knowledge",
+        "science"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the book of Feynman's 1964 Messenger Lectures at Cornell, in the chapter on quantum uncertainty.",
+      "tags": [
+        "ignorance",
+        "science",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Feynman on living comfortably with uncertainty, from his filmed BBC Horizon interview.",
+      "tags": [
+        "doubt",
+        "humility",
+        "science"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Written early in her career; reproduced in Eve Curie's biography Madame Curie (1937).",
+      "tags": [
+        "ambition",
+        "work",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Curie's own words as recorded by her daughter Eve; date reflects the documented source.",
+      "tags": [
+        "science",
+        "wonder",
+        "art"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Fails both axes: no primary Curie source, and the second sentence appears to be Seaborg's own addition, not Curie's words. Date is estimated from the earliest traceable appearance, Glenn T. Seaborg's 1967 account of a Curie centenary address.",
+      "tags": [
+        "fear",
+        "learning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Darwin's formal introduction of the term 'natural selection.'",
+      "tags": [
+        "science",
+        "nature",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The famous final sentence of the first edition, before 'by the Creator' was added in later editions.",
+      "tags": [
+        "wonder",
+        "nature",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Fails the wording/source axis: a secondhand recollection recorded years after Darwin's death, not from his own writing. Date is estimated from the earliest documented appearance, E. Ray Lankester's recollection printed in Library of the World's Best Literature (1896).",
+      "tags": [
+        "curiosity",
+        "failure",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "From Newton's letter to Hooke; the original is held by the Historical Society of Pennsylvania.",
+      "tags": [
+        "humility",
+        "learning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Newton inscribed this classical Latin adage ('Amicus Plato... magis amica veritas') as the motto of his Cambridge notebook; content is the standard translation.",
+      "tags": [
+        "truth",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Fails the source axis: traced only to secondhand anecdotes gathered after Newton's death, with no primary source in his own hand. Date is estimated from Newton's last year, when the remark is said to have been made; it survives only through Spence's Anecdotes and Brewster's 1855 Memoirs.",
+      "tags": [
+        "humility",
+        "ignorance",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Galileo's 'book of nature' passage, in the standard Stillman Drake translation.",
+      "tags": [
+        "science",
+        "the-cosmos",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Galileo's genuine wording; the popular 'authority of a thousand is not worth the humble reasoning of a single individual' is a looser 1859 translation and is not used here.",
+      "tags": [
+        "dissent",
+        "truth",
+        "science"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Written in his lab notebook while musing on a possible link between gravity and electricity.",
+      "tags": [
+        "wonder",
+        "science",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Faraday's reply when the young chemist Crookes asked the secret of his success; date reflects the documented source.",
+      "tags": [
+        "work",
+        "discipline",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Bohr's favorite maxim on complementarity, recorded by his colleague Heisenberg; consistent with the son Hans Bohr's 1967 account.",
+      "tags": [
+        "truth",
+        "paradox",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "unverified",
       "sourceType": "article",
       "notes": "Fails the source axis: attributed secondhand via Teller and part of an older family of similar sayings; no primary Bohr source. Dated to Edward Teller's account in LIFE magazine (1954), the earliest documented appearance.",
+      "tags": [
+        "mistakes",
+        "learning",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "lecture",
       "notes": "Original French: 'Dans les champs de l'observation le hasard ne favorise que les esprits prepares.'",
+      "tags": [
+        "practice",
+        "destiny",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Recorded in Rene Dubos, Louis Pasteur, Free Lance of Science (1960).",
+      "tags": [
+        "science",
+        "community",
+        "equality"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Sometimes paraphrased as 'science advances one funeral at a time'; this is Planck's actual wording.",
+      "tags": [
+        "change",
+        "truth",
+        "wit"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "From Lovelace's translator's notes, published in Taylor's Scientific Memoirs.",
+      "tags": [
+        "technology",
+        "imagination",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Often cited in debates on machine creativity and artificial intelligence.",
+      "tags": [
+        "technology",
+        "creativity",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Wilson's answer during a moderated public debate with James Watson.",
+      "tags": [
+        "technology",
+        "power",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Wilson on the irreversibility of biodiversity loss.",
+      "tags": [
+        "earth",
+        "money",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Franklin, then a student, replying to her father's view of science as separate from real life; also in the Oxford Dictionary of Quotations.",
+      "tags": [
+        "science",
+        "meaning",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +436,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From lectures Heisenberg gave at St. Andrews, on the observer's role in physics.",
+      "tags": [
+        "questions",
+        "truth",
+        "science"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +452,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "McClintock's own words from Keller's interviews for the biography, published the year she won the Nobel Prize.",
+      "tags": [
+        "curiosity",
+        "nature",
+        "joy"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +468,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Fails the wording axis: a genuine Goodall theme, but phrasing varies across sources ('can we care' vs 'will we care') with no single confirmed primary text. Date is estimated from Jane Goodall: 40 Years at Gombe (1999), the work it is usually associated with.",
+      "tags": [
+        "compassion",
+        "learning",
+        "earth"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +484,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians.",
+      "tags": [
+        "learning",
+        "craft",
+        "aphorism"
+      ],
       "addedAt": "2026-07-09T12:40:13Z"
     },
     {
@@ -350,6 +500,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Feynman on being comfortable with uncertainty rather than false certainty, from the same filmed BBC Horizon interview as sci-003.",
+      "tags": [
+        "doubt",
+        "curiosity",
+        "confession"
+      ],
       "addedAt": "2026-07-23T12:00:00Z"
     },
     {
@@ -361,6 +516,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Einstein's reply to his biographer on the source of his achievements; catalogued in Alice Calaprice's The Ultimate Quotable Einstein.",
+      "tags": [
+        "curiosity",
+        "humility",
+        "one-liner"
+      ],
       "addedAt": "2026-08-06T12:00:00Z"
     },
     {
@@ -372,6 +532,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Oppenheimer, in filmed interview footage, recalls this line from the Bhagavad Gita as his reaction on witnessing the 1945 Trinity test.",
+      "tags": [
+        "war",
+        "technology",
+        "regret"
+      ],
       "addedAt": "2026-08-06T12:00:00Z"
     },
     {
@@ -383,6 +548,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Noether on how her abstract methods in algebra spread through later mathematicians' work without attribution; from a letter to fellow mathematician Helmut Hasse.",
+      "tags": [
+        "craft",
+        "legacy",
+        "humility"
+      ],
       "addedAt": "2026-09-10T12:00:00Z"
     }
   ]

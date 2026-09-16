@@ -20,6 +20,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Opening line of the Bliss copy, the only version Lincoln signed, dedicating the Soldiers' National Cemetery.",
+      "tags": [
+        "equality",
+        "freedom",
+        "history",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +37,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From the Bliss copy; the phrase 'last full measure of devotion' honors the Union dead.",
+      "tags": [
+        "sacrifice",
+        "honor",
+        "eulogy"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +53,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Closing line of the Bliss copy; 'under God' appears in the delivered text but not Lincoln's earliest drafts.",
+      "tags": [
+        "politics",
+        "freedom",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +69,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Lincoln's plea for reconciliation delivered weeks before the Civil War's end and his assassination.",
+      "tags": [
+        "forgiveness",
+        "peace",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +85,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Lincoln reflecting on the shared faith of North and South during the Civil War.",
+      "tags": [
+        "war",
+        "faith",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +101,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The 'I have a dream' refrain was largely improvised; this line is the speech's most quoted passage.",
+      "tags": [
+        "equality",
+        "hope",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +118,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "King ties the civil rights cause to the Declaration of Independence.",
+      "tags": [
+        "equality",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +134,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "King rejects gradualism and insists on immediate action on civil rights.",
+      "tags": [
+        "justice",
+        "present-moment",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +150,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The line later inscribed on King's memorial on the National Mall.",
+      "tags": [
+        "hope",
+        "despair",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +166,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "King closes by quoting an old African American spiritual.",
+      "tags": [
+        "freedom",
+        "joy",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +182,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Churchill's first speech as PM; often misremembered as 'blood, sweat and tears.'",
+      "tags": [
+        "sacrifice",
+        "war",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +198,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From the same 'Blood, Toil, Tears and Sweat' address to the Commons.",
+      "tags": [
+        "perseverance",
+        "war",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +214,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered after Dunkirk; Churchill said 'on the beaches,' not the common misquote 'on the beaches them.'",
+      "tags": [
+        "defiance",
+        "war",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +230,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Spoken as the Battle of Britain began; the closing line gives the speech its name.",
+      "tags": [
+        "honor",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +246,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Kennedy signals a generational shift in American leadership.",
+      "tags": [
+        "legacy",
+        "change",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +262,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "A Cold War pledge of American resolve to defend freedom worldwide.",
+      "tags": [
+        "sacrifice",
+        "freedom",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +278,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Kennedy balances firmness with an opening to diplomacy with the Soviet Union.",
+      "tags": [
+        "fear",
+        "peace",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +294,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The most quoted line of any modern inaugural, crafted with speechwriter Ted Sorensen.",
+      "tags": [
+        "service",
+        "politics",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +310,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Kennedy rallies public support for the Apollo program to reach the Moon.",
+      "tags": [
+        "ambition",
+        "the-cosmos",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +326,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Roosevelt reassures a nation gripped by the Great Depression.",
+      "tags": [
+        "fear",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +342,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "FDR changed his draft's 'a date which will live in world history' to 'infamy'; often misquoted as 'a day.'",
+      "tags": [
+        "war",
+        "history",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +358,11 @@
       "verificationStatus": "unverified",
       "sourceType": "speech",
       "notes": "Wording axis fails: this famous refrain comes from Frances Gage's 1863 reconstruction, not the contemporaneous 1851 report by Marius Robinson, which lacks the phrase and the Southern dialect.",
+      "tags": [
+        "equality",
+        "identity",
+        "questions"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +374,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Anthony's stump speech after her arrest for voting in the 1872 presidential election.",
+      "tags": [
+        "equality",
+        "justice",
+        "dissent"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +390,11 @@
       "verificationStatus": "unverified",
       "sourceType": "speech",
       "notes": "Wording axis fails: no contemporaneous transcript exists; the text was reconstructed from memory by biographer William Wirt in 1817, decades after delivery.",
+      "tags": [
+        "freedom",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +406,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Reagan's challenge over the Berlin Wall, which several advisers had urged him to cut.",
+      "tags": [
+        "freedom",
+        "politics",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +422,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Mandela's closing statement at the trial that sent him to prison for 27 years.",
+      "tags": [
+        "freedom",
+        "sacrifice",
+        "equality"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +438,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Mandela speaking as South Africa's first democratically elected, and first Black, president.",
+      "tags": [
+        "freedom",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +454,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The final lines of Mandela's inaugural address ending apartheid rule.",
+      "tags": [
+        "freedom",
+        "joy",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +470,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The British suffragette leader defends militant tactics during a U.S. speaking tour.",
+      "tags": [
+        "dissent",
+        "freedom",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +486,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From the acceptance speech (delivered the day before his Nobel lecture) by the Holocaust survivor and author.",
+      "tags": [
+        "justice",
+        "dissent",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -350,6 +502,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Wiesel's call to universal moral responsibility upon accepting the Nobel Peace Prize.",
+      "tags": [
+        "justice",
+        "compassion",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -361,6 +518,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Socrates's defense speech at his trial in Athens, spoken during the penalty phase after the jury's guilty verdict, explaining why he won't propose exile or silence as his counter-penalty. Recorded by Plato, a student of Socrates, not a transcript; Xenophon's independent Apology of the same trial differs in detail.",
+      "tags": [
+        "self-knowledge",
+        "meaning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-20T12:00:00Z"
     },
     {
@@ -372,6 +534,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Jordan's televised opening statement as a member of the Judiciary Committee weighing articles of impeachment against President Nixon. Wording confirmed against the National Portrait Gallery's transcript of the speech.",
+      "tags": [
+        "politics",
+        "integrity",
+        "one-liner"
+      ],
       "addedAt": "2026-08-13T12:00:00Z"
     },
     {
@@ -383,6 +550,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered to the Rochester Ladies' Anti-Slavery Society the day after Independence Day; wording confirmed against the Gilder Lehrman Institute and San Diego State University transcripts of the original 1852 pamphlet.",
+      "tags": [
+        "equality",
+        "justice",
+        "dissent"
+      ],
       "addedAt": "2026-08-20T12:00:00Z"
     },
     {
@@ -394,6 +566,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered to General Nelson Miles at the end of the Nez Perce War; recorded by Lieutenant Charles Erskine Scott Wood and printed in Harper's Weekly (November 17, 1877).",
+      "tags": [
+        "peace",
+        "grief",
+        "endings"
+      ],
       "addedAt": "2026-08-27T12:00:00Z"
     },
     {
@@ -405,6 +582,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Stanton's recasting of the Declaration of Independence to demand equal rights for women, read and adopted at the first women's rights convention.",
+      "tags": [
+        "equality",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-08-27T12:00:00Z"
     }
   ]

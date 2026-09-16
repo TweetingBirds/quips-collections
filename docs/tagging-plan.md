@@ -350,6 +350,31 @@ red rose", Browning's "How do I love thee"). Occasion coverage is still only 7%
 corpus-wide, and that is correct — it is concentrated exactly where someone
 would actually reach for it, which was the whole argument for the facet.
 
+### Batch 7 (2026-09-15): great-scientists, great-speeches, hadith, hanukkah
+
+131/131 tagged, zero empties, 3.20 per tagged quote, no flags.
+Corpus: **1177/2928 (40.2%)**, vocabulary **146/157 (93%)**.
+
+**The batch was split.** `--next 5` offered these four plus
+`how-i-met-your-mother`, which is 97 quotes on its own and would have made a
+228-quote PR. The batch rule is ~165 quotes; "5 collections" was only ever a
+proxy for that. HIMYM goes in its own PR, which it deserves anyway as the
+sharpest test of the theme-required rule so far.
+
+`great-speeches` pushed `rallying-cry` to 16 of 36 quotes (44%) — the highest
+single-tag share in any collection to date, and correct: it is a collection of
+speeches meant to move people. It sits under the 50% tone ceiling, where a flat
+25% bar would have flagged it. That ceiling has now justified itself twice, on
+Poe's `lyrical` and here.
+
+`hanukkah` needed care on one quote. "Weeping may tarry for the night, but joy
+cometh in the morning" is the same psalm as `bible-wisdom`'s "Weeping may endure
+for a night" — different translations, so the disagreement check treats them as
+different quotes and would not have caught a divergence. Tagged identically
+anyway. **The check only enforces exact wording; near-variants across
+translations still need a human eye**, and scripture collections are full of
+them.
+
 Per batch, in order:
 
 ```bash
