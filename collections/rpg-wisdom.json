@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Mordin's parting words as he sacrifices himself to cure the krogan genophage he helped design.",
+      "tags": [
+        "sacrifice",
+        "honor",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Garrus's recurring brush-off aboard the Normandy that became the trilogy's most beloved running gag.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +48,7 @@
       "verificationStatus": "unverified",
       "sourceType": "game",
       "notes": "From the Citadel sniping scene; unverified on exact wording (sources vary on 'now' placement and favorite/favourite spelling).",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +60,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Opening line of Mordin's Gilbert-and-Sullivan parody, sung to the tune of 'The Major-General's Song.'",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +72,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The question a single geth once asked its quarian creators, echoed by Legion as it gains true consciousness.",
+      "tags": [
+        "identity",
+        "questions",
+        "technology"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +88,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "A throwaway guard barb, written by Emil Pagliarulo, that became one of gaming's most enduring memes.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The ancient dragon reflects on his own reformed nature atop the Throat of the World.",
+      "tags": [
+        "integrity",
+        "effort",
+        "questions"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +116,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Greybeard master explains the origin of the Thu'um to the Dragonborn at High Hrothgar.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +128,11 @@
       "verificationStatus": "unverified",
       "sourceType": "game",
       "notes": "Widely attributed to the game, but the line originates in Sapkowski's novel 'The Last Wish' and the 'Killing Monsters' cinematic trailer; unverified as spoken in-game Wild Hunt dialogue.",
+      "tags": [
+        "sin",
+        "choice",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +144,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The message on the mirror in Asgore's home, a quiet reassurance to the player near the end of a pacifist run.",
+      "tags": [
+        "identity",
+        "resilience",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +160,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Flowey's opening philosophy, delivered with a smile before the game dismantles it.",
+      "tags": [
+        "sin",
+        "power",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +176,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Sans's warning to a player heading down the genocide route; rendered in lowercase in-game.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +188,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Sans's chilling greeting before the hardest boss fight in the game, on the genocide route.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +200,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Auron sets Tidus on his journey at the ruins of Zanarkand.",
+      "tags": [
+        "beginnings",
+        "destiny",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +216,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Tidus's opening narration that frames the entire game as a story being told.",
+      "tags": [
+        "hope",
+        "memory",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +232,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Tidus's answer to Yuna atop Mt. Gagazet, promising to stay by her side.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Yuna's plea to Tidus as her pilgrimage nears its close.",
+      "tags": [
+        "loyalty",
+        "love",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The nihilist god-clown Kefka's declaration during the final battle.",
+      "tags": [
+        "meaning",
+        "questions",
+        "despair"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +276,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The sun-worshipping knight's earnest praise that inspired the 'Praise the Sun' phenomenon.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +288,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The opening line of the game's mythic prologue narration.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +300,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The berserker Minsc's battle cry, shouted to his miniature giant space hamster; recurs across the series.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +312,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The game reminds the detective that some possibilities will forever stay closed to who he is.",
+      "tags": [
+        "choice",
+        "identity",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +328,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "Lieutenant Kitsuragi on his weary, unwavering affection for Revachol.",
+      "tags": [
+        "home",
+        "politics",
+        "loyalty"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +344,10 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "A recurring line of narration marking fragile, fleeting optimism amid the ruin of Revachol.",
+      "tags": [
+        "hope",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +359,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Witch of the Wilds' cryptic counsel to Hawke.",
+      "tags": [
+        "change",
+        "fear",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +375,11 @@
       "verificationStatus": "unverified",
       "sourceType": "game",
       "notes": "Attributed to the Qunari warrior Sten; unverified on exact wording as sources reproduce it inconsistently.",
+      "tags": [
+        "faith",
+        "doubt",
+        "authenticity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
