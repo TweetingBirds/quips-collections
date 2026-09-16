@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Bezos's warning against complacency at scale; verified verbatim on Amazon's official aboutamazon.com posting of the letter.",
+      "tags": [
+        "change",
+        "work",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Opening line of the famous long-term section; verified verbatim on Amazon's official reprint of the original 1997 letter.",
+      "tags": [
+        "money",
+        "success",
+        "patience"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "From the 1997 letter's management-and-decision-making principles; confirmed against the letter's primary text.",
+      "tags": [
+        "risk",
+        "courage",
+        "money"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "A core Bezos long-term-bet principle; confirmed against the primary 1997 letter text.",
+      "tags": [
+        "integrity",
+        "money",
+        "choice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Often misattributed to a shareholder letter; it is actually from a 2004 Bloomberg BusinessWeek interview, confirmed on the bloomberg.com article page.",
+      "tags": [
+        "integrity",
+        "craft",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: reported in a reputable biography but with no primary letter, transcript, or on-record utterance; treat as reported rather than documented.",
+      "tags": [
+        "competition",
+        "money",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Opening lines of the book's preface, arguing that copying past winners ('1 to n') is not creating the new ('0 to 1'); confirmed against the book text.",
+      "tags": [
+        "authenticity",
+        "change",
+        "work"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thiel's core claim that durable success means escaping competition; extracted directly from the book's full text.",
+      "tags": [
+        "money",
+        "power",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "newspaper",
       "notes": "Functions as the title and thesis of Thiel's own bylined WSJ essay; attribution to Thiel is solid.",
+      "tags": [
+        "competition",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thiel argues the binding constraint on innovation is courage, not intelligence; wording confirmed against the book.",
+      "tags": [
+        "courage",
+        "risk",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "The lesson that existential competitive threats are beaten by a better product, not a shortcut; verified on Horowitz's own a16z post.",
+      "tags": [
+        "effort",
+        "work",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the book's opening litany on what actually makes running a company hard; wording is identical across all reproductions of the intro.",
+      "tags": [
+        "leadership",
+        "adversity",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Verified against Graham's own site; the full sentence begins 'Actually startups take off...'. Startups rarely grow by themselves — founders must push them into motion.",
+      "tags": [
+        "effort",
+        "leadership",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Y Combinator's founding motto, associated with Graham and appearing in his essays and YC materials.",
+      "tags": [
+        "craft",
+        "advice",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "socialMedia",
       "notes": "Hoffman restated his own maxim verbatim on his own X account; the concept traces to LinkedIn's early ship-fast approach.",
+      "tags": [
+        "shame",
+        "risk",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "The true verbatim line from Cuban's own blog; the popular one-line paraphrase conflates two non-adjacent sentences, so this restores the original wording.",
+      "tags": [
+        "success",
+        "perseverance",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Verbatim from Cuban's blog (original: 'Sweat Equity is the best start up capital'); the widely-quoted 'most valuable equity there is' version is a paraphrase and was not used.",
+      "tags": [
+        "effort",
+        "money",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Cuban's own blog wording (original spells 'any where'); this is the documented source behind the polished 'work like someone is trying to take it away' aphorism.",
+      "tags": [
+        "competition",
+        "work",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Branson's 'opportunity favours the bold' maxim; confirmed verbatim on his own X account and Virgin.com.",
+      "tags": [
+        "risk",
+        "courage",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "His action-over-hesitation mantra and the title of his own book.",
+      "tags": [
+        "risk",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: found only in third-party books quoting him, never confirmed inside a Branson-authored primary source; likely genuine but not citable to a primary.",
+      "tags": [
+        "patience",
+        "hope",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "The dinner-table question Blakely's father asked her as a child, which she credits with reframing failure as effort rather than outcome; consistently recounted in her on-record interviews.",
+      "tags": [
+        "failure",
+        "questions",
+        "learning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: full-text search did not locate it in his own books; the exact phrase surfaces only in third-party books attributing it to him.",
+      "tags": [
+        "purpose",
+        "service",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Source axis fails: wording is consistent and genuinely from Knight's 1962 'I told myself' passage, but every locatable source is an aggregator; not confirmed against the primary book text.",
+      "tags": [
+        "perseverance",
+        "authenticity",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Walt said this on camera on his own TV show, crediting Mickey Mouse as the origin of the enterprise; minor punctuation variants exist across transcriptions.",
+      "tags": [
+        "humility",
+        "legacy",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The genuine primary wording (confirmed in Project Gutenberg's full text); the popular 'Failure is simply the opportunity to begin again, this time more intelligently' is a paraphrase with no primary source.",
+      "tags": [
+        "failure",
+        "starting-over",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +436,11 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Wording is endorsed by the company she founded on its official heritage page; date is approximate as the page does not pin it to a book passage or occasion.",
+      "tags": [
+        "effort",
+        "success",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +452,11 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Source axis fails: attributed to Kroc's memoir but no primary passage was reachable to confirm it, and wording splits between 'a dividend' and 'the dividend.'",
+      "tags": [
+        "effort",
+        "destiny",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +468,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Jobs's widely cited commencement address; wording confirmed against Stanford's own published transcript of the speech.",
+      "tags": [
+        "authenticity",
+        "time",
+        "graduation",
+        "advice"
+      ],
       "addedAt": "2026-08-20T12:00:00Z"
     }
   ]

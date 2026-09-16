@@ -259,8 +259,8 @@
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-rIPU962V9/k57DFfQJTd+RSHq99goYy+EzU2os2hFSY=",
-      "bytes": 14201
+      "contentHash": "sha256-UY/VTY5ZKHOIH3Sfo8uhe91hO6A4YNVXOTGzZtLU6Yg=",
+      "bytes": 16708
     },
     {
       "id": "jane-austen",
@@ -359,8 +359,8 @@
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-07-30T12:00:00Z",
-      "contentHash": "sha256-67OivW+W8PYNTG2pT6Vaq4OeNrO4f/Jykz2VgaV9ReM=",
-      "bytes": 19479
+      "contentHash": "sha256-NH+XrC2PJlGZDL3Sex7I4ThDxcsyP6NPABQ7ANANV1U=",
+      "bytes": 22147
     },
     {
       "id": "mindfulness",
@@ -619,8 +619,8 @@
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-QwZd9/jfoKD00x8A7Nhf6sWpuvNXrqQZCdBBiP9hAkU=",
-      "bytes": 16908
+      "contentHash": "sha256-mia4zV7JP5DmmvV4Zy5+i+HsPylGWpsGBWl8vkLfHGo=",
+      "bytes": 19471
     },
     {
       "id": "western-movies",
@@ -1119,8 +1119,8 @@
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-6e38CbcN+KIKifhf6biO3/pnY3ZHW8t41bA8oIdOUZw=",
-      "bytes": 16666
+      "contentHash": "sha256-Dc3MSjunONL2n+iS6mIkZTuUFEb30xmvwz0OlRFU1hw=",
+      "bytes": 19055
     },
     {
       "id": "on-leadership",
@@ -1559,8 +1559,8 @@
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AORDQ1/4xQttAKyWWUq003LPKEBeAdISCMmCgyVyI9g=",
-      "bytes": 15520
+      "contentHash": "sha256-5MsVchmz8Z0EH0SQNMyLAGfTP9klO43CYwR90zQ5YVE=",
+      "bytes": 17998
     },
     {
       "id": "studio-ghibli",

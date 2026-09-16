@@ -298,6 +298,33 @@ empty, and do not read it as an incomplete pass. A user importing
 Two Emperor's New Groove runs (`disney-042` through `disney-050`) are empty
 nearly end to end. That is the correct outcome, not a gap.
 
+### Batch 5 (2026-09-15): earth-and-the-wild, edgar-allan-poe, entrepreneurs, fantasy-worlds, first-lines
+
+150/165 tagged, 15 empty, 3.25 per tagged quote, no flags.
+Corpus: **872/2928 (29.8%)**, vocabulary **144/157 (92%)**.
+
+Batch 4 concluded that the empty rate tracks medium. `first-lines` refines that:
+it is prose, and still comes in at **9/40 empty (23%)**. The reason is a third
+category the earlier batches had not produced — quotes famous for their
+*position* rather than their content. "Stately, plump Buck Mulligan came from
+the stairhead" and "Mrs. Dalloway said she would buy the flowers herself" are
+celebrated openings that, standing alone, describe a man on a stair and an
+errand. "Call me Ishmael." is three words.
+
+So the rule is not "fiction tags badly". It is that a quote needs a subject, and
+three different things can leave it without one: a catchphrase (`disney`), a
+running gag (`dc-comics`), or a famous first sentence that is pure scene-setting.
+
+`edgar-allan-poe` was the opposite worry — 31 poetry fragments, several of them
+couplets — and tagged at 100% with no empties. Fragments of verse still have
+subjects: grief, longing, mortality, time. `lyrical` lands on 19 of 31, which is
+what the facet-aware tone ceiling exists to permit.
+
+`entrepreneurs` at 29/29 is the case for having cut `entrepreneurship` from the
+vocabulary in Phase 0: `money`, `risk`, `effort`, `competition`, `craft` and
+`leadership` carried the whole collection between them, and the leads spread
+across all six.
+
 Per batch, in order:
 
 ```bash
