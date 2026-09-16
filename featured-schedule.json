@@ -79,6 +79,18 @@
       "note": "Diwali, the festival of lights, runs November 6-10, with Lakshmi Puja on the 8th."
     },
     {
+      "weekStart": "2026-11-09",
+      "collectionId": "veterans-remembrance",
+      "quoteId": "vets-006",
+      "note": "Veterans Day and Remembrance Day, November 11."
+    },
+    {
+      "weekStart": "2026-11-16",
+      "collectionId": "hunger-games",
+      "quoteId": "hunger-002",
+      "note": "The Hunger Games: Sunrise on the Reaping opens November 20."
+    },
+    {
       "weekStart": "2026-11-23",
       "collectionId": "gratitude",
       "quoteId": "grat-007",
@@ -101,6 +113,18 @@
       "collectionId": "marvel-movies",
       "quoteId": "marvel-009",
       "note": "Avengers: Doomsday opens December 18."
+    },
+    {
+      "weekStart": "2026-12-21",
+      "collectionId": "christmas",
+      "quoteId": "xmas-004",
+      "note": "Christmas week, beginning on the winter solstice."
+    },
+    {
+      "weekStart": "2026-12-28",
+      "collectionId": "new-year",
+      "quoteId": "newyear-019",
+      "note": "The turn of the year, in the words people actually reach for at midnight."
     }
   ]
 }

@@ -1721,6 +1721,86 @@
       "lastUpdated": "2026-08-08T12:00:00Z",
       "contentHash": "sha256-3hk0FL+FPFu4eDT/5gHvkBgFPDnrFgTJB3LF2btRR68=",
       "bytes": 25707
+    },
+    {
+      "id": "veterans-remembrance",
+      "name": "Veterans & Remembrance",
+      "description": "Words for those who served, and for the days we set aside to remember them.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "Old soldiers never die; they just fade away.",
+        "In our youth our hearts were touched with fire."
+      ],
+      "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
+      "iconName": "flag.fill",
+      "category": "History & Speeches",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-XYjkZDjkAu95caWIH9oBbuCS8YptpvZm+7ZQGdP/v0Y=",
+      "bytes": 16870
+    },
+    {
+      "id": "hunger-games",
+      "name": "The Hunger Games",
+      "description": "Defiance, survival and the cost of spectacle, from Panem.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Snow lands on top.",
+        "You love me. Real or not real?"
+      ],
+      "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
+      "iconName": "flame.fill",
+      "category": "Literature",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-UmybmUhwlCTdlgzQAuoNgQ3n7xs4VcZnz9VTdfMH+Ls=",
+      "bytes": 16464
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "description": "Carols, scripture and ghost stories — the words the season keeps returning to.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "God bless Us, Every One!",
+        "And the Word was made flesh, and dwelt among us."
+      ],
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
+      "iconName": "tree.fill",
+      "category": "Holidays",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-D4rPgWDBsJFGKH6M6pHtoFfavpx23nmZTCTZgPZLIXk=",
+      "bytes": 20738
+    },
+    {
+      "id": "new-year",
+      "name": "New Year",
+      "description": "Endings, beginnings, and the resolve that comes with a turned page.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Nothing, Lucilius, is ours, except time.",
+        "No one ever regarded the First of January with indifference."
+      ],
+      "colorName": "indigo",
+      "colorLightHex": "#494BEC",
+      "colorDarkHex": "#6A7BF3",
+      "iconName": "sparkles",
+      "category": "Holidays",
+      "addedAt": "2026-09-15T12:00:00Z",
+      "lastUpdated": "2026-09-15T12:00:00Z",
+      "contentHash": "sha256-l8/+nK/MuG4x5G4D5nB755yIeX7L1ZHdfohwp4X4MEE=",
+      "bytes": 19897
     }
   ]
 }

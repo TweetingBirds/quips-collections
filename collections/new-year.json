@@ -1,0 +1,517 @@
+{
+  "id": "new-year",
+  "name": "New Year",
+  "description": "Endings, beginnings, and the resolve that comes with a turned page.",
+  "author": "Quips Editorial",
+  "colorName": "indigo",
+  "colorLightHex": "#494BEC",
+  "colorDarkHex": "#6A7BF3",
+  "iconName": "sparkles",
+  "category": "Holidays",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "newyear-001",
+      "content": "Ring out, wild bells, to the wild sky,\nThe flying cloud, the frosty light:\nThe year is dying in the night;\nRing out, wild bells, and let him die.",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "In Memoriam A.H.H., Canto CVI, stanza 1 (1850)",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The opening of the canto that gave the English-speaking world its midnight bell-ringing liturgy.",
+      "tags": [
+        "new-year",
+        "endings",
+        "time",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-002",
+      "content": "Ring out the old, ring in the new,\nRing, happy bells, across the snow:\nThe year is going, let him go;\nRing out the false, ring in the true.",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "In Memoriam A.H.H., Canto CVI, stanza 2 (1850)",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The stanza that supplied the phrase every New Year editorial has used since.",
+      "tags": [
+        "new-year",
+        "beginnings",
+        "endings",
+        "change",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-003",
+      "content": "Ring in the valiant man and free,\nThe larger heart, the kindlier hand;\nRing out the darkness of the land,\nRing in the Christ that is to be.",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "In Memoriam A.H.H., Canto CVI, stanza 8 (1850)",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing stanza, where Tennyson's list of things to ring out finally turns entirely to what should be rung in.",
+      "tags": [
+        "new-year",
+        "hope",
+        "peace",
+        "faith",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-004",
+      "content": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne!",
+      "authorName": "Robert Burns",
+      "source": "\"Auld Lang Syne,\" The Scots Musical Museum, vol. 5 (1796)",
+      "quoteDate": "1796",
+      "verificationStatus": "verified",
+      "sourceType": "song",
+      "notes": "Burns sent the song to James Johnson as an old fragment he had taken down from an old man's singing, then finished himself.",
+      "tags": [
+        "new-year",
+        "friendship",
+        "memory",
+        "longing",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-005",
+      "content": "For auld lang syne, my jo,\nFor auld lang syne,\nWe'll tak a cup o' kindness yet,\nFor auld lang syne.",
+      "authorName": "Robert Burns",
+      "source": "\"Auld Lang Syne,\" chorus, The Scots Musical Museum, vol. 5 (1796)",
+      "quoteDate": "1796",
+      "verificationStatus": "verified",
+      "sourceType": "song",
+      "notes": "The chorus sung at midnight across the world, usually with the words half-remembered; \"auld lang syne\" means old long since, or times gone by.",
+      "tags": [
+        "new-year",
+        "toast",
+        "friendship",
+        "kindness",
+        "gratitude"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-006",
+      "content": "No one ever regarded the First of January with indifference.",
+      "authorName": "Charles Lamb",
+      "source": "\"New Year's Eve,\" Essays of Elia (1823); first published in The London Magazine (January 1821)",
+      "quoteDate": "1821",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lamb's premise: everyone has two birthdays, and this is the one the whole world keeps at once.",
+      "tags": [
+        "new-year",
+        "time",
+        "aging",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-007",
+      "content": "Of all sound of all bells — (bells, the music nighest bordering upon heaven) — most solemn and touching is the peal which rings out the Old Year.",
+      "authorName": "Charles Lamb",
+      "source": "\"New Year's Eve,\" Essays of Elia (1823); first published in The London Magazine (January 1821)",
+      "quoteDate": "1821",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Written nearly thirty years before Tennyson's wild bells, and probably in their ancestry.",
+      "tags": [
+        "new-year",
+        "endings",
+        "memory",
+        "mortality",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-008",
+      "content": "The land's sharp features seemed to be\nThe Century's corpse outleant,\nHis crypt the cloudy canopy,\nThe wind his death-lament.",
+      "authorName": "Thomas Hardy",
+      "source": "\"The Darkling Thrush,\" The Graphic (29 December 1900), printed as \"By the Century's Deathbed\"",
+      "quoteDate": "1900-12-29",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Hardy dated the poem to the last day of the nineteenth century, and the paper printed it two days early.",
+      "tags": [
+        "new-year",
+        "endings",
+        "seasons",
+        "despair",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-009",
+      "content": "That I could think there trembled through\nHis happy good-night air\nSome blessed Hope, whereof he knew\nAnd I was unaware.",
+      "authorName": "Thomas Hardy",
+      "source": "\"The Darkling Thrush,\" The Graphic (29 December 1900)",
+      "quoteDate": "1900-12-29",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The last four lines: hope granted to the bird and withheld from the poet, which is as far toward optimism as Hardy goes.",
+      "tags": [
+        "new-year",
+        "hope",
+        "despair",
+        "nature",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-010",
+      "content": "Remember ye not the former things, neither consider the things of old. Behold, I will do a new thing; now it shall spring forth; shall ye not know it?",
+      "authorName": "The Book of Isaiah",
+      "source": "Isaiah 43:18–19, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken to exiles in Babylon, which is why it reads as a promise rather than a suggestion.",
+      "tags": [
+        "scripture",
+        "beginnings",
+        "redemption",
+        "the-divine",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-011",
+      "content": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+      "authorName": "Paul the Apostle",
+      "source": "2 Corinthians 5:17, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The verse most often read at watchnight services on the last night of the year.",
+      "tags": [
+        "scripture",
+        "redemption",
+        "starting-over",
+        "faith",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-012",
+      "content": "It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.",
+      "authorName": "The Book of Lamentations",
+      "source": "Lamentations 3:22–23, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A claim about renewal made in the middle of a book of grief over a destroyed city.",
+      "tags": [
+        "scripture",
+        "mercy",
+        "grace",
+        "hope",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-013",
+      "content": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+      "authorName": "The Book of Psalms",
+      "source": "Psalm 90:12, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the psalm ascribed to Moses, and the oldest form of the argument that counting time is what makes it worth anything.",
+      "tags": [
+        "scripture",
+        "time",
+        "wisdom",
+        "mortality",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-014",
+      "content": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before.",
+      "authorName": "Paul the Apostle",
+      "source": "Philippians 3:13, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Written from prison, and the reason the phrase about forgetting what is behind turns up on so many January pulpits.",
+      "tags": [
+        "scripture",
+        "starting-over",
+        "regret",
+        "purpose",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-015",
+      "content": "Nothing, Lucilius, is ours, except time.",
+      "authorName": "Seneca",
+      "source": "Moral Letters to Lucilius, Letter I, trans. Richard M. Gummere, Loeb Classical Library (1917)",
+      "quoteDate": "c. 65 CE",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "The first letter of the collection opens on the one possession Seneca thinks can actually be stolen from us.",
+      "tags": [
+        "time",
+        "mortality",
+        "wisdom",
+        "aphorism",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-016",
+      "content": "It is not that we have a short space of time, but that we waste much of it.",
+      "authorName": "Seneca",
+      "source": "On the Shortness of Life, I, trans. John W. Basore, Loeb Classical Library (1932)",
+      "quoteDate": "c. 49 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Seneca's whole essay is an argument against the complaint that life is too short; wording is Basore's, as other translators render it very differently.",
+      "tags": [
+        "time",
+        "discipline",
+        "regret",
+        "blunt",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-017",
+      "content": "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good.",
+      "authorName": "Marcus Aurelius",
+      "source": "Meditations, Book IV, 17, trans. George Long (1862)",
+      "quoteDate": "c. 180 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Long's Victorian English is the version most readers know; modern translations drop the thees and lose the weight.",
+      "tags": [
+        "time",
+        "mortality",
+        "present-moment",
+        "advice",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-018",
+      "content": "Dum loquimur, fugerit invida aetas: carpe diem, quam minimum credula postero.",
+      "authorName": "Horace",
+      "source": "Odes, Book I, xi, lines 7–8 (c. 23 BCE)",
+      "quoteDate": "c. 23 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Given in Horace's Latin because every English rendering differs: while we speak, envious time flies; seize the day, trusting the next as little as you can.",
+      "tags": [
+        "present-moment",
+        "time",
+        "mortality",
+        "aphorism",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-019",
+      "content": "For last year's words belong to last year's language\nAnd next year's words await another voice.",
+      "authorName": "T. S. Eliot",
+      "source": "\"Little Gidding,\" II, Four Quartets (1942)",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Spoken in the encounter with the familiar compound ghost, during a wartime dawn after an air raid.",
+      "tags": [
+        "new-year",
+        "endings",
+        "beginnings",
+        "language",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-020",
+      "content": "What we call the beginning is often the end\nAnd to make an end is to make a beginning.\nThe end is where we start from.",
+      "authorName": "T. S. Eliot",
+      "source": "\"Little Gidding,\" V, Four Quartets (1942)",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The opening of the last section of the last quartet, which is itself an ending arguing with the idea of endings.",
+      "tags": [
+        "beginnings",
+        "endings",
+        "paradox",
+        "time",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-021",
+      "content": "I hope that in this year to come, you make mistakes. Because if you are making mistakes, then you are making new things, trying new things, learning, living, pushing yourself, changing yourself, changing your world. You're doing things you've never done before, and more importantly, you're Doing Something.",
+      "authorName": "Neil Gaiman",
+      "source": "\"My New Year Wish,\" journal.neilgaiman.com (31 December 2011)",
+      "quoteDate": "2011-12-31",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Posted to his own journal on New Year's Eve and reposted by him most years since.",
+      "tags": [
+        "mistakes",
+        "creativity",
+        "courage",
+        "new-year",
+        "encouragement"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-022",
+      "content": "May your coming year be filled with magic and dreams and good madness. I hope you read some fine books and kiss someone who thinks you're wonderful, and don't forget to make some art — write or draw or build or sing or live as only you can. And I hope, somewhere in the next year, you surprise yourself.",
+      "authorName": "Neil Gaiman",
+      "source": "\"A New Year Wish,\" journal.neilgaiman.com (31 December 2001)",
+      "quoteDate": "2001-12-31",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "The earlier of his two New Year's Eve wishes, written for readers of his journal rather than for publication.",
+      "tags": [
+        "new-year",
+        "blessing",
+        "creativity",
+        "joy",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-023",
+      "content": "One day you finally knew\nwhat you had to do, and began,\nthough the voices around you\nkept shouting\ntheir bad advice—",
+      "authorName": "Mary Oliver",
+      "source": "\"The Journey,\" Dream Work (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The beginning of a poem about leaving, in which the decisive act happens in the first line and the rest is consequence.",
+      "tags": [
+        "starting-over",
+        "choice",
+        "authenticity",
+        "courage",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-024",
+      "content": "How we spend our days is, of course, how we spend our lives.",
+      "authorName": "Annie Dillard",
+      "source": "The Writing Life, chapter 1 (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dillard's answer to resolutions: the schedule is the life, and nothing else votes.",
+      "tags": [
+        "time",
+        "habits",
+        "discipline",
+        "aphorism",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-025",
+      "content": "I think we are well advised to keep on nodding terms with the people we used to be, whether we find them attractive company or not.",
+      "authorName": "Joan Didion",
+      "source": "\"On Keeping a Notebook,\" Slouching Towards Bethlehem (1968)",
+      "quoteDate": "1968",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The argument for looking back at the year rather than over it.",
+      "tags": [
+        "identity",
+        "memory",
+        "self-knowledge",
+        "aging",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-026",
+      "content": "Dost thou love Life? then do not squander Time; for that's the Stuff Life is made of.",
+      "authorName": "Benjamin Franklin",
+      "source": "Poor Richard's Almanack (1746); repeated in \"The Way to Wealth\" (1758)",
+      "quoteDate": "1746",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Franklin's own capitalisation, from an almanac maxim he thought well enough of to quote again twelve years later.",
+      "tags": [
+        "time",
+        "discipline",
+        "aphorism",
+        "advice",
+        "new-year"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-027",
+      "content": "The object of a New Year is not that we should have a new year. It is that we should have a new soul and a new nose; new feet, a new backbone, new ears, and new eyes.",
+      "authorName": "G. K. Chesterton",
+      "source": "Attributed; widely reprinted from A Chesterton Calendar (1911), original publication unidentified",
+      "quoteDate": "1911",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: the wording is stable across a century of reprints and reads unmistakably like Chesterton, but no primary essay or column has been located behind the calendar extract.",
+      "tags": [
+        "new-year",
+        "starting-over",
+        "identity",
+        "change",
+        "wit"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "newyear-028",
+      "content": "New Year's Day: Now is the accepted time to make your regular annual good resolutions. Next week you can begin paving hell with them as usual.",
+      "authorName": "Mark Twain",
+      "source": "Attributed to a letter to the Virginia City Territorial Enterprise (January 1863)",
+      "quoteDate": "1863",
+      "verificationStatus": "unverified",
+      "sourceType": "newspaper",
+      "notes": "Source axis fails: the Enterprise letter is the standard citation, but surviving files of the paper are incomplete and the passage has not been checked against an original printing.",
+      "tags": [
+        "new-year",
+        "habits",
+        "failure",
+        "humor",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}

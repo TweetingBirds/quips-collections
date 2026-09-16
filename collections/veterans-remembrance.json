@@ -1,0 +1,463 @@
+{
+  "id": "veterans-remembrance",
+  "name": "Veterans & Remembrance",
+  "description": "Words for those who served, and for the days we set aside to remember them.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
+  "iconName": "flag.fill",
+  "category": "History & Speeches",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "vets-001",
+      "content": "In Flanders fields the poppies blow\nBetween the crosses, row on row,\nThat mark our place; and in the sky\nThe larks, still bravely singing, fly\nScarce heard amid the guns below.",
+      "authorName": "John McCrae",
+      "source": "\"In Flanders Fields,\" Punch (8 December 1915)",
+      "quoteDate": "1915-12-08",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The opening stanza that made the poppy the emblem of remembrance; McCrae wrote it after the funeral of a friend at Ypres.",
+      "tags": [
+        "war",
+        "memory",
+        "mortality",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-002",
+      "content": "To you from failing hands we throw\nThe torch; be yours to hold it high.\nIf ye break faith with us who die\nWe shall not sleep, though poppies grow\nIn Flanders fields.",
+      "authorName": "John McCrae",
+      "source": "\"In Flanders Fields,\" Punch (8 December 1915)",
+      "quoteDate": "1915-12-08",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing stanza, addressed by the dead to the living.",
+      "tags": [
+        "war",
+        "legacy",
+        "honor",
+        "mortality"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-003",
+      "content": "They shall grow not old, as we that are left grow old:\nAge shall not weary them, nor the years condemn.\nAt the going down of the sun and in the morning\nWe will remember them.",
+      "authorName": "Laurence Binyon",
+      "source": "\"For the Fallen,\" The Times (21 September 1914)",
+      "quoteDate": "1914-09-21",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The Ode of Remembrance, read at Remembrance Day services across the Commonwealth.",
+      "tags": [
+        "memory",
+        "honor",
+        "war",
+        "eulogy",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-004",
+      "content": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle, and for his widow, and his orphan.",
+      "authorName": "Abraham Lincoln",
+      "source": "Second Inaugural Address, Washington, D.C. (4 March 1865)",
+      "quoteDate": "1865-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The source of the US Department of Veterans Affairs motto, spoken weeks before the war ended.",
+      "tags": [
+        "mercy",
+        "service",
+        "war",
+        "peace",
+        "honor"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-005",
+      "content": "Here rests in honored glory an American soldier known but to God.",
+      "authorName": "Inscription, Tomb of the Unknown Soldier",
+      "source": "Tomb of the Unknown Soldier, Arlington National Cemetery (1932)",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Carved on the west panel of the Tomb, where a sentinel has stood without pause since 1937.",
+      "tags": [
+        "honor",
+        "memory",
+        "mortality",
+        "war"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-006",
+      "content": "When you go home, tell them of us and say,\nFor your tomorrows, these gave their today.",
+      "authorName": "John Maxwell Edmonds",
+      "source": "\"Four Epitaphs,\" The Times (6 February 1918)",
+      "quoteDate": "1918-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Edmonds's epitaph, later inscribed on the Kohima memorial in northeast India.",
+      "tags": [
+        "honor",
+        "legacy",
+        "war",
+        "memory",
+        "eulogy"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-007",
+      "content": "Never in the field of human conflict was so much owed by so many to so few.",
+      "authorName": "Winston Churchill",
+      "source": "Speech to the House of Commons, London (20 August 1940)",
+      "quoteDate": "1940-08-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Spoken of RAF pilots during the Battle of Britain; \"the Few\" became their name.",
+      "tags": [
+        "honor",
+        "courage",
+        "war",
+        "gratitude"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-008",
+      "content": "You are about to embark upon the Great Crusade, toward which we have striven these many months. The eyes of the world are upon you.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Order of the Day to the Allied Expeditionary Force (6 June 1944)",
+      "quoteDate": "1944-06-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Printed and distributed to every soldier, sailor and airman on the eve of the Normandy landings.",
+      "tags": [
+        "courage",
+        "war",
+        "leadership",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-009",
+      "content": "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "\"The Chance for Peace\" address, American Society of Newspaper Editors, Washington, D.C. (16 April 1953)",
+      "quoteDate": "1953-04-16",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "A former Supreme Allied Commander counting the domestic cost of armament.",
+      "tags": [
+        "war",
+        "peace",
+        "justice",
+        "money",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-010",
+      "content": "Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be.",
+      "authorName": "Douglas MacArthur",
+      "source": "\"Duty, Honor, Country\" address, United States Military Academy, West Point (12 May 1962)",
+      "quoteDate": "1962-05-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered on accepting the Thayer Award, at eighty-two, without notes.",
+      "tags": [
+        "honor",
+        "service",
+        "leadership"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-011",
+      "content": "Old soldiers never die; they just fade away.",
+      "authorName": "Douglas MacArthur",
+      "source": "Farewell Address to Congress, Washington, D.C. (19 April 1951)",
+      "quoteDate": "1951-04-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "MacArthur quoting a British barracks ballad at the close of his final address.",
+      "tags": [
+        "aging",
+        "legacy",
+        "farewell",
+        "endings"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-012",
+      "content": "The fate of unborn millions will now depend, under God, on the courage and conduct of this army.",
+      "authorName": "George Washington",
+      "source": "General Orders, New York (2 July 1776)",
+      "quoteDate": "1776-07-02",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Issued to the Continental Army two days before the Declaration was adopted.",
+      "tags": [
+        "courage",
+        "service",
+        "war",
+        "legacy",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-013",
+      "content": "To be prepared for war is one of the most effectual means of preserving peace.",
+      "authorName": "George Washington",
+      "source": "First Annual Address to Congress, New York (8 January 1790)",
+      "quoteDate": "1790-01-08",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Washington's case to the first Congress for a standing national defense.",
+      "tags": [
+        "peace",
+        "war",
+        "politics",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-014",
+      "content": "My subject is War, and the pity of War. The Poetry is in the pity.",
+      "authorName": "Wilfred Owen",
+      "source": "Preface to his collected poems, drafted 1918; published posthumously (1920)",
+      "quoteDate": "1918",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Owen's statement of purpose, written months before he was killed a week ahead of the Armistice.",
+      "tags": [
+        "war",
+        "suffering",
+        "compassion",
+        "craft"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-015",
+      "content": "The old Lie: Dulce et decorum est\nPro patria mori.",
+      "authorName": "Wilfred Owen",
+      "source": "\"Dulce et Decorum Est,\" Poems (1920)",
+      "quoteDate": "1920",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Owen turning Horace's line — it is sweet and fitting to die for one's country — against itself.",
+      "tags": [
+        "war",
+        "truth",
+        "suffering",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-016",
+      "content": "If I should die, think only this of me:\nThat there's some corner of a foreign field\nThat is for ever England.",
+      "authorName": "Rupert Brooke",
+      "source": "\"The Soldier,\" in 1914 and Other Poems (1915)",
+      "quoteDate": "1915",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Written in the war's first months; Brooke died at sea the following April.",
+      "tags": [
+        "mortality",
+        "home",
+        "war",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-017",
+      "content": "If any question why we died,\nTell them, because our fathers lied.",
+      "authorName": "Rudyard Kipling",
+      "source": "\"Common Form,\" Epitaphs of the War (1919)",
+      "quoteDate": "1919",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Kipling wrote it after his son John was killed at Loos, a battle Kipling had helped him enlist for.",
+      "tags": [
+        "war",
+        "grief",
+        "truth",
+        "regret",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-018",
+      "content": "For it's Tommy this, an' Tommy that, an' \"Chuck him out, the brute!\"\nBut it's \"Saviour of 'is country\" when the guns begin to shoot.",
+      "authorName": "Rudyard Kipling",
+      "source": "\"Tommy,\" Barrack-Room Ballads (1892)",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On how a country treats its soldiers in peacetime versus wartime.",
+      "tags": [
+        "honor",
+        "justice",
+        "war",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-019",
+      "content": "In our youth our hearts were touched with fire.",
+      "authorName": "Oliver Wendell Holmes Jr.",
+      "source": "Memorial Day Address, Keene, New Hampshire (30 May 1884)",
+      "quoteDate": "1884-05-30",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Holmes, wounded three times in the Civil War, speaking twenty years after it ended.",
+      "tags": [
+        "memory",
+        "war",
+        "aging",
+        "legacy",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-020",
+      "content": "These are the boys of Pointe du Hoc. These are the men who took the cliffs. These are the champions who helped free a continent.",
+      "authorName": "Ronald Reagan",
+      "source": "Address at the 40th anniversary of D-Day, Pointe du Hoc, Normandy (6 June 1984)",
+      "quoteDate": "1984-06-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Spoken to sixty-two surviving Rangers seated in front of him.",
+      "tags": [
+        "honor",
+        "courage",
+        "memory",
+        "war"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-021",
+      "content": "This nation will remain the land of the free only so long as it is the home of the brave.",
+      "authorName": "Elmer Davis",
+      "source": "But We Were Born Free (1954)",
+      "quoteDate": "1954",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Davis, a wartime broadcaster and head of the Office of War Information, on the price of liberty.",
+      "tags": [
+        "freedom",
+        "courage",
+        "politics",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-022",
+      "content": "Sneak home and pray you'll never know\nThe hell where youth and laughter go.",
+      "authorName": "Siegfried Sassoon",
+      "source": "\"Suicide in the Trenches,\" Counter-Attack and Other Poems (1918)",
+      "quoteDate": "1918",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Sassoon's rebuke to the crowds cheering soldiers off to the front.",
+      "tags": [
+        "war",
+        "suffering",
+        "grief",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-023",
+      "content": "The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet notwithstanding go out to meet it.",
+      "authorName": "Thucydides",
+      "source": "Pericles' Funeral Oration, History of the Peloponnesian War, Book II (c. 431 BCE)",
+      "quoteDate": "c. 431 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the oration for Athens's first war dead, the ancestor of every memorial address since.",
+      "tags": [
+        "courage",
+        "honor",
+        "war",
+        "eulogy"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-024",
+      "content": "I only regret that I have but one life to lose for my country.",
+      "authorName": "Nathan Hale",
+      "source": "Reported by William Hull in his memoirs, published 1848; spoken 22 September 1776",
+      "quoteDate": "1776-09-22",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Attribution axis fails: the words reach us only through Hull's recollection of an eyewitness account, decades later.",
+      "tags": [
+        "courage",
+        "honor",
+        "mortality",
+        "war"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-025",
+      "content": "All we have of freedom, all we use or know —\nThis our fathers bought for us long and long ago.",
+      "authorName": "Rudyard Kipling",
+      "source": "\"The Old Issue,\" The Five Nations (1903)",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On liberty as something inherited at a cost rather than owned by right.",
+      "tags": [
+        "freedom",
+        "legacy",
+        "history",
+        "honor"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-026",
+      "content": "A man's country is not a certain area of land, of mountains, rivers, and woods, but it is a principle; and patriotism is loyalty to that principle.",
+      "authorName": "George William Curtis",
+      "source": "\"The Call of Freedom,\" address, Boston (1862)",
+      "quoteDate": "1862",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Wording is consistent across nineteenth-century printings, but the exact address and date need confirming against a primary text.",
+      "tags": [
+        "loyalty",
+        "freedom",
+        "identity",
+        "politics"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "id": "hunger-games",
+  "name": "The Hunger Games",
+  "description": "Defiance, survival and the cost of spectacle, from Panem.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
+  "iconName": "flame.fill",
+  "category": "Literature",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "hunger-001",
+      "content": "Happy Hunger Games! And may the odds be ever in your favor!",
+      "authorName": "Effie Trinket",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Effie's reaping-day benediction, delivered brightly to children about to be drawn for a fight to the death; the US editions read favor, not favour.",
+      "tags": [
+        "risk",
+        "competition",
+        "power",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-002",
+      "content": "I volunteer! I volunteer as tribute!",
+      "authorName": "Katniss Everdeen",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss steps forward in her sister Prim's place at the District 12 reaping; the novel sets the two sentences apart with the tag “I gasp.”",
+      "tags": [
+        "courage",
+        "family",
+        "defiance",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-003",
+      "content": "District Twelve. Where you can starve to death in safety.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's summary of her home district in the novel's opening pages.",
+      "tags": [
+        "money",
+        "home",
+        "politics",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-004",
+      "content": "Here's some advice. Stay alive.",
+      "authorName": "Haymitch Abernathy",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch's entire mentoring strategy, offered drunk on the train to the Capitol.",
+      "tags": [
+        "adversity",
+        "advice",
+        "blunt",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-005",
+      "content": "I always channel my emotions into my work. That way, I don't hurt anyone but myself.",
+      "authorName": "Cinna",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Cinna on why he pours what he feels into his designs rather than into open defiance.",
+      "tags": [
+        "craft",
+        "art",
+        "work",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-006",
+      "content": "I am not pretty. I am not beautiful. I am as radiant as the sun.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss seeing what Cinna has made of her before the pre-Games interview.",
+      "tags": [
+        "identity",
+        "change",
+        "art",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-007",
+      "content": "I don't want them to change me in there. Turn me into some kind of monster that I'm not.",
+      "authorName": "Peeta Mellark",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peeta on the roof the night before the Games, trying to name something the Capitol cannot take.",
+      "tags": [
+        "authenticity",
+        "integrity",
+        "identity",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-008",
+      "content": "You don't forget the face of the person who was your last hope.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss on Peeta, who took a beating to throw her burnt bread the winter her family was starving.",
+      "tags": [
+        "gratitude",
+        "kindness",
+        "memory",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-009",
+      "content": "I want to do something, right here, right now, to shame them, to make them accountable, to show the Capitol that whatever they do or force us to do there is a part of every tribute they can't own. That Rue was more than a piece in their Games. And so am I.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss covering Rue's body in flowers — the small act of refusal the rebellion later grows from.",
+      "tags": [
+        "dissent",
+        "justice",
+        "grief",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-010",
+      "content": "Katniss, the girl who was on fire.",
+      "authorName": "Peeta Mellark",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Attribution axis fails: the phrase is Cinna's coinage and recurs across the trilogy, so the speaker and placement of this particular instance need checking against the novel.",
+      "tags": [
+        "identity",
+        "courage",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-011",
+      "content": "I think we'll make this whole thing a lot simpler by agreeing not to lie to each other.",
+      "authorName": "President Snow",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snow opening his unannounced visit to Katniss's house in District 12.",
+      "tags": [
+        "power",
+        "honesty",
+        "politics",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-012",
+      "content": "It's the things we love most that destroy us.",
+      "authorName": "President Snow",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snow's theory of leverage, offered to Katniss as a warning about everyone she would protect.",
+      "tags": [
+        "love",
+        "power",
+        "warning",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-013",
+      "content": "It must be very fragile, if a handful of berries can bring it down.",
+      "authorName": "Katniss Everdeen",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's answer to Snow's claim that her stunt in the arena threatened the whole Capitol.",
+      "tags": [
+        "power",
+        "politics",
+        "defiance",
+        "wit"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-014",
+      "content": "Remember who the real enemy is.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch's last instruction before the Quarter Quell, which Katniss does not understand until the arena breaks open.",
+      "tags": [
+        "power",
+        "loyalty",
+        "war",
+        "advice"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-015",
+      "content": "You could live a hundred lifetimes and not deserve him, you know.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch's verdict on Peeta, delivered to Katniss without softening.",
+      "tags": [
+        "love",
+        "integrity",
+        "kindness",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-016",
+      "content": "They can't hurt me. There's no one left I love.",
+      "authorName": "Johanna Mason",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis fails: Johanna's phrasing here is recalled rather than checked, and it circulates in several variant forms.",
+      "tags": [
+        "grief",
+        "loneliness",
+        "defiance",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-017",
+      "content": "Fire is catching! And if we burn, you burn with us!",
+      "authorName": "Katniss Everdeen",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's unscripted line to the camera after the Capitol bombs a hospital full of wounded in District 8.",
+      "tags": [
+        "dissent",
+        "defiance",
+        "rallying-cry",
+        "war"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-018",
+      "content": "You love me. Real or not real?",
+      "authorName": "Peeta Mellark",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The recovery game Peeta uses after the Capitol's hijacking left him unable to sort his own memories from planted ones; Katniss answers, Real.",
+      "tags": [
+        "love",
+        "truth",
+        "memory",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-019",
+      "content": "Destroying things is much easier than making them.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis holds but attribution does not: whether this falls in Katniss's narration or in her dialogue needs checking against the novel.",
+      "tags": [
+        "war",
+        "power",
+        "aphorism",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-020",
+      "content": "It takes ten times as long to put yourself back together as it does to fall apart.",
+      "authorName": "Finnick Odair",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Attribution axis fails: the line is usually given to Finnick, but whether he or Katniss speaks it needs checking against the novel.",
+      "tags": [
+        "resilience",
+        "suffering",
+        "starting-over",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-021",
+      "content": "Closing my eyes doesn't help. Fire burns brighter in the darkness.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss on the nightmares that follow her out of the arena and do not stop when the Games do.",
+      "tags": [
+        "fear",
+        "suffering",
+        "memory",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-022",
+      "content": "Something is significantly wrong with a creature that sacrifices its children's lives to settle its differences.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's verdict near the end of the trilogy, aimed at the Games and the war that replaced them alike.",
+      "tags": [
+        "war",
+        "parenthood",
+        "justice",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-023",
+      "content": "I no longer feel any allegiance to these monsters called human beings, despite being one myself.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss after Prim's death, refusing to exempt herself from the judgment she is passing.",
+      "tags": [
+        "despair",
+        "grief",
+        "war",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-024",
+      "content": "What I need is the dandelion in the spring. The bright yellow that means rebirth instead of destruction. The promise that life can go on, no matter how bad our losses. That it can be good again.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing pages: what Katniss decides she needs to survive, set against Gale's fire.",
+      "tags": [
+        "hope",
+        "starting-over",
+        "resilience",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-025",
+      "content": "That's when I make a list in my head of every act of goodness I've seen someone do. It's like a game. Repetitive. Even a little tedious after more than twenty years. But there are much worse games to play.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The last lines of the trilogy, on the game Katniss plays instead of the one Panem made her play.",
+      "tags": [
+        "resilience",
+        "gratitude",
+        "habits",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-026",
+      "content": "Katniss will pick whoever she thinks she can't survive without.",
+      "authorName": "Gale Hawthorne",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Gale's answer to Peeta when the two of them work out, between themselves, where they stand.",
+      "tags": [
+        "love",
+        "self-knowledge",
+        "choice",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-027",
+      "content": "Hope is the only thing stronger than fear.",
+      "authorName": "President Snow",
+      "source": "The Hunger Games (2012 film)",
+      "quoteDate": "2012",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Film-only line, spoken by Snow to Seneca Crane and absent from the novel; the exact wording needs checking against the film, which cannot be rewatched here.",
+      "tags": [
+        "hope",
+        "fear",
+        "power",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-028",
+      "content": "Snow lands on top.",
+      "authorName": "Coriolanus Snow",
+      "source": "The Ballad of Songbirds and Snakes (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Snow family refrain, repeated through the novel by the impoverished boy who will become President Snow.",
+      "tags": [
+        "ambition",
+        "power",
+        "identity",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}
