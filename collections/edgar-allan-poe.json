@@ -20,6 +20,11 @@
       "quoteDate": "1845",
       "verificationStatus": "verified",
       "notes": "The famous opening line of Poe's best-known poem, setting its sleepless, sorrowful mood.",
+      "tags": [
+        "loneliness",
+        "lyrical",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -31,6 +36,11 @@
       "quoteDate": "1845",
       "verificationStatus": "verified",
       "notes": "The poem's haunting refrain, spoken by the ominous bird perched above the chamber door.",
+      "tags": [
+        "despair",
+        "grief",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -42,6 +52,11 @@
       "quoteDate": "1845",
       "verificationStatus": "verified",
       "notes": "The narrator peers into the darkness beyond his door, lost in dread and longing.",
+      "tags": [
+        "doubt",
+        "imagination",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -53,6 +68,11 @@
       "quoteDate": "1845",
       "verificationStatus": "verified",
       "notes": "The poem's despairing final lines, sealing the narrator's eternal grief.",
+      "tags": [
+        "despair",
+        "grief",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -64,6 +84,11 @@
       "quoteDate": "1845",
       "verificationStatus": "verified",
       "notes": "What the narrator finds upon opening the door into the night.",
+      "tags": [
+        "despair",
+        "loneliness",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -75,6 +100,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "Poe's meditation on the elusive boundary between reality and illusion.",
+      "tags": [
+        "impermanence",
+        "doubt",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -86,6 +116,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The poem's second stanza, where the speaker confronts time slipping away like sand.",
+      "tags": [
+        "nature",
+        "loneliness",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -97,6 +132,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "An image of life's moments running irretrievably through the fingers.",
+      "tags": [
+        "time",
+        "impermanence",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -108,6 +148,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The fairy-tale opening of Poe's final complete poem, a lament for a lost love.",
+      "tags": [
+        "memory",
+        "love",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -119,6 +164,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The poem's most quoted profession of a devotion beyond ordinary affection.",
+      "tags": [
+        "love",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -130,6 +180,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "Recalling the youthful innocence of the speaker and his beloved.",
+      "tags": [
+        "love",
+        "memory",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -141,6 +196,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The grieving speaker is haunted nightly by visions of his lost love.",
+      "tags": [
+        "grief",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -152,6 +212,12 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The poem's eerie close, the speaker keeping vigil by his beloved's tomb.",
+      "tags": [
+        "grief",
+        "love",
+        "mortality",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -163,6 +229,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The bright opening of Poe's onomatopoeic study of bells and the moods they evoke.",
+      "tags": [
+        "joy",
+        "music",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -174,6 +245,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "A recurring refrain echoing the insistent rhythm of the ringing bells.",
+      "tags": [
+        "time",
+        "music",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -185,6 +261,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The opening stanza of Poe's ballad about a lifelong, unattainable quest.",
+      "tags": [
+        "longing",
+        "travel",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -196,6 +277,11 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "notes": "The pilgrim shade's answer, sending the aged knight ever onward toward his dream.",
+      "tags": [
+        "courage",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -207,6 +293,11 @@
       "quoteDate": "1831",
       "verificationStatus": "verified",
       "notes": "The opening of Poe's classical tribute, likening a woman's beauty to a homeward voyage.",
+      "tags": [
+        "love",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -218,6 +309,11 @@
       "quoteDate": "1831",
       "verificationStatus": "verified",
       "notes": "The poem's celebrated closing image of classical antiquity's splendor.",
+      "tags": [
+        "history",
+        "art",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -229,6 +325,11 @@
       "quoteDate": "1843",
       "verificationStatus": "verified",
       "notes": "The unsettling opening line of the murderer-narrator protesting his sanity.",
+      "tags": [
+        "anxiety",
+        "identity",
+        "confession"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -240,6 +341,11 @@
       "quoteDate": "1843",
       "verificationStatus": "verified",
       "notes": "The narrator's final confession, undone by the phantom heartbeat of his victim.",
+      "tags": [
+        "shame",
+        "sin",
+        "confession"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -251,6 +357,11 @@
       "quoteDate": "1843",
       "verificationStatus": "verified",
       "notes": "The narrator's claim of preternaturally sharpened senses as proof of his soundness.",
+      "tags": [
+        "anxiety",
+        "sin",
+        "confession"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -262,6 +373,11 @@
       "quoteDate": "1842",
       "verificationStatus": "verified",
       "notes": "The tale's chilling final sentence, as the plague claims even Prince Prospero's revelers.",
+      "tags": [
+        "mortality",
+        "despair",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -273,6 +389,11 @@
       "quoteDate": "1842",
       "verificationStatus": "verified",
       "notes": "The opening sentence introducing the pestilence no walls can keep out.",
+      "tags": [
+        "mortality",
+        "suffering",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -284,6 +405,11 @@
       "quoteDate": "1839",
       "verificationStatus": "verified",
       "notes": "The atmospheric opening that establishes the tale's oppressive gothic dread.",
+      "tags": [
+        "loneliness",
+        "seasons",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -295,6 +421,11 @@
       "quoteDate": "1846",
       "verificationStatus": "verified",
       "notes": "Montresor's opening declaration of the grudge that drives his terrible vengeance.",
+      "tags": [
+        "anger",
+        "betrayal",
+        "confession"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -306,6 +437,11 @@
       "quoteDate": "1846",
       "verificationStatus": "verified",
       "notes": "Montresor's Latin closing words--\"May he rest in peace\"--over his walled-up victim.",
+      "tags": [
+        "mortality",
+        "peace",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -317,6 +453,11 @@
       "quoteDate": "1842",
       "verificationStatus": "verified",
       "notes": "The opening of the narrator's account of his ordeal before the Inquisition.",
+      "tags": [
+        "suffering",
+        "despair",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -328,6 +469,10 @@
       "quoteDate": "1839",
       "verificationStatus": "verified",
       "notes": "The narrator's evasive opening in Poe's tale of a man pursued by his double.",
+      "tags": [
+        "identity",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -339,6 +484,11 @@
       "quoteDate": "1846",
       "verificationStatus": "verified",
       "notes": "Poe's much-debated claim from his essay on how he composed The Raven.",
+      "tags": [
+        "art",
+        "mortality",
+        "writing"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -350,6 +500,11 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "notes": "Poe's signature definition of poetry from his posthumously published essay.",
+      "tags": [
+        "writing",
+        "art",
+        "craft"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     }
   ]

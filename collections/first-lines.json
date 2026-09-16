@@ -20,6 +20,12 @@
       "quoteDate": "1813",
       "verificationStatus": "verified",
       "notes": "Austen's ironic opening sets the marriage-market satire of her most popular novel in a single sentence.",
+      "tags": [
+        "marriage",
+        "money",
+        "satire",
+        "wit"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -31,6 +37,11 @@
       "quoteDate": "1818",
       "verificationStatus": "verified",
       "notes": "The novel opens not with the monster but with Captain Walton's letters home, framing the tale as a story within a story.",
+      "tags": [
+        "ambition",
+        "risk",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -42,6 +53,11 @@
       "quoteDate": "1843",
       "verificationStatus": "verified",
       "notes": "Dickens insists on Marley's death up front so his ghostly return will carry full weight.",
+      "tags": [
+        "mortality",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -53,6 +69,7 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "notes": "A quietly confining first line that mirrors young Jane's trapped existence at Gateshead.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -64,6 +81,10 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "notes": "Narrator Lockwood's diary-like opening introduces the outsider through whom we first glimpse Heathcliff.",
+      "tags": [
+        "solitude",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -75,6 +96,11 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "notes": "Dickens's most autobiographical hero begins by questioning his own heroism.",
+      "tags": [
+        "identity",
+        "questions",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -86,6 +112,7 @@
       "quoteDate": "1851",
       "verificationStatus": "verified",
       "notes": "Three words that have become the most famous opening in American literature.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -97,6 +124,11 @@
       "quoteDate": "1859",
       "verificationStatus": "verified",
       "notes": "Dickens's cascade of antitheses forms one of the longest and most quoted first sentences ever written.",
+      "tags": [
+        "history",
+        "change",
+        "paradox"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -108,6 +140,11 @@
       "quoteDate": "1864",
       "verificationStatus": "verified",
       "notes": "The Underground Man's self-lacerating confession begins at once (Constance Garnett translation).",
+      "tags": [
+        "identity",
+        "shame",
+        "confession"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -119,6 +156,11 @@
       "quoteDate": "1877",
       "verificationStatus": "verified",
       "notes": "Tolstoy's aphoristic opening became known as the Anna Karenina principle (Constance Garnett translation).",
+      "tags": [
+        "family",
+        "happiness",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -130,6 +172,11 @@
       "quoteDate": "1884",
       "verificationStatus": "verified",
       "notes": "Huck's vernacular voice, breaking the fourth wall, was revolutionary for American fiction.",
+      "tags": [
+        "identity",
+        "reading",
+        "humor"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -141,6 +188,11 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "notes": "Barrie's novelization of his play opens by naming, without naming, the boy who never grows up.",
+      "tags": [
+        "aging",
+        "imagination",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -152,6 +204,11 @@
       "quoteDate": "1915",
       "verificationStatus": "verified",
       "notes": "Kafka states the impossible as plain fact, refusing any explanation (Willa and Edwin Muir translation).",
+      "tags": [
+        "identity",
+        "change",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -163,6 +220,7 @@
       "quoteDate": "1922",
       "verificationStatus": "verified",
       "notes": "Joyce opens his Dublin epic with a mock-priestly shaving ritual on the Martello tower.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -174,6 +232,7 @@
       "quoteDate": "1925",
       "verificationStatus": "verified",
       "notes": "An ordinary errand launches Woolf's single day of interwoven London consciousness.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -185,6 +244,11 @@
       "quoteDate": "1925",
       "verificationStatus": "verified",
       "notes": "Nick Carraway's reflective opening establishes the narrator's pose of reserved judgment.",
+      "tags": [
+        "memory",
+        "parenthood",
+        "aging"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -196,6 +260,7 @@
       "quoteDate": "1926",
       "verificationStatus": "verified",
       "notes": "Hemingway opens not on his narrator but on Cohn, the outsider whose presence needles the Lost Generation.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -207,6 +272,11 @@
       "quoteDate": "1937",
       "verificationStatus": "verified",
       "notes": "Hurston opens with a maritime metaphor for deferred dreams that frames the whole novel.",
+      "tags": [
+        "longing",
+        "hope",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -218,6 +288,11 @@
       "quoteDate": "1937",
       "verificationStatus": "verified",
       "notes": "Tolkien reportedly scribbled this line on a blank exam page, and an entire mythology grew from it.",
+      "tags": [
+        "home",
+        "imagination",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -229,6 +304,11 @@
       "quoteDate": "1938",
       "verificationStatus": "verified",
       "notes": "Du Maurier's dreamlike first line summons the haunted estate that dominates the novel.",
+      "tags": [
+        "memory",
+        "longing",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -240,6 +320,11 @@
       "quoteDate": "1942",
       "verificationStatus": "verified",
       "notes": "Meursault's flat report of his mother's death announces the novel's emotional detachment (Stuart Gilbert translation).",
+      "tags": [
+        "grief",
+        "mortality",
+        "blunt"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -251,6 +336,11 @@
       "quoteDate": "1951",
       "verificationStatus": "verified",
       "notes": "Holden Caulfield's voice arrives fully formed, sneering at the very conventions of memoir.",
+      "tags": [
+        "identity",
+        "family",
+        "blunt"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -262,6 +352,11 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "notes": "Hemingway lays out Santiago's solitude and his streak of bad luck in a single spare sentence.",
+      "tags": [
+        "solitude",
+        "perseverance",
+        "aging"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -273,6 +368,11 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "notes": "Ellison's narrator declares an invisibility born not of magic but of how a society refuses to see him.",
+      "tags": [
+        "identity",
+        "equality",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -284,6 +384,7 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "notes": "White opens a beloved children's book on the brink of violence, with a child rushing to stop it.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -295,6 +396,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "Bradbury's fireman Montag begins as a true believer, savoring the burning of books.",
+      "tags": [
+        "reading",
+        "sin",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -306,6 +412,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "Hartley's aphorism about memory has long outgrown the novel it opens.",
+      "tags": [
+        "history",
+        "memory",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -317,6 +428,11 @@
       "quoteDate": "1955",
       "verificationStatus": "verified",
       "notes": "Humbert Humbert's incantatory opening seduces the reader even as it implicates him.",
+      "tags": [
+        "longing",
+        "sin",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -328,6 +444,7 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "notes": "L'Engle knowingly opens with the most cliched line in fiction, then redeems it utterly.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -339,6 +456,11 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "Plath threads political violence and electricity through Esther Greenwood's unraveling summer.",
+      "tags": [
+        "identity",
+        "anxiety",
+        "history"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -350,6 +472,7 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "notes": "Vonnegut nods to Melville's Ishmael, then immediately undercuts the gesture with his narrator's real name.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -361,6 +484,11 @@
       "quoteDate": "1967",
       "verificationStatus": "verified",
       "notes": "García Márquez folds past, future, and wonder into one sentence (Gregory Rabassa translation).",
+      "tags": [
+        "memory",
+        "time",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -372,6 +500,11 @@
       "quoteDate": "1969",
       "verificationStatus": "verified",
       "notes": "Vonnegut's casual disclaimer sets the unstuck-in-time tone of his Dresden novel.",
+      "tags": [
+        "truth",
+        "memory",
+        "wit"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -383,6 +516,11 @@
       "quoteDate": "1973",
       "verificationStatus": "verified",
       "notes": "Pynchon opens with the sound of a falling V-2 rocket over wartime London.",
+      "tags": [
+        "war",
+        "fear",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -394,6 +532,11 @@
       "quoteDate": "1982",
       "verificationStatus": "verified",
       "notes": "A threatened warning that explains why Celie addresses her letters to God.",
+      "tags": [
+        "shame",
+        "prayer",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -405,6 +548,11 @@
       "quoteDate": "1982",
       "verificationStatus": "verified",
       "notes": "King wrote this line as a teenager; it launched his eight-book Dark Tower saga.",
+      "tags": [
+        "travel",
+        "lyrical",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -416,6 +564,11 @@
       "quoteDate": "1984",
       "verificationStatus": "verified",
       "notes": "Gibson's foundational cyberpunk image; the dead-channel sky has shifted meaning as televisions changed.",
+      "tags": [
+        "technology",
+        "lyrical",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -427,6 +580,7 @@
       "quoteDate": "1987",
       "verificationStatus": "verified",
       "notes": "Morrison gives a house number a malevolent will, opening her novel inside a haunting.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -438,6 +592,11 @@
       "quoteDate": "1992",
       "verificationStatus": "verified",
       "notes": "Banks's darkly comic hook (a forgotten pacemaker meets a crematorium) is a perennial favorite on best-openings lists.",
+      "tags": [
+        "family",
+        "humor",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -449,6 +608,11 @@
       "quoteDate": "1979",
       "verificationStatus": "verified",
       "notes": "Opening line of the title essay; the phrase later became the title of Didion's 2006 collected nonfiction.",
+      "tags": [
+        "writing",
+        "meaning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-30T12:00:00Z"
     }
   ]
