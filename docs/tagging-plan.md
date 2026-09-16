@@ -240,6 +240,35 @@ five collections are — politics, sport and songwriting are not occasion-bearin
 `graduation` had its first real use, on the three *Oh, the Places You'll Go!*
 quotes.
 
+### Batch 3 (2026-09-15): cosmos-space, courage-conviction, creative-minds, cs-lewis, curiosity-discovery
+
+159/160 tagged, 1 empty ("Let's go!"), 3.35 tags per tagged quote, no flags.
+Corpus: **577/2928 (19.7%)**, vocabulary **141/157 (90%)**.
+
+**The disagreement check earned its keep before it ever fired.** Two quotes in
+`courage-conviction` — John Lewis on good trouble, and Douglass on power
+conceding nothing — are word-for-word identical to quotes already tagged in
+`civil-rights-voices`. Querying for that *before* tagging meant reusing the
+existing tags rather than re-deriving them and landing somewhere adjacent. Run
+it at the start of every batch, not just at the end:
+
+```
+python3 - <<'PY'   # batch quotes that duplicate an already-tagged quote
+...matches on the same folded text tag_report.py uses...
+PY
+```
+
+`courage-conviction` was the mono-tagging risk of this batch — 33 quotes about
+one concept. `courage` lands on 16 of them, which is honest, but the lead tag
+varies: `fear` leads FDR and Rosa Parks, `justice` leads Tutu and Burke,
+`dissent` leads Malala and Anthony, `sacrifice` leads Nathan Hale. Leads are
+what bulk import applies, so that variation is what keeps the collection from
+importing as 33 copies of one tag.
+
+`pride` and `envy`, both added during the pilot, finally paid off together on
+Lewis's "Pride gets no pleasure out of having something, only out of having
+more of it than the next man."
+
 Per batch, in order:
 
 ```bash
