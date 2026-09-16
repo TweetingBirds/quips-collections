@@ -424,6 +424,31 @@ batch, five of them in `inspiration-daily`. That collection is a greatest-hits
 set, so overlap with `dream-big` and `grit-perseverance` is structural. Running
 the duplicate query *before* tagging has now prevented eight chances to drift.
 
+### Batch 10 (2026-09-16): johnny-cash, lds-general-conference, leadership-vision, legendary-coaches, lego-movies
+
+152/167 tagged, 15 empty, 3.16 per tagged quote, no flags.
+Corpus: **1535/2928 (52.4%) — past halfway**, vocabulary **147/157 (94%)**.
+
+All 15 empties are in `lego-movies` (15/27, 56%), second only to
+`iconic-game-lines`. Same cause: LEGO Batman's one-liners are gags, not claims.
+
+`lds-general-conference` (56) and `leadership-vision` (30) were both
+single-subject collections needing the treatment `friendship` and `gratitude`
+got in batch 6 — keep the namesake tag present, move the **lead** off it.
+`leadership` appears on 24 of 30 quotes but leads on only 12; the rest lead on
+`humility`, `service`, `integrity`, `teaching`, `power`, `self-control`,
+`effort`, `truth` and `longing`. Same for the LDS set: `faith` is everywhere,
+but `failure`, `anger`, `home`, `parenthood`, `forgiveness`, `loneliness` and
+`wonder` take the lead where they fit.
+
+`johnny-cash` was the surprise — 25/25, and the densest `confession` collection
+in the corpus (9 uses). Addiction, faith and self-knowledge in one voice.
+
+**A process miss worth recording**: `leadership-vision` was initially skipped.
+Four of the five collections were dumped and tagged and the fifth was missed
+until the per-collection decided-count ran before committing, where it showed
+`0/30`. Run that check *before* writing the commit message, not after.
+
 Per batch, in order:
 
 ```bash

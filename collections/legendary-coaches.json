@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Lombardi's documented 1961 address on building a winning habit.",
+      "tags": [
+        "habits",
+        "competition",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Lombardi's summary of teamwork, preserved by the official Lombardi estate.",
+      "tags": [
+        "teamwork",
+        "community",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Lombardi's definition of mental toughness, preserved by the official Lombardi estate.",
+      "tags": [
+        "discipline",
+        "sacrifice",
+        "resilience"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,12 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "A signature Lombardi line on resilience, preserved by the official Lombardi estate.",
+      "tags": [
+        "resilience",
+        "encouragement",
+        "one-liner",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +85,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Drawn from Lombardi's speeches as compiled by his son in the estate-authorized volume.",
+      "tags": [
+        "effort",
+        "success",
+        "discipline"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +101,11 @@
       "verificationStatus": "verified",
       "sourceType": "magazine",
       "notes": "Lombardi's own preferred phrasing; the more famous 'it's the only thing' version originated with coach Red Sanders and was one Lombardi said he regretted repeating.",
+      "tags": [
+        "competition",
+        "ambition",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +117,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Iconic but sourcing axis fails: no primary speech transcript or dated recording anchors this line.",
+      "tags": [
+        "excellence",
+        "ambition",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +133,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Wooden's own definition of success, the apex of his Pyramid of Success.",
+      "tags": [
+        "success",
+        "contentment",
+        "effort"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +149,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Wooden's core coaching maxim, later the title of Andrew Hill's book on Wooden.",
+      "tags": [
+        "patience",
+        "craft",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +165,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A recurring 'Woodenism' from his book warning against busyness without progress.",
+      "tags": [
+        "work",
+        "excellence",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +181,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Wooden on the block of 'Skill' in his Pyramid of Success.",
+      "tags": [
+        "learning",
+        "humility",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +197,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Wooden on the block of 'Self-Control' in his Pyramid of Success.",
+      "tags": [
+        "self-control",
+        "discipline",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +213,11 @@
       "verificationStatus": "unverified",
       "sourceType": "speech",
       "notes": "Iconic but wording axis fails: no recording exists; the text survives via player recollection and the 2004 film Miracle, which Brooks consulted on.",
+      "tags": [
+        "destiny",
+        "risk",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +229,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Summitt's foundational principle from her leadership book.",
+      "tags": [
+        "teamwork",
+        "community",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +245,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The mantra Summitt used facing early-onset Alzheimer's, recounted in her memoir.",
+      "tags": [
+        "perseverance",
+        "adversity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +261,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Walsh's central thesis that standards must come before wins.",
+      "tags": [
+        "leadership",
+        "excellence",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +277,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Walsh describing his 'Standard of Performance' philosophy.",
+      "tags": [
+        "excellence",
+        "identity",
+        "discipline"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +293,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Walsh on the necessity of setbacks on the way to success.",
+      "tags": [
+        "failure",
+        "perseverance",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +309,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Jackson on his Zen-influenced approach to coaching.",
+      "tags": [
+        "leadership",
+        "contentment",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +325,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Jackson on selfless team play in his first book.",
+      "tags": [
+        "sport",
+        "teamwork",
+        "craft"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +341,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Sourcing axis fails: appears only on quote aggregators, not traced to a specific Jackson book or interview.",
+      "tags": [
+        "teamwork",
+        "community",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +357,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Dungy on leadership by influence rather than force.",
+      "tags": [
+        "leadership",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +373,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Dungy's team creed on taking ownership.",
+      "tags": [
+        "integrity",
+        "discipline",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +389,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Wording axis fails: a paraphrase distilled from many talks, not a single verbatim press-conference transcript.",
+      "tags": [
+        "present-moment",
+        "discipline",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +405,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Sourcing axis fails: consistent with Bryant's philosophy but traced only to later quote compilations, not a dated primary source.",
+      "tags": [
+        "leadership",
+        "humility",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +421,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Smith's three-part mission statement for his North Carolina teams.",
+      "tags": [
+        "teamwork",
+        "excellence",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +437,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Sourcing axis fails: attributed to Auerbach's books but the specific volume and wording could not be confirmed against a primary edition.",
+      "tags": [
+        "leadership",
+        "language",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +453,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Belichick's repeated deflection after a lopsided loss became a team rallying cry en route to a Super Bowl title.",
+      "tags": [
+        "present-moment",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +469,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From Krzyzewski's own book on the leadership philosophy he built over decades coaching Duke basketball.",
+      "tags": [
+        "excellence",
+        "ambition",
+        "aphorism"
+      ],
       "addedAt": "2026-09-10T12:00:00Z"
     }
   ]
