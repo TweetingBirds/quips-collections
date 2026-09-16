@@ -20,6 +20,12 @@
       "quoteDate": "1974",
       "verificationStatus": "verified",
       "notes": "Final issue of The Whole Earth Catalog. Steve Jobs quoted this in his 2005 Stanford commencement speech, greatly popularizing it.",
+      "tags": [
+        "ambition",
+        "curiosity",
+        "graduation",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -31,6 +37,11 @@
       "quoteDate": "1971",
       "verificationStatus": "verified",
       "notes": "Said during a meeting at Xerox PARC where Kay worked on early personal computing concepts. Verified through multiple accounts of PARC history.",
+      "tags": [
+        "creativity",
+        "destiny",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -42,6 +53,11 @@
       "quoteDate": "c. 2009-2014",
       "verificationStatus": "verified",
       "notes": "Early Facebook motto, later changed to 'Move fast with stable infrastructure' in 2014. Reflects the startup culture of rapid iteration.",
+      "tags": [
+        "risk",
+        "change",
+        "blunt"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -53,6 +69,11 @@
       "quoteDate": "1999",
       "verificationStatus": "verified",
       "notes": "From Gates' book on digital business transformation. Emphasizes the value of customer feedback in product development.",
+      "tags": [
+        "learning",
+        "failure",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -64,6 +85,11 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "notes": "From Apple's iconic 'Think Different' ad campaign, narrated by Richard Dreyfuss. Often attributed to Steve Jobs but written by Rob Siltanen and TBWA\\Chiat\\Day.",
+      "tags": [
+        "change",
+        "authenticity",
+        "rallying-cry"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -75,6 +101,11 @@
       "quoteDate": "1973",
       "verificationStatus": "verified",
       "notes": "Clarke's Third Law from his essay collection. The definitive version appeared in the 1973 revision.",
+      "tags": [
+        "wonder",
+        "technology",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -86,6 +117,11 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "notes": "Commonly attributed to Gates. Reflects the paradox of technology creating new needs while solving old ones.",
+      "tags": [
+        "technology",
+        "paradox",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -97,6 +133,11 @@
       "quoteDate": "2014-03",
       "verificationStatus": "verified",
       "notes": "From a CBS 60 Minutes interview about SpaceX and Tesla. Musk discussed taking risks despite high probability of failure.",
+      "tags": [
+        "purpose",
+        "risk",
+        "perseverance"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -108,6 +149,11 @@
       "quoteDate": "c. 2001",
       "verificationStatus": "attributed",
       "notes": "Widely attributed to Jobs. Consistent with Apple's emphasis on innovation over imitation during his second tenure.",
+      "tags": [
+        "creativity",
+        "leadership",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -119,6 +165,11 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "notes": "From Gates' book predicting the future of technology. Written before the mainstream adoption of the World Wide Web.",
+      "tags": [
+        "community",
+        "technology",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -130,6 +181,11 @@
       "quoteDate": "c. 2000",
       "verificationStatus": "verified",
       "notes": "Former Google corporate motto, attributed to Paul Buchheit and Amit Patel. Changed to 'Do the right thing' when Alphabet was formed in 2015.",
+      "tags": [
+        "integrity",
+        "sin",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -141,6 +197,11 @@
       "quoteDate": "1998-05-25",
       "verificationStatus": "verified",
       "notes": "From a BusinessWeek interview discussing Apple's design philosophy. Jobs advocated for visionary product design over market research.",
+      "tags": [
+        "craft",
+        "creativity",
+        "dissent"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -152,6 +213,11 @@
       "quoteDate": "1999-11-30",
       "verificationStatus": "verified",
       "notes": "From an NPR 'Fresh Air' interview. Gibson, author of Neuromancer, coined the term 'cyberspace.'",
+      "tags": [
+        "equality",
+        "technology",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -163,6 +229,11 @@
       "quoteDate": "c. 1960s-1970s",
       "verificationStatus": "attributed",
       "notes": "Known as Amara's Law. Roy Amara was president of the Institute for the Future. Describes the 'hype cycle' phenomenon.",
+      "tags": [
+        "time",
+        "technology",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -174,6 +245,11 @@
       "quoteDate": "c. 2013",
       "verificationStatus": "attributed",
       "notes": "Musk has expressed this sentiment in multiple interviews about human potential and ambition.",
+      "tags": [
+        "choice",
+        "excellence",
+        "encouragement"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -185,6 +261,11 @@
       "quoteDate": "1921-12-10",
       "verificationStatus": "verified",
       "notes": "From Lange's Nobel lecture on internationalism. Though from 1921, it remains relevant to modern technology discussions.",
+      "tags": [
+        "power",
+        "technology",
+        "warning"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -196,6 +277,11 @@
       "quoteDate": "1968",
       "verificationStatus": "verified",
       "notes": "From a 1968 exhibition catalog. Prophetically describes today's social media and viral content culture.",
+      "tags": [
+        "pride",
+        "impermanence",
+        "satire"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -207,6 +293,11 @@
       "quoteDate": "1998-05-25",
       "verificationStatus": "verified",
       "notes": "From the same BusinessWeek interview. Describes Apple's design philosophy of elegant simplicity.",
+      "tags": [
+        "simplicity",
+        "craft",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -218,6 +309,11 @@
       "quoteDate": "c. 1970s-1980s",
       "verificationStatus": "attributed",
       "notes": "Attributed to pioneering computer scientist Grace Hopper. Reflects her advocacy for innovation in computing.",
+      "tags": [
+        "change",
+        "habits",
+        "blunt"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -229,6 +325,11 @@
       "quoteDate": "2008-07",
       "verificationStatus": "verified",
       "notes": "From Swartz's manifesto advocating for open access to academic research. Swartz was a digital rights activist and programmer.",
+      "tags": [
+        "power",
+        "equality",
+        "dissent"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -240,6 +341,11 @@
       "quoteDate": "2009",
       "verificationStatus": "verified",
       "notes": "From Mashable founder Pete Cashmore's commentary on the changing nature of privacy in the social media age.",
+      "tags": [
+        "freedom",
+        "technology",
+        "blunt"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -251,6 +357,11 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "notes": "From Zuckerberg's talk at Y Combinator. Advocates for calculated risk-taking in entrepreneurship.",
+      "tags": [
+        "risk",
+        "change",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -262,6 +373,11 @@
       "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
       "notes": "Humorous definition often shared in tech circles. Reflects the frustration of early computer users with hardware reliability.",
+      "tags": [
+        "technology",
+        "humor",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -273,6 +389,11 @@
       "quoteDate": "1983",
       "verificationStatus": "verified",
       "notes": "Said to the Mac team during development. Emphasizes completing and releasing products over endless perfectionism.",
+      "tags": [
+        "craft",
+        "excellence",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -284,6 +405,11 @@
       "quoteDate": "c. 2005",
       "verificationStatus": "attributed",
       "notes": "Musk's philosophy on innovation at SpaceX. Contrasts with NASA's 'failure is not an option' Apollo 13 motto.",
+      "tags": [
+        "failure",
+        "creativity",
+        "risk"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -295,6 +421,11 @@
       "quoteDate": "1999",
       "verificationStatus": "verified",
       "notes": "From Berners-Lee's book about creating the World Wide Web. Emphasizes the web's purpose for human connection.",
+      "tags": [
+        "community",
+        "technology",
+        "craft"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -306,6 +437,11 @@
       "quoteDate": "1992-04",
       "verificationStatus": "verified",
       "notes": "Humorous observation from tech journalist Mitch Ratcliffe about the double-edged nature of computing speed.",
+      "tags": [
+        "mistakes",
+        "technology",
+        "wit"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -317,6 +453,11 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "notes": "From Hubbard's collection of sayings. Though from 1911, it anticipates debates about automation and human creativity.",
+      "tags": [
+        "excellence",
+        "technology",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -328,6 +469,11 @@
       "quoteDate": "c. 1984",
       "verificationStatus": "verified",
       "notes": "From computer scientist Dijkstra's papers. Challenges the framing of AI debates with an analogy.",
+      "tags": [
+        "questions",
+        "technology",
+        "wit"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -339,6 +485,11 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "notes": "From Adams' posthumously published collection. The Hitchhiker's Guide author was also a technology enthusiast and commentator.",
+      "tags": [
+        "simplicity",
+        "technology",
+        "wit"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     }
   ]

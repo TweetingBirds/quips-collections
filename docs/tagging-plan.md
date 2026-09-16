@@ -647,6 +647,27 @@ occasions, and this corpus is built from literature, scripture, speeches and
 film. It may simply not contain birthday quotes. That is a gap in the *data*,
 not in the vocabulary, and the fix is a collection rather than a tag deletion.
 
+### Batch 17 (2026-09-16): tech-visionaries, teen-movies, the-beatles, thoreau-walden, warcraft
+
+90/137 tagged, 47 empty, 3.10 per tagged quote.
+Corpus: **2482/2928 (84.8%)**, vocabulary **149/158 (94%)**.
+
+`warcraft` at 16/20 empty (80%) is the third unit-bark collection after
+`starcraft` and `iconic-game-lines`; "Work, work", "Zug zug", "Job's done" are
+the same category as "Ready to work". `the-beatles` at 54% was the surprise —
+it is press-conference transcript, so half of it is answers to questions the
+reader cannot see ("All of us.", "Forty years.", "Turn left at Greenland.").
+**Context-dependent answers are a fourth way to make no claim**, alongside
+catchphrases, running gags and scene-setting.
+
+**A third collection needed the lead rebalance**, and this time it was not
+single-subject: `tech-visionaries` had `technology` leading 13 of 30 simply
+because most of its quotes mention it. Rebalanced to 2, with the lead moving to
+`wonder`, `community`, `equality`, `time`, `power`, `freedom`, `mistakes`,
+`excellence`, `questions` and `simplicity`. The lesson generalises past the
+single-subject case: **any collection with a category-like tag running through
+it will pile onto that tag as the lead unless checked.**
+
 Per batch, in order:
 
 ```bash

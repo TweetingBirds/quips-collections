@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The book's most quoted passage, stating the purpose of Thoreau's two-year experiment at the pond.",
+      "tags": [
+        "purpose",
+        "simplicity",
+        "wilderness"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Continues the 'live deliberately' passage with Thoreau's appetite for essential experience.",
+      "tags": [
+        "meaning",
+        "courage",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Ellipsis marks omitted text; the twinned 'Simplify, simplify' follows the same paragraph as Thoreau's call for a spare life.",
+      "tags": [
+        "simplicity",
+        "rest",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Perhaps the most famous line of the book, from the opening chapter's critique of conventional labor.",
+      "tags": [
+        "despair",
+        "work",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau's rebuke to those who treat time as something merely to be spent or wasted.",
+      "tags": [
+        "time",
+        "eternity",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Frequently mangled as 'the price of anything is the amount of life you exchange for it'; this is Thoreau's actual wording.",
+      "tags": [
+        "money",
+        "time",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On self-reliance: the harshest judge of a person is their own inner conscience, not the crowd.",
+      "tags": [
+        "authenticity",
+        "dissent",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau redefines wealth as freedom from possessions rather than their accumulation.",
+      "tags": [
+        "contentment",
+        "money",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A meditation on drinking from the current of time while glimpsing eternity beneath it.",
+      "tags": [
+        "time",
+        "nature",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the chapter defending the richness of a life lived largely alone at the pond.",
+      "tags": [
+        "solitude",
+        "friendship",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau's playful accounting of hospitality in his one-room cabin.",
+      "tags": [
+        "solitude",
+        "friendship",
+        "community"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On the disorienting walk home in the dark as a metaphor for self-discovery.",
+      "tags": [
+        "self-knowledge",
+        "change",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the chapter on discipline, purity, and the reverence owed to one's own life.",
+      "tags": [
+        "identity",
+        "the-divine",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Written while sounding the frozen depths of Walden Pond, finding the divine in the ordinary earth.",
+      "tags": [
+        "wonder",
+        "nature",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Often misprinted as 'tonic of wilderness'; Thoreau's word is 'wildness.'",
+      "tags": [
+        "wilderness",
+        "rest",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From the same passage praising wildness as a restorative for the human spirit.",
+      "tags": [
+        "nature",
+        "longing",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Closing counsel to embrace one's actual life rather than envy another's.",
+      "tags": [
+        "contentment",
+        "adversity",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The genuine source of the popular but loose paraphrase 'Go confidently in the direction of your dreams.'",
+      "tags": [
+        "purpose",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau's ranking of truth above the ordinary objects of ambition.",
+      "tags": [
+        "truth",
+        "money",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On the inward locus of transformation in the book's final chapter.",
+      "tags": [
+        "change",
+        "self-knowledge",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The opening sentence of the essay, first delivered as a lecture in 1851 and published in The Atlantic in 1862.",
+      "tags": [
+        "wilderness",
+        "freedom",
+        "dissent"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The full line behind the widely misquoted 'in wilderness is the preservation of the world'; Thoreau wrote 'Wildness' and 'preservation.'",
+      "tags": [
+        "wilderness",
+        "freedom",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau equates vitality itself with the untamed and unsubdued.",
+      "tags": [
+        "wilderness",
+        "meaning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The motto Thoreau 'heartily accepts' to open the essay, though he pushes it toward 'governs not at all.'",
+      "tags": [
+        "politics",
+        "freedom",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Written after Thoreau's night in jail for refusing a tax that funded slavery and the Mexican-American War.",
+      "tags": [
+        "justice",
+        "dissent",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "On the moral authority of the lone individual against the majority.",
+      "tags": [
+        "dissent",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +436,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Thoreau places conscience above statute as the true guide to conduct.",
+      "tags": [
+        "justice",
+        "integrity",
+        "dissent"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +452,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A cornerstone of Thoreau's argument for individual conscience over collective demand.",
+      "tags": [
+        "integrity",
+        "freedom",
+        "authenticity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +468,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "The genuine original of the popular misquote 'It is not enough to be busy; so are the ants,' from Thoreau's correspondence with Harrison Blake.",
+      "tags": [
+        "work",
+        "purpose",
+        "questions"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +484,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "From Thoreau's private Journal, a distillation of his practice of living attentively in the present.",
+      "tags": [
+        "present-moment",
+        "seasons",
+        "advice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
