@@ -21,7 +21,6 @@
       "sourceType": "poem",
       "notes": "The opening stanza that made the poppy the emblem of remembrance; McCrae wrote it after the funeral of a friend at Ypres.",
       "tags": [
-        "war",
         "memory",
         "mortality",
         "lyrical"
@@ -38,7 +37,6 @@
       "sourceType": "poem",
       "notes": "The closing stanza, less its opening line (\"Take up our quarrel with the foe:\"), addressed by the dead to the living.",
       "tags": [
-        "war",
         "legacy",
         "honor",
         "mortality"
@@ -57,7 +55,6 @@
       "tags": [
         "memory",
         "honor",
-        "war",
         "eulogy",
         "lyrical"
       ],
@@ -93,8 +90,7 @@
       "tags": [
         "honor",
         "memory",
-        "mortality",
-        "war"
+        "mortality"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
@@ -110,7 +106,6 @@
       "tags": [
         "honor",
         "legacy",
-        "war",
         "memory",
         "eulogy"
       ],
@@ -213,7 +208,6 @@
       "tags": [
         "courage",
         "service",
-        "war",
         "legacy",
         "rallying-cry"
       ],
@@ -282,7 +276,6 @@
       "tags": [
         "mortality",
         "home",
-        "war",
         "lyrical"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
@@ -315,7 +308,6 @@
       "sourceType": "poem",
       "notes": "On how a country treats its soldiers in peacetime versus wartime.",
       "tags": [
-        "honor",
         "justice",
         "war",
         "satire"
@@ -333,7 +325,6 @@
       "notes": "Holmes, wounded three times in the Civil War, speaking twenty years after it ended. The familiar fragment drops the governing clause; \"youth\" is singular.",
       "tags": [
         "memory",
-        "war",
         "aging",
         "legacy",
         "lyrical"
@@ -352,8 +343,7 @@
       "tags": [
         "honor",
         "courage",
-        "memory",
-        "war"
+        "memory"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
@@ -403,7 +393,6 @@
       "tags": [
         "courage",
         "honor",
-        "war",
         "eulogy"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
@@ -420,8 +409,7 @@
       "tags": [
         "courage",
         "honor",
-        "mortality",
-        "war"
+        "mortality"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
@@ -437,8 +425,7 @@
       "tags": [
         "freedom",
         "legacy",
-        "history",
-        "honor"
+        "history"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
