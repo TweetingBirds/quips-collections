@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Validate (gate the release)
-        run: python3 scripts/validate_collections.py --strict
+        run: python3 scripts/validate_collections.py --strict --require-tags
 
       - name: Check index hashes are current (gate the release)
         run: python3 scripts/compute_hashes.py --check
