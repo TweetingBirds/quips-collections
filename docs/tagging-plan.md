@@ -375,6 +375,31 @@ anyway. **The check only enforces exact wording; near-variants across
 translations still need a human eye**, and scripture collections are full of
 them.
 
+### Batch 8 (2026-09-15): how-i-met-your-mother
+
+**66/97 tagged, 31 empty (32%)**, 3.19 per tagged quote, no flags.
+Corpus: **1243/2928 (42.5%)**, vocabulary **146/157 (93%)**.
+
+The largest collection in the repo, taken alone because it is 97 quotes, and
+the sharpest test of the theme-required rule. The result settles the question
+the film/TV block was raising: **it tags fine.**
+
+The empties are almost entirely Barney's catchphrases and running bits — "Suit
+up!", "Challenge accepted.", "True story.", "Lawyered!", "Slap bet!", the Bro
+Code, the Naked Man, the Cheerleader Effect, the Hot/Crazy Scale. These are the
+same category as "No capes!" and behave the same way.
+
+What is left is not thin. Ted's narration is written to be reflective, and
+Lily, Robin and Marshall get the emotional load of the show: `destiny` lands
+nine times, `change` eight, `marriage` nine. Two quotes take `wedding` —
+"There are two big days in any love story" and "none of us can vow to be
+perfect... all we can do is promise to love each other" — and both are lines
+someone would genuinely read at one.
+
+So a sitcom splits into a tagged two-thirds that is about love, aging and time,
+and an untagged third that is catchphrases. That is the right split, and it
+means the remaining film and television collections need no rule change.
+
 Per batch, in order:
 
 ```bash
