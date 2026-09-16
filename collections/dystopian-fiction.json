@@ -20,6 +20,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "The three paradoxical slogans of the Party, emblazoned on the Ministry of Truth.",
+      "tags": [
+        "power",
+        "language",
+        "paradox"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -31,6 +36,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "The caption beneath the ubiquitous posters of the Party leader, embodying the surveillance state.",
+      "tags": [
+        "power",
+        "warning",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -42,6 +52,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "A Party slogan on the malleability of history that Winston records in his diary.",
+      "tags": [
+        "power",
+        "history",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -53,6 +68,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "O'Brien's vision of perpetual power, spoken during Winston's interrogation in the Ministry of Love.",
+      "tags": [
+        "power",
+        "despair",
+        "warning"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -64,6 +84,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "Winston writes this in his diary, defending objective truth against the Party.",
+      "tags": [
+        "freedom",
+        "truth",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -75,6 +100,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "O'Brien's words to Winston, which Winston wrongly takes as a promise of solidarity.",
+      "tags": [
+        "hope",
+        "longing",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -86,6 +116,11 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "notes": "Winston's reflection on how dissent from official reality is branded as madness.",
+      "tags": [
+        "dissent",
+        "truth",
+        "paradox"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -97,6 +132,11 @@
       "quoteDate": "1945",
       "verificationStatus": "verified",
       "notes": "The revised commandment painted on the barn wall after the pigs seize power.",
+      "tags": [
+        "equality",
+        "power",
+        "satire"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -108,6 +148,11 @@
       "quoteDate": "1945",
       "verificationStatus": "verified",
       "notes": "The novel's closing sentence, as the pigs become indistinguishable from the humans they overthrew.",
+      "tags": [
+        "power",
+        "politics",
+        "satire"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -119,6 +164,11 @@
       "quoteDate": "1945",
       "verificationStatus": "verified",
       "notes": "From Old Major's rousing speech that sparks the animals' rebellion.",
+      "tags": [
+        "work",
+        "justice",
+        "satire"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -130,6 +180,11 @@
       "quoteDate": "1932",
       "verificationStatus": "verified",
       "notes": "The World State's motto, mounted over the door of the Central London Hatchery.",
+      "tags": [
+        "power",
+        "community",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -141,6 +196,12 @@
       "quoteDate": "1932",
       "verificationStatus": "verified",
       "notes": "John the Savage's defiance of Mustapha Mond, claiming the right to be unhappy.",
+      "tags": [
+        "freedom",
+        "defiance",
+        "authenticity",
+        "rallying-cry"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -152,6 +213,11 @@
       "quoteDate": "1932",
       "verificationStatus": "verified",
       "notes": "A hypnopaedic slogan conditioning citizens against private attachment.",
+      "tags": [
+        "community",
+        "freedom",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -163,6 +229,11 @@
       "quoteDate": "1932",
       "verificationStatus": "verified",
       "notes": "A sleep-taught slogan promoting consumption over repair.",
+      "tags": [
+        "money",
+        "satire",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -174,6 +245,11 @@
       "quoteDate": "1932",
       "verificationStatus": "verified",
       "notes": "A conditioning slogan urging the use of the drug soma to suppress discontent.",
+      "tags": [
+        "contentment",
+        "satire",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -185,6 +261,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "The novel's opening line, narrating fireman Guy Montag's delight in burning books.",
+      "tags": [
+        "reading",
+        "sin",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -196,6 +277,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "Granger relays his grandfather's counsel to Montag near the novel's close.",
+      "tags": [
+        "wonder",
+        "present-moment",
+        "advice"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -207,6 +293,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "The retired professor Faber argues for the value of being challenged.",
+      "tags": [
+        "community",
+        "dissent",
+        "paradox"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -218,6 +309,11 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "notes": "Montag, shaken after a woman chooses to die with her books, begins to doubt his work.",
+      "tags": [
+        "reading",
+        "curiosity",
+        "wonder"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -229,6 +325,11 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "notes": "Mock-Latin for \"don't let the bastards grind you down,\" which Offred finds scratched in her closet by a previous handmaid.",
+      "tags": [
+        "defiance",
+        "perseverance",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -240,6 +341,11 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "notes": "The Commander justifies the regime of Gilead to Offred.",
+      "tags": [
+        "justice",
+        "power",
+        "aphorism"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -251,6 +357,11 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "notes": "Offred recalls the willful complacency of life before Gilead.",
+      "tags": [
+        "identity",
+        "power",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -262,6 +373,11 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "notes": "Aunt Lydia reframes oppression as protection during the handmaids' indoctrination.",
+      "tags": [
+        "freedom",
+        "power",
+        "paradox"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -273,6 +389,11 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "notes": "The prison chaplain frames the novel's central question about free will and forced virtue.",
+      "tags": [
+        "choice",
+        "freedom",
+        "questions"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -284,6 +405,7 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "notes": "The opening line, narrated by Alex, that recurs to begin each of the novel's three parts.",
+      "tags": [],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -295,6 +417,11 @@
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "notes": "Near the close of the novel, Ralph grasps the savagery that consumed the marooned boys.",
+      "tags": [
+        "sin",
+        "grief",
+        "lyrical"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -306,6 +433,11 @@
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "notes": "Simon haltingly suggests that the dreaded beast is the boys' own nature.",
+      "tags": [
+        "sin",
+        "identity",
+        "one-liner"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -317,6 +449,11 @@
       "quoteDate": "1993",
       "verificationStatus": "verified",
       "notes": "The Giver explains to Jonas the burden of bearing a community's memories alone.",
+      "tags": [
+        "memory",
+        "loneliness",
+        "community"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -328,6 +465,11 @@
       "quoteDate": "2005",
       "verificationStatus": "verified",
       "notes": "Kathy H., the narrator and a clone raised for organ donation, clings to memory against loss.",
+      "tags": [
+        "memory",
+        "impermanence",
+        "longing"
+      ],
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
@@ -339,6 +481,11 @@
       "quoteDate": "1969",
       "verificationStatus": "verified",
       "notes": "The novel's recurring three-word refrain, repeated after every mention of death, reflecting the Tralfamadorian view of time.",
+      "tags": [
+        "mortality",
+        "impermanence",
+        "one-liner"
+      ],
       "addedAt": "2026-07-23T12:00:00Z"
     }
   ]
