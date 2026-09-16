@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The opening hadith of Bukhari, narrated by Umar ibn al-Khattab; graded sahih (authentic) and among the most foundational sayings in Islam.",
+      "tags": [
+        "integrity",
+        "purpose",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 45.",
+      "tags": [
+        "compassion",
+        "faith",
+        "equality"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2609.",
+      "tags": [
+        "self-control",
+        "anger",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 47.",
+      "tags": [
+        "language",
+        "self-control",
+        "advice"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra on hospitality; graded sahih and also recorded in Sahih Muslim 48.",
+      "tags": [
+        "generosity",
+        "faith",
+        "advice"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 1734.",
+      "tags": [
+        "kindness",
+        "teaching",
+        "advice"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and part of the well-known hadith on aiding others.",
+      "tags": [
+        "compassion",
+        "mercy",
+        "service"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Dharr and Mu'adh ibn Jabal; graded hasan by at-Tirmidhi and included in An-Nawawi's collection.",
+      "tags": [
+        "faith",
+        "redemption",
+        "advice"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded hasan by at-Tirmidhi and included in An-Nawawi's collection.",
+      "tags": [
+        "self-control",
+        "wisdom",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Tamim ad-Dari; graded sahih, rendering the Arabic 'naseehah' as sincere goodwill toward God and people.",
+      "tags": [
+        "faith",
+        "honesty",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; the Prophet repeated this counsel each time a man asked for advice. Graded sahih.",
+      "tags": [
+        "anger",
+        "self-control",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "tags": [
+        "generosity",
+        "forgiveness",
+        "humility"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Malik al-Ash'ari; graded sahih, from Muslim's Book of Purification.",
+      "tags": [
+        "faith",
+        "discipline",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Aisha; graded sahih and also recorded in Sahih Muslim 2818.",
+      "tags": [
+        "habits",
+        "faith",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2318.",
+      "tags": [
+        "mercy",
+        "compassion",
+        "warning"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abdullah ibn Amr; graded sahih and also recorded in Sahih Muslim 40.",
+      "tags": [
+        "kindness",
+        "integrity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abdullah ibn Umar; graded sahih and also recorded in Sahih Muslim 1033.",
+      "tags": [
+        "generosity",
+        "humility",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Mas'ud al-Ansari; graded sahih, from Muslim's Book of Government.",
+      "tags": [
+        "teaching",
+        "service",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Musa al-Ash'ari; graded sahih, from Bukhari's Book of the Sick.",
+      "tags": [
+        "service",
+        "compassion",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "tags": [
+        "integrity",
+        "the-divine",
+        "humility"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Aisha; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "tags": [
+        "kindness",
+        "patience",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Imran ibn Husayn; graded sahih and also recorded in Sahih Muslim 37.",
+      "tags": [
+        "humility",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by an-Nu'man ibn Bashir; graded sahih and also recorded in Sahih Muslim 2586.",
+      "tags": [
+        "community",
+        "compassion",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Dharr; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "tags": [
+        "kindness",
+        "humility",
+        "advice"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded hasan sahih by at-Tirmidhi and included by an-Nawawi in Riyad as-Salihin.",
+      "tags": [
+        "marriage",
+        "kindness",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Sa'id al-Khudri; graded sahih and included in An-Nawawi's collection.",
+      "tags": [
+        "justice",
+        "courage",
+        "dissent"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -306,6 +436,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1009.",
+      "tags": [
+        "kindness",
+        "generosity",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -317,6 +452,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih al-Bukhari 9.",
+      "tags": [
+        "faith",
+        "service",
+        "humility"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -328,6 +468,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih (al-Albani) and also recorded in Jami' at-Tirmidhi 1954.",
+      "tags": [
+        "gratitude",
+        "faith",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -339,6 +484,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1051.",
+      "tags": [
+        "contentment",
+        "money",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -350,6 +500,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Narrated by Abdullah ibn Amr; graded sahih, from Bukhari's Book of Manners.",
+      "tags": [
+        "family",
+        "forgiveness",
+        "loyalty"
+      ],
       "addedAt": "2026-07-01T01:58:18Z"
     }
   ]

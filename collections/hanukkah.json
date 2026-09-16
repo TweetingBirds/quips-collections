@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The verse that institutes Hanukkah: after the Temple was rededicated in 164 BCE, the festival was fixed at eight days a year beginning on the 25th of Kislev.",
+      "tags": [
+        "community",
+        "worship",
+        "history"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Judas's call to his brothers after the victory at Beth-zur; hanukkah is simply the Hebrew word for the dedication that followed.",
+      "tags": [
+        "worship",
+        "redemption",
+        "rallying-cry"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Judas's answer to men who saw how badly they were outnumbered before the battle at Beth-horon.",
+      "tags": [
+        "faith",
+        "war",
+        "aphorism"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The cry in the village of Modein that began the Maccabean revolt.",
+      "tags": [
+        "faith",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Spoken to his men on the eve of the fight at Emmaus, against a far larger Seleucid force.",
+      "tags": [
+        "sacrifice",
+        "honor",
+        "war"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From Mattathias's deathbed charge to his five sons, among them Judas Maccabeus.",
+      "tags": [
+        "faith",
+        "sacrifice",
+        "legacy"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The closing line of the same charge; the revolt is framed throughout as a defence of practice, not of territory.",
+      "tags": [
+        "courage",
+        "honor",
+        "encouragement"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Judas's refusal to retreat at Elasa, the battle in which he was killed; the revolt outlived him.",
+      "tags": [
+        "courage",
+        "honor",
+        "defiance"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The oldest surviving explanation of the eight days: the rededication was kept as a delayed Sukkot, which the rebels had spent hiding in the hills.",
+      "tags": [
+        "joy",
+        "worship",
+        "community"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The peace that came under Simon, Judas's surviving brother — what the eight days were finally for.",
+      "tags": [
+        "peace",
+        "home",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The first surviving use of 'Festival of Lights' for Hanukkah, written some 230 years after the rededication — and note that Josephus gives liberty, not oil, as the reason.",
+      "tags": [
+        "history",
+        "worship",
+        "freedom"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The Talmud's own answer to its question 'What is Hanukkah?'; rendered from the standard text of the Babylonian Talmud.",
+      "tags": [
+        "faith",
+        "grace",
+        "history"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The dispute behind the familiar practice — the law follows Beth Hillel, which is why the menorah grows brighter each night rather than dimmer.",
+      "tags": [
+        "worship",
+        "learning",
+        "community"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The reason given for Beth Hillel's ascending lights; the principle reaches well beyond Hanukkah.",
+      "tags": [
+        "worship",
+        "excellence",
+        "aphorism"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The baseline obligation: one flame per night per home satisfies it, and everything past that is embellishment.",
+      "tags": [
+        "worship",
+        "family",
+        "one-liner"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The rule that makes Hanukkah a public festival — the lights exist to be seen from the street, which the Talmud calls publicizing the miracle.",
+      "tags": [
+        "worship",
+        "community",
+        "one-liner"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Maimonides ranks the Hanukkah lights among the most beloved of the rabbinic commandments.",
+      "tags": [
+        "worship",
+        "faith",
+        "legacy"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The measure of how seriously the obligation is taken; the same ruling is made for wine at the Passover seder.",
+      "tags": [
+        "worship",
+        "sacrifice",
+        "faith"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Even the festival's own lights yield to shalom bayit — a quiet household outranks publicizing the miracle.",
+      "tags": [
+        "peace",
+        "family",
+        "worship"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -228,6 +323,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "The Hanukkah insertion recited all eight days; the theology of the festival in a single sentence, and notably it never mentions the oil.",
+      "tags": [
+        "faith",
+        "grace",
+        "paradox"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -238,6 +338,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Drawn from Talmud, Shabbat 21b-22a: the flames are for contemplation, not for reading or working by.",
+      "tags": [
+        "worship",
+        "wonder",
+        "one-liner"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -248,6 +353,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Said each night before kindling; 'in those days, at this season' places whoever is lighting inside the story rather than outside it.",
+      "tags": [
+        "worship",
+        "gratitude",
+        "blessing"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -259,6 +369,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Read as the haftarah on Shabbat Hanukkah, alongside a vision of a golden lampstand — the tradition's own commentary on its military story.",
+      "tags": [
+        "faith",
+        "power",
+        "aphorism"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -270,6 +385,12 @@
       "verificationStatus": "verified",
       "sourceType": "poem",
       "notes": "Psalm 30 is headed 'A Song at the Dedication of the House' and is recited on each of the eight days.",
+      "tags": [
+        "grief",
+        "hope",
+        "condolences",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -281,6 +402,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "A favourite Hanukkah text of the commentators: the candle in the window has a counterpart inside the person lighting it.",
+      "tags": [
+        "self-knowledge",
+        "the-divine",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -292,6 +418,11 @@
       "verificationStatus": "verified",
       "sourceType": "poem",
       "notes": "The opening stanza, written by the poet whose later sonnet 'The New Colossus' was engraved on the Statue of Liberty.",
+      "tags": [
+        "hope",
+        "worship",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -303,6 +434,11 @@
       "verificationStatus": "verified",
       "sourceType": "poem",
       "notes": "Lazarus turns the Maccabees into a summons to her own generation; the 'five-fold lion-lineage' is Mattathias and his five sons.",
+      "tags": [
+        "memory",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -314,6 +450,11 @@
       "verificationStatus": "verified",
       "sourceType": "poem",
       "notes": "Written in Yugoslavia days before Senesh crossed into occupied Hungary on a rescue mission; she was captured and executed that November, aged 23.",
+      "tags": [
+        "sacrifice",
+        "courage",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -325,6 +466,11 @@
       "verificationStatus": "attributed",
       "sourceType": "book",
       "notes": "Attribution is the uncertain axis: the maxim is quoted in the Tanya but is older than it, appearing in earlier midrashic and kabbalistic literature, and the English wording varies with the translator.",
+      "tags": [
+        "hope",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     },
     {
@@ -336,6 +482,11 @@
       "verificationStatus": "attributed",
       "sourceType": "song",
       "notes": "Attribution is the uncertain axis: the hymn sung in English-speaking synagogues is a free adaptation rather than a translation of the 13th-century Hebrew Ma'oz Tzur, and while it is usually credited to Jastrow and Gottheil, the division of authorship between them is not documented.",
+      "tags": [
+        "worship",
+        "faith",
+        "lyrical"
+      ],
       "addedAt": "2026-09-15T12:00:00Z"
     }
   ]
