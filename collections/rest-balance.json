@@ -18,6 +18,11 @@
       "source": "Attributed (c. 10 CE)",
       "sourceType": "unspecified",
       "notes": "Attributed to the Roman poet; a widely used rendering on the necessity of rest.",
+      "tags": [
+        "rest",
+        "patience",
+        "aphorism"
+      ],
       "quoteDate": "c. 10 CE",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -29,6 +34,11 @@
       "source": "Macbeth, Act 2, Scene 2 (c. 1606)",
       "sourceType": "play",
       "notes": "Macbeth's anguished praise of the sleep he has murdered.",
+      "tags": [
+        "rest",
+        "peace",
+        "lyrical"
+      ],
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -40,6 +50,11 @@
       "source": "Poor Richard's Almanack (1735)",
       "sourceType": "book",
       "notes": "One of the best-known maxims from Franklin's annual almanac.",
+      "tags": [
+        "habits",
+        "discipline",
+        "aphorism"
+      ],
       "quoteDate": "1735",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -51,6 +66,11 @@
       "source": "The Use of Life (1894)",
       "sourceType": "book",
       "notes": "From the English polymath's book of practical wisdom.",
+      "tags": [
+        "rest",
+        "nature",
+        "contentment"
+      ],
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -62,6 +82,11 @@
       "source": "The Odyssey (c. 8th century BCE)",
       "sourceType": "poem",
       "notes": "Odysseus's words in Homer's epic; wording varies by translation.",
+      "tags": [
+        "rest",
+        "language",
+        "aphorism"
+      ],
       "quoteDate": "c. 8th century BCE",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -73,6 +98,11 @@
       "source": "Sweet Thursday (1954)",
       "sourceType": "book",
       "notes": "From Steinbeck's novel; the origin of the phrase 'the committee of sleep.'",
+      "tags": [
+        "wisdom",
+        "rest",
+        "aphorism"
+      ],
       "quoteDate": "1954",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -84,6 +114,11 @@
       "source": "Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives (1999)",
       "sourceType": "book",
       "notes": "From the minister and therapist's meditation on the lost practice of rest.",
+      "tags": [
+        "work",
+        "rest",
+        "warning"
+      ],
       "quoteDate": "1999",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -95,6 +130,11 @@
       "source": "A Burst of Light (1988)",
       "sourceType": "book",
       "notes": "From the poet and activist's essays written during her illness.",
+      "tags": [
+        "dissent",
+        "rest",
+        "identity"
+      ],
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -106,6 +146,11 @@
       "source": "Thrive (2014)",
       "sourceType": "book",
       "notes": "From the media founder's book redefining success beyond money and power.",
+      "tags": [
+        "work",
+        "rest",
+        "success"
+      ],
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -117,6 +162,11 @@
       "source": "Poor Richard's Almanack (c. 1750s)",
       "sourceType": "book",
       "notes": "Another of Franklin's maxims on the value of rest over conquest.",
+      "tags": [
+        "rest",
+        "peace",
+        "paradox"
+      ],
       "quoteDate": "c. 1750s",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -128,6 +178,11 @@
       "source": "Attributed (c. 1609)",
       "sourceType": "unspecified",
       "notes": "Attributed to the English dramatist, often linked to his pamphlet The Gull's Hornbook.",
+      "tags": [
+        "rest",
+        "lyrical",
+        "one-liner"
+      ],
       "quoteDate": "c. 1609",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -139,6 +194,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Attributed to Gandhi on renewal and the daily cycle of rest. Date is a broad estimate spanning Gandhi's public life, not a documented one.",
+      "tags": [
+        "beginnings",
+        "rest",
+        "lyrical"
+      ],
       "quoteDate": "c. 1920s-1940s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -150,6 +210,11 @@
       "source": "Themes and Variations (1950)",
       "sourceType": "book",
       "notes": "From the author's collection of essays.",
+      "tags": [
+        "rest",
+        "anxiety",
+        "wit"
+      ],
       "quoteDate": "1950",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -161,6 +226,11 @@
       "source": "Attributed (notebooks, c. 1500)",
       "sourceType": "unspecified",
       "notes": "Attributed to da Vinci; a saying often drawn from his notebooks.",
+      "tags": [
+        "contentment",
+        "rest",
+        "one-liner"
+      ],
       "quoteDate": "c. 1500",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -172,6 +242,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Widely attributed to the 14th Dalai Lama. Date is a broad estimate from the period of his widely published talks, not a documented one.",
+      "tags": [
+        "rest",
+        "present-moment",
+        "one-liner"
+      ],
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -183,6 +258,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Attributed to the American comedian. Date is a broad estimate spanning Snow's stand-up career, not a documented one.",
+      "tags": [
+        "rest",
+        "humor",
+        "one-liner"
+      ],
       "quoteDate": "c. 1980s-1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -194,6 +274,11 @@
       "source": "Attributed (The Daily Motivator)",
       "sourceType": "unspecified",
       "notes": "From the writer behind the long-running Daily Motivator column. Date is a broad estimate from The Daily Motivator, which Marston began publishing in 1995; the specific entry is not pinned down.",
+      "tags": [
+        "rest",
+        "perseverance",
+        "advice"
+      ],
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -205,6 +290,11 @@
       "source": "Attributed (from her diaries, c. 1941-1943)",
       "sourceType": "unspecified",
       "notes": "Attributed to the Dutch writer whose wartime diaries were published as An Interrupted Life.",
+      "tags": [
+        "present-moment",
+        "rest",
+        "aphorism"
+      ],
       "quoteDate": "c. 1941-1943",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -216,6 +306,11 @@
       "source": "Attributed (c. 100 CE)",
       "sourceType": "unspecified",
       "notes": "Attributed to the Greek biographer and essayist.",
+      "tags": [
+        "rest",
+        "work",
+        "one-liner"
+      ],
       "quoteDate": "c. 100 CE",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -227,6 +322,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Attributed to the author of Jane Eyre.",
+      "tags": [
+        "anxiety",
+        "rest",
+        "aphorism"
+      ],
       "quoteDate": "c. 1850s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -238,6 +338,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Widely attributed to Hemingway; a primary source has not been confirmed. Date is a broad estimate spanning Hemingway's writing life, not a documented one.",
+      "tags": [
+        "rest",
+        "humor",
+        "confession"
+      ],
       "quoteDate": "c. 1920s-1950s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -249,6 +354,11 @@
       "source": "Attributed (c. 2010s)",
       "sourceType": "unspecified",
       "notes": "Attributed to the author; the closing line is frequently quoted on its own.",
+      "tags": [
+        "service",
+        "rest",
+        "advice"
+      ],
       "quoteDate": "c. 2010s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -260,6 +370,11 @@
       "source": "Attributed",
       "sourceType": "unspecified",
       "notes": "Attributed to the comedian and actress. Date is a broad estimate spanning Tomlin's stage and television work, not a documented one.",
+      "tags": [
+        "rest",
+        "anxiety",
+        "paradox"
+      ],
       "quoteDate": "c. 1970s-1980s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -271,6 +386,11 @@
       "source": "Attributed (c. 2010s)",
       "sourceType": "unspecified",
       "notes": "Attributed to the author of The Single Woman, on setting healthy boundaries.",
+      "tags": [
+        "authenticity",
+        "rest",
+        "advice"
+      ],
       "quoteDate": "c. 2010s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -282,6 +402,11 @@
       "source": "Attributed (letter, 1854)",
       "sourceType": "letter",
       "notes": "Attributed to Emerson; a favorite passage on letting the day go.",
+      "tags": [
+        "endings",
+        "rest",
+        "advice"
+      ],
       "quoteDate": "1854",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -293,6 +418,11 @@
       "source": "Phrynette Married (1912)",
       "sourceType": "book",
       "notes": "From Troly-Curtin's novel; often misattributed to Bertrand Russell or John Lennon.",
+      "tags": [
+        "joy",
+        "rest",
+        "paradox"
+      ],
       "quoteDate": "1912",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -304,6 +434,11 @@
       "source": "The Conquest of Happiness (1930)",
       "sourceType": "book",
       "notes": "From the philosopher's book on the causes of, and cures for, unhappiness.",
+      "tags": [
+        "work",
+        "rest",
+        "satire"
+      ],
       "quoteDate": "1930",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
@@ -315,6 +450,11 @@
       "source": "Traditional proverb",
       "sourceType": "unspecified",
       "notes": "A traditional Spanish saying ('Qué bonito es no hacer nada, y luego descansar').",
+      "tags": [
+        "rest",
+        "contentment",
+        "lyrical"
+      ],
       "quoteDate": null,
       "verificationStatus": "folk-wisdom",
       "addedAt": "2026-07-01T12:47:46Z"

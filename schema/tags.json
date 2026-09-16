@@ -1,6 +1,6 @@
 {
   "note": "Controlled tag vocabulary for per-quote tags. A quote's `tags` array holds these slugs, ordered most-specific-first; `scripts/validate_collections.py` rejects anything not listed here. `displayName` and `colorName` are what the app creates the tag as — without them an imported library mixes Title Case category tags with raw slugs in random colors. `useWhen` draws the boundary against the nearest neighbouring tag; read it before tagging. `avoid` lists spellings that must NOT be introduced as new tags — the validator points at this entry instead. An empty `tags: []` is not the same as no `tags` key: it records that the quote was read and deliberately left untagged, which is the honest outcome for a line famous for being iconic rather than for being about anything. Absent means the pass has not reached it yet.",
-  "version": 3,
+  "version": 4,
   "facets": {
     "theme": "What the quote is about. Every tagged quote needs at least one.",
     "occasion": "When you would actually reach for it. A claim about use, not topic.",
@@ -91,6 +91,20 @@
       "avoid": [
         "calling",
         "vocation"
+      ]
+    },
+    {
+      "slug": "rest",
+      "displayName": "Rest",
+      "facet": "theme",
+      "colorName": "amber",
+      "useWhen": "Sleep, stillness and deliberate not-working. Inner calm is peace; wanting less is simplicity; being here is present-moment.",
+      "avoid": [
+        "sleep",
+        "leisure",
+        "balance",
+        "self-care",
+        "burnout"
       ]
     },
     {
