@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Naruto's signature nindō (ninja way), first stated fully during the Land of Waves arc and repeated throughout the series; wording follows the standard Viz manga / English dub rendering.",
+      "tags": [
+        "integrity",
+        "identity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "The English dub's catchphrase rendering of Naruto's verbal tic 'dattebayo,' used mainly in the early dubbed episodes (Viz/dub).",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +48,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Naruto to Neji after defeating him, rejecting Neji's fatalism about destiny; standard English dub wording (Viz/dub), documented as one of the arc's key lines.",
+      "tags": [
+        "change",
+        "hope",
+        "encouragement"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +64,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Naruto rejecting revenge on Nagato during their final confrontation; this condenses the scene, so the exact official wording is unconfirmed (wording axis).",
+      "tags": [
+        "peace",
+        "forgiveness",
+        "legacy"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +80,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Kakashi to Team 7 at the memorial stone after the bell test (a line he inherited from Obito); Viz manga and the English dub use 'scum,' while some fan translations render it 'trash.'",
+      "tags": [
+        "loyalty",
+        "friendship",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +96,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Kakashi's habitual excuse for his chronic lateness; this is the standard English dub wording, itself a loose rendering of the Japanese line.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +108,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Kakashi deflecting during the team's self-introductions; wording follows the widely documented English dub rendering (Viz/dub).",
+      "tags": [
+        "identity",
+        "humor",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +124,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Jiraiya to Naruto on what truly makes a shinobi; English dub wording, cited to Naruto episode 96.",
+      "tags": [
+        "perseverance",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +140,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Jiraiya reflecting on his own life and death during his battle with Pain; English dub wording, cited to Shippuden episode 133.",
+      "tags": [
+        "endings",
+        "writing",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +156,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Jiraiya on his responsibility to those who come after him; English dub wording, cited to Shippuden episode 126.",
+      "tags": [
+        "teaching",
+        "legacy",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +172,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Itachi to Sasuke during their confrontation, Viz manga chapter 385; among Itachi's most-quoted lines.",
+      "tags": [
+        "truth",
+        "doubt",
+        "identity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +188,12 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Itachi's final words to Sasuke as a reanimated shinobi (the 'I Will Love You Always' scene), Viz manga ch. 590 / anime ep. 339; wording follows the widely documented official English rendering.",
+      "tags": [
+        "love",
+        "family",
+        "forgiveness",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +205,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Itachi to Sasuke on his role as an older brother; English dub wording, cited to Shippuden episode 141.",
+      "tags": [
+        "family",
+        "loyalty",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +221,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Pain explaining his philosophy of peace through suffering during the assault on the Hidden Leaf; widely documented official English (Viz/dub) wording, cited to episode 166.",
+      "tags": [
+        "suffering",
+        "peace",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +237,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Pain arguing to Naruto that war needs no noble cause; official English wording, cited to the Pain's Assault arc (episode 172).",
+      "tags": [
+        "war",
+        "anger",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +253,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Pain's words as he devastates the Hidden Leaf; official English (Viz/dub) rendering, cited to the Pain's Assault arc.",
+      "tags": [
+        "suffering",
+        "blunt",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +269,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Widely attributed to Gaara reflecting on love and loneliness, but the exact scene and official translation could not be confirmed (source and wording axes).",
+      "tags": [
+        "love",
+        "loneliness",
+        "questions"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +285,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Gaara describing his nihilistic self-reliance before his change of heart; exact official wording varies by translation, so it is unconfirmed (wording axis).",
+      "tags": [
+        "loneliness",
+        "identity",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +301,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Rock Lee's guiding creed under Might Guy, stated during the Chunin Exams; widely documented official English (Viz/dub) rendering of his hard-work philosophy.",
+      "tags": [
+        "effort",
+        "perseverance",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +317,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Guy's exuberant catchphrase celebrating youthful energy and hard work, tied to his 'springtime of youth' motif; standard English dub rendering.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +329,11 @@
       "verificationStatus": "unverified",
       "sourceType": "comic",
       "notes": "Iruka defending Naruto against Mizuki in the series' opening arc; the sentiment is verified but this phrasing is condensed and differs from the official dub/manga wording (wording axis).",
+      "tags": [
+        "identity",
+        "community",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +345,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Shikamaru's signature complaint, the English dub's rendering of his catchphrase 'mendokusē' (also translated 'how troublesome').",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +357,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Shikamaru resolving to honor Asuma after his death; paraphrased, so official wording is unconfirmed (wording axis).",
+      "tags": [
+        "legacy",
+        "purpose",
+        "teaching"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +373,11 @@
       "verificationStatus": "unverified",
       "sourceType": "television",
       "notes": "Tsunade rallying to defend the Hidden Leaf during Pain's invasion; paraphrased, so official wording is unconfirmed (wording axis).",
+      "tags": [
+        "service",
+        "courage",
+        "leadership"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +389,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Minato encouraging Naruto when his chakra imprint meets his son; English dub wording, cited to the Fourth Hokage / Nine-Tails arc (episode approximate).",
+      "tags": [
+        "family",
+        "encouragement",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +405,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Young Obito to Kakashi in the Kakashi Gaiden flashback, the origin of the 'those who abandon their friends' creed; widely documented official English (Viz) rendering.",
+      "tags": [
+        "friendship",
+        "loneliness",
+        "community"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

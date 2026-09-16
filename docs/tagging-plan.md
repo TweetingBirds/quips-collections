@@ -480,6 +480,36 @@ certain things."
 most-quoted lines are battle cries and callbacks — "Wakanda forever!", "Avengers,
 assemble", "I am Groot" — while the reflective ones are few but real.
 
+### Batch 12 (2026-09-16): mindfulness, money-investing, naruto, on-leadership, one-liners
+
+142/146 tagged, 4 empty, 3.13 per tagged quote, no flags.
+Corpus: **1831/2928 (62.5%)**, vocabulary **148/157 (94%)**.
+
+**`one-liners` settles what "catchphrase" actually means.** It is a pure comedy
+collection — Groucho Marx, Dorothy Parker, Will Rogers — and it tagged **27/27
+with zero empties**, against `iconic-game-lines` at 77% empty.
+
+The difference is not that one is funnier. A comedian's one-liner is *about*
+something: "I worked myself up from nothing to a state of extreme poverty" is
+about `money` and `success`; "Everybody is ignorant, only on different subjects"
+is about `ignorance` and `humility`; "Take my wife... please" is about
+`marriage`. A game catchphrase — "Zug zug", "Wololo" — is about nothing; it is a
+sound the player recognises.
+
+So the empty predictor is not medium, and not comedy. **It is whether the line
+makes a claim.** Batches 4, 5, 8 and 9 each got closer to this; this batch is
+where it is unambiguous. Every earlier finding restates as a special case:
+catchphrases and running gags make no claim, scene-setting first sentences make
+no claim, and jokes almost always do.
+
+`naruto`'s four empties are "Believe it!", "Sorry I'm late. I got lost on the
+path of life.", "The power of youth!" and "What a drag." — catchphrases in a
+collection that is otherwise 22/26 reflective.
+
+`on-leadership` overlapped `leadership-vision` on four quotes, caught by the
+pre-check. Two leadership collections in one corpus will do that; both now carry
+identical tags on the shared quotes.
+
 Per batch, in order:
 
 ```bash
