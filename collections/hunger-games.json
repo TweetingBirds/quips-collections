@@ -1,0 +1,593 @@
+{
+  "id": "hunger-games",
+  "name": "The Hunger Games",
+  "description": "Defiance, survival and the cost of spectacle, from Panem.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
+  "iconName": "flame.fill",
+  "category": "Literature",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "hunger-001",
+      "content": "Happy Hunger Games! And may the odds be ever in your favor!",
+      "authorName": "Effie Trinket",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Effie's reaping-day benediction, delivered brightly to children about to be drawn for a fight to the death; the US editions read favor, not favour.",
+      "tags": [
+        "risk",
+        "competition",
+        "power",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-002",
+      "content": "I volunteer! I volunteer as tribute!",
+      "authorName": "Katniss Everdeen",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss steps forward in her sister Prim's place at the District 12 reaping; the novel sets the two sentences apart with the tag “I gasp.”",
+      "tags": [
+        "courage",
+        "family",
+        "defiance",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-003",
+      "content": "District Twelve. Where you can starve to death in safety.",
+      "authorName": "Katniss Everdeen",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's summary of her home district, spoken under her breath on page 6 of the first novel.",
+      "tags": [
+        "money",
+        "home",
+        "politics",
+        "satire"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-004",
+      "content": "Here's some advice. Stay alive.",
+      "authorName": "Haymitch Abernathy",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch's entire mentoring strategy, offered drunk on the train to the Capitol.",
+      "tags": [
+        "adversity",
+        "advice",
+        "blunt",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-005",
+      "content": "I always channel my emotions into my work. That way I don't hurt anyone but myself.",
+      "authorName": "Cinna",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Cinna to Katniss, Catching Fire, around page 293. The book has no comma after \"That way\".",
+      "tags": [
+        "craft",
+        "art",
+        "work",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-006",
+      "content": "I am not pretty. I am not beautiful. I am as radiant as the sun.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss seeing what Cinna has made of her before the pre-Games interview.",
+      "tags": [
+        "identity",
+        "change",
+        "art",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-007",
+      "content": "I don't want them to change me in there. Turn me into some kind of monster that I'm not.",
+      "authorName": "Peeta Mellark",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peeta on the roof the night before the Games, trying to name something the Capitol cannot take.",
+      "tags": [
+        "authenticity",
+        "integrity",
+        "identity",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-008",
+      "content": "You don't forget the face of the person who was your last hope.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss on Peeta, who took a beating to throw her burnt bread the winter her family was starving.",
+      "tags": [
+        "gratitude",
+        "kindness",
+        "memory",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-009",
+      "content": "I want to do something, right here, right now, to shame them, to make them accountable, to show the Capitol that whatever they do or force us to do there is a part of every tribute they can't own. That Rue was more than a piece in their Games. And so am I.",
+      "authorName": "Suzanne Collins",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss covering Rue's body in flowers — the small act of refusal the rebellion later grows from.",
+      "tags": [
+        "dissent",
+        "justice",
+        "grief",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-010",
+      "content": "Katniss. The girl who was on fire.",
+      "authorName": "Katniss Everdeen",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss on what Cinna's costume has bought her, page 70. The familiar comma splice — \"Katniss, the girl who was on fire\" — is not the printed text, and Peeta does not say it.",
+      "tags": [
+        "identity",
+        "courage",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-011",
+      "content": "I think we'll make this whole situation a lot simpler by agreeing not to lie to each other.",
+      "authorName": "President Snow",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snow to Katniss at her house before the Victory Tour, Catching Fire. The film's \"whole thing\" is the form that circulates; the novel reads \"whole situation\".",
+      "tags": [
+        "power",
+        "honesty",
+        "politics",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-012",
+      "content": "It's the things we love most that destroy us.",
+      "authorName": "President Snow",
+      "source": "The Hunger Games: Mockingjay - Part 1 (2014 film)",
+      "quoteDate": "2009",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Wrong medium, now corrected: this line appears nowhere in the novels. It is Snow speaking in the Mockingjay - Part 1 film, so it stays unverified until checked against the footage.",
+      "tags": [
+        "love",
+        "power",
+        "warning",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-013",
+      "content": "It must be very fragile, if a handful of berries can bring it down.",
+      "authorName": "Katniss Everdeen",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's answer to Snow's claim that her stunt in the arena threatened the whole Capitol.",
+      "tags": [
+        "power",
+        "politics",
+        "defiance",
+        "wit"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-014",
+      "content": "You just remember who the enemy is.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch to Katniss before the Quarter Quell, Catching Fire, page 378, with \"enemy\" italicised. The familiar \"remember who the real enemy is\" is the 2013 film's wording, not the book's.",
+      "tags": [
+        "power",
+        "loyalty",
+        "war",
+        "advice"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-015",
+      "content": "You could live a hundred lifetimes and not deserve him, you know.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch's verdict on Peeta, delivered to Katniss without softening.",
+      "tags": [
+        "love",
+        "integrity",
+        "kindness",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-016",
+      "content": "They can't hurt me. I'm not like the rest of you. There's no one left I love.",
+      "authorName": "Johanna Mason",
+      "source": "Catching Fire (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Johanna Mason on what the Capitol can no longer take from her; the middle sentence is usually dropped when the line is quoted.",
+      "tags": [
+        "grief",
+        "loneliness",
+        "defiance",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-017",
+      "content": "Fire is catching! And if we burn, you burn with us!",
+      "authorName": "Katniss Everdeen",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis fails in part: \"if we burn, you burn with us\" is confirmed in Mockingjay around page 106, but the \"Fire is catching!\" opening could not be confirmed in the novel and may be the film's.",
+      "tags": [
+        "dissent",
+        "defiance",
+        "rallying-cry",
+        "war"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-018",
+      "content": "You love me. Real or not real?",
+      "authorName": "Peeta Mellark",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The recovery game Peeta uses after the Capitol's hijacking left him unable to sort his own memories from planted ones; Katniss answers, Real.",
+      "tags": [
+        "love",
+        "truth",
+        "memory",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-019",
+      "content": "Destroying things is much easier than making them.",
+      "authorName": "Katniss Everdeen",
+      "source": "The Hunger Games (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Katniss to Rue in the arena, planning to destroy the Careers' supplies — dialogue, not narration, and from the first novel rather than Mockingjay.",
+      "tags": [
+        "war",
+        "power",
+        "aphorism",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-020",
+      "content": "It takes ten times as long to put yourself back together as it does to fall apart.",
+      "authorName": "Finnick Odair",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Attribution axis fails: the wording is confirmed from Mockingjay, but no acceptable source establishes whether Finnick or Katniss speaks it — only aggregators assign it to Finnick.",
+      "tags": [
+        "resilience",
+        "suffering",
+        "starting-over",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-021",
+      "content": "Closing my eyes doesn't help. Fire burns brighter in the darkness.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis unconfirmed: reproduced with a Mockingjay page 152 citation in one published study, but no second source was found to corroborate it.",
+      "tags": [
+        "fear",
+        "suffering",
+        "memory",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-022",
+      "content": "Something is significantly wrong with a creature that sacrifices its children's lives to settle its differences.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Katniss's verdict near the end of the trilogy, aimed at the Games and the war that replaced them alike.",
+      "tags": [
+        "war",
+        "parenthood",
+        "justice",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-023",
+      "content": "I no longer feel any allegiance to these monsters called human beings, despite being one myself.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis fails: only the fragment \"monsters called human beings\" could be confirmed, at Mockingjay page 377. The full sentence as given here returned no match in any searchable edition.",
+      "tags": [
+        "despair",
+        "grief",
+        "war",
+        "confession"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-024",
+      "content": "What I need is the dandelion in the spring. The bright yellow that means rebirth instead of destruction. The promise that life can go on, no matter how bad our losses. That it can be good again.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing pages: what Katniss decides she needs to survive, set against Gale's fire.",
+      "tags": [
+        "hope",
+        "starting-over",
+        "resilience",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-025",
+      "content": "That's when I make a list in my head of every act of goodness I've seen someone do. It's like a game. Repetitive. Even a little tedious after more than twenty years. But there are much worse games to play.",
+      "authorName": "Suzanne Collins",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The last lines of the trilogy, on the game Katniss plays instead of the one Panem made her play.",
+      "tags": [
+        "resilience",
+        "gratitude",
+        "habits",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-026",
+      "content": "Katniss will pick whoever she thinks she can't survive without.",
+      "authorName": "Gale Hawthorne",
+      "source": "Mockingjay (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Gale's answer to Peeta when the two of them work out, between themselves, where they stand.",
+      "tags": [
+        "love",
+        "self-knowledge",
+        "choice",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-027",
+      "content": "Hope. It is the only thing stronger than fear.",
+      "authorName": "President Snow",
+      "source": "The Hunger Games (2012 film)",
+      "quoteDate": "2012",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Snow to Seneca Crane in the 2012 film, answering his one-word question. The single-sentence form that circulates is a condensation; still unverified, as the wording rests on a transcription rather than the footage.",
+      "tags": [
+        "hope",
+        "fear",
+        "power",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-028",
+      "content": "Snow lands on top.",
+      "authorName": "Suzanne Collins",
+      "source": "The Ballad of Songbirds and Snakes (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Snow family refrain, first on page 9 of The Ballad of Songbirds and Snakes — a saying shared with his cousin Tigris that carried them through the war, rather than a line of his own.",
+      "tags": [
+        "ambition",
+        "power",
+        "identity",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-029",
+      "content": "The upside of being born on reaping day is that you can sleep late on your birthday. It's pretty much downhill from there.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Sunrise on the Reaping (2025), Chapter 1",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The novel's opening lines, from the first chapter Scholastic released as an authorized pre-publication excerpt.",
+      "tags": [
+        "adversity",
+        "fear",
+        "identity",
+        "wit"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-030",
+      "content": "Because the reaping's going to happen no matter what I believe. Sure as the sun will rise tomorrow.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Sunrise on the Reaping (2025), Chapter 1",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch on the day's inevitability, page 10; the line the novel's title answers.",
+      "tags": [
+        "destiny",
+        "despair",
+        "doubt",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-031",
+      "content": "Don't let them use you, Sarshee. Don't let them paint their posters with your blood. Not if you can help it.",
+      "authorName": "Haymitch's father",
+      "source": "Sunrise on the Reaping (2025), Chapter 4",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Advice given to an earlier tribute, reaching Haymitch through his mother and repeated to himself on page 49.",
+      "tags": [
+        "dissent",
+        "power",
+        "identity",
+        "warning",
+        "advice"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-032",
+      "content": "I don't think we 'submit.'",
+      "authorName": "Haymitch Abernathy",
+      "source": "Sunrise on the Reaping (2025), Chapter 8",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Page 104; the inner single quotes are the novel's, marking the Capitol's word being handed back to it.",
+      "tags": [
+        "dissent",
+        "freedom",
+        "power",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-033",
+      "content": "And I will orchestrate your death based on your behavior from here on out.",
+      "authorName": "President Snow",
+      "source": "Sunrise on the Reaping (2025), Chapter 9",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snow setting the terms on page 130, in the flat register he reserves for threats.",
+      "tags": [
+        "power",
+        "fear",
+        "mortality",
+        "blunt",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-034",
+      "content": "Maybe one day. But we can't any of us do it alone.",
+      "authorName": "Plutarch Heavensbee",
+      "source": "Sunrise on the Reaping (2025), Epilogue",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The novel's closing note on page 377, and the answer to the isolation Haymitch spends the book learning.",
+      "tags": [
+        "teamwork",
+        "community",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}

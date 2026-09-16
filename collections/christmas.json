@@ -1,0 +1,509 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "description": "Carols, scripture and ghost stories — the words the season keeps returning to.",
+  "author": "Quips Editorial",
+  "colorName": "green",
+  "colorLightHex": "#27AE57",
+  "colorDarkHex": "#2BD66A",
+  "iconName": "tree.fill",
+  "category": "Holidays",
+  "addedAt": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-15T12:00:00Z",
+  "quotes": [
+    {
+      "id": "xmas-001",
+      "content": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 9:6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The prophecy Handel set in Messiah, read at Christmas services for centuries before it was sung at them.",
+      "tags": [
+        "scripture",
+        "the-divine",
+        "peace",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-002",
+      "content": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Luke 2:7 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The whole of the Nativity itself, given in one sentence with almost no adjectives.",
+      "tags": [
+        "scripture",
+        "new-baby",
+        "humility",
+        "home"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-003",
+      "content": "Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Luke 2:10 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The angel to the shepherds. The verse opens \"And the angel said unto them, Fear not:\"; this begins at the angel's words.",
+      "tags": [
+        "scripture",
+        "joy",
+        "fear",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-004",
+      "content": "Glory to God in the highest, and on earth peace, good will toward men.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Luke 2:14 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The heavenly host's song, and the line more carols borrow from than any other.",
+      "tags": [
+        "scripture",
+        "worship",
+        "peace",
+        "the-divine"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-005",
+      "content": "But Mary kept all these things, and pondered them in her heart.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Luke 2:19 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "After the shepherds leave, the account turns for one verse to what the mother was thinking.",
+      "tags": [
+        "scripture",
+        "parenthood",
+        "memory",
+        "wonder"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-006",
+      "content": "Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 2:2 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The wise men on reaching Jerusalem, which is how Herod first hears of the birth. The verse opens \"Saying, Where is he...\"; this begins at their question.",
+      "tags": [
+        "scripture",
+        "worship",
+        "the-cosmos",
+        "travel"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-007",
+      "content": "And the Word was made flesh, and dwelt among us",
+      "authorName": "The Bible (King James Version)",
+      "source": "John 1:14 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "John's Nativity: no manger and no shepherds, only the claim the season rests on. This is the verse's opening clause; it continues with a parenthetical on beholding his glory.",
+      "tags": [
+        "scripture",
+        "the-divine",
+        "grace",
+        "faith"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-008",
+      "content": "O little town of Bethlehem,\nHow still we see thee lie:\nAbove thy deep and dreamless sleep\nThe silent stars go by:\nYet in thy dark streets shineth\nThe Everlasting Light:\nThe hopes and fears of all the years\nAre met in thee to-night.",
+      "authorName": "Phillips Brooks",
+      "source": "\"O Little Town of Bethlehem,\" Sunday School Service and Hymn Book (Diocese of Ohio, 1870), hymn 63",
+      "quoteDate": "1870",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Written by Brooks for his Sunday school in 1868 after riding to Bethlehem on Christmas Eve 1865. This is the earliest surviving printing; his own autograph has no punctuation at all, and his posthumous collection reads \"The silent hours go by\" and \"thy dark street\" singular.",
+      "tags": [
+        "hope",
+        "fear",
+        "the-divine",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-009",
+      "content": "In the bleak mid-winter\nFrosty wind made moan,\nEarth stood hard as iron,\nWater like a stone;\nSnow had fallen, snow on snow,\nSnow on snow,\nIn the bleak mid-winter\nLong ago.",
+      "authorName": "Christina Rossetti",
+      "source": "\"A Christmas Carol,\" in Goblin Market, The Prince's Progress, and Other Poems (Macmillan, 1875)",
+      "quoteDate": "1875",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Rossetti titled it \"A Christmas Carol\"; \"In the Bleak Midwinter\" is the hymn's name, and the hymn adds a comma to the seventh line that she never wrote.",
+      "tags": [
+        "seasons",
+        "nature",
+        "wonder",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-010",
+      "content": "What can I give Him,\nPoor as I am?\nIf I were a shepherd\nI would bring a lamb,\nIf I were a wise man\nI would do my part,—\nYet what I can I give Him,\nGive my heart.",
+      "authorName": "Christina Rossetti",
+      "source": "\"A Christmas Carol,\" in Goblin Market, The Prince's Progress, and Other Poems (Macmillan, 1875)",
+      "quoteDate": "1875",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing stanza as Rossetti printed it in her own book: lowercase shepherd and wise man, and commas where hymnals set semicolons.",
+      "tags": [
+        "generosity",
+        "worship",
+        "humility",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-011",
+      "content": "And ye, beneath life's crushing load\nWhose forms are bending low,\nWho toil along the climbing way\nWith painful steps and slow;\nLook now! for glad and golden hours\nCome swiftly on the wing—\nO rest beside the weary road,\nAnd hear the angels sing!",
+      "authorName": "Edmund Hamilton Sears",
+      "source": "\"Christmas Carols,\" Christian Register, Boston (29 December 1849)",
+      "quoteDate": "1849-12-29",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The stanza for the exhausted, as first printed over the initials E. H. S. Sears revised it himself in 1875, and the familiar hymn text conflates the two.",
+      "tags": [
+        "adversity",
+        "hope",
+        "encouragement",
+        "peace"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-012",
+      "content": "Truly he taught us to love one another;\nHis law is Love and his gospel is Peace;\nChains shall he break, for the slave is our brother,\nAnd in his name, all oppression shall cease,",
+      "authorName": "John Sullivan Dwight",
+      "source": "\"Christmas Song\" (Cantique de Noel), English words by J. S. Dwight, in Gems of English Song (Oliver Ditson, 1875)",
+      "quoteDate": "1858",
+      "verificationStatus": "verified",
+      "sourceType": "song",
+      "notes": "Dwight's English of Cappeau's third verse. The abolition image is Cappeau's own — \"il voit un frere ou n'etait qu'un esclave\" — not Dwight's addition; he moves the French perfect into a future, if anything softening it. Earliest documented printing is 1858; the often-repeated 1855 date appears nowhere in Dwight's own journal. Text follows the 1875 engraving, so its pointing is provisional.",
+      "tags": [
+        "freedom",
+        "justice",
+        "compassion",
+        "peace"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-013",
+      "content": "And in despair I bowed my head;\n\"There is no peace on earth,\" I said;\n\"For hate is strong,\nAnd mocks the song\nOf peace on earth, good-will to men!\"",
+      "authorName": "Henry Wadsworth Longfellow",
+      "source": "\"Christmas Bells,\" Our Young Folks (February 1865); written 25 December 1863",
+      "quoteDate": "1863-12-25",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Written the Christmas after Longfellow's wife burned to death and his eldest son was gravely wounded in the war.",
+      "tags": [
+        "despair",
+        "war",
+        "grief",
+        "peace"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-014",
+      "content": "Then pealed the bells more loud and deep:\n\"God is not dead; nor doth he sleep!\nThe Wrong shall fail,\nThe Right prevail,\nWith peace on earth, good-will to men!\"",
+      "authorName": "Henry Wadsworth Longfellow",
+      "source": "\"Christmas Bells,\" Our Young Folks (February 1865); written 25 December 1863",
+      "quoteDate": "1863-12-25",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The answering stanza — the poem earns its consolation by printing the despair first. Punctuation follows the first printing; hymnals smooth it to a comma, a capital He and a closing full stop.",
+      "tags": [
+        "hope",
+        "faith",
+        "justice",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-015",
+      "content": "To an open house in the evening\nHome shall men come,\nTo an older place than Eden\nAnd a taller town than Rome.\nTo the end of the way of the wandering star,\nTo the things that cannot be and that are,\nTo the place where God was homeless\nAnd all men are at home.",
+      "authorName": "G. K. Chesterton",
+      "source": "\"The House of Christmas,\" final stanza, in Poems (1915)",
+      "quoteDate": "1915",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Genuine printed Chesterton, unlike most of the warm Christmas lines that circulate under his name.",
+      "tags": [
+        "home",
+        "faith",
+        "longing",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-016",
+      "content": "'Twas the night before Christmas, when all through the house\nNot a creature was stirring, not even a mouse;\nThe stockings were hung by the chimney with care,\nIn hopes that St. Nicholas soon would be there;",
+      "authorName": "Clement Clarke Moore",
+      "source": "\"A Visit from St. Nicholas,\" in Clement C. Moore, Poems (Bartlett & Welford, 1844)",
+      "quoteDate": "1823-12-23",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Authorship is disputed: the poem ran anonymously in the Troy Sentinel in 1823, was printed over Moore's name in 1837, and was claimed by him in this 1844 volume; the descendants of Henry Livingston Jr. have pressed his rival claim ever since.",
+      "tags": [
+        "home",
+        "family",
+        "seasons",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-017",
+      "content": "He sprang to his sleigh, to his team gave a whistle,\nAnd away they all flew like the down of a thistle.\nBut I heard him exclaim, ere he drove out of sight,\n\"Happy Christmas to all, and to all a good night.\"",
+      "authorName": "Clement Clarke Moore",
+      "source": "\"A Visit from St. Nicholas,\" in Clement C. Moore, Poems (Bartlett & Welford, 1844)",
+      "quoteDate": "1823-12-23",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing couplet of the poem that gave Santa his sleigh, reindeer and chimney. The 1823 Troy Sentinel printing reads \"sprung\" and \"good night.\"; this follows Moore's own 1844 text.",
+      "tags": [
+        "joy",
+        "wonder",
+        "blessing",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-018",
+      "content": "Marley was dead: to begin with. There is no doubt whatever about that.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave One (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The first line, establishing the ghost before anything else so the reader cannot argue with it later.",
+      "tags": [
+        "mortality",
+        "blunt",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-019",
+      "content": "But I am sure I have always thought of Christmas time, when it has come round — apart from the veneration due to its sacred name and origin, if anything belonging to it can be apart from that — as a good time: a kind, forgiving, charitable, pleasant time: the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave One (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Scrooge's nephew Fred, making the case for the season to a man who has just called it a humbug.",
+      "tags": [
+        "generosity",
+        "forgiveness",
+        "community",
+        "kindness"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-020",
+      "content": "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave One (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Marley's ghost, in chains, correcting his own life's accounting.",
+      "tags": [
+        "generosity",
+        "mercy",
+        "money",
+        "regret",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-021",
+      "content": "This boy is Ignorance. This girl is Want. Beware them both, and all of their degree, but most of all beware this boy, for on his brow I see that written which is Doom, unless the writing be erased.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave Three (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Ghost of Christmas Present opens his robe on two starving children — the political heart of a book remembered as cosy.",
+      "tags": [
+        "ignorance",
+        "money",
+        "justice",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-022",
+      "content": "God bless Us, Every One!",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave Five (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's closing words, the narrator taking up Tiny Tim's toast; Tiny Tim's own line in Stave Three is the plainer \"God bless us every one!\"",
+      "tags": [
+        "blessing",
+        "family",
+        "tender",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-023",
+      "content": "I will honour Christmas in my heart, and try to keep it all the year. I will live in the Past, the Present, and the Future. The Spirits of all Three shall strive within me. I will not shut out the lessons that they teach.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave Four (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Scrooge at his own graveside, promising what the last stave will hold him to.",
+      "tags": [
+        "redemption",
+        "starting-over",
+        "change",
+        "time"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-024",
+      "content": "Some say that ever 'gainst that season comes\nWherein our Saviour's birth is celebrated,\nThe bird of dawning singeth all night long;\nAnd then, they say, no spirit dare stir abroad,\nThe nights are wholesome, then no planets strike,\nNo fairy takes, nor witch hath power to charm,\nSo hallow'd and so gracious is the time.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act I, Scene 1 (First Folio, 1623)",
+      "quoteDate": "c. 1601",
+      "verificationStatus": "verified",
+      "sourceType": "play",
+      "notes": "Marcellus, having just seen the ghost, reaches for the one season folklore says ghosts cannot walk in. Follows the Folio reading; Q2-based editions read \"This bird of dawning\" and \"is that time\".",
+      "tags": [
+        "seasons",
+        "wonder",
+        "faith",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-025",
+      "content": "Of all the old festivals, however, that of Christmas awakens the strongest and most heartfelt associations.",
+      "authorName": "Washington Irving",
+      "source": "\"Christmas,\" in The Sketch Book of Geoffrey Crayon, Gent. (1820)",
+      "quoteDate": "1820",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Irving's English Christmas sketches, which Dickens read and openly drew on twenty-three years later.",
+      "tags": [
+        "seasons",
+        "memory",
+        "community",
+        "history"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-026",
+      "content": "Yes, Virginia, there is a Santa Claus. He exists as certainly as love and generosity and devotion exist, and you know that they abound and give to your life its highest beauty and joy.",
+      "authorName": "Francis Pharcellus Church",
+      "source": "\"Is There a Santa Claus?\" (unsigned editorial), The New York Sun (21 September 1897)",
+      "quoteDate": "1897-09-21",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "Church answered eight-year-old Virginia O'Hanlon anonymously on page 6; his authorship was made public only after his death in 1906. The Sun set her name in small caps.",
+      "tags": [
+        "imagination",
+        "doubt",
+        "generosity",
+        "faith",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-027",
+      "content": "Look, Daddy. Teacher says, every time a bell rings an angel gets his wings.",
+      "authorName": "Zuzu Bailey (Karolyn Grimes)",
+      "source": "It's a Wonderful Life, directed by Frank Capra (1946)",
+      "quoteDate": "1946",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Zuzu at the tree in the closing scene. The popular form drops \"Look, Daddy. Teacher says\" and adds a comma after \"rings\"; the idea is first spoken earlier in the film by Clarence, in different words. Still unverified: the only script scan found has no stated provenance.",
+      "tags": [
+        "the-divine",
+        "joy",
+        "tender",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-028",
+      "content": "Faith is believing in things when common sense tells you not to.",
+      "authorName": "Fred Gailey (John Payne)",
+      "source": "Miracle on 34th Street, directed by George Seaton (1947)",
+      "quoteDate": "1947",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Fred to Doris in her apartment, answering her \"it's just common sense\". Wording and speaker both appear correct — often misattributed elsewhere to Susan or Doris — but no screenplay or continuity script was reachable to establish it.",
+      "tags": [
+        "faith",
+        "doubt",
+        "wisdom",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "xmas-029",
+      "content": "I never thought it was such a bad little tree. It's not bad at all, really. Maybe it just needs a little love.",
+      "authorName": "Linus van Pelt (Christopher Shea)",
+      "source": "A Charlie Brown Christmas, directed by Bill Melendez (CBS, 1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Linus wrapping his blanket around the tree. Wording matches every published reproduction found, but all are secondary; the script in Mendelson and Melendez's book was behind a lending restriction.",
+      "tags": [
+        "kindness",
+        "compassion",
+        "simplicity",
+        "tender"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    }
+  ]
+}

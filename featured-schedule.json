@@ -39,71 +39,92 @@
     {
       "weekStart": "2026-09-21",
       "collectionId": "jewish-wisdom",
-      "note": "Jewish Wisdom — seasonal: matches learning for September"
+      "quoteId": "jewish-023",
+      "note": "Yom Kippur falls on Monday and Sukkot begins Friday — the Days of Awe, in the words that shaped them."
     },
     {
       "weekStart": "2026-09-28",
       "collectionId": "cosmos-space",
-      "note": "Cosmos & Space — never featured"
+      "quoteId": "cosmos-028",
+      "note": "The week closes on October 4: Sputnik's launch anniversary and the opening of World Space Week."
     },
     {
       "weekStart": "2026-10-05",
-      "collectionId": "edgar-allan-poe",
-      "note": "Edgar Allan Poe — seasonal: matches mystery for October"
+      "collectionId": "dystopian-fiction",
+      "quoteId": "dystopia-019",
+      "note": "Banned Books Week, October 4-10 — the novels that top the challenged lists, in their own words."
     },
     {
       "weekStart": "2026-10-12",
-      "collectionId": "courage-conviction",
-      "note": "Courage & Conviction — seasonal: matches fear for October"
+      "collectionId": "jane-austen",
+      "quoteId": "austen-013",
+      "note": "A new Sense and Sensibility reaches US theaters on October 16."
     },
     {
       "weekStart": "2026-10-19",
-      "collectionId": "disney-animated",
-      "note": "Disney Animated — never featured"
+      "collectionId": "scifi-screen",
+      "quoteId": "scifi-028",
+      "note": "October 21 is the day Marty McFly arrives in the future — Back to the Future Day."
     },
     {
       "weekStart": "2026-10-26",
-      "collectionId": "avatar-last-airbender",
-      "note": "One of our newest additions — balance, growth, and found family from Avatar: The Last Airbender, in its featured debut."
+      "collectionId": "edgar-allan-poe",
+      "quoteId": "poe-002",
+      "note": "Halloween week belongs to Poe."
     },
     {
       "weekStart": "2026-11-02",
-      "collectionId": "gratitude",
-      "note": "Opening the month of Thanksgiving with lines on gratitude and appreciation."
+      "collectionId": "bhagavad-gita",
+      "quoteId": "gita-018",
+      "note": "Diwali, the festival of lights, runs November 6-10, with Lakshmi Puja on the 8th."
     },
     {
       "weekStart": "2026-11-09",
-      "collectionId": "oscar-wilde",
-      "note": "Sharp, quotable wit from Oscar Wilde, finally getting its turn to headline."
+      "collectionId": "veterans-remembrance",
+      "quoteId": "vets-006",
+      "note": "Veterans Day and Remembrance Day, November 11."
     },
     {
       "weekStart": "2026-11-16",
-      "collectionId": "great-economists",
-      "note": "Our freshest collection yet — clear-eyed thinking on markets and money from history's great economists."
+      "collectionId": "hunger-games",
+      "quoteId": "hunger-029",
+      "note": "The Hunger Games: Sunrise on the Reaping opens November 20."
     },
     {
       "weekStart": "2026-11-23",
-      "collectionId": "friendship",
-      "quoteId": "friend-001",
-      "note": "Aristotle on the friends who make a life worth living, for the week of Thanksgiving gatherings."
+      "collectionId": "gratitude",
+      "quoteId": "grat-007",
+      "note": "Thanksgiving is Thursday the 26th."
     },
     {
       "weekStart": "2026-11-30",
-      "collectionId": "andor-rogue-one",
-      "quoteId": "andor-001",
-      "note": "Our newest collection makes its featured debut — the Rebellion's hard-won hope from Andor and Rogue One."
+      "collectionId": "disney-animated",
+      "quoteId": "disney-012",
+      "note": "Walt Disney would have turned 125 on December 5."
     },
     {
       "weekStart": "2026-12-07",
-      "collectionId": "cs-lewis",
-      "quoteId": "cslewis-001",
-      "note": "C. S. Lewis's reflections on faith and reason for the year's turn toward quieter, more contemplative weeks."
+      "collectionId": "great-scientists",
+      "quoteId": "sci-005",
+      "note": "The Nobel Prizes are presented in Stockholm on December 10, the anniversary of Alfred Nobel's death."
     },
     {
       "weekStart": "2026-12-14",
-      "collectionId": "star-wars",
-      "quoteId": "starwars-001",
-      "note": "The saga that started it all finally gets its featured turn, held a few weeks clear of Andor & Rogue One so the two Star Wars collections don't run back to back."
+      "collectionId": "marvel-movies",
+      "quoteId": "marvel-009",
+      "note": "Avengers: Doomsday opens December 18."
+    },
+    {
+      "weekStart": "2026-12-21",
+      "collectionId": "christmas",
+      "quoteId": "xmas-004",
+      "note": "Christmas week, beginning on the winter solstice."
+    },
+    {
+      "weekStart": "2026-12-28",
+      "collectionId": "new-year",
+      "quoteId": "newyear-019",
+      "note": "The turn of the year, in the words people actually reach for at midnight."
     }
   ]
 }
