@@ -20,6 +20,11 @@
       "quoteDate": "2005-06-12",
       "verificationStatus": "verified",
       "notes": "Verified from Stanford University's official transcript of Jobs' commencement address. This quote appears in the second story of his speech about love and loss.",
+      "tags": [
+        "work",
+        "purpose",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -31,6 +36,11 @@
       "quoteDate": "c. 1949",
       "verificationStatus": "attributed",
       "notes": "This is a paraphrase. The original German from a 1949 letter reads closer to 'in the midst of every crisis, lies great opportunity.' Widely attributed but exact source disputed.",
+      "tags": [
+        "adversity",
+        "hope",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -42,6 +52,11 @@
       "quoteDate": "c. 1900s",
       "verificationStatus": "attributed",
       "notes": "Commonly attributed to Roosevelt but no verified primary source exists. Consistent with his philosophy of the 'strenuous life' and self-belief. Date is a broad estimate spanning Roosevelt's presidency, not a documented one.",
+      "tags": [
+        "hope",
+        "courage",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -53,6 +68,11 @@
       "quoteDate": "c. 1940s",
       "verificationStatus": "attributed",
       "notes": "Widely attributed to Eleanor Roosevelt. Appears in various collections of her quotes, though exact original source is difficult to verify.",
+      "tags": [
+        "hope",
+        "purpose",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -64,6 +84,12 @@
       "quoteDate": "c. 500 BCE",
       "verificationStatus": "folk-wisdom",
       "notes": "Traditional attribution to Confucius. The sentiment aligns with Confucian philosophy of steady self-cultivation, though exact original text varies in translation.",
+      "tags": [
+        "perseverance",
+        "patience",
+        "one-liner",
+        "encouragement"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -75,6 +101,11 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "notes": "Attributed to real estate developer George Addair. The exact origin and date remain unverified, but the quote has been consistently attributed to him since at least the 1990s.",
+      "tags": [
+        "fear",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -86,6 +117,11 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "notes": "Consistent with Tony Robbins' motivational philosophy. Used in his seminars and writings on personal development.",
+      "tags": [
+        "beginnings",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -97,6 +133,11 @@
       "quoteDate": "1940",
       "verificationStatus": "unverified",
       "notes": "Frequently attributed to Emerson but not found in his published works. May have originated from Henry Stanley Haskins' 'Meditations in Wall Street' (1940) or similar sources. Dated to that 1940 volume, the earliest documented appearance; researchers credit the line to Haskins himself.",
+      "tags": [
+        "identity",
+        "resilience",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -108,6 +149,11 @@
       "quoteDate": "c. 1930s",
       "verificationStatus": "unverified",
       "notes": "Widely attributed to Churchill but no verified source in his speeches or writings. The sentiment aligns with his wartime rhetoric about perseverance. Date is estimated from the earliest documented appearances, an Anheuser-Busch advertising series of the 1930s.",
+      "tags": [
+        "perseverance",
+        "failure",
+        "courage"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -119,6 +165,11 @@
       "quoteDate": "c. 20th century",
       "verificationStatus": "folk-wisdom",
       "notes": "Traditional Chinese proverb. Exact origin unknown but the wisdom about taking action has been passed down for generations. The century is a broad estimate for the saying's circulation in English, not a documented date.",
+      "tags": [
+        "beginnings",
+        "present-moment",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -130,6 +181,12 @@
       "quoteDate": "c. 1890s",
       "verificationStatus": "attributed",
       "notes": "Various versions exist. Edison did make similar statements about his iterative approach to invention, particularly regarding the light bulb. Verified through multiple biographies.",
+      "tags": [
+        "failure",
+        "science",
+        "paradox",
+        "wit"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -141,6 +198,11 @@
       "quoteDate": "c. 1947",
       "verificationStatus": "unverified",
       "notes": "No occurrence found in Ford's own writing or speeches (e.g. My Life and Work, 1922). First traceable link to Ford's name is an uncited Reader's Digest item, Sept. 1947, months after his death — a likely magnet-quote misattribution. True origin untraceable to a single author (attribution axis fails). Date is estimated from that 1947 Reader's Digest item, the earliest documented appearance.",
+      "tags": [
+        "identity",
+        "choice",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -152,6 +214,11 @@
       "quoteDate": "1994",
       "verificationStatus": "unverified",
       "notes": "Often attributed to Mandela but actually paraphrased from Oliver Goldsmith. Mandela may have used a version of this sentiment in speeches.",
+      "tags": [
+        "resilience",
+        "failure",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -163,6 +230,11 @@
       "quoteDate": "1980-11-17",
       "verificationStatus": "verified",
       "notes": "From Lennon's song written for his son Sean. The line was inspired by earlier variations of this sentiment from other sources.",
+      "tags": [
+        "present-moment",
+        "time",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -174,6 +246,11 @@
       "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "notes": "Widely attributed to Emerson and consistent with his transcendentalist philosophy of self-reliance and personal choice. The century is a broad estimate for the line's modern circulation; it does not appear in Emerson's published work.",
+      "tags": [
+        "identity",
+        "choice",
+        "destiny"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -185,6 +262,11 @@
       "quoteDate": "1973",
       "verificationStatus": "verified",
       "notes": "Verified from Levenson's book of humorous observations and wisdom. Levenson was an American humorist and writer.",
+      "tags": [
+        "perseverance",
+        "time",
+        "advice"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -196,6 +278,11 @@
       "quoteDate": "1890",
       "verificationStatus": "attributed",
       "notes": "Attributed to William James, the father of American psychology. Consistent with his pragmatist philosophy about the power of belief and action.",
+      "tags": [
+        "purpose",
+        "service",
+        "encouragement"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -207,6 +294,11 @@
       "quoteDate": "1975",
       "verificationStatus": "verified",
       "notes": "From Ziglar's influential personal development book. Ziglar was a renowned motivational speaker who influenced generations of self-help philosophy.",
+      "tags": [
+        "identity",
+        "success",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -218,6 +310,11 @@
       "quoteDate": "c. 1983",
       "verificationStatus": "attributed",
       "notes": "Widely attributed to hockey legend Wayne Gretzky. Popularized further when used by Michael Scott in The Office, often leading to the joke attribution 'Wayne Gretzky - Michael Scott.'",
+      "tags": [
+        "risk",
+        "courage",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -229,6 +326,12 @@
       "quoteDate": "c. 1994",
       "verificationStatus": "attributed",
       "notes": "Commonly attributed to Mandela during his post-prison years. The sentiment reflects his experience of the seemingly impossible task of ending apartheid.",
+      "tags": [
+        "perseverance",
+        "hope",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -240,6 +343,11 @@
       "quoteDate": "c. 1955",
       "verificationStatus": "attributed",
       "notes": "Attributed to Walt Disney and consistent with his action-oriented philosophy. Used in Disney company materials and biographies.",
+      "tags": [
+        "beginnings",
+        "effort",
+        "advice"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -251,6 +359,11 @@
       "quoteDate": "c. 1905",
       "verificationStatus": "attributed",
       "notes": "Attributed to the educator and advisor Booker T. Washington. Consistent with his philosophy of self-improvement through community service.",
+      "tags": [
+        "service",
+        "compassion",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -262,6 +375,11 @@
       "quoteDate": "c. 1992",
       "verificationStatus": "unverified",
       "notes": "Widely attributed to C. S. Lewis but no verified source in his published works. The sentiment is consistent with his later life writings on hope and renewal. Date is estimated from the earliest documented appearance, Les Brown's 1992 book Live Your Dreams; the Lewis ascription surfaces only from 2006.",
+      "tags": [
+        "aging",
+        "beginnings",
+        "encouragement"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -273,6 +391,11 @@
       "quoteDate": "1913",
       "verificationStatus": "verified",
       "notes": "From Roosevelt's autobiography. He attributes a similar sentiment to Squire Bill Widener, making this a paraphrase he popularized.",
+      "tags": [
+        "effort",
+        "contentment",
+        "advice"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -284,6 +407,11 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "notes": "From Chapter 64 of the Tao Te Ching. Various translations exist; some translate the key character as 'step' while others use 'foot.'",
+      "tags": [
+        "beginnings",
+        "patience",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -295,6 +423,11 @@
       "quoteDate": "c. 1862",
       "verificationStatus": "unverified",
       "notes": "Commonly attributed to Whitman though not found in his published poetry collections. May be a paraphrase of his optimistic philosophy. Date is estimated from the earliest documented appearance, an anonymous saying in West Virginia's Daily Intelligencer in 1862; the Whitman ascription dates only from 1919.",
+      "tags": [
+        "hope",
+        "advice",
+        "lyrical"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -306,6 +439,11 @@
       "quoteDate": "c. 1947",
       "verificationStatus": "unverified",
       "notes": "Frequently attributed to Lincoln but likely originated from an advertisement by Edward J. Stieglitz in the 1940s. No verified Lincoln source. Date is estimated from the earliest documented appearance, a 1947 Chicago Tribune advertisement for Stieglitz's book The Second Forty Years.",
+      "tags": [
+        "aging",
+        "meaning",
+        "paradox"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -317,6 +455,11 @@
       "quoteDate": "c. 1975",
       "verificationStatus": "attributed",
       "notes": "Attributed to tennis champion and activist Arthur Ashe. Reflects his philosophy of making the best of circumstances, especially during his civil rights advocacy.",
+      "tags": [
+        "beginnings",
+        "effort",
+        "advice"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -328,6 +471,11 @@
       "quoteDate": "c. 1968",
       "verificationStatus": "unverified",
       "notes": "Widely attributed to Twain but no verified source in his writings. The sentiment aligns with his pragmatic humor and philosophy. Date is estimated from the earliest documented appearance of this exact wording, unattributed, in Evan Esar's 20,000 Quips and Quotes (1968); a partial version ran in a 1923 newspaper advertisement.",
+      "tags": [
+        "beginnings",
+        "success",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -339,6 +487,11 @@
       "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
       "notes": "Commonly attributed to Lewis but not verified in his published works. The sentiment is consistent with themes in his Christian apologetics and Narnia series. The century is a broad estimate for the line's modern circulation, not a documented date.",
+      "tags": [
+        "adversity",
+        "destiny",
+        "aphorism"
+      ],
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -350,6 +503,11 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "unverified",
       "notes": "Commonly misattributed to Mark Twain. Not found anywhere in Twain's writings, letters, or speeches (attribution axis fails); Campbell's 1970 sermon frames it as 'it has been said,' suggesting an already-circulating anonymous aphorism rather than his own coinage. The Twain attribution appears to have gone viral only after comedian Steve Harvey tweeted the line under Twain's name in 2011.",
+      "tags": [
+        "purpose",
+        "meaning",
+        "aphorism"
+      ],
       "addedAt": "2026-08-17T12:00:00Z"
     }
   ]

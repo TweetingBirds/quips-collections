@@ -400,6 +400,30 @@ So a sitcom splits into a tagged two-thirds that is about love, aging and time,
 and an untagged third that is catchphrases. That is the right split, and it
 means the remaining film and television collections need no rule change.
 
+### Batch 9 (2026-09-16): iconic-game-lines, inspiration-daily, jane-austen, jewish-wisdom, john-muir
+
+140/164 tagged, 24 empty, 3.17 per tagged quote, no flags.
+Corpus: **1383/2928 (47.2%)**, vocabulary **146/157 (93%)**.
+
+**Every one of the 24 empties is in `iconic-game-lines`** — 24 of its 31 quotes,
+77%, by far the highest rate in the project. The other four collections came in
+at zero. "Zug zug", "Wololo", "All your base are belong to us", "You have died
+of dysentery": this collection's *premise* is catchphrases, so the outcome is
+correct rather than a failure.
+
+It is also the one collection where the theme-required rule has a real cost. A
+user who bulk-imports it gets the category tag on 31 quotes and almost nothing
+else. Everywhere else the rule has been free — HIMYM still gave two thirds — so
+this is a single-collection problem, not an argument for changing the rule.
+Worth revisiting once at the end as a one-off: `humor` and `one-liner` on the
+catchphrases would make them searchable without touching the standard anywhere
+else.
+
+Eight quotes were pre-matched against already-tagged duplicates, the most in any
+batch, five of them in `inspiration-daily`. That collection is a greatest-hits
+set, so overlap with `dream-big` and `grit-perseverance` is structural. Running
+the duplicate query *before* tagging has now prevented eight chances to drift.
+
 Per batch, in order:
 
 ```bash
