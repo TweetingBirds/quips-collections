@@ -119,8 +119,8 @@
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-hD0+wl62hQyuJhAdK7LzsrV9CsmsTyzlNfxq3Wc3P3Q=",
-      "bytes": 15788
+      "contentHash": "sha256-PTjyc6mWBbc+nApQ49itTO6lWHn2DJ4pqkIJmoIOLDg=",
+      "bytes": 18415
     },
     {
       "id": "creative-minds",
@@ -679,8 +679,8 @@
       "category": "Movies",
       "addedAt": "2026-06-27T22:04:48Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-rg+dWezT89/EBfSs0aEtCHKN07FVO16yHD/5eoFOYdY=",
-      "bytes": 26957
+      "contentHash": "sha256-x5YoZ9S6ts74T2cGdYrhd0Vxn6dvH2NI3lgpHIkzjj8=",
+      "bytes": 30143
     },
     {
       "id": "andor-rogue-one",
@@ -959,8 +959,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-jwnKed77Qt0UilHNjqpg5dCdQqWO2omvHXs9G90Sxus=",
-      "bytes": 15954
+      "contentHash": "sha256-9QISj2l44wv/WOsi0ff6PuvIkAxASZyK3QUAr//qgZg=",
+      "bytes": 18440
     },
     {
       "id": "zen-wisdom",
@@ -1579,8 +1579,8 @@
       "category": "Anime & Manga",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-6iQ+5se2da3wXBUUyNzXLqOTx3khuFNDJsk9QyJ5X28=",
-      "bytes": 13588
+      "contentHash": "sha256-vtr92NAFdck4Z744OeF+HU813QIk6871uCJfRKnBCzg=",
+      "bytes": 15672
     },
     {
       "id": "naruto",
@@ -1699,8 +1699,8 @@
       "category": "Video Games",
       "addedAt": "2026-07-01T14:52:27Z",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-lQ7kuRv4Hvaph5TBwXYj+XN6Vm2Z/HWC4E+/2GcJ2n4=",
-      "bytes": 8517
+      "contentHash": "sha256-jP4VxoGNY/iSzjCcuBMw0UVXaK/Trx5FhRJe7zr5ypo=",
+      "bytes": 9004
     },
     {
       "id": "warcraft",
