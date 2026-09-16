@@ -83,6 +83,11 @@ Rules enforced in CI:
 - Required quote fields: `id`, `content`, `authorName`, `source`,
   `verificationStatus`, `notes`.
 - `verificationStatus` ∈ `verified`, `attributed`, `unverified`, `folk-wisdom`.
+- `tags` (optional) must be slugs from `schema/tags.json`: at most 6, unique,
+  ordered most-specific-first, and at least one of them a `theme` tag. Unknown
+  slugs fail validation; a rejected spelling (e.g. `grit`) is told which tag to
+  use instead. `--require-tags` turns "no tags at all" into an error — it stays
+  off until the tagging pass reaches every collection.
 - `sourceType` (optional) must be a known value — keep it in sync with
   `QuoteSourceType` in the iOS app.
 - No duplicate quote text within a collection.
