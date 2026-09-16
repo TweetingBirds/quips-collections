@@ -20,6 +20,12 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "The Declaration's second paragraph, the founding statement of natural rights; text confirmed against the National Archives engrossed copy.",
+      "tags": [
+        "equality",
+        "freedom",
+        "justice",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +37,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Written from Paris reflecting on Shays's Rebellion; confirmed on Founders Online (Jefferson to W. S. Smith, 13 Nov. 1787).",
+      "tags": [
+        "freedom",
+        "dissent",
+        "sacrifice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +53,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "On constitutional reform in Virginia; confirmed on Founders Online. A redacted version is carved on the Jefferson Memorial.",
+      "tags": [
+        "change",
+        "politics",
+        "learning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +69,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "The first of the 'essential principles' Jefferson listed in his conciliatory first inaugural; confirmed on Founders Online.",
+      "tags": [
+        "justice",
+        "equality",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +85,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Jefferson's definition of liberty, distinguishing it from unlimited license; confirmed on Founders Online.",
+      "tags": [
+        "freedom",
+        "equality",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +101,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "From the reconciled Adams-Jefferson correspondence of their retirement years; confirmed on Founders Online.",
+      "tags": [
+        "hope",
+        "history",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +117,12 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Written for the Pennsylvania Assembly during a tax dispute in the French and Indian War, not about civil liberties as often quoted; confirmed on Founders Online.",
+      "tags": [
+        "freedom",
+        "fear",
+        "warning",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +134,12 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "One of Franklin's maxims under the Poor Richard pseudonym; confirmed on Founders Online (Poor Richard, 1737).",
+      "tags": [
+        "work",
+        "integrity",
+        "aphorism",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +151,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Opening of the first Crisis pamphlet, read aloud to Washington's troops before the crossing of the Delaware.",
+      "tags": [
+        "courage",
+        "adversity",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +167,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "The opening argument of Common Sense distinguishing society from government.",
+      "tags": [
+        "politics",
+        "community",
+        "power"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +183,11 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "From Part II of Rights of Man; the fuller line begins 'Independence is my happiness...'.",
+      "tags": [
+        "service",
+        "community",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +199,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "From Washington's printed valedictory to the nation, first published in Claypoole's American Daily Advertiser.",
+      "tags": [
+        "faith",
+        "politics",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +215,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Washington's statement of religious liberty, echoing warden Moses Seixas's own words; confirmed on Founders Online.",
+      "tags": [
+        "freedom",
+        "equality",
+        "politics"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +231,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "Delivered to defuse the Newburgh conspiracy among unpaid officers; confirmed on Founders Online.",
+      "tags": [
+        "freedom",
+        "dissent",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +247,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Madison's argument for checks and balances, published under the pseudonym Publius.",
+      "tags": [
+        "politics",
+        "power",
+        "paradox"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +263,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Madison's petition opposing a Virginia tax to support clergy; confirmed on Founders Online.",
+      "tags": [
+        "freedom",
+        "faith",
+        "politics"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +279,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Madison on the separation of powers, published as Publius.",
+      "tags": [
+        "power",
+        "politics",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +295,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "On the necessity of public education to self-government; confirmed on Founders Online.",
+      "tags": [
+        "learning",
+        "ignorance",
+        "politics"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +311,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "From Adams's Novanglus essays in the Boston Gazette; he was invoking James Harrington's earlier formulation. Confirmed on Founders Online.",
+      "tags": [
+        "justice",
+        "politics",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +327,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Adams's summation defending the accused soldiers; confirmed on Founders Online (Adams' Argument for the Defense).",
+      "tags": [
+        "truth",
+        "honesty",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +343,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "To the officers of the First Brigade, Third Division of the Massachusetts Militia; confirmed on Founders Online.",
+      "tags": [
+        "politics",
+        "faith",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +359,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Written as the Continental Congress moved toward independence; confirmed on Founders Online (spelling lightly modernized).",
+      "tags": [
+        "equality",
+        "dissent",
+        "justice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +375,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Advice to her teenage son, the future president; confirmed on Founders Online.",
+      "tags": [
+        "learning",
+        "discipline",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +391,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "The framing question that opens the Federalist essays, published as Publius.",
+      "tags": [
+        "politics",
+        "choice",
+        "history"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +407,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Hamilton's argument for a single, vigorous executive; confirmed on Founders Online.",
+      "tags": [
+        "leadership",
+        "politics",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +423,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "Rush, a signer of the Declaration, on virtue and civic education; text confirmed against the University of Chicago Founders' Constitution.",
+      "tags": [
+        "learning",
+        "faith",
+        "politics"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +439,11 @@
       "verificationStatus": "unverified",
       "sourceType": "speech",
       "notes": "Wording axis fails: no contemporaneous transcript exists. The famous text is biographer William Wirt's 1817 reconstruction from witnesses' recollections decades after the fact, and historians dispute whether Henry spoke these exact words.",
+      "tags": [
+        "freedom",
+        "courage",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +455,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Attribution axis fails: the line survives only in a single secondhand anecdote in delegate James McHenry's notes (first printed in 1906), not in any of Franklin's own writings or the convention record.",
+      "tags": [
+        "politics",
+        "warning",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -328,6 +471,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era. Date is estimated from the earliest documented appearance, the 1961 volume The Use of Force in International Affairs, which posed it as a question.",
+      "tags": [
+        "dissent",
+        "politics",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -339,6 +487,11 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford. Date is estimated from the first known appearance in print in 1952, after which it circulated unattributed in 1950s newspapers.",
+      "tags": [
+        "power",
+        "politics",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -350,6 +503,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Written soon after Jefferson sold his personal library to Congress to rebuild the collection burned when the British razed Washington; confirmed against Founders Online (National Archives) and Monticello's own quote-history page.",
+      "tags": [
+        "reading",
+        "learning",
+        "one-liner"
+      ],
       "addedAt": "2026-07-16T12:00:00Z"
     },
     {
@@ -361,6 +519,11 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Mason's opening article, adopted unanimously by the Fifth Virginia Convention; its language of natural rights directly shaped Jefferson's Declaration of Independence weeks later. Confirmed against the Avalon Project's text of the ratified document.",
+      "tags": [
+        "freedom",
+        "equality",
+        "justice"
+      ],
       "addedAt": "2026-08-06T12:00:00Z"
     },
     {
@@ -372,6 +535,11 @@
       "verificationStatus": "verified",
       "sourceType": "letter",
       "notes": "Jay, later the first Chief Justice and a founder of the New York Manumission Society, on his hope for the abolition of slavery; confirmed on Founders Online (Jay Papers).",
+      "tags": [
+        "equality",
+        "justice",
+        "hope"
+      ],
       "addedAt": "2026-08-06T12:00:00Z"
     },
     {
@@ -383,6 +551,11 @@
       "verificationStatus": "verified",
       "sourceType": "article",
       "notes": "From Madison's argument for separation of powers with checks between branches; text confirmed against the Avalon Project, Bill of Rights Institute, and Founders Online transcriptions of Federalist No. 51.",
+      "tags": [
+        "ambition",
+        "power",
+        "paradox"
+      ],
       "addedAt": "2026-08-20T12:00:00Z"
     },
     {
@@ -394,6 +567,11 @@
       "verificationStatus": "verified",
       "sourceType": "speech",
       "notes": "From Washington's counsel on foreign policy near the close of his presidency, published as a letter to \"The People of the United States.\"",
+      "tags": [
+        "peace",
+        "justice",
+        "advice"
+      ],
       "addedAt": "2026-08-27T12:00:00Z"
     }
   ]

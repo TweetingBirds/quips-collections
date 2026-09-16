@@ -325,6 +325,31 @@ vocabulary in Phase 0: `money`, `risk`, `effort`, `competition`, `craft` and
 `leadership` carried the whole collection between them, and the leads spread
 across all six.
 
+### Batch 6 (2026-09-15): founding-fathers, friendship, gratitude, great-economists, great-poems
+
+**174/174 tagged — the first batch with no empties at all.** 3.22 per tagged
+quote, no flags. Corpus: **1046/2928 (35.7%)**, vocabulary **145/157 (92%)**.
+
+Zero empties is the clean confirmation of the batch 4/5 finding: all five are
+prose or verse making claims, and a quote that makes a claim always has a
+subject to tag. Nothing here is a catchphrase, a running gag, or scene-setting.
+
+`friendship` (28) and `gratitude` (30) were the mono-tagging risks — whole
+collections about one word. Both were handled by moving the lead off the obvious
+tag wherever something more specific was available: `patience` leads "the wish
+for friendship comes quickly, friendship does not", `solitude` leads Emerson on
+seldom using his friends, `contentment` leads "Gratitude turns what we have into
+enough". The collection's namesake tag stays present but rarely leads, which is
+what keeps a bulk import from applying it 28 times.
+
+**`eulogy` and `wedding` finally earned their place.** `great-poems` alone
+carries five eulogy quotes (Dickinson's "Because I could not stop for Death",
+Whitman's "O Captain! my Captain!", Rossetti's "Remember me", Thomas's "Do not
+go gentle", Donne's "Death, be not proud") and two wedding ones (Burns's "red,
+red rose", Browning's "How do I love thee"). Occasion coverage is still only 7%
+corpus-wide, and that is correct — it is concentrated exactly where someone
+would actually reach for it, which was the whole argument for the facet.
+
 Per batch, in order:
 
 ```bash
