@@ -449,6 +449,37 @@ Four of the five collections were dumped and tagged and the fifth was missed
 until the per-collection decided-count ran before committing, where it showed
 `0/30`. Run that check *before* writing the commit message, not after.
 
+### Batch 11 (2026-09-16): literary-classics, love-and-romance, marriage-and-weddings, marvel-movies, michael-jordan
+
+154/175 tagged, 21 empty, 3.14 per tagged quote, no flags.
+Corpus: **1689/2928 (57.7%)**, vocabulary **148/157 (94%)**.
+
+**Ten quotes pre-matched against already-tagged duplicates, the most in any
+batch** — seven of them in `literary-classics`, which like `inspiration-daily`
+is a greatest-hits set. Its overlap runs against `first-lines`,
+`fantasy-worlds`, `dystopian-fiction` and `dream-big` simultaneously. Two
+collections in this corpus exist to re-present quotes that live elsewhere, and
+both were caught by the same query.
+
+**`marriage-and-weddings` is what the occasion facet was for.** `wedding` went
+from 10 uses to 27 across this batch, and `anniversary` got its first two
+(Browning's "Grow old along with me" and McLaughlin's "falling in love many
+times, always with the same person"). Occasion coverage is still 7% corpus-wide
+and still concentrated: `encouragement` 39, `wedding` 27, `hard-times` 19,
+`eulogy` 19, then a long tail. That shape is right — these tags earn their place
+by being precise, not by being frequent.
+
+`michael-jordan` (52/52) is the densest `confession` collection in the corpus,
+overtaking `johnny-cash`: it is assembled from interviews and memoir, so the
+speaker is talking about himself in most of it. `envy` found another use on "A
+lot of people try to pull you down to their level because they can't achieve
+certain things."
+
+`marvel-movies` came in at 18/40 empty (45%), between `dc-comics` (26%) and
+`lego-movies` (56%). Superhero franchises cluster in that band because their
+most-quoted lines are battle cries and callbacks — "Wakanda forever!", "Avengers,
+assemble", "I am Groot" — while the reflective ones are few but real.
+
 Per batch, in order:
 
 ```bash
