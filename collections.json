@@ -1747,7 +1747,7 @@
       "name": "The Hunger Games",
       "description": "Defiance, survival and the cost of spectacle, from Panem.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 34,
       "previewQuotes": [
         "Snow lands on top.",
         "You love me. Real or not real?"
@@ -1759,8 +1759,8 @@
       "category": "Literature",
       "addedAt": "2026-09-15T12:00:00Z",
       "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-FQZ8fjIfmUrXlbRptNGT+nn5FngNVc7utVCqNubkRPo=",
-      "bytes": 17115
+      "contentHash": "sha256-gP9MZCBpB6p6ntfgHZaNXowQzs5YUJzckUMfeLCVXSo=",
+      "bytes": 20060
     },
     {
       "id": "christmas",

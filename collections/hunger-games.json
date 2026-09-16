@@ -502,6 +502,92 @@
         "wit"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-030",
+      "content": "Because the reaping's going to happen no matter what I believe. Sure as the sun will rise tomorrow.",
+      "authorName": "Haymitch Abernathy",
+      "source": "Sunrise on the Reaping (2025), Chapter 1",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Haymitch on the day's inevitability, page 10; the line the novel's title answers.",
+      "tags": [
+        "destiny",
+        "despair",
+        "doubt",
+        "blunt"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-031",
+      "content": "Don't let them use you, Sarshee. Don't let them paint their posters with your blood. Not if you can help it.",
+      "authorName": "Haymitch's father",
+      "source": "Sunrise on the Reaping (2025), Chapter 4",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Advice given to an earlier tribute, reaching Haymitch through his mother and repeated to himself on page 49.",
+      "tags": [
+        "dissent",
+        "power",
+        "identity",
+        "warning",
+        "advice"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-032",
+      "content": "I don't think we 'submit.'",
+      "authorName": "Haymitch Abernathy",
+      "source": "Sunrise on the Reaping (2025), Chapter 8",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Page 104; the inner single quotes are the novel's, marking the Capitol's word being handed back to it.",
+      "tags": [
+        "dissent",
+        "freedom",
+        "power",
+        "defiance"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-033",
+      "content": "And I will orchestrate your death based on your behavior from here on out.",
+      "authorName": "President Snow",
+      "source": "Sunrise on the Reaping (2025), Chapter 9",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Snow setting the terms on page 130, in the flat register he reserves for threats.",
+      "tags": [
+        "power",
+        "fear",
+        "mortality",
+        "blunt",
+        "warning"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "hunger-034",
+      "content": "Maybe one day. But we can't any of us do it alone.",
+      "authorName": "Plutarch Heavensbee",
+      "source": "Sunrise on the Reaping (2025), Epilogue",
+      "quoteDate": "2025-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The novel's closing note on page 377, and the answer to the isolation Haymitch spends the book learning.",
+      "tags": [
+        "teamwork",
+        "community",
+        "hope"
+      ],
+      "addedAt": "2026-09-15T12:00:00Z"
     }
   ]
 }
