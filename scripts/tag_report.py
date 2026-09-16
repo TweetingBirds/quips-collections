@@ -19,6 +19,12 @@ Three failure modes it is built to catch, none of which are schema errors:
   drift          The same idea tagged one way early and another way late, which
                  shows up as two neighbouring slugs both in heavy use. Read the
                  histogram next to schema/tags.json's `useWhen` lines.
+  disagreement   The *same quote*, present in two collections and tagged
+                 differently in each. Unlike the others this is not a judgement
+                 call: the batches were months apart, the text is identical, so
+                 the tags should be too. It is the sharpest drift signal the
+                 data can give, and it only appears once both copies are
+                 tagged -- expect none early in a rollout.
 
 Usage:
     tag_report.py [--root ROOT] [--collection ID] [--check]
@@ -51,6 +57,7 @@ import argparse
 import glob
 import json
 import os
+import re
 import sys
 from collections import Counter, defaultdict
 
@@ -68,6 +75,18 @@ def load_vocabulary(root):
     with open(os.path.join(root, TAGS_REL), encoding="utf-8") as f:
         entries = json.load(f)["tags"]
     return {e["slug"]: e for e in entries}
+
+
+def text_key(content):
+    """Fold quote text for cross-collection matching: case and punctuation.
+
+    Deliberately exact on wording. Two collections often carry *different
+    lengths* of the same passage -- one stops at "plowing up the ground", the
+    other runs on to "rain without thunder and lightning" -- and those are
+    different quotes a reader could reasonably tag differently. Only identical
+    wording is held to identical tags.
+    """
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", content.lower()).split())
 
 
 def collect(root, only=None):
@@ -90,33 +109,46 @@ def collect(root, only=None):
             # a bare string iterates as characters and "humor" would enter the
             # histogram as five one-letter tags.
             tags = q.get("tags")
-            rows.append((cid, q.get("id", "?"), tags if isinstance(tags, list) else None))
+            rows.append((cid, q.get("id", "?"),
+                         tags if isinstance(tags, list) else None,
+                         q.get("content", "")))
     return rows
 
 
 def build(rows, vocab):
     tagged = [r for r in rows if r[2]]
-    uses = Counter(t for _, _, tags in rows for t in (tags or []))
+    uses = Counter(t for _, _, tags, _c in rows for t in (tags or []))
     # Leading tag only -- this is what bulk import actually applies, so a slug
     # that never leads is invisible on the path most users take.
-    leads = Counter(tags[0] for _, _, tags in rows if tags)
+    leads = Counter(tags[0] for _, _, tags, _c in rows if tags)
     # quotes, tagged, tag-applications, decided (tagged or deliberately empty)
     per_coll = defaultdict(lambda: [0, 0, 0, 0])
-    for cid, _, tags in rows:
+    for cid, _, tags, _c in rows:
         per_coll[cid][0] += 1
         per_coll[cid][1] += 1 if tags else 0
         per_coll[cid][2] += len(tags or [])
         per_coll[cid][3] += 1 if tags is not None else 0
     facet_hits = Counter()
-    for _, _, tags in rows:
+    for _, _, tags, _c in rows:
         if not tags:
             continue
         for facet in {vocab[t]["facet"] for t in tags if t in vocab}:
             facet_hits[facet] += 1
+    by_text = defaultdict(list)
+    for cid, qid, tags, content in rows:
+        if tags:
+            by_text[text_key(content)].append((cid, qid, tuple(tags)))
+    disagree = sorted(
+        (sorted(v) for v in by_text.values()
+         if len(v) > 1 and len({t for _, _, t in v}) > 1),
+        key=lambda v: v[0],
+    )
+
     return {
+        "disagree": disagree,
         "quotes": len(rows),
         "tagged": len(tagged),
-        "deliberately_untagged": sum(1 for _, _, t in rows if t == []),
+        "deliberately_untagged": sum(1 for _, _, t, _c in rows if t == []),
         "coverage": len(tagged) / len(rows) if rows else 0.0,
         "applications": sum(uses.values()),
         "mean_tags": sum(uses.values()) / len(tagged) if tagged else 0.0,
@@ -190,6 +222,8 @@ def main():
             "vocabulary": len(vocab), "vocabularyUsed": len(vocab) - len(unused),
             "unused": unused, "overBroad": [{"slug": s, "uses": n} for s, n in over],
             "thin": [{"slug": s, "uses": n} for s, n in thin],
+            "disagree": [[{"collection": c, "id": q, "tags": list(t)} for c, q, t in g]
+                         for g in st["disagree"]],
             "uses": dict(st["uses"].most_common()),
         }, sys.stdout, indent=2)
         sys.stdout.write("\n")
@@ -211,6 +245,14 @@ def main():
             for s, n in st["uses"].most_common(25):
                 share = 100 * n / st["tagged"] if st["tagged"] else 0
                 print(f"  {n:5d} {share:5.1f}%  lead {st['leads'][s]:4d}  {s}")
+
+        if st["disagree"]:
+            print(f"\n[FLAG] same quote, different tags in different collections "
+                  f"({len(st['disagree'])}):")
+            for group in st["disagree"]:
+                for cid, qid, tags in group:
+                    print(f"  {cid}/{qid}: {list(tags)}")
+                print()
 
         if over:
             print(f"\n[FLAG] over-broad (>{100 * args.max_share:.0f}% of tagged quotes, "
@@ -237,7 +279,9 @@ def main():
             for cid, (n, _, _, dec) in incomplete:
                 print(f"  {cid}: {dec}/{n} decided")
 
-    breached = bool(over or thin)
+    # A disagreement always breaches: unlike a share threshold it is not a
+    # judgement call, it is the same words tagged two ways.
+    breached = bool(over or thin or st["disagree"])
     if args.check and breached:
         return 1
     return 0

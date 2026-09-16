@@ -213,6 +213,33 @@ The 16 empties are concentrated in Avatar (11 of 47) — a comedy-heavy show whe
 for having a subject. Fiction collections should expect this; `bhagavad-gita`
 and `bible-wisdom` have none.
 
+### Batch 2 (2026-09-15): bob-dylan, champions-mindset, childrens-literature, civic-life-democracy, civil-rights-voices
+
+149/153 tagged, 4 empty, 3.21 tags per tagged quote, no over-broad flags.
+Corpus: **418/2928 (14.3%)**, vocabulary **137/157 (87%)**.
+
+`tag_report.py` gains a **disagreement check**: the same quote text present in
+two collections and tagged differently in each. Unlike every other flag this is
+not a judgement call — identical wording, tagged two ways, months apart — so it
+always fails `--check`. Matching is deliberately exact on wording, because
+collections often carry different *lengths* of one passage (Douglass stops at
+"plowing up the ground" in `grit-perseverance` and runs on to "rain without
+thunder and lightning" in `civil-rights-voices`), and those are different
+quotes a reader could reasonably tag differently. There are 61 cross-collection
+duplicate texts in the corpus and, at 14% coverage, no pair yet has both copies
+tagged. The check earns its keep later; it exists now so no batch can introduce
+a disagreement unnoticed.
+
+No new tags this batch. `citizenship` was tempting across all 35 quotes of
+`civic-life-democracy` and was deliberately not added: `service`, `politics` and
+`community` already cover it between them, and a fourth slug overlapping three
+existing ones is the drift the vocabulary exists to prevent.
+
+Occasion coverage fell to 5% for this batch (corpus 12%), which is what these
+five collections are — politics, sport and songwriting are not occasion-bearing.
+`graduation` had its first real use, on the three *Oh, the Places You'll Go!*
+quotes.
+
 Per batch, in order:
 
 ```bash
