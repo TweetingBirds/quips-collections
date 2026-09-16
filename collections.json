@@ -1739,8 +1739,8 @@
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
       "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-XYjkZDjkAu95caWIH9oBbuCS8YptpvZm+7ZQGdP/v0Y=",
-      "bytes": 16870
+      "contentHash": "sha256-ZljwdrTOvoBKOgR5HRS7nWm7O6d5AitLYD1Wz5u8Sjk=",
+      "bytes": 18223
     },
     {
       "id": "hunger-games",
@@ -1779,15 +1779,15 @@
       "category": "Holidays",
       "addedAt": "2026-09-15T12:00:00Z",
       "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-1iJlzYTp9RGNAgpjTab+MVM9t1W2xjnVSqtwTR6fKYU=",
-      "bytes": 21683
+      "contentHash": "sha256-SqAO+FZ4KClcFvqMPxPfSePZ4JTOZOG24Om9WIkiVUI=",
+      "bytes": 22038
     },
     {
       "id": "new-year",
       "name": "New Year",
       "description": "Endings, beginnings, and the resolve that comes with a turned page.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 30,
       "previewQuotes": [
         "Nothing, Lucilius, is ours, except time.",
         "No one ever regarded the First of January with indifference."
@@ -1799,8 +1799,8 @@
       "category": "Holidays",
       "addedAt": "2026-09-15T12:00:00Z",
       "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-l8/+nK/MuG4x5G4D5nB755yIeX7L1ZHdfohwp4X4MEE=",
-      "bytes": 19897
+      "contentHash": "sha256-hM2nPY0Qu6uSr5Z9rZnPaaKWRpxR5MrBYbhI5E9iEn4=",
+      "bytes": 21907
     }
   ]
 }
