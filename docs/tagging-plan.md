@@ -510,6 +510,34 @@ collection that is otherwise 22/26 reflective.
 pre-check. Two leadership collections in one corpus will do that; both now carry
 identical tags on the shared quotes.
 
+### Batch 13 (2026-09-16): one-piece, oscar-wilde, quran, resilience, rest-balance
+
+**164/164 tagged, zero empties.** 3.13 per tagged quote, no flags.
+Corpus: **1995/2928 (68.1%)**, vocabulary **149/158 (94%)**.
+
+`rest` added (vocabulary v4) — the fourth real gap after `shame`/`envy`/`pride`
+in the pilot and `sacrifice` in batch 1. `rest-balance` is 28 quotes about
+sleep, stillness and deliberate not-working, and nothing in the vocabulary
+covered it: `peace` is inner calm, `simplicity` is wanting less,
+`present-moment` is being here. None of them is a nap.
+
+**Adding it immediately created the mono-tagging trap**, and the first pass fell
+straight into it: `rest` led all 28 quotes, which would import as 28 copies of
+one tag. Re-led so it leads 14 and the rest go to `work`, `dissent`, `wisdom`,
+`beginnings`, `contentment`, `present-moment`, `anxiety`, `service`,
+`authenticity`, `endings` and `joy`. **A newly added tag needs the lead-variance
+check more than an established one**, because there is nothing else in the
+collection competing for the lead.
+
+`resilience` contributed 8 of the batch's 10 pre-matched duplicates, overlapping
+`grit-perseverance` almost entirely. That is now three greatest-hits collections
+found the same way — `inspiration-daily`, `literary-classics`, `resilience` —
+and all three were caught before tagging rather than after.
+
+`oscar-wilde` (49/49) is the densest `paradox` and `satire` collection in the
+corpus, which is simply what Wilde is. Both are tone tags, so neither can breach
+the 25% theme ceiling.
+
 Per batch, in order:
 
 ```bash

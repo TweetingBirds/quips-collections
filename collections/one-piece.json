@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Luffy's lifelong declaration, first made in ch. 1 and repeated across the series. Viz manga renders it 'I'm going to be King of the Pirates!'; the Funimation dub uses 'I'm gonna be King of the Pirates!' — the most widely-used English wording.",
+      "tags": [
+        "ambition",
+        "purpose",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Hiluluk's dying words in the Drum Island arc, on legacy and memory. Wording follows the widely-used Viz manga rendering; the Funimation dub condenses it to 'A man dies when people forget him.'",
+      "tags": [
+        "memory",
+        "mortality",
+        "legacy"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Thriller Bark; Zoro's reply after secretly absorbing all of Luffy's pain from Kuma. Matches the Viz manga (anime ep. 377).",
+      "tags": [
+        "honor",
+        "loyalty",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Enies Lobby; Robin's plea after the crew declares war on the World Government to save her. Matches the Viz manga (anime ep. 278).",
+      "tags": [
+        "hope",
+        "courage",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Ace's dying words to Luffy and the Whitebeard Pirates at Marineford. Widely-used Viz manga rendering (anime ep. 483).",
+      "tags": [
+        "gratitude",
+        "family",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Luffy to Rayleigh at Sabaody, defining what King of the Pirates means to him. Widely-used Viz manga rendering (anime ep. 401).",
+      "tags": [
+        "freedom",
+        "ambition",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Zoro to Kuma at Thriller Bark, offering his own life for Luffy. Widely-used Viz manga rendering (anime ep. 377).",
+      "tags": [
+        "loyalty",
+        "purpose",
+        "honor"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Arlong Park; Nami's plea at her lowest point. Consistent across the Funimation dub, official subtitles, and Viz manga (ch. 93).",
+      "tags": [
+        "humility",
+        "friendship",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Whitebeard's dying declaration at Marineford, confirming the treasure exists and launching the countdown to the new age. Appears in Viz manga ch. 576 and anime ep. 485–486; rendered 'One Piece… is real!' / 'The One Piece is real!' across official English releases.",
+      "tags": [
+        "hope",
+        "legacy",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Roger's execution words that ignited the Great Pirate Era, shown in ch. 1 and the Loguetown flashback (ch. 100). Wording follows the widely-used Viz manga rendering; official English releases vary slightly in phrasing.",
+      "tags": [
+        "legacy",
+        "freedom",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Baratie arc; Sanji feeds his enemy Gin, stating the cook's creed born of nearly starving as a boy. Widely-used Viz manga rendering (anime ep. 20).",
+      "tags": [
+        "generosity",
+        "compassion",
+        "integrity"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Shanks to the bandit Higuma in Luffy's home village, establishing his loyalty to friends. Wording follows the widely-used Viz manga rendering; the Funimation dub (anime ep. 4) phrases it 'If you hurt a friend of mine, you'll pay for it regardless of your reason.'",
+      "tags": [
+        "loyalty",
+        "friendship",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Usopp's recurring stated dream, echoing his father Yasopp, first voiced in the Syrup Village arc. 'Brave warrior of the sea' is the standard Viz manga / official English rendering of his goal.",
+      "tags": [
+        "courage",
+        "ambition",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +228,11 @@
       "verificationStatus": "unverified",
       "sourceType": "comic",
       "notes": "Captures Whitebeard's found-family sentiment for his pirates, but this exact phrasing is a paraphrase — not a documented official English rendering — and no specific chapter matches it (wording axis).",
+      "tags": [
+        "family",
+        "loyalty",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +244,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Jinbe stopping Luffy from despair after Ace's death at Marineford. Widely-used Viz manga rendering (anime ep. 483).",
+      "tags": [
+        "gratitude",
+        "resilience",
+        "encouragement"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +260,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Ace to Luffy in his final moments at Marineford. Widely-used Viz manga rendering (anime ep. 483).",
+      "tags": [
+        "regret",
+        "mortality",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +276,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Zoro's oath to Luffy after his loss to Mihawk at the Baratie, in the chapter titled 'The Oath.' Widely-used Viz manga rendering (anime ep. 24).",
+      "tags": [
+        "excellence",
+        "perseverance",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +292,11 @@
       "verificationStatus": "unverified",
       "sourceType": "comic",
       "notes": "Widely circulated as a Luffy line about loneliness, but I could not confirm the exact wording appears in a specific official English chapter or episode (source axis).",
+      "tags": [
+        "loneliness",
+        "suffering",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +308,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Shanks on the arm he lost saving young Luffy, framing it as a wager on the coming generation. Widely-documented official English rendering; delivered within the Marineford arc (exact chapter within the arc).",
+      "tags": [
+        "sacrifice",
+        "hope",
+        "legacy"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +324,11 @@
       "verificationStatus": "unverified",
       "sourceType": "comic",
       "notes": "Sanji's chivalric code never to strike a woman is genuine and recurring in the official release, but this specific sentence is a paraphrase rather than a documented official English line (wording axis).",
+      "tags": [
+        "honor",
+        "integrity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +340,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Enies Lobby; Robin asking the Straw Hats to bring her back out to sea with them. Widely-used Viz manga rendering (anime ep. 278).",
+      "tags": [
+        "hope",
+        "friendship",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +356,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Luffy admitting how completely he relies on his crew, during the fallout with Usopp. Widely-used Viz manga rendering.",
+      "tags": [
+        "humility",
+        "teamwork",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +372,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Luffy during the escape from Whole Cake Island. Widely-documented official English rendering of the line.",
+      "tags": [
+        "risk",
+        "courage",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +388,11 @@
       "verificationStatus": "unverified",
       "sourceType": "comic",
       "notes": "The Marineford scene is correct and in the official release, but the affirmation that it was fine for Ace to be born is Ace's own dying realization, voiced collectively by his comrades — not a distinct Whitebeard line, so the attribution is off (attribution axis).",
+      "tags": [
+        "family",
+        "identity",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +404,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Roger's philosophy of inherited will, which appears in the official release as narration closing the Loguetown arc and is canonically attributed to Roger (later spoken by him to Whitebeard in the ch. 0 flashback). Widely-used Viz manga wording.",
+      "tags": [
+        "legacy",
+        "destiny",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +420,11 @@
       "verificationStatus": "verified",
       "sourceType": "comic",
       "notes": "Shanks entrusting his straw hat to young Luffy as they part ways. Widely-used Viz manga rendering (anime ep. 4).",
+      "tags": [
+        "legacy",
+        "friendship",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
