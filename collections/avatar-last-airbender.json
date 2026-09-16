@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "The opening narration of the series, spoken by Katara over the title sequence of the very first episode.",
+      "tags": [
+        "history",
+        "peace",
+        "war"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -31,6 +36,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Gyatso teaching a young Aang to make fruit pies in a flashback at the Southern Air Temple.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -42,6 +48,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "From Katara's rallying speech to the captive earthbenders aboard the Fire Nation rig.",
+      "tags": [
+        "identity",
+        "courage",
+        "encouragement"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -53,6 +64,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "The outburst in the war room, shown in flashback, that led to Zuko's Agni Kai with his father and his banishment.",
+      "tags": [
+        "loyalty",
+        "betrayal",
+        "honor"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -64,6 +80,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "The deserter firebending master warning Aang why fire cannot be taught to a student who is not ready.",
+      "tags": [
+        "nature",
+        "craft",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -75,6 +96,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko speaking to the unconscious Aang in a blizzard cave, comparing his own path to Azula's effortless talent.",
+      "tags": [
+        "adversity",
+        "identity",
+        "resilience"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -86,6 +112,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Bumi, from inside his metal coffin, telling Aang what kind of earthbending teacher to look for.",
+      "tags": [
+        "patience",
+        "craft",
+        "advice"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -97,6 +128,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh answering Zuko after Zuko says there is no hope at all; the full line opens 'No, Zuko!'",
+      "tags": [
+        "hope",
+        "despair",
+        "hard-times",
+        "encouragement"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -108,6 +145,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Sokka's cry of joy when his boomerang returns mid-fight to save him during the trial at Chin Village.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -119,6 +157,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Young Zuko reading aloud the inscription on the pearl dagger Iroh sent home from the siege of Ba Sing Se.",
+      "tags": [
+        "perseverance",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -130,6 +173,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh to Toph, after she joins him for tea at his roadside campfire.",
+      "tags": [
+        "friendship",
+        "joy",
+        "simplicity"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -141,6 +189,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh to Toph in the same scene, telling her she sounds like his nephew; he follows it with 'Not that I love you, I just met you.'",
+      "tags": [
+        "humility",
+        "friendship",
+        "advice"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -152,6 +205,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Toph's first lesson to Aang as his earthbending teacher.",
+      "tags": [
+        "craft",
+        "discipline",
+        "advice"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -163,6 +221,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh explaining to Zuko why he studies the other three elements before teaching him to redirect lightning.",
+      "tags": [
+        "wisdom",
+        "learning",
+        "advice",
+        "aphorism"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -174,6 +238,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh diagnosing why Zuko cannot generate lightning: the turmoil inside him.",
+      "tags": [
+        "pride",
+        "shame",
+        "humility",
+        "paradox"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -185,6 +255,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Sokka hallucinating in the Si Wong Desert after drinking cactus juice.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -196,6 +267,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh's verdict on the tea served at the Ba Sing Se shop where he and Zuko are put to work.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -207,6 +279,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh's answer, in the same scene, when asked what makes his tea so good.",
+      "tags": [
+        "craft",
+        "compassion",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -218,6 +295,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh urging Zuko to stop waiting for his old life to resume and live the one in front of him.",
+      "tags": [
+        "present-moment",
+        "choice",
+        "aphorism"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -229,6 +311,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh begging Zuko to give up the hunt for the Avatar, after Zuko says he wants his destiny.",
+      "tags": [
+        "self-knowledge",
+        "questions",
+        "identity",
+        "advice"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -240,6 +328,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Toph's declaration after inventing metalbending to escape the metal box Xin Fu and Master Yu trapped her in.",
+      "tags": [
+        "pride",
+        "humor",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -251,6 +344,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Aang opening his chakras with Guru Pathik at the Eastern Air Temple.",
+      "tags": [
+        "community",
+        "nature",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -262,6 +360,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh to Aang in the crystal catacombs beneath Ba Sing Se, when Aang asks how he can face what is coming.",
+      "tags": [
+        "perseverance",
+        "hope",
+        "hard-times",
+        "encouragement"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -273,6 +377,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh's plea to Zuko in the catacombs, at the moment the season's title turns on Zuko's decision.",
+      "tags": [
+        "destiny",
+        "choice",
+        "encouragement"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -284,6 +393,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh to Aang, after Aang gives up the Avatar State rather than let go of his attachment to Katara.",
+      "tags": [
+        "happiness",
+        "power",
+        "choice"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -295,6 +409,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Katara refusing to leave the poisoned river village of Jang Hui, even at risk to the group's cover.",
+      "tags": [
+        "loyalty",
+        "service",
+        "defiance"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -306,6 +425,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Piandao's answer after Sokka confesses he is Water Tribe, not Fire Nation; the master trains him anyway.",
+      "tags": [
+        "learning",
+        "equality",
+        "craft"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -317,6 +441,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Azula's confession around the bonfire on Ember Island, the closest the series comes to seeing her vulnerable.",
+      "tags": [
+        "family",
+        "shame",
+        "confession"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -328,6 +457,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Roku telling Aang about his friendship with Fire Lord Sozin, and about Aang's own with Monk Gyatso.",
+      "tags": [
+        "friendship",
+        "loyalty",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -339,6 +473,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh, in a letter-like flashback conversation, explaining why Zuko's family history is his own inner battle.",
+      "tags": [
+        "identity",
+        "legacy",
+        "sin"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -350,6 +489,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko confronting Fire Lord Ozai during the solar eclipse, before renouncing him and joining the Avatar.",
+      "tags": [
+        "courage",
+        "defiance",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -361,6 +505,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko rehearsing his introduction to Team Avatar on a badgerfrog before asking to join them.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -372,6 +517,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh's words to Zuko, recalled in flashback as Zuko decides to seek out the Avatar as an ally.",
+      "tags": [
+        "destiny",
+        "hope",
+        "encouragement",
+        "tender"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -383,6 +534,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Aang to Zuko as they explore the ruins of the Sun Warriors' civilization looking for the origins of firebending.",
+      "tags": [
+        "history",
+        "learning",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -394,6 +550,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Sokka commiserating with Zuko about Yue during a break at the Boiling Rock prison.",
+      "tags": [
+        "grief",
+        "love",
+        "humor"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -405,6 +566,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko's reply, after a long pause and a glance at the sky, to Sokka's line about his first girlfriend.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -416,6 +578,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Mai to Azula, after betraying her to save Zuko at the Boiling Rock.",
+      "tags": [
+        "love",
+        "courage",
+        "defiance"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -427,6 +594,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Aang to Katara after she confronts the Fire Nation soldier who killed her mother and chooses not to kill him.",
+      "tags": [
+        "forgiveness",
+        "resilience",
+        "aphorism"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -438,6 +610,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Kyoshi's counsel to Aang when he asks his past lives how to deal with Fire Lord Ozai.",
+      "tags": [
+        "justice",
+        "peace",
+        "one-liner"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -449,6 +626,12 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Yangchen, the Air Nomad Avatar before Kuruk, telling Aang the Avatar cannot detach from the world.",
+      "tags": [
+        "sacrifice",
+        "service",
+        "honor",
+        "purpose"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -460,6 +643,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Aang's objection to Yangchen, stating the Air Nomad principle he refuses to abandon in defeating Ozai.",
+      "tags": [
+        "animals",
+        "compassion",
+        "nature"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -471,6 +659,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Iroh leaning into Zuko's cabin after the crew mutiny, answering his nephew's sulking with an open invitation and a shrug.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -482,6 +671,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Sokka tackling Hahn after he brags that marrying Princess Yue comes with 'perks'; it gets Sokka thrown off the mission.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -493,6 +683,11 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko to Katara in the Spirit Oasis at daybreak, after the sunrise melts the ice she trapped him in and their duel turns.",
+      "tags": [
+        "identity",
+        "defiance",
+        "lyrical"
+      ],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -504,6 +699,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Katara's mocking jab at Toph from her sleeping bag, at the height of their feud over camp chores.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -515,6 +711,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Azula's attempt at flirting at Chan's Ember Island party, delivered with a straight face and no idea why it lands badly.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     },
     {
@@ -526,6 +723,7 @@
       "verificationStatus": "verified",
       "sourceType": "television",
       "notes": "Zuko impersonating Uncle Iroh while rehearsing his pitch to Team Avatar, then admitting he can't figure out what it means.",
+      "tags": [],
       "addedAt": "2026-08-08T12:00:00Z"
     }
   ]
