@@ -607,6 +607,46 @@ pass**: if `rest` finishes under ~5 collections it was the wrong call, and the
 honest fix is to fold it back into `peace` and `simplicity` rather than leave a
 slug that means "this is the rest collection".
 
+### Batch 16 (2026-09-16): star-wars, starcraft, stoic-wisdom, studio-ghibli, tao-te-ching
+
+121/169 tagged, 48 empty, 3.11 per tagged quote.
+Corpus: **2392/2928 (81.7%)**, vocabulary **149/158 (94%)**.
+
+`starcraft` at 18/20 empty (90%) is second only to `seinfeld`. Unit-acknowledgement
+barks — "Ready to work", "Nuclear launch detected", "Insufficient vespene gas" —
+are the purest case of the claim-rule there is: they are not even dialogue, they
+are UI feedback with a voice actor. `star-wars` at 45% lands in the same band as
+`marvel-movies`.
+
+`stoic-wisdom` and `tao-te-ching` both came in at 0 empty, as predicted.
+
+**`tag_report.py --check` now exits 1**, for the first time in the rollout, and
+it is doing exactly what it was built to do. Coverage crossed 80% and the tagged
+count crossed 1,000, so the thin-tag check unsuppressed itself and flagged what
+it found:
+
+- **unused (9)**: `apology`, `birthday`, `get-well`, `milestone`, `new-baby`,
+  `new-job`, `new-year`, `toast`, `welcome` — every one an `occasion` tag
+- **under 5 uses**: `animals`(4), `anniversary`(2), `condolences`(4),
+  `retirement`(1), `thank-you`(2) — four of the five also `occasion`
+
+**Read this carefully rather than acting on it.** Two reasons it overstates the
+problem:
+
+1. Coverage is a *proportion*, so it crossed 80% with nine collections still
+   untagged. The check was designed to be meaningful at the *end* of the pass,
+   and it is firing before it.
+2. **The corpus is missing four holiday collections.** `christmas`, `new-year`,
+   `hunger-games` and `veterans-remembrance` live on `featured/2026-q4-events`,
+   a local, unpushed, unmerged branch. `new-year` reads as a dead tag only
+   because the `new-year` collection is not in the corpus being measured.
+
+The real end-of-pass question is narrower: `birthday`, `toast`, `welcome`,
+`new-baby`, `new-job`, `get-well`, `apology` and `milestone` are the everyday
+occasions, and this corpus is built from literature, scripture, speeches and
+film. It may simply not contain birthday quotes. That is a gap in the *data*,
+not in the vocabulary, and the fix is a collection rather than a tag deletion.
+
 Per batch, in order:
 
 ```bash

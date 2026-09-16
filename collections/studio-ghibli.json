@@ -20,6 +20,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Zeniba reassures Chihiro about her fading memories; wording is the Disney English dub (John Lasseter production).",
+      "tags": [
+        "memory",
+        "friendship",
+        "tender"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -31,6 +36,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Haku warns Chihiro after Yubaba steals her name; Disney English dub wording.",
+      "tags": [
+        "identity",
+        "home",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -42,6 +52,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Yubaba seizes Chihiro's name to bind her in servitude; Disney English dub.",
+      "tags": [
+        "identity",
+        "power",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -53,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Haku's parting instruction as Chihiro leaves the spirit world; Disney English dub.",
+      "tags": [
+        "farewell",
+        "courage",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -64,6 +84,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Ashitaka's guiding creed for the film; Neil Gaiman's Miramax English dub (Japanese literally closer to 'to see with clear eyes').",
+      "tags": [
+        "anger",
+        "truth",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -75,6 +100,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The wolf-god Moro rebukes humankind; Neil Gaiman's Miramax English dub.",
+      "tags": [
+        "nature",
+        "grief",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -86,6 +116,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Eboshi before firing on the Forest Spirit; Miramax English dub wording.",
+      "tags": [
+        "pride",
+        "power",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -97,6 +132,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Ashitaka urging the dying San to keep living; Miramax English dub.",
+      "tags": [
+        "hope",
+        "mortality",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -108,6 +148,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The village wise-woman sends the cursed Ashitaka away; Miramax English dub (minor wording variants like 'change your fate' appear in fan transcripts).",
+      "tags": [
+        "destiny",
+        "courage",
+        "choice"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -119,6 +164,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Sophie on Howl's traded-away heart; Disney English dub.",
+      "tags": [
+        "grief",
+        "love",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -130,6 +180,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Howl's melodramatic despair after his hair is dyed the wrong color; Disney English dub (Christian Bale).",
+      "tags": [
+        "pride",
+        "identity",
+        "humor"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -141,6 +196,11 @@
       "verificationStatus": "unverified",
       "sourceType": "movie",
       "notes": "Howl's declaration to Sophie; wording axis failed - the Disney dub phrasing varies across transcripts ('now that I have something I want to protect - it's you').",
+      "tags": [
+        "love",
+        "courage",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -152,6 +212,7 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The fire demon Calcifer's petulant curse; Disney English dub (Billy Crystal).",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -163,6 +224,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Kiki describing her lost magic; Disney English dub (Kirsten Dunst).",
+      "tags": [
+        "doubt",
+        "craft",
+        "confession"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -174,6 +240,11 @@
       "verificationStatus": "unverified",
       "sourceType": "movie",
       "notes": "The painter Ursula's advice on creative blocks; wording axis failed - reconstructed from fan summaries rather than a confirmed dub transcript.",
+      "tags": [
+        "creativity",
+        "authenticity",
+        "encouragement"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -185,6 +256,7 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The cat Jiji's frantic pep talk; Disney English dub (Phil Hartman, whose ad-libs differ notably from the subtitles).",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -196,6 +268,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Sheeta recites the Spell of the Valley to Muska; Disney English dub (Anna Paquin).",
+      "tags": [
+        "nature",
+        "home",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -207,6 +284,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Sheeta explaining why the Laputans abandoned their floating kingdom; Disney English dub.",
+      "tags": [
+        "nature",
+        "technology",
+        "warning"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -218,6 +300,11 @@
       "verificationStatus": "unverified",
       "sourceType": "movie",
       "notes": "The old woman's prophecy fulfilled by Nausicaa; wording axis failed - the Disney 2005 dub phrasing varies and this is a normalized paraphrase.",
+      "tags": [
+        "hope",
+        "destiny",
+        "lyrical"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -229,6 +316,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The Italian designer Caproni in Jiro's dream; Disney English dub (Stanley Tucci) delivers these as two adjacent lines.",
+      "tags": [
+        "imagination",
+        "craft",
+        "aphorism"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -240,6 +332,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The film's refrain, a line from Paul Valery's poem 'Le Cimetiere marin'; Disney English dub.",
+      "tags": [
+        "perseverance",
+        "hope",
+        "rallying-cry"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -251,6 +348,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Naoko to Jiro amid her illness; Disney English dub (Emily Blunt).",
+      "tags": [
+        "joy",
+        "gratitude",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -262,6 +364,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "The fish-girl Ponyo declaring her wish; Disney English dub (Noah Cyrus).",
+      "tags": [
+        "love",
+        "identity",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -273,6 +380,7 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Ponyo's gleeful demand at dinner; Disney English dub.",
+      "tags": [],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -284,6 +392,11 @@
       "verificationStatus": "unverified",
       "sourceType": "movie",
       "notes": "The father explaining why he bought the house by the camphor tree; wording axis failed - the Disney 2006 and older Streamline dubs phrase this differently.",
+      "tags": [
+        "nature",
+        "friendship",
+        "memory"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -295,6 +408,11 @@
       "verificationStatus": "verified",
       "sourceType": "interview",
       "notes": "Miyazaki's stated aim, widely attributed to a making-of interview around My Neighbor Totoro; not film dialogue.",
+      "tags": [
+        "joy",
+        "teaching",
+        "purpose"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -306,6 +424,11 @@
       "verificationStatus": "verified",
       "sourceType": "documentary",
       "notes": "Miyazaki reflecting on The Wind Rises in Mami Sunada's documentary 'The Kingdom of Dreams and Madness'; English subtitle translation.",
+      "tags": [
+        "despair",
+        "imagination",
+        "blunt"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -317,6 +440,11 @@
       "verificationStatus": "verified",
       "sourceType": "movie",
       "notes": "Sophie briskly taking charge of Howl's filthy castle; Disney English dub.",
+      "tags": [
+        "identity",
+        "humor",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

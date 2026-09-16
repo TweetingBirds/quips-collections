@@ -20,6 +20,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Protoss supply warning that became one of gaming's most-quoted catchphrases.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -31,6 +32,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The dreaded Terran alert that a Ghost has armed a nuclear strike somewhere on the map.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -42,6 +44,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The resource warning heard by every player who over-extended their build order.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -53,6 +56,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran counterpart to the Protoss pylon warning.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -64,6 +68,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Protoss Zealot's battle cry, invoking their homeworld of Aiur.",
+      "tags": [
+        "sacrifice",
+        "loyalty",
+        "one-liner"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -75,6 +84,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The selection response of the Terran capital ship.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -86,6 +96,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran Marine's cocky selection line.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -97,6 +108,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Marine's order-acknowledgment when sent into battle.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -108,6 +120,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran SCV's selection response.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -119,6 +132,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "One of the SCV's repeated-click lines.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -130,6 +144,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran Ghost's selection line, alluding to their covert kill role.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -141,6 +156,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The flamethrower-wielding Firebat's selection quip.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -152,6 +168,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran Medic, added in the Brood War expansion, on selection.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -163,6 +180,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The hover-bike Vulture rider's order response.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -174,6 +192,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "A Protoss battle cry invoking Adun, a revered figure of their history.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -185,6 +204,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Protoss hero Fenix's line after being resurrected as a Dragoon.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -196,6 +216,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "A Protoss war cry given when ordered into battle.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -207,6 +228,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran Siege Tank's selection response.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -218,6 +240,11 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The Terran Dominion's founder revealing the depth of his ambition.",
+      "tags": [
+        "power",
+        "pride",
+        "defiance"
+      ],
       "addedAt": "2026-07-01T14:52:27Z"
     },
     {
@@ -229,6 +256,7 @@
       "verificationStatus": "verified",
       "sourceType": "game",
       "notes": "The opening cinematic line as Tychus is sealed into his marine armor.",
+      "tags": [],
       "addedAt": "2026-07-01T14:52:27Z"
     }
   ]
