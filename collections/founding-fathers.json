@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-27T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -573,6 +573,22 @@
         "advice"
       ],
       "addedAt": "2026-08-27T12:00:00Z"
+    },
+    {
+      "id": "found-036",
+      "content": "The latent causes of faction are thus sown in the nature of man; and we see them every where brought into different degrees of activity, according to the different circumstances of civil society.",
+      "authorName": "James Madison",
+      "source": "Federalist No. 10 (New York Packet, November 22, 1787)",
+      "quoteDate": "1787-11-22",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Madison's diagnosis of why political faction is inescapable in free societies. Wording confirmed against the Avalon Project (Yale Law) and Founders Online (National Archives) transcriptions.",
+      "tags": [
+        "politics",
+        "truth",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-17T12:00:00Z"
     }
   ]
 }

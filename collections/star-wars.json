@@ -9,7 +9,7 @@
   "iconName": "star.fill",
   "category": "Movies",
   "addedAt": "2026-06-27T22:04:48Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "quotes": [
     {
       "id": "starwars-001",
@@ -862,6 +862,22 @@
       "notes": "Palpatine's quiet line as Mace Windu and three Jedi arrive to arrest him.",
       "tags": [],
       "addedAt": "2026-06-27T22:04:48Z"
+    },
+    {
+      "id": "starwars-061",
+      "content": "Let the past die. Kill it, if you have to. That's the only way to become what you were meant to be.",
+      "authorName": "Kylo Ren (Adam Driver)",
+      "source": "Star Wars: The Last Jedi (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kylo Ren urges Rey, over their Force bond, to let go of her attachments to the past.",
+      "tags": [
+        "destiny",
+        "change",
+        "advice"
+      ],
+      "addedAt": "2026-09-17T12:00:00Z"
     }
   ]
 }
