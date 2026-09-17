@@ -9,7 +9,7 @@
   "iconName": "figure.walk.motion",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-17T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "quotes": [
     {
       "id": "rights-001",
@@ -496,6 +496,22 @@
         "lyrical"
       ],
       "addedAt": "2026-08-13T12:00:00Z"
+    },
+    {
+      "id": "rights-031",
+      "content": "I am no stranger to race prejudice. But the truth is that in the political world I have been far oftener discriminated against because I am a woman than because I am black.",
+      "authorName": "Shirley Chisholm",
+      "source": "\"Equal Rights for Women,\" address to the U.S. House of Representatives, Washington, D.C. (May 21, 1969)",
+      "quoteDate": "1969-05-21",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Chisholm's House floor speech introducing the Equal Rights Amendment. Wording confirmed against the Congressional Record as reproduced by the Archives of Women's Political Communication (Iowa State) and a UMass Amherst open-access anthology.",
+      "tags": [
+        "equality",
+        "identity",
+        "confession"
+      ],
+      "addedAt": "2026-09-17T12:00:00Z"
     }
   ]
 }

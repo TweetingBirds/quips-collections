@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -667,7 +667,7 @@
       "name": "Star Wars",
       "description": "Iconic lines from a galaxy far, far away, spanning the Skywalker saga from the original trilogy to the prequels and sequels.",
       "author": "Quips Editorial",
-      "quoteCount": 60,
+      "quoteCount": 61,
       "previewQuotes": [
         "Do. Or do not. There is no try.",
         "I find your lack of faith disturbing."
@@ -678,9 +678,9 @@
       "iconName": "star.fill",
       "category": "Movies",
       "addedAt": "2026-06-27T22:04:48Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-x5YoZ9S6ts74T2cGdYrhd0Vxn6dvH2NI3lgpHIkzjj8=",
-      "bytes": 30143
+      "lastUpdated": "2026-09-17T12:00:00Z",
+      "contentHash": "sha256-9An1quP49n7CQLZmHMvO1Hignalr32gayPypogkP64U=",
+      "bytes": 30725
     },
     {
       "id": "andor-rogue-one",
@@ -1187,7 +1187,7 @@
       "name": "Great Speeches",
       "description": "The lines that changed history, drawn from the world's most powerful addresses.",
       "author": "Quips Editorial",
-      "quoteCount": 36,
+      "quoteCount": 37,
       "previewQuotes": [
         "I have nothing to offer but blood, toil, tears and sweat.",
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
@@ -1198,16 +1198,16 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-27T12:00:00Z",
-      "contentHash": "sha256-h8oFmR3IfisFVeFR2y/xU/AZdkhGxwryglNVZOrcjLM=",
-      "bytes": 24433
+      "lastUpdated": "2026-09-17T12:00:00Z",
+      "contentHash": "sha256-vh5DhbNa73af5hur4X1cdGkr0fUuOnrmruYuseZvWaU=",
+      "bytes": 25899
     },
     {
       "id": "founding-fathers",
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 36,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1218,16 +1218,16 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-27T12:00:00Z",
-      "contentHash": "sha256-FuHGSvGDLvivGsrIbtXqH1YerNulenUZIx/RR3Mebfg=",
-      "bytes": 24183
+      "lastUpdated": "2026-09-17T12:00:00Z",
+      "contentHash": "sha256-+vWMuvzCcUGmMppioD1T4oIlZ13uW72d/snp9cHafRg=",
+      "bytes": 24982
     },
     {
       "id": "civil-rights-voices",
       "name": "Civil Rights Voices",
       "description": "Courage and conscience from the leaders who marched for freedom and equality.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
@@ -1238,9 +1238,9 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-13T12:00:00Z",
-      "contentHash": "sha256-lK/MxEAriB0S3PaAjupN4lnO3N/M40l9GF+M2C4ojzw=",
-      "bytes": 20872
+      "lastUpdated": "2026-09-17T12:00:00Z",
+      "contentHash": "sha256-moYdI4GiUgCjgXpseT7TiqsZEnDHXbUzF08du4DSHiM=",
+      "bytes": 21763
     },
     {
       "id": "civic-life-democracy",
@@ -1287,7 +1287,7 @@
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1298,9 +1298,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-10T12:00:00Z",
-      "contentHash": "sha256-8VyDkUS/+UuZx8nJmRo30JPIufg983MppOkOcOvtOtA=",
-      "bytes": 23273
+      "lastUpdated": "2026-09-17T12:00:00Z",
+      "contentHash": "sha256-SqbcJ1yYEkpT64toNVsRbHlIA6/nSUglPMIqkqXnXdA=",
+      "bytes": 24358
     },
     {
       "id": "curiosity-discovery",

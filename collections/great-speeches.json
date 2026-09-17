@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-27T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -588,6 +588,23 @@
         "rallying-cry"
       ],
       "addedAt": "2026-08-27T12:00:00Z"
+    },
+    {
+      "id": "speech-037",
+      "content": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, and comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.",
+      "authorName": "Theodore Roosevelt",
+      "source": "\"Citizenship in a Republic\" (\"The Man in the Arena\"), address at the Sorbonne, Paris (April 23, 1910)",
+      "quoteDate": "1910-04-23",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Roosevelt's best-known passage, urging that credit belongs to those who strive rather than to their critics. Wording confirmed against the American Presidency Project and the Theodore Roosevelt Center archives.",
+      "tags": [
+        "effort",
+        "perseverance",
+        "adversity",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-09-17T12:00:00Z"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-10T12:00:00Z",
+  "lastUpdated": "2026-09-17T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -554,6 +554,22 @@
         "humility"
       ],
       "addedAt": "2026-09-10T12:00:00Z"
+    },
+    {
+      "id": "sci-035",
+      "content": "It is shameful that there are so few women in science... In China there are many, many women in physics. There is a misconception in America that women scientists are all dowdy spinsters. This is the fault of men. In Chinese society, a woman is valued for what she is, and men encourage her to accomplishments yet she remains eternally feminine.",
+      "authorName": "Chien-Shiung Wu",
+      "source": "\"Queen of Physics,\" Newsweek (May 20, 1963)",
+      "quoteDate": "1963-05-20",
+      "verificationStatus": "unverified",
+      "sourceType": "magazine",
+      "notes": "Wu on the scarcity and stereotyping of women in American physics. Wording is consistent across independent reference sources (Today in Science, Wikiquote) citing this 1963 Newsweek profile, but the original magazine text itself could not be accessed to confirm it directly, so attribution is left unverified pending a primary check.",
+      "tags": [
+        "equality",
+        "identity",
+        "blunt"
+      ],
+      "addedAt": "2026-09-17T12:00:00Z"
     }
   ]
 }
