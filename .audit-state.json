@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 21,
-    "file": "dystopian-fiction",
-    "quoteIndex": 28,
-    "note": "dystopian-fiction in progress (28/30). Next run begins dystopian-fiction quotes[28] (dystopia-029)."
+    "fileIndex": 22,
+    "file": "earth-and-the-wild",
+    "quoteIndex": 10,
+    "note": "earth-and-the-wild in progress (10/29). Next run begins earth-and-the-wild quotes[10] (earth-011)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 565,
+  "totalQuotesAudited": 577,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -897,6 +897,21 @@
       "resolution": "n/a",
       "reportedIn": "n/a",
       "processNote": "dystopia-017..019 (Bradbury, Fahrenheit 451: Granger relaying his grandfather advice, Faber on being bothered, Montag on the woman who stayed with her books), dystopia-020..023 (Atwood, The Handmaids Tale: Nolite te bastardes carborundorum, the Commander better-never line, the blank-white-spaces passage, Aunt Lydia freedom to/from), dystopia-024..025 (Burgess, A Clockwork Orange: chaplain free-will question, opening line), dystopia-026..027 (Golding, Lord of the Flies: closing lines, Simon its-only-us line), and dystopia-028 (Lowry, The Giver: loneliness-of-memory line) all verified verbatim against the novels themselves as primary sources -- no issues. 0 open PRs found at the start of this run. Coverage-gap check: order[] matches collections/*.json and collections.json exactly, no missing or extra entries this run. totalQuotes recount found drift (3047 stated vs 3052 actual across all order[] files, with collections.json quoteCount fields all matching their files) -- refreshed to ground truth; source of the small drift not identified, no collection appears to have an inconsistent count."
+    },
+    {
+      "runDate": "2026-09-19",
+      "file": "dystopian-fiction + earth-and-the-wild",
+      "quoteRange": "dystopia-029..dystopia-030, earth-001..earth-010",
+      "count": 12,
+      "passed": 11,
+      "flagged": 1,
+      "flaggedIds": [
+        "earth-004"
+      ],
+      "issue": "dystopia-029 (Ishiguro, Never Let Me Go, 2005) and dystopia-030 (Vonnegut, Slaughterhouse-Five, 1969, the 'So it goes' refrain) verified verbatim -- dystopian-fiction collection finishes this pass (30/30 quotes audited across PR #185's dystopia-017..028 batch, which this run independently re-verified before building on it -- see processNote -- and this batch's dystopia-029..030). earth-001 (Carson, Silent Spring, closing lines), earth-002 (Carson, Silent Spring Ch.4), earth-003 (Carson, The Sense of Wonder), earth-005 (Leopold, A Sand County Almanac, 'The Land Ethic' maxim), earth-006 (Leopold, 'Thinking Like a Mountain', the green-fire-in-her-eyes passage), earth-007/earth-008 (Leopold, A Sand County Almanac foreword), earth-009 (Leopold, 'The Land Ethic', conservation definition), and earth-010 (Leopold, 'The Land Ethic', ethics-requires-contact line) all verified verbatim against primary/authoritative sourcing (the books/speech themselves, corroborated by convergent independent secondary citations including Wikiquote and the Aldo Leopold Foundation's own blog) -- no issues. earth-004 (Carson, John Burroughs Medal acceptance speech, 1952) was stored ending '...the less taste we shall have for destruction.' but the actual sentence, confirmed via Wikiquote (citing Lost Woods: The Discovered Writing of Rachel Carson, 1999, p.99) and The Marginalian's independent research into the same speech, ends '...the less taste we shall have for the destruction of our race.' -- the closing clause 'of our race' had been dropped.",
+      "resolution": "earth-004 fixed in this run's PR: content corrected to restore the dropped closing clause; notes updated with the corrected citation and a note on the correction so it isn't rediscovered as a false lead. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
+      "reportedIn": "see this run's report",
+      "processNote": "Found PR #185 (branch claude/beautiful-newton-0qjnwx) already open at the start of this run, covering dystopia-017..dystopia-028 (12 quotes, 0 flagged) -- further than this run's own stale cursor (quoteIndex 16), because #185's cursor advance was never merged to main. Verified via `git merge-base --is-ancestor` that #185 is a clean fast-forward from main, then independently re-verified all 12 of its quotes from scratch via WebSearch against primary/authoritative sources (Fahrenheit 451, The Handmaid's Tale, A Clockwork Orange, Lord of the Flies, The Giver) before trusting its 'no issues' claim -- all 12 held up, including the two (dystopia-027, dystopia-028) this run's own cursor hadn't reached yet. Reset this run's branch to #185's exact tip and continued with new coverage (dystopia-029..030, earth-001..010) rather than creating a conflicting PR; this run's PR is a strict superset of #185. Recommend closing #185 as superseded once this run's PR merges. No open PRs modifying quotes beyond #185 at the time of this run's PR review. No coverage gaps found: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (92/92)."
     }
   ]
 }
