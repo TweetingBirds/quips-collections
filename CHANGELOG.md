@@ -11,6 +11,17 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.16.1] - 2026-09-19
+### Fixed
+**Earth & The Wild**: Rachel Carson's John Burroughs Medal acceptance quote
+(earth-004) was missing its closing clause — stored as "...the less taste we
+shall have for destruction," it actually ends "...for the destruction of our
+race." Restored per convergent independent sourcing (Wikiquote, The
+Marginalian). The rest of the collection (earth-001..003, earth-005..010)
+and a full pass over **Dystopian Fiction** (dystopia-001..030, including
+independent re-verification of the prior batch) were audited with no other
+issues found.
+
 ## [1.15.1] - 2026-09-12
 ### Changed
 **Sherlock Holmes** gains 2 verified quotes: the dog-in-the-night-time exchange
