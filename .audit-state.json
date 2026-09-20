@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 22,
     "file": "earth-and-the-wild",
-    "quoteIndex": 10,
-    "note": "earth-and-the-wild in progress (10/29). Next run begins earth-and-the-wild quotes[10] (earth-011)."
+    "quoteIndex": 20,
+    "note": "earth-and-the-wild in progress (20/29). Next run begins earth-and-the-wild quotes[20] (earth-021)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 577,
+  "totalQuotesAudited": 587,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -912,6 +912,19 @@
       "resolution": "earth-004 fixed in this run's PR: content corrected to restore the dropped closing clause; notes updated with the corrected citation and a note on the correction so it isn't rediscovered as a false lead. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
       "reportedIn": "see this run's report",
       "processNote": "Found PR #185 (branch claude/beautiful-newton-0qjnwx) already open at the start of this run, covering dystopia-017..dystopia-028 (12 quotes, 0 flagged) -- further than this run's own stale cursor (quoteIndex 16), because #185's cursor advance was never merged to main. Verified via `git merge-base --is-ancestor` that #185 is a clean fast-forward from main, then independently re-verified all 12 of its quotes from scratch via WebSearch against primary/authoritative sources (Fahrenheit 451, The Handmaid's Tale, A Clockwork Orange, Lord of the Flies, The Giver) before trusting its 'no issues' claim -- all 12 held up, including the two (dystopia-027, dystopia-028) this run's own cursor hadn't reached yet. Reset this run's branch to #185's exact tip and continued with new coverage (dystopia-029..030, earth-001..010) rather than creating a conflicting PR; this run's PR is a strict superset of #185. Recommend closing #185 as superseded once this run's PR merges. No open PRs modifying quotes beyond #185 at the time of this run's PR review. No coverage gaps found: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (92/92)."
+    },
+    {
+      "runDate": "2026-09-20",
+      "file": "earth-and-the-wild",
+      "quoteRange": "earth-011..earth-020",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "see this run's report",
+      "processNote": "All 10 quotes (5 Mary Oliver poem excerpts, 3 Emerson Nature excerpts, 2 Kimmerer Braiding Sweetgrass excerpts) checked verbatim via web search against primary literary sources; wording and citations confirmed correct, no aggregator reliance. 0 open PRs at run start."
     }
   ]
 }
