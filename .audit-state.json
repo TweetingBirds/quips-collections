@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 22,
-    "file": "earth-and-the-wild",
-    "quoteIndex": 20,
-    "note": "earth-and-the-wild in progress (20/29). Next run begins earth-and-the-wild quotes[20] (earth-021)."
+    "fileIndex": 23,
+    "file": "edgar-allan-poe",
+    "quoteIndex": 0,
+    "note": "earth-and-the-wild finishes this pass (29/29). Next run begins edgar-allan-poe quotes[0] (poe-001)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 587,
+  "totalQuotesAudited": 596,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -925,6 +925,21 @@
       "resolution": "n/a",
       "reportedIn": "see this run's report",
       "processNote": "All 10 quotes (5 Mary Oliver poem excerpts, 3 Emerson Nature excerpts, 2 Kimmerer Braiding Sweetgrass excerpts) checked verbatim via web search against primary literary sources; wording and citations confirmed correct, no aggregator reliance. 0 open PRs at run start."
+    },
+    {
+      "runDate": "2026-09-21",
+      "file": "earth-and-the-wild",
+      "quoteRange": "earth-021..earth-029",
+      "count": 9,
+      "passed": 8,
+      "flagged": 1,
+      "flaggedIds": [
+        "earth-024"
+      ],
+      "issue": "earth-021/earth-022 (Kimmerer, Braiding Sweetgrass) and earth-023 (Wendell Berry, 'The Peace of Wild Things') verified verbatim against convergent independent sourcing. earth-025 (Terry Tempest Williams, Refuge) verified verbatim as a legitimate excerpt of a longer passage, consistent with how the rest of this collection quotes book passages. earth-028 (Attenborough, A Life on Our Planet) verified verbatim against its transcript. earth-024 (Wendell Berry, The Unsettling of America) was stored ending '...is our only hope.' but the actual closing sentence, corroborated by an Organic Consumers Association piece quoting the passage in essay context (not a bare aggregator card) and consistent across multiple independent citations, ends '...is our only legitimate hope.' -- the word 'legitimate' had been dropped. A further-embellished variant ending '...legitimate hope of survival' also circulates (BrainyQuote, Quotefancy) but does not match the essay's actual text and was not used. earth-026 (Terry Tempest Williams, 'the eyes of the future') and earth-027 (Sigurd Olson, 'wilderness...spiritual necessity') remain correctly flagged unverified as they already were going into this run -- searches this run only turned up aggregator-level corroboration (Goodreads, AZQuotes, Wikiquote, Quotefancy), not a primary text, so verificationStatus and source were left unchanged per the aggregators-establish-nothing standard. earth-029 (John Burroughs, 'I go to nature to be soothed and healed') likewise remains correctly unverified; searches leaned toward Time and Change (1912) over the stored Summit of the Years (1913) attribution but again only via aggregator-level sourcing, so left unchanged.",
+      "resolution": "earth-024 fixed in this run's PR: content corrected to restore the dropped word 'legitimate'; notes updated with a correction note. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed. earth-and-the-wild collection finishes this pass (29/29 quotes audited).",
+      "reportedIn": "see this run's report",
+      "processNote": "WebFetch was EGRESS_BLOCKED this run on every primary-source domain tried (goodreads.com, archive.org, kyl.neocities.org), consistent with the pattern in many prior runs; verification relied on WebSearch snippet triangulation, weighting sources that quote a passage in essay/article context over bare aggregator quote cards. 0 open PRs at run start. Coverage-gap check: order[] matches collections/*.json and collections.json exactly, no missing or extra entries this run. Cursor advances to edgar-allan-poe (poe-001) next run."
     }
   ]
 }
