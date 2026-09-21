@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-08-17T12:00:00Z",
+  "lastUpdated": "2026-09-21T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -509,6 +509,23 @@
         "aphorism"
       ],
       "addedAt": "2026-08-17T12:00:00Z"
+    },
+    {
+      "id": "di-032",
+      "content": "Whatever you are, try to be a good one.",
+      "authorName": "William Makepeace Thackeray",
+      "source": "Recounted by Laurence Hutton in Talks in a Library with Laurence Hutton, recorded by Isabel Moore (1905)",
+      "sourceType": "book",
+      "quoteDate": "c. 1850s-1860s",
+      "verificationStatus": "verified",
+      "notes": "Widely quoted today as 'Whatever you are, be a good one' and attributed to Lincoln since a 1946 quotation compendium gave no citation for it -- 81 years after Lincoln's death, and it appears nowhere in his own writings. The earliest documented source is Thackeray's remark as recalled by his friend Laurence Hutton, published in Hutton's 1905 memoir.",
+      "tags": [
+        "excellence",
+        "integrity",
+        "craft",
+        "advice"
+      ],
+      "addedAt": "2026-09-21T12:00:00Z"
     }
   ]
 }
