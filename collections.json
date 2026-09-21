@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-17T12:00:00Z",
+  "lastUpdated": "2026-09-21T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -407,7 +407,7 @@
       "name": "Resilience & Grit",
       "description": "Words for the hard days — on enduring adversity, bouncing back, and finding strength in the struggle.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "What does not kill me makes me stronger.",
         "Fall seven times, stand up eight."
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-rQt22yOHFYBHDhLVWRBXgxHcyhCCC/jTKQAY02bcmTc=",
-      "bytes": 17713
+      "lastUpdated": "2026-09-21T12:00:00Z",
+      "contentHash": "sha256-0+zSpTyT9ZdJ+q2m8t50ePc64uDRVbpBE/JrKtB1kT4=",
+      "bytes": 18577
     },
     {
       "id": "self-compassion",
