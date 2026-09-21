@@ -9,7 +9,7 @@
   "iconName": "eye.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-07-23T12:00:00Z",
+  "lastUpdated": "2026-09-21T12:00:00Z",
   "quotes": [
     {
       "id": "dystopia-001",
@@ -487,6 +487,23 @@
         "one-liner"
       ],
       "addedAt": "2026-07-23T12:00:00Z"
+    },
+    {
+      "id": "dystopia-031",
+      "content": "All that you touch You Change. All that you Change Changes you. The only lasting truth Is Change.",
+      "authorName": "Octavia E. Butler",
+      "source": "Parable of the Sower, Chapter 1 (1993)",
+      "sourceType": "book",
+      "quoteDate": "1993",
+      "verificationStatus": "verified",
+      "notes": "The opening verse of 'Earthseed: The Books of the Living,' the philosophy Lauren Olamina develops through the novel -- treating change itself as the one constant worth building a life around.",
+      "tags": [
+        "change",
+        "impermanence",
+        "self-knowledge",
+        "lyrical"
+      ],
+      "addedAt": "2026-09-21T12:00:00Z"
     }
   ]
 }
