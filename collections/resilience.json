@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-09-21T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -482,6 +482,23 @@
         "hard-times"
       ],
       "addedAt": "2026-07-27T12:00:00Z"
+    },
+    {
+      "id": "res-030",
+      "content": "Insanity is repeating the same mistakes and expecting different results.",
+      "authorName": "Narcotics Anonymous",
+      "source": "Narcotics Anonymous (\"Basic Text\"), Ch. 4 \"How It Works\" -- wording present in the 1981 conference-approval draft; 1st edition published 1983",
+      "sourceType": "book",
+      "quoteDate": "1981",
+      "verificationStatus": "verified",
+      "notes": "Commonly attributed to Einstein, who died in 1955, with no evidence he ever wrote or said it. The earliest documented appearance is this 1981 Narcotics Anonymous fellowship text, carried into the published 1983 Basic Text -- decades before the Einstein attribution took hold.",
+      "tags": [
+        "habits",
+        "change",
+        "mistakes",
+        "advice"
+      ],
+      "addedAt": "2026-09-21T12:00:00Z"
     }
   ]
 }
