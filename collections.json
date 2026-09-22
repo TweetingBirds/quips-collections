@@ -307,7 +307,7 @@
       "name": "Dystopian Fiction",
       "description": "Chilling visions of the future from the great dystopian novels, where surveillance, conformity, and control reveal what we stand to lose.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Big Brother is watching you.",
         "It was a pleasure to burn."
@@ -318,9 +318,9 @@
       "iconName": "eye.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-07-23T12:00:00Z",
-      "contentHash": "sha256-RGA1tCmQMCxOcqcbRf07ZwZgtqA2Nx2/NRjt7shTflM=",
-      "bytes": 16278
+      "lastUpdated": "2026-09-21T12:00:00Z",
+      "contentHash": "sha256-SXnUQaAlFIyWPr9WPs6rce3RwH6ZhvhomJ66iTZy3oA=",
+      "bytes": 16992
     },
     {
       "id": "childrens-literature",
