@@ -302,13 +302,13 @@
     },
     {
       "id": "poe-019",
-      "content": "To the glory that was Greece, To the grandeur that was Rome.",
+      "content": "To the glory that was Greece, And the grandeur that was Rome.",
       "authorName": "Edgar Allan Poe",
       "source": "To Helen (1831)",
       "sourceType": "poem",
       "quoteDate": "1831",
       "verificationStatus": "verified",
-      "notes": "The poem's celebrated closing image of classical antiquity's splendor.",
+      "notes": "The poem's celebrated closing image of classical antiquity's splendor. Corrected from the widely circulated 'To the grandeur...' misquote (repeating 'To') to Poe's actual line, which reads 'And the grandeur...'.",
       "tags": [
         "history",
         "art",
