@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 23,
     "file": "edgar-allan-poe",
-    "quoteIndex": 10,
-    "note": "edgar-allan-poe in progress (10/31). Next run begins edgar-allan-poe quotes[10] (poe-011)."
+    "quoteIndex": 20,
+    "note": "edgar-allan-poe in progress (20/31). Next run begins edgar-allan-poe quotes[20] (poe-021)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 606,
+  "totalQuotesAudited": 616,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -953,6 +953,21 @@
       "resolution": "n/a",
       "reportedIn": "see this run's report",
       "processNote": "All 10 lines (The Raven x5, A Dream Within a Dream x3, Annabel Lee x2) verified verbatim against the poems' primary/public-domain text -- no issues. Found PR #189 (branch claude/beautiful-newton-d1hce5) already open at the start of this run, covering earth-021..029 (the batch this run's stale cursor would have re-audited) -- verified via git merge-base that it's a clean fast-forward from main, then independently re-confirmed its one fix (earth-024's dropped 'legitimate' before 'hope', Wendell Berry's The Unsettling of America) against independent primary-text-adjacent sourcing before trusting it. Reset this run's branch to #189's tip and continued with new coverage rather than creating a conflicting PR; this run's PR is a strict superset of #189. Recommend closing #189 as superseded once this run's PR merges. Also reviewed PRs #190, #191, #192 (Quote Unquote newsletter draft additions) -- see this run's report."
+    },
+    {
+      "runDate": "2026-09-23",
+      "file": "edgar-allan-poe",
+      "quoteRange": "poe-011..poe-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "poe-019"
+      ],
+      "issue": "poe-011..poe-018 and poe-020 all verified verbatim against primary/public-domain text (Annabel Lee, The Bells, Eldorado, To Helen, The Tell-Tale Heart) -- no issues, including poe-011's colon after 'kingdom by the sea:' which matches the Academy of American Poets text (punctuation varies slightly across authoritative editions of this poem; not a defect). poe-019 (To Helen, closing couplet) was stored as 'To the glory that was Greece, To the grandeur that was Rome.' -- a widely circulated misquote that repeats 'To' for parallelism. Poe's actual text (confirmed via Academy of American Poets and multiple independent primary-text-adjacent sources) reads 'To the glory that was Greece, And the grandeur that was Rome.' with 'And', not a second 'To'.",
+      "resolution": "poe-019 fixed in this run's PR: content corrected to restore Poe's actual 'And the grandeur...' wording; note field annotated with the correction so the popular misquote isn't reintroduced later.",
+      "reportedIn": "see this run's report",
+      "processNote": "WebFetch was EGRESS_BLOCKED again this run (eapoe.org, poetryfoundation.org), consistent with the pattern in prior runs; verification relied on WebSearch snippet triangulation across independent sources (Academy of American Poets, Poetry Foundation, Poe Museum, americanliterature.com). No open PRs at the start of this run."
     }
   ]
 }
