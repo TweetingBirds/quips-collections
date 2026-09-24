@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 23,
-    "file": "edgar-allan-poe",
-    "quoteIndex": 20,
-    "note": "edgar-allan-poe in progress (20/31). Next run begins edgar-allan-poe quotes[20] (poe-021)."
+    "fileIndex": 24,
+    "file": "entrepreneurs",
+    "quoteIndex": 0,
+    "note": "edgar-allan-poe finishes this pass (31/31). Next run begins entrepreneurs quotes[0]."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 616,
+  "totalQuotesAudited": 627,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -968,6 +968,19 @@
       "resolution": "poe-019 fixed in this run's PR: content corrected to restore Poe's actual 'And the grandeur...' wording; note field annotated with the correction so the popular misquote isn't reintroduced later.",
       "reportedIn": "see this run's report",
       "processNote": "WebFetch was EGRESS_BLOCKED again this run (eapoe.org, poetryfoundation.org), consistent with the pattern in prior runs; verification relied on WebSearch snippet triangulation across independent sources (Academy of American Poets, Poetry Foundation, Poe Museum, americanliterature.com). No open PRs at the start of this run."
+    },
+    {
+      "runDate": "2026-09-24",
+      "file": "edgar-allan-poe",
+      "quoteRange": "poe-021..poe-031",
+      "count": 11,
+      "passed": 11,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "see this run's report",
+      "processNote": "All 11 quotes (The Tell-Tale Heart x2, The Masque of the Red Death x2, The Fall of the House of Usher, The Cask of Amontillado x2, The Pit and the Pendulum, William Wilson, The Philosophy of Composition, The Poetic Principle) verified verbatim against public-domain primary text via WebSearch snippet triangulation (WebFetch EGRESS_BLOCKED on poestories.com, consistent with prior runs). edgar-allan-poe collection finishes this pass (31/31 quotes audited). 0 open PRs at run start. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92)."
     }
   ]
 }
