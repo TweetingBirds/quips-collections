@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-21T12:00:00Z",
+  "lastUpdated": "2026-09-24T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1047,7 +1047,7 @@
       "name": "Legendary Coaches",
       "description": "Hard-won wisdom on winning, discipline, and teamwork from the greatest coaches in sports.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 31,
       "previewQuotes": [
         "We're on to Cincinnati.",
         "Be quick, but don't hurry."
@@ -1058,9 +1058,9 @@
       "iconName": "figure.american.football",
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-10T12:00:00Z",
-      "contentHash": "sha256-4n6kCGpRWcKEkqpCUl9+pQb60/HBlKG1aoPgOXYFDtg=",
-      "bytes": 17688
+      "lastUpdated": "2026-09-24T12:00:00Z",
+      "contentHash": "sha256-uYw5tKWAxID+esgxNd/XOCP83/GnjmDLZndIfJoHxdk=",
+      "bytes": 19048
     },
     {
       "id": "champions-mindset",
@@ -1287,7 +1287,7 @@
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 36,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1298,9 +1298,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-17T12:00:00Z",
-      "contentHash": "sha256-SqbcJ1yYEkpT64toNVsRbHlIA6/nSUglPMIqkqXnXdA=",
-      "bytes": 24358
+      "lastUpdated": "2026-09-24T12:00:00Z",
+      "contentHash": "sha256-WFKRYMHAm5gdkpuTVkgMHzRlDQ32+xgeovXo/17+1t0=",
+      "bytes": 25209
     },
     {
       "id": "curiosity-discovery",

@@ -9,7 +9,7 @@
   "iconName": "figure.american.football",
   "category": "Sports",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-10T12:00:00Z",
+  "lastUpdated": "2026-09-24T12:00:00Z",
   "quotes": [
     {
       "id": "coach-001",
@@ -475,6 +475,38 @@
         "aphorism"
       ],
       "addedAt": "2026-09-10T12:00:00Z"
+    },
+    {
+      "id": "coach-030",
+      "content": "Make each day your masterpiece.",
+      "authorName": "John Wooden",
+      "source": "Wooden: A Lifetime of Observations and Reflections On and Off the Court, with Steve Jamison (2003)",
+      "quoteDate": "2003",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One line of the seven-point creed Wooden's father gave him on paper the day he left for high school, repeated throughout the book as the foundation of his coaching philosophy.",
+      "tags": [
+        "excellence",
+        "discipline",
+        "advice"
+      ],
+      "addedAt": "2026-09-24T12:00:00Z"
+    },
+    {
+      "id": "coach-031",
+      "content": "You are what your record says you are.",
+      "authorName": "Bill Parcells",
+      "source": "Widely attributed to Parcells' coaching philosophy; cited in Nunyo Demasio, Parcells: A Football Life (2014), p. 454",
+      "quoteDate": "c. 2014",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: one of the most repeated lines in football, but no primary press-conference transcript or Parcells-authored text pins the original date or exact wording — source axis fails.",
+      "tags": [
+        "truth",
+        "blunt",
+        "one-liner"
+      ],
+      "addedAt": "2026-09-24T12:00:00Z"
     }
   ]
 }
