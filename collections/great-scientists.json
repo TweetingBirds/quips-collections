@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-17T12:00:00Z",
+  "lastUpdated": "2026-09-24T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -570,6 +570,22 @@
         "blunt"
       ],
       "addedAt": "2026-09-17T12:00:00Z"
+    },
+    {
+      "id": "sci-036",
+      "content": "I am enough of the artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+      "authorName": "Albert Einstein",
+      "source": "\"What Life Means to Einstein,\" interview by George Sylvester Viereck, The Saturday Evening Post (26 October 1929)",
+      "quoteDate": "1929-10-26",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Einstein on the primacy of imagination over accumulated fact, from Viereck's widely reprinted 1929 interview; wording and attribution independently traced to the original Post interview by Quote Investigator.",
+      "tags": [
+        "imagination",
+        "wisdom",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-24T12:00:00Z"
     }
   ]
 }
