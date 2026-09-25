@@ -821,10 +821,22 @@ The app release has to ship before (or with) the first data release that
 names `tagVocabulary`. Older clients ignore the unknown manifest key, so the
 order is not load-bearing. It just decides when tags start appearing.
 
+**Collection tags are derived, not curated.** The collection-level `tags`
+array proposed above was never written. `build_search_index.py` derives each
+collection's tags from its quotes instead, into the index's `collections`
+block, and Discover search matches them. Only theme and occasion tags count,
+because tone tags (`aphorism`, `one-liner`) run through every subject. A tag
+needs at least 10% of the collection's tagged quotes and at least 2 of them.
+Tags are ranked by share × log(1 + lift) against the corpus, top 6. 89 of the
+93 collections get some. The catchphrase collections get none, and joke
+collections get a thin set (Mark Twain: `money`), which is accurate: their
+quotes are tagged by form, not subject. A hand-kept list would drift from the
+quotes it describes. If a collection ever needs a curated override, the
+curated list belongs in the collection file and would take precedence here.
+
 Item 6, browse-by-tag, is not started. It is a design question (where it
 lives in Discover, and whether occasion tags get their own shelf) more than an
-engineering one. The collection-level `tags` array described above would feed it,
-and no collection carries one yet.
+engineering one. The derived collection tags above would feed it.
 
 ## What will go wrong
 
