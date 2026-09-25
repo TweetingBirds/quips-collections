@@ -11,16 +11,46 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [1.16.1] - 2026-09-19
+## [1.16.1] - 2026-09-25
+### Added
+**Quote tags reach the app.** Every quote has carried curated tags since
+1.16.0; this release publishes what clients need to use them. The tag
+vocabulary ships as `tags.json`, named in the manifest as `tagVocabulary`, so
+a slug like `present-moment` resolves to its display name and colour. The
+search index now carries each quote's tags, plus a `collections` block listing
+each collection's most characteristic theme and occasion tags, derived from
+its quotes. Both additions are additive, and older clients ignore them.
+
+Six quotes added:
+- **Great Scientists**: Einstein.
+- **Legendary Coaches**: John Wooden and Bill Parcells.
+- **Dystopian Fiction**: the opening Earthseed verse from Octavia Butler's
+  *Parable of the Sower* (1993).
+- **Resilience**: "Insanity is repeating the same mistakes and expecting
+  different results." It is credited to its earliest documented source, the
+  1981 Narcotics Anonymous Basic Text approval draft, rather than to Einstein.
+- **Inspiration Daily**: "Whatever you are, try to be a good one." It is
+  credited to William Makepeace Thackeray, as recounted by Laurence Hutton
+  (1905), rather than to Lincoln.
+
 ### Fixed
-**Earth & The Wild**: Rachel Carson's John Burroughs Medal acceptance quote
-(earth-004) was missing its closing clause — stored as "...the less taste we
-shall have for destruction," it actually ends "...for the destruction of our
-race." Restored per convergent independent sourcing (Wikiquote, The
-Marginalian). The rest of the collection (earth-001..003, earth-005..010)
-and a full pass over **Dystopian Fiction** (dystopia-001..030, including
-independent re-verification of the prior batch) were audited with no other
-issues found.
+**Earth & The Wild**:
+- Rachel Carson's John Burroughs Medal acceptance quote (earth-004) was
+  missing its closing clause. It was stored as "...the less taste we shall
+  have for destruction," but actually ends "...for the destruction of our
+  race." Restored per convergent independent sourcing (Wikiquote, The
+  Marginalian).
+- Wendell Berry's line from *The Unsettling of America* (earth-024) had
+  dropped "legitimate". It reads "...is our only legitimate hope."
+
+The whole collection (earth-001..029) was audited.
+
+**Edgar Allan Poe**: "To Helen" (poe-019) was stored as the popular misquote
+"To the grandeur that was Rome." Poe wrote "And the grandeur that was Rome."
+The whole collection (poe-001..031) was audited against public-domain text.
+
+**Dystopian Fiction** (dystopia-001..030) and **Entrepreneurs**
+(entre-001..012) were also audited, with no other issues found.
 
 ## [1.15.1] - 2026-09-12
 ### Changed
