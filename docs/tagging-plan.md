@@ -1,6 +1,7 @@
 # Plan: per-quote tags across the collection
 
-Status: proposed, 2026-09-15. Not yet started.
+Status: Phases 0–2 done 2026-09-16; Phase 3 (the app consuming the tags) built
+2026-09-25, awaiting release. Browse-by-tag is still open.
 
 ## Why
 
@@ -792,6 +793,50 @@ All additive; already-shipped clients ignore an unknown `tags` key, because
    the occasion tags pay off.
 
 Data ships as patch releases per CONTRIBUTING; the app change is a minor.
+
+### Status (2026-09-25)
+
+Items 1–5 are built. v1.16.0 was already serving tagged quotes, and until now
+every shipped app dropped them on decode. Nothing was lost in publishing; the
+consumer did not exist yet.
+
+- **Slug resolution is fetched, not bundled.** The release copies
+  `schema/tags.json` to `tags.json` and names it in the manifest as
+  `tagVocabulary`, beside `searchIndex`. The app loads it with the shelf sweep,
+  verifies and caches it by hash like every other asset, and falls back to a
+  title-cased slug with a random colour when it is unavailable. A bundled copy
+  would go stale the first time a tag is added. The editorial fields (`useWhen`,
+  `avoid`) ship too; the app ignores them.
+- **A vocabulary colour applies only when a tag is created.** An existing tag
+  in someone's library keeps the colour they gave it.
+- **Dedupe uses the library's name rule** (`NameMatching.isSameName`), so
+  `faith` on a quote in a Faith-category collection collapses into the category
+  tag and does not use up one of the bulk import's two slots.
+- **Search matches tags on word starts**, after author and text matches. "grie"
+  finds `grief`; "war" does not find `reward`. With tags the index grows from
+  1.23 MB to 1.47 MB (226 KB → 257 KB gzipped), well under the app's 8 MB
+  ceiling.
+
+The app release has to ship before (or with) the first data release that
+names `tagVocabulary`. Older clients ignore the unknown manifest key, so the
+order is not load-bearing. It just decides when tags start appearing.
+
+**Collection tags are derived, not curated.** The collection-level `tags`
+array proposed above was never written. `build_search_index.py` derives each
+collection's tags from its quotes instead, into the index's `collections`
+block, and Discover search matches them. Only theme and occasion tags count,
+because tone tags (`aphorism`, `one-liner`) run through every subject. A tag
+needs at least 10% of the collection's tagged quotes and at least 2 of them.
+Tags are ranked by share × log(1 + lift) against the corpus, top 6. 89 of the
+93 collections get some. The catchphrase collections get none, and joke
+collections get a thin set (Mark Twain: `money`), which is accurate: their
+quotes are tagged by form, not subject. A hand-kept list would drift from the
+quotes it describes. If a collection ever needs a curated override, the
+curated list belongs in the collection file and would take precedence here.
+
+Item 6, browse-by-tag, is not started. It is a design question (where it
+lives in Discover, and whether occasion tags get their own shelf) more than an
+engineering one. The derived collection tags above would feed it.
 
 ## What will go wrong
 

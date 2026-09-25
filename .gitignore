@@ -11,6 +11,8 @@ on-this-day.json
 newsletter-picks.json
 featured-collections.json
 search-index.json
+# Published copy of schema/tags.json (the source stays in schema/).
+/tags.json
 
 # macOS
 .DS_Store

@@ -57,6 +57,9 @@ jobs:
           python3 scripts/build_newsletter_picks.py
           python3 scripts/build_featured.py
           python3 scripts/build_search_index.py
+          # The tag vocabulary is hand-edited source in schema/, published as-is so
+          # the app can resolve a quote's tag slugs to names and colours.
+          cp schema/tags.json tags.json
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/
@@ -66,7 +69,8 @@ jobs:
           # rather than naming them all and failing on the missing one.
           FEEDS=""
           for feed in recently-added.json new-collections.json on-this-day.json \
-                      newsletter-picks.json featured-collections.json search-index.json; do
+                      newsletter-picks.json featured-collections.json search-index.json \
+                      tags.json; do
             if [ -f "$feed" ]; then
               cp "$feed" dist/
               FEEDS="$FEEDS $feed"

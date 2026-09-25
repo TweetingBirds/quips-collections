@@ -24,6 +24,7 @@ Usage: build_search_index.py [--root ROOT] [--out PATH]
 
 import argparse
 import json
+import math
 import os
 import re
 import sys
@@ -41,7 +42,52 @@ META = {
 # included because "Meditations" and "Star Wars" are things people type into a
 # quote app's search field. `quoteDate` and `verificationStatus` let a result row
 # render its date and its Verified marker without fetching the collection.
-FIELDS = ("id", "content", "authorName", "source", "quoteDate", "verificationStatus")
+# `tags` lets a search for "eulogy" or "grief" find quotes whose text never says
+# the word — the slugs, not display names; the app resolves those through
+# tags.json like every other surface that shows a tag.
+FIELDS = ("id", "content", "authorName", "source", "quoteDate", "verificationStatus", "tags")
+
+
+# Collection tags: derived from the quotes' tags, never curated. A collection is
+# what its quotes are about, so a hand-kept list could only drift from them.
+#
+# Only `theme` and `occasion` qualify. `tone` describes a quote's form (aphorism,
+# one-liner, wit), and it runs through collections of every subject — as a
+# collection tag, "aphorism" would match half the catalogue and say nothing.
+COLLECTION_TAG_FACETS = {"theme", "occasion"}
+# A tag must be on at least this share of the collection's tagged quotes, and on
+# at least this many of them, before it can describe the whole collection.
+COLLECTION_TAG_MIN_SHARE = 0.10
+COLLECTION_TAG_MIN_QUOTES = 2
+COLLECTION_TAG_LIMIT = 6
+
+
+def collection_tags(quotes, facet_of, corpus_counts, corpus_tagged):
+    """A collection's most characteristic tags, most characteristic first.
+
+    Ranked by share × log(1 + lift): how much of the collection carries the tag,
+    weighted by how much more often it appears here than across the corpus. Share
+    alone ranks `courage` high everywhere; lift alone ranks a tag two quotes happen
+    to carry. Ties break on slug, so regeneration is stable.
+    """
+    tagged = [q for q in quotes if q.get("tags")]
+    if not tagged or not corpus_tagged:
+        return []
+    counts = {}
+    for q in tagged:
+        for slug in q["tags"]:
+            counts[slug] = counts.get(slug, 0) + 1
+    scored = []
+    for slug, count in counts.items():
+        share = count / len(tagged)
+        if (facet_of.get(slug) not in COLLECTION_TAG_FACETS
+                or count < COLLECTION_TAG_MIN_QUOTES
+                or share < COLLECTION_TAG_MIN_SHARE):
+            continue
+        lift = share / (corpus_counts[slug] / corpus_tagged)
+        scored.append((-share * math.log1p(lift), slug))
+    scored.sort()
+    return [slug for _, slug in scored[:COLLECTION_TAG_LIMIT]]
 
 
 def author_key(name):
@@ -65,11 +111,16 @@ def main():
     coll_dir = os.path.join(args.root, "collections")
     files = sorted(fn for fn in os.listdir(coll_dir) if fn.endswith(".json"))
 
+    with open(os.path.join(args.root, "schema", "tags.json"), encoding="utf-8") as f:
+        facet_of = {t["slug"]: t.get("facet") for t in json.load(f)["tags"]}
+
     entries = []
     newest = ""
+    quotes_by_collection = {}
     for fn in files:
         data = json.load(open(os.path.join(coll_dir, fn), encoding="utf-8"))
         cid = data["id"]
+        quotes_by_collection[cid] = data.get("quotes", [])
         for q in data.get("quotes", []):
             # Presence, not truthiness: `if q.get(f)` would also drop a field that
             # is present but empty, silently turning a data problem into a missing
@@ -115,11 +166,25 @@ def main():
         authors.append(entry)
     authors.sort(key=lambda a: a["name"])
 
+    corpus_counts, corpus_tagged = {}, 0
+    for quotes in quotes_by_collection.values():
+        for q in quotes:
+            if q.get("tags"):
+                corpus_tagged += 1
+                for slug in q["tags"]:
+                    corpus_counts[slug] = corpus_counts.get(slug, 0) + 1
+    collections = []
+    for cid in sorted(quotes_by_collection):
+        tags = collection_tags(quotes_by_collection[cid], facet_of, corpus_counts, corpus_tagged)
+        if tags:
+            collections.append({"id": cid, "tags": tags})
+
     index = {
         **META,
         "description": (
             f"Every quote across the Quips collections ({len(entries)}), flattened for "
-            "search, with the author roster derived from them. Join back to "
+            "search, with the author roster and each collection's characteristic tags "
+            "derived from them. Join back to "
             "collections.json on sourceCollection for presentation."
         ),
         "lastUpdated": newest,
@@ -127,6 +192,9 @@ def main():
         "authorCount": len(authors),
         "quotes": entries,
         "authors": authors,
+        # Derived per-collection tags (see ``collection_tags``), so a search for
+        # "grief" can find a collection whose name and description never say it.
+        "collections": collections,
     }
 
     out = args.out or os.path.join(args.root, "search-index.json")
