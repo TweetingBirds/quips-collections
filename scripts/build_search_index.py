@@ -41,7 +41,10 @@ META = {
 # included because "Meditations" and "Star Wars" are things people type into a
 # quote app's search field. `quoteDate` and `verificationStatus` let a result row
 # render its date and its Verified marker without fetching the collection.
-FIELDS = ("id", "content", "authorName", "source", "quoteDate", "verificationStatus")
+# `tags` lets a search for "eulogy" or "grief" find quotes whose text never says
+# the word — the slugs, not display names; the app resolves those through
+# tags.json like every other surface that shows a tag.
+FIELDS = ("id", "content", "authorName", "source", "quoteDate", "verificationStatus", "tags")
 
 
 def author_key(name):

@@ -37,9 +37,14 @@ GENERATED_FEEDS = [
 # reason: every entry in `generated` carries `quotes[]`, and a client iterating
 # it to draw quote shelves must not meet a payload of `collections[]` it cannot
 # render. Naming it at the top level means a consumer opts in by name.
+#
+# tags.json is the tag vocabulary (a copy of schema/tags.json, made by the
+# release workflow): reference data that turns a quote's tag slugs into display
+# names and colours. Not a shelf, so it is named here too.
 ANCILLARY_ASSETS = [
     ("searchIndex", "search-index.json"),
     ("newCollections", "new-collections.json"),
+    ("tagVocabulary", "tags.json"),
 ]
 
 
