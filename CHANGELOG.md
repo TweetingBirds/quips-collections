@@ -11,6 +11,15 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.16.2] - 2026-09-26
+### Fixed
+**Entrepreneurs**: Sara Blakely's dinner-table question (entre-022) was stored
+as "What did you fail at this week?" but the collection's own cited source
+(CNBC, 2013-10-16) quotes her father's actual question as "What have you
+failed at this week?" Corrected to match.
+
+Quotes entre-013..entre-022 were also audited, with no other issues found.
+
 ## [1.16.1] - 2026-09-25
 ### Added
 **Quote tags reach the app.** Every quote has carried curated tags since
