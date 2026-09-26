@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 24,
     "file": "entrepreneurs",
-    "quoteIndex": 12,
-    "note": "entre-001..012 audited this run. Next run begins entrepreneurs quotes[12] (entre-013)."
+    "quoteIndex": 22,
+    "note": "entre-013..022 audited this run. Next run begins entrepreneurs quotes[22] (entre-023)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 639,
+  "totalQuotesAudited": 649,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -994,6 +994,21 @@
       "resolution": "n/a",
       "reportedIn": "see this run's report",
       "processNote": "All 12 quotes (Bezos x6, Thiel x4, Horowitz x2) checked; sourcing already primary (shareholder letters, Zero to One, Bezos's own WSJ/a16z pieces) or honestly self-flagged unverified (entre-006, no primary record of 'Your margin is my opportunity'). Spot-verified entre-005 (Bezos brand/reputation line, 2004 Bloomberg BusinessWeek interview) and entre-011 (Horowitz 'lead bullets', 2011 a16z essay) via WebSearch -- both confirmed against primary/authoritative sources, not aggregator-only. Reviewed open PR #196 (Add 3 quotes: Einstein, Wooden, Parcells) -- all 3 pass: sci-036 Einstein imagination quote verified verbatim against the 1929 Saturday Evening Post interview wording (checked against the well-known longer 1931 Cosmic Religion variant to rule out conflation; the PR's shorter wording matches the 1929 interview, not a misquote); coach-030 Wooden line verified against his own book; coach-031 Parcells line correctly marked unverified (universal attribution, no primary transcript). No corrections needed; PR left as-is for the author to merge."
+    },
+    {
+      "runDate": "2026-09-26",
+      "file": "entrepreneurs",
+      "quoteRange": "entre-013..entre-022",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "entre-022"
+      ],
+      "issue": "entre-013 (Paul Graham, 'Do Things that Don't Scale', 2013), entre-014 (YC motto 'Make something people want.'), entre-015 (Reid Hoffman, own X/Twitter restatement, 2017-03-29), entre-016 (Mark Cuban, blogmaverick.com 2005-05-30 -- confirmed the exact sentence 'In business, to be a success, you only have to be right once.' appears in the post itself, not just paraphrased in secondary coverage), entre-017/entre-018 (Mark Cuban, blogmaverick.com 2008/2005, minor case/spacing normalization from the originals already explained in existing notes), entre-019/entre-020 (Richard Branson, confirmed verbatim on his own X account and as his book's title), and entre-021 (Branson, correctly left unverified -- source axis still fails) all checked -- no changes needed beyond what was already correct. entre-022 (Sara Blakely, dinner-table question) was stored as 'What did you fail at this week?' but the actual CNBC (2013-10-16) interview -- the collection's own cited source -- quotes her father's question as 'What have you failed at this week?'; multiple independent secondary pieces citing the same CNBC interview converge on this exact phrasing.",
+      "resolution": "entre-022 fixed in this run's PR: content corrected to 'What have you failed at this week?' to match the CNBC interview's exact phrasing; notes updated with a correction note. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
+      "reportedIn": "see this run's report",
+      "processNote": "0 open PRs and 0 open issues at the start of this run -- housekeeping backlog remains fully clear. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92). Cursor advances to entrepreneurs quotes[22] (entre-023) next run; entrepreneurs collection has 29 quotes total, so it will finish partway through the next batch."
     }
   ]
 }
