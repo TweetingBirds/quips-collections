@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 24,
-    "file": "entrepreneurs",
-    "quoteIndex": 22,
-    "note": "entre-013..022 audited this run. Next run begins entrepreneurs quotes[22] (entre-023)."
+    "fileIndex": 25,
+    "file": "fantasy-worlds",
+    "quoteIndex": 3,
+    "note": "entre-023..029 (finishing entrepreneurs, 29/29) and fantasy-001..003 audited this run. Next run begins fantasy-worlds quotes[3] (fantasy-004)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 649,
+  "totalQuotesAudited": 659,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1009,6 +1009,19 @@
       "resolution": "entre-022 fixed in this run's PR: content corrected to 'What have you failed at this week?' to match the CNBC interview's exact phrasing; notes updated with a correction note. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
       "reportedIn": "see this run's report",
       "processNote": "0 open PRs and 0 open issues at the start of this run -- housekeeping backlog remains fully clear. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92). Cursor advances to entrepreneurs quotes[22] (entre-023) next run; entrepreneurs collection has 29 quotes total, so it will finish partway through the next batch."
+    },
+    {
+      "runDate": "2026-09-27",
+      "file": "entrepreneurs + fantasy-worlds",
+      "quoteRange": "entre-023..entre-029, fantasy-001..fantasy-003",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "see this run's report",
+      "processNote": "entre-025 (Disney, 1954 Disneyland TV premiere), entre-026 (Ford, My Life and Work 1922), entre-027 (Estee Lauder, official elcompanies.com heritage page), and entre-029 (Jobs, Stanford 2005) all independently re-confirmed verbatim via WebSearch. entre-023 (Schultz), entre-024 (Knight), entre-028 (Kroc) remain correctly unverified -- re-searched but found no primary-source confirmation beyond what prior runs already established; entre-023 turned up one low-confidence secondary claim attributing the line to Howard Behar rather than Schultz, not strong enough to act on (single non-primary source), left unchanged and not added to notes to avoid enshrining an unconfirmed lead. entrepreneurs collection finishes this pass (29/29 quotes audited). fantasy-001 (Tolkien poem), fantasy-002 (Gandalf, book text 'given us', distinct from the film's 'given to us' variant -- confirmed collection correctly cites the book), and fantasy-003 (Galadriel, correctly sourced as a 2001 film-only line, not a Tolkien book quote) all verified. 0 open PRs and 0 open issues at the start of this run. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92). No collection file was touched this run (all quotes passed), so per CLAUDE.md no hash refresh was needed and no collections.json/collections/*.json commit was made -- only this state file."
     }
   ]
 }
