@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 25,
     "file": "fantasy-worlds",
-    "quoteIndex": 3,
-    "note": "entre-023..029 (finishing entrepreneurs, 29/29) and fantasy-001..003 audited this run. Next run begins fantasy-worlds quotes[3] (fantasy-004)."
+    "quoteIndex": 15,
+    "note": "fantasy-004..015 audited this run. Next run begins fantasy-worlds quotes[15] (fantasy-016)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 659,
+  "totalQuotesAudited": 671,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1022,6 +1022,21 @@
       "resolution": "n/a",
       "reportedIn": "see this run's report",
       "processNote": "entre-025 (Disney, 1954 Disneyland TV premiere), entre-026 (Ford, My Life and Work 1922), entre-027 (Estee Lauder, official elcompanies.com heritage page), and entre-029 (Jobs, Stanford 2005) all independently re-confirmed verbatim via WebSearch. entre-023 (Schultz), entre-024 (Knight), entre-028 (Kroc) remain correctly unverified -- re-searched but found no primary-source confirmation beyond what prior runs already established; entre-023 turned up one low-confidence secondary claim attributing the line to Howard Behar rather than Schultz, not strong enough to act on (single non-primary source), left unchanged and not added to notes to avoid enshrining an unconfirmed lead. entrepreneurs collection finishes this pass (29/29 quotes audited). fantasy-001 (Tolkien poem), fantasy-002 (Gandalf, book text 'given us', distinct from the film's 'given to us' variant -- confirmed collection correctly cites the book), and fantasy-003 (Galadriel, correctly sourced as a 2001 film-only line, not a Tolkien book quote) all verified. 0 open PRs and 0 open issues at the start of this run. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92). No collection file was touched this run (all quotes passed), so per CLAUDE.md no hash refresh was needed and no collections.json/collections/*.json commit was made -- only this state file."
+    },
+    {
+      "runDate": "2026-09-28",
+      "file": "fantasy-worlds",
+      "quoteRange": "fantasy-004..fantasy-015",
+      "count": 12,
+      "passed": 11,
+      "flagged": 1,
+      "flaggedIds": [
+        "fantasy-011"
+      ],
+      "issue": "fantasy-004..010, 012..015 (Gandalf x3, Gollum, GoT Stark/Lannister/Cersei/Baelish/Hodor lines) all verified against the film/show itself (correct sourceType movie/television, matching book-vs-film wording distinctions already noted, e.g. fantasy-004's book line is 'You cannot pass!' vs the film's 'You shall not pass!') -- no issues. fantasy-011 (Melisandre, 'The night is dark and full of terrors.'): dated to the 2011-04-17 Season 1 premiere, but Melisandre does not appear until Season 2 -- the line is spoken during her Dragonstone beach ceremony with Stannis in S2E1 'The North Remembers' (aired 2012-04-01). Not a misattribution or misquote (wording and character are correct), but the episode/date citation was impossible given the character's actual first appearance.",
+      "resolution": "fantasy-011 fixed in this run's PR: source corrected to 'Game of Thrones, S2E1 The North Remembers (2012)', quoteDate to 2012-04-01, notes updated with the correction. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
+      "reportedIn": "see this run's report",
+      "processNote": "Found PR #202 already open at the start of this run, covering the exact prior batch (entre-023..029 + fantasy-001..003) this run's state cursor pointed to next -- independently re-verified all 10 of its findings via WebSearch before discovering the PR (Schultz/Knight/Kroc correctly unverified, Disney/Ford/Lauder/Jobs/Tolkien/Gandalf/Galadriel all confirmed), all consistent with PR #202's report. Per the branch-inheritance lesson from the 2026-08-06 run, verified with git merge-base --is-ancestor that this run's starting branch was a clean ancestor of PR #202's branch before resetting onto it, so this run's PR is a true superset of #202's single commit plus this run's new fantasy-004..015 work -- #202 can be closed as superseded once this PR merges. 0 other open PRs at the start of this run. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92)."
     }
   ]
 }
