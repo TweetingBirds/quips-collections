@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-09-28T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -548,6 +548,22 @@
         "wit"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "courage-034",
+      "content": "We but mirror the world. All the tendencies present in the outer world are to be found in the world of our body. If we could change ourselves, the tendencies in the world would also change.",
+      "authorName": "Mahatma Gandhi",
+      "source": "Indian Opinion (Gujarati), August 9, 1913; reprinted in The Collected Works of Mahatma Gandhi, Vol. XII (April 1913 - December 1914), Publications Division, Government of India",
+      "sourceType": "article",
+      "quoteDate": "1913-08-09",
+      "verificationStatus": "verified",
+      "notes": "Gandhi's actual words on self-directed change, from a 1913 piece on snakebites in his newspaper Indian Opinion. The now-ubiquitous \"Be the change you wish to see in the world\" appears nowhere in Gandhi's collected works; it traces to educator Arleen Lorrance's 1974 essay \"The Love Project\" (\"be the change you want to see happen\"), later reattributed to Gandhi and reworded into its famous form.",
+      "tags": [
+        "change",
+        "self-knowledge",
+        "aphorism"
+      ],
+      "addedAt": "2026-09-28T12:00:00Z"
     }
   ]
 }
