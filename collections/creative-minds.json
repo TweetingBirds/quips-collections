@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-08-31T12:00:00Z",
+  "lastUpdated": "2026-09-28T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -541,6 +541,22 @@
         "one-liner"
       ],
       "addedAt": "2026-08-31T12:00:00Z"
+    },
+    {
+      "id": "cm-034",
+      "content": "The moment that you feel that, just possibly, you're walking down the street naked, exposing too much of your heart and your mind and what exists on the inside, showing too much of yourself. That's the moment you may be starting to get it right.",
+      "authorName": "Neil Gaiman",
+      "source": "Commencement address, University of the Arts, Philadelphia (May 17, 2012)",
+      "sourceType": "speech",
+      "quoteDate": "2012-05-17",
+      "verificationStatus": "verified",
+      "notes": "From Gaiman's 'Make Good Art' commencement speech, later published as a standalone book of the same name; wording confirmed against the video and multiple independent transcripts of the address.",
+      "tags": [
+        "authenticity",
+        "art",
+        "craft"
+      ],
+      "addedAt": "2026-09-28T12:00:00Z"
     }
   ]
 }
