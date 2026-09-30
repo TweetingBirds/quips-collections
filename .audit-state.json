@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 25,
     "file": "fantasy-worlds",
-    "quoteIndex": 15,
-    "note": "fantasy-004..015 audited this run. Next run begins fantasy-worlds quotes[15] (fantasy-016)."
+    "quoteIndex": 27,
+    "note": "fantasy-016..027 audited this run. Next run begins fantasy-worlds quotes[27] (fantasy-028)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 671,
+  "totalQuotesAudited": 683,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1037,6 +1037,23 @@
       "resolution": "fantasy-011 fixed in this run's PR: source corrected to 'Game of Thrones, S2E1 The North Remembers (2012)', quoteDate to 2012-04-01, notes updated with the correction. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
       "reportedIn": "see this run's report",
       "processNote": "Found PR #202 already open at the start of this run, covering the exact prior batch (entre-023..029 + fantasy-001..003) this run's state cursor pointed to next -- independently re-verified all 10 of its findings via WebSearch before discovering the PR (Schultz/Knight/Kroc correctly unverified, Disney/Ford/Lauder/Jobs/Tolkien/Gandalf/Galadriel all confirmed), all consistent with PR #202's report. Per the branch-inheritance lesson from the 2026-08-06 run, verified with git merge-base --is-ancestor that this run's starting branch was a clean ancestor of PR #202's branch before resetting onto it, so this run's PR is a true superset of #202's single commit plus this run's new fantasy-004..015 work -- #202 can be closed as superseded once this PR merges. 0 other open PRs at the start of this run. Coverage-gap check: order[], collections/*.json, and collections.json remain in exact agreement (92/92)."
+    },
+    {
+      "runDate": "2026-09-29",
+      "file": "fantasy-worlds",
+      "quoteRange": "fantasy-016..fantasy-027",
+      "count": 12,
+      "passed": 8,
+      "flagged": 4,
+      "flaggedIds": [
+        "fantasy-016",
+        "fantasy-019",
+        "fantasy-023",
+        "fantasy-027"
+      ],
+      "issue": "016: cited S2 premiere but Ygritte first says line in S2E7 (2012-05-13). 019: cited series premiere; actually S1E9 Baelor (2011-06-05). 023 (Kelsier) and 027 (Kvothe): line not found in cited book / aggregator-only, appears to be Wise Man's Fear for 027.",
+      "resolution": "016/019 citations fixed; 023/027 downgraded to unverified. Hashes refreshed, validate --strict passed. PRs #204 (Gandhi) and #205 (Gaiman) reviewed: both primary-sourced, no issues.",
+      "reportedIn": "see this run's report"
     }
   ]
 }
