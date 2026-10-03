@@ -136,7 +136,7 @@ Rules:
    required fields are present, and there's no duplicate quote text. Don't report success until
    it passes.
    ```bash
-   python3 scripts/validate_collections.py --collection <id>
+   python3 scripts/validate_collections.py --strict --collection <id>
    ```
 
 9. **Publish.** Edits only reach the website and app through a release — see **Publishing**
@@ -150,13 +150,14 @@ Rules:
 Nothing changes for users until a **release** is cut. A release builds the data, uploads it to
 R2 behind `data.quipsapp.com`, and creates a GitHub Release.
 
-1. **Commit & push** to this repo's `main` (CI re-validates on push):
+1. **Commit on a branch and open a PR** — this repo doesn't take direct pushes to `main`
+   (CI validates the PR):
    ```bash
    git add collections.json collections/<id>.json
    git commit -m "Add N quotes to <id>"
-   git push origin main
+   git push -u origin HEAD
    ```
-2. **Cut a release** by pushing a semver tag. Pick the next version after the latest tag
+2. **Cut a release** once the PR is merged, by pushing a semver tag. Pick the next version after the latest tag
    (`git tag --list 'v*' --sort=-v:refname | head -1`): **patch** for quote additions/edits,
    **minor** for a new collection.
    ```bash
