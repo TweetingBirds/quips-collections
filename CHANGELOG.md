@@ -11,6 +11,26 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.16.3] - 2026-10-03
+### Added
+Two quotes added:
+- **Courage & Conviction**: Gandhi's actual 1913 words on self-directed
+  change ("We but mirror the world...") from *Indian Opinion*, August 9,
+  1913 — the real passage that the popular, unsourced "Be the change you
+  wish to see in the world" is a later reattribution of.
+- **Creative Minds**: Neil Gaiman's "Make Good Art" line on creative
+  vulnerability, from his 2012 University of the Arts commencement address.
+
+### Fixed
+**Fantasy Worlds**: Melisandre's "The night is dark and full of terrors"
+(fantasy-011) was dated to the 2011-04-17 Season 1 premiere, but Melisandre
+doesn't appear until Season 2 — the line is from her Dragonstone beach
+ceremony with Stannis in S2E1 "The North Remembers" (aired 2012-04-01).
+Corrected source and quoteDate.
+
+Quotes fantasy-004..015 and entre-023..029 were also audited, with no other
+issues found.
+
 ## [1.16.2] - 2026-09-26
 ### Fixed
 **Entrepreneurs**: Sara Blakely's dinner-table question (entre-022) was stored
