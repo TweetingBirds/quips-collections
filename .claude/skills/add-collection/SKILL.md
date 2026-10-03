@@ -139,12 +139,12 @@ entry, and `previewQuotes`.
    ids are unique and well-formed, required fields are present, and there's no duplicate quote
    text. Don't report success until it passes.
    ```bash
-   python3 scripts/validate_collections.py
+   python3 scripts/validate_collections.py --strict
    ```
 
 8. **Publish.** A new collection reaches users only through a release — follow the
    **Publishing** section of the `add-quotes` skill. Use a **minor** version bump for a new
-   collection (commit & push to `main`, tag `vX.Y.Z`, then bump `.data-version` in the
+   collection (branch and PR, tag `vX.Y.Z` once merged, then bump `.data-version` in the
    quipsapp.com repo to ship to the website).
 
 9. **Report** the new collection id, quote count, the released version, and any quotes marked
