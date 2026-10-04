@@ -8,6 +8,16 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
 
   ERROR
     - collections.json and every collections/<id>.json parse as JSON
+    - collections.json, each index entry and each collection file carry every
+      field the shipped app's decoder requires, as the JSON type it demands
+      (the APP_* tables below). The app drops a whole document over one
+      missing, null or retyped value, for every installed copy, and only an
+      app update repairs a copy already installed
+    - fields the app decodes but does not require (contentHash, bytes,
+      quoteDate, sourceType, …) have the right JSON type when they hold a value
+    - no collection id is listed twice in the index
+    - every entry of schema/tags.json, which is published to the app as it
+      stands, has the string slug and displayName the app's decoder requires
     - every index entry has a matching file, and every file is in the index
     - index entry id matches its filename
     - quoteCount equals the actual number of quotes in the file
@@ -16,8 +26,8 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
     - quote ids are unique within a collection and match <prefix>-NNN (3+ digits)
     - all quotes in a collection share one prefix
     - each collection's prefix is unique across all collections (full run only)
-    - every quote has the required fields and a valid verificationStatus
-      (verified, attributed, unverified, folk-wisdom)
+    - every quote has the required fields, each of them a string, and a valid
+      verificationStatus (verified, attributed, unverified, folk-wisdom)
     - sourceType, when present, is a known QuoteSourceType rawValue
       (speech, book, movie, podcast, …)
     - iconName is one the website can render, per schema/website-icons.json
@@ -83,6 +93,47 @@ VALID_SOURCE_TYPES = {
     "interview", "website", "socialMedia", "video", "game", "letter", "poem",
     "play", "lecture", "documentary",
 }
+# What the shipped Quips app's decoders demand of the documents this script
+# validates. The app decodes them with synthesized Codable and non-optional
+# properties (PublicCollectionsResponse, PublicCollectionSummary,
+# PublicCollectionDetail and PublicQuote, in the app repo's
+# QuipsPublicCollections/Sources/QuipsPublicCollections/PublicCollectionModels.swift),
+# so one missing, null or retyped value fails the WHOLE document for every
+# installed copy, and nothing but an app update repairs a copy that is already
+# installed. Keep these in sync with those types. A key may leave a REQUIRED
+# table only once no app version still in use requires it.
+#
+# REQUIRED keys must be present, non-null and of the JSON type given. TYPED keys
+# may be absent or null, but a value of the wrong type still throws in the app.
+APP_INDEX_REQUIRED = {"version": str, "lastUpdated": str, "collections": list}
+APP_ENTRY_REQUIRED = {
+    "id": str, "name": str, "description": str, "author": str, "quoteCount": int,
+    "previewQuotes": list, "colorName": str, "iconName": str, "category": str,
+}
+APP_ENTRY_TYPED = {"contentHash": str, "bytes": int, "addedAt": str, "lastUpdated": str}
+# `quotes` is required too; validate_collection checks it on its own, because
+# everything after it needs the list.
+APP_FILE_REQUIRED = {
+    "id": str, "name": str, "description": str, "author": str, "colorName": str,
+    "iconName": str, "category": str, "lastUpdated": str,
+}
+# The quote fields the app decodes beyond REQUIRED_QUOTE_FIELDS. Its decoder
+# tolerates a quote with none of them, and a null in any; what it cannot take is
+# a year written as a number.
+APP_QUOTE_TYPED = {
+    "quoteDate": str, "authorDateOfBirth": str, "sourceType": str,
+    "sourceCollection": str, "newsletterIssue": int,
+}
+# schema/tags.json is published verbatim as the app's tag vocabulary
+# (TagVocabulary.Entry in the app repo). An entry without these fails the whole
+# vocabulary, and imports then fall back to title-cased slugs.
+APP_TAG_REQUIRED = {"slug": str, "displayName": str}
+APP_TAG_TYPED = {"facet": str, "colorName": str}
+# The app builds a collection's download URL and its deep link from the id, and
+# refuses an id that is not this (isValidPublicID in the app's
+# PublicCollectionsService+Validation.swift).
+APP_ID_RE = re.compile(r"^[A-Za-z0-9_-]{1,100}$")
+JSON_TYPE_NAMES = {str: "a string", int: "an integer", list: "a list"}
 # Mirror of the iconName values quipsapp.com can render. The drawings live in
 # that repo's js/icons.js; only the names are mirrored here, because that is the
 # whole constraint this side needs to enforce. Checked in rather than fetched so
@@ -140,6 +191,60 @@ def load_json(path, rep):
     return None
 
 
+def decodes_as(value, expected):
+    """Whether the app's decoder accepts `value` for a property of type `expected`."""
+    if expected is int:
+        # Swift's Int takes 3 and 3.0 and refuses 1.5, "3" and true. Python's
+        # bool is an int, so it has to be turned away by name.
+        if isinstance(value, bool):
+            return False
+        return isinstance(value, int) or (isinstance(value, float) and value.is_integer())
+    return isinstance(value, expected)
+
+
+def json_kind(value):
+    """What a JSON value is, in the words a message needs."""
+    if value is None:
+        return "null"
+    if isinstance(value, bool):
+        return "a boolean"
+    if isinstance(value, (int, float)):
+        return "a number"
+    if isinstance(value, str):
+        return "a string"
+    if isinstance(value, list):
+        return "a list"
+    return "an object"
+
+
+def check_app_fields(where, obj, required, typed, rep):
+    """Report every key of `obj` the app could not decode.
+
+    `where` opens each message and names the document: "collections.json:
+    top-level", "<id>: index", "<id>: file", "<id>/<quote id>:".
+    """
+    for key, expected in required.items():
+        value = obj.get(key)
+        if value is None:
+            state = "null" if key in obj else "missing"
+            rep.error(
+                f"{where} {key} is {state} — the app requires it and drops the whole "
+                f"document without it"
+            )
+        elif not decodes_as(value, expected):
+            rep.error(
+                f"{where} {key} is {json_kind(value)} — the app decodes it as "
+                f"{JSON_TYPE_NAMES[expected]} and drops the whole document otherwise"
+            )
+    for key, expected in typed.items():
+        value = obj.get(key)
+        if value is not None and not decodes_as(value, expected):
+            rep.error(
+                f"{where} {key} is {json_kind(value)} — when present the app decodes it "
+                f"as {JSON_TYPE_NAMES[expected]} and drops the whole document otherwise"
+            )
+
+
 def load_website_icons(root, rep):
     """Names the website can render, or None if the mirror is unavailable.
 
@@ -185,9 +290,14 @@ def load_tag_vocabulary(root, rep):
         return None
 
     slugs, themes, avoid_map = set(), set(), {}
-    for e in entries:
+    for position, e in enumerate(entries):
+        if not isinstance(e, dict):
+            rep.error(f"{TAGS_REL}: tag {position} is {json_kind(e)}, not an object")
+            continue
+        name = e.get("slug") if isinstance(e.get("slug"), str) else f"tag {position}"
+        check_app_fields(f"{TAGS_REL}: {name}:", e, APP_TAG_REQUIRED, APP_TAG_TYPED, rep)
         slug = e.get("slug")
-        if not slug:
+        if not slug or not isinstance(slug, str):
             continue
         slugs.add(slug)
         if e.get("facet") == "theme":
@@ -207,6 +317,9 @@ def validate_quote_tags(cid, qid, tags, vocab, rep, require_tags):
         return
     if not isinstance(tags, list):
         rep.error(f"{cid}/{qid}: 'tags' is not a list")
+        return
+    if not all(isinstance(t, str) for t in tags):
+        rep.error(f"{cid}/{qid}: 'tags' holds a value that is not a string")
         return
     # An empty list is a decision, not an omission, so --require-tags accepts
     # it. Treating [] as a gap would make the flag unusable: 343 quotes in this
@@ -237,11 +350,38 @@ def prefix_of(quote_id):
     return quote_id.rsplit("-", 1)[0] if "-" in quote_id else quote_id
 
 
+def validate_index_entry(cid, entry, rep):
+    """Check one index entry for what the app needs in order to decode it.
+
+    Apart from validate_collection, whose index checks are comparisons with the
+    file and so do not run when the file is missing or unreadable. The app
+    decodes the index before it fetches any file, and one entry it cannot decode
+    costs it the whole index.
+    """
+    check_app_fields(f"{cid}: index", entry, APP_ENTRY_REQUIRED, APP_ENTRY_TYPED, rep)
+    if not APP_ID_RE.match(cid):
+        rep.error(
+            f"{cid}: index id is not one the app accepts "
+            f"(letters, digits, '-' and '_', 100 at most)"
+        )
+    preview = entry.get("previewQuotes")
+    if isinstance(preview, list) and not all(isinstance(p, str) for p in preview):
+        rep.error(
+            f"{cid}: index previewQuotes holds a value that is not a string — the app "
+            f"drops the whole index over one"
+        )
+
+
 def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, require_tags=False):
     """Validate one collection file against its index entry. Returns the
     collection's quote-id prefix (or None) for the cross-collection check."""
     if data is None:
         return None
+    if not isinstance(data, dict):
+        rep.error(f"{cid}: file is {json_kind(data)}, not a JSON object")
+        return None
+
+    check_app_fields(f"{cid}: file", data, APP_FILE_REQUIRED, {}, rep)
 
     if data.get("id") != cid:
         rep.error(f"{cid}: file id {data.get('id')!r} != filename")
@@ -270,7 +410,13 @@ def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, requ
         rep.error(f"{cid}: 'quotes' is missing or not a list")
         return None
 
-    ids = [q.get("id", "") for q in quotes]
+    if not all(isinstance(q, dict) for q in quotes):
+        rep.error(f"{cid}: 'quotes' holds a value that is not an object")
+        return None
+
+    # An id that is not a string is reported with its quote below; here it
+    # counts as missing, so the pattern checks are handed strings.
+    ids = [q.get("id") if isinstance(q.get("id"), str) else "" for q in quotes]
 
     if entry is not None:
         if entry.get("quoteCount") != len(quotes):
@@ -312,10 +458,17 @@ def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, requ
         missing = REQUIRED_QUOTE_FIELDS - q.keys()
         if missing:
             rep.error(f"{cid}/{qid}: missing fields {sorted(missing)}")
-        if q.get("verificationStatus") not in VALID_STATUS:
-            rep.error(f"{cid}/{qid}: invalid verificationStatus {q.get('verificationStatus')!r}")
-        if "sourceType" in q and q.get("sourceType") not in VALID_SOURCE_TYPES:
-            rep.error(f"{cid}/{qid}: invalid sourceType {q.get('sourceType')!r}")
+        for field in sorted(REQUIRED_QUOTE_FIELDS & q.keys()):
+            if not isinstance(q[field], str):
+                rep.error(f"{cid}/{qid}: {field} is {json_kind(q[field])}, not a string")
+        check_app_fields(f"{cid}/{qid}:", q, {}, APP_QUOTE_TYPED, rep)
+        status = q.get("verificationStatus")
+        if not isinstance(status, str) or status not in VALID_STATUS:
+            rep.error(f"{cid}/{qid}: invalid verificationStatus {status!r}")
+        if "sourceType" in q:
+            source_type = q.get("sourceType")
+            if not isinstance(source_type, str) or source_type not in VALID_SOURCE_TYPES:
+                rep.error(f"{cid}/{qid}: invalid sourceType {source_type!r}")
         if not str(q.get("content", "")).strip():
             rep.error(f"{cid}/{qid}: empty content")
         qd = q.get("quoteDate")
@@ -355,13 +508,29 @@ def main():
         print("[ERROR] cannot read collections.json", file=sys.stderr)
         return 1
 
+    if not isinstance(index, dict):
+        print(f"[ERROR] collections.json is {json_kind(index)}, not a JSON object", file=sys.stderr)
+        return 1
+
+    check_app_fields("collections.json: top-level", index, APP_INDEX_REQUIRED, {}, rep)
     if not TS_RE.match(str(index.get("lastUpdated", ""))):
         rep.warn("collections.json: top-level lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
 
     icon_names = load_website_icons(args.root, rep)
     vocab = load_tag_vocabulary(args.root, rep)
 
-    entries = {e.get("id"): e for e in index.get("collections", [])}
+    listed = index.get("collections")
+    entries = {}
+    for position, e in enumerate(listed if isinstance(listed, list) else []):
+        if not isinstance(e, dict) or not isinstance(e.get("id"), str):
+            rep.error(
+                f"collections.json: entry {position} is not an object with a string id — "
+                f"the app drops the whole index over one"
+            )
+            continue
+        if e["id"] in entries:
+            rep.error(f"{e['id']}: listed more than once in collections.json")
+        entries[e["id"]] = e
 
     files = set()
     if os.path.isdir(coll_dir):
@@ -382,6 +551,8 @@ def main():
 
     prefixes = {}
     for cid in targets:
+        if cid in entries:
+            validate_index_entry(cid, entries[cid], rep)
         if cid not in files:
             continue
         data = load_json(os.path.join(coll_dir, f"{cid}.json"), rep)
