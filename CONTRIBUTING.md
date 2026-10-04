@@ -77,11 +77,25 @@ the number of quotes in the file.
 
 Rules enforced in CI:
 
+- **Every field the app's decoder requires is present, with the type it
+  demands.** The shipped app decodes `collections.json` and each
+  `collections/<id>.json` strictly: one missing, `null` or retyped value fails
+  the whole document for every installed copy, and only an app update repairs a
+  copy that is already installed. So the index needs string `version` and
+  `lastUpdated` and a `collections` list; each index entry needs string `id`,
+  `name`, `description`, `author`, `colorName`, `iconName` and `category`, an
+  integer `quoteCount`, and `previewQuotes` as a list of strings; each file
+  needs the same strings plus `lastUpdated` and a `quotes` list. Fields the app
+  decodes but does not require (`contentHash`, `bytes`, `quoteDate`,
+  `sourceType`, …) must have the right type when they hold a value — a year
+  written as a number, not a string, is enough to lose the collection. The
+  tables are the `APP_*` constants in `scripts/validate_collections.py`; change
+  them only together with the app's `PublicCollectionModels.swift`.
 - File `id` matches the filename; every file is in the index and vice versa.
 - Quote `id` is `<prefix>-NNN` (3+ digits), unique within the collection; all
   quotes share one prefix, and each prefix is unique across all collections.
 - Required quote fields: `id`, `content`, `authorName`, `source`,
-  `verificationStatus`, `notes`.
+  `verificationStatus`, `notes` — each a string.
 - `verificationStatus` ∈ `verified`, `attributed`, `unverified`, `folk-wisdom`.
 - `tags: []` (empty) means the quote was read and deliberately left untagged —
   distinct from having no `tags` key, which means the tagging pass has not
