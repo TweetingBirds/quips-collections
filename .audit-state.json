@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 26,
     "file": "first-lines",
-    "quoteIndex": 0,
-    "note": "fantasy-028..036 audited this run; fantasy-worlds complete. Next run begins first-lines quotes[0]."
+    "quoteIndex": 12,
+    "note": "opening-001..012 audited; next run begins first-lines quotes[12] (opening-013)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 692,
+  "totalQuotesAudited": 704,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1070,6 +1070,19 @@
       "resolution": "032 citation fixed; 035 note clarified. Hashes refreshed, validate --strict passed. PR #206 (prior audit) reviewed: no issues.",
       "reportedIn": "see this run's report",
       "processNote": "Branch merged with PR #206's branch (unmerged prior audit) so state is contiguous. Batch limited to 9: a first-lines read was blocked by the permission classifier, so first-lines audit deferred to next run."
+    },
+    {
+      "runDate": "2026-10-05",
+      "file": "first-lines",
+      "quoteRange": "opening-001..opening-012",
+      "count": 12,
+      "passed": 12,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "none needed",
+      "reportedIn": "see this run's report",
+      "processNote": "No open PRs."
     }
   ]
 }
