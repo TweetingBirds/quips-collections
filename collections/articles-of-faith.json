@@ -1,0 +1,223 @@
+{
+  "id": "articles-of-faith",
+  "name": "Articles of Faith",
+  "description": "The thirteen statements of belief written by Joseph Smith in 1842, summarizing core teachings of The Church of Jesus Christ of Latter-day Saints.",
+  "author": "Quips Editorial",
+  "colorName": "indigo",
+  "colorLightHex": "#494BEC",
+  "colorDarkHex": "#6A7BF3",
+  "iconName": "scroll.fill",
+  "category": "Faith",
+  "addedAt": "2026-06-01T12:00:00Z",
+  "lastUpdated": "2026-06-01T12:00:00Z",
+  "quotes": [
+    {
+      "id": "aof-001",
+      "content": "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:1 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "The first article states the Latter-day Saint belief in the Godhead: Father, Son, and Holy Ghost.",
+      "tags": [
+        "the-divine",
+        "faith",
+        "worship"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-002",
+      "content": "We believe that men will be punished for their own sins, and not for Adam’s transgression.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:2 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "States that people are accountable for their own sins, not Adam's transgression.",
+      "tags": [
+        "sin",
+        "choice",
+        "justice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-003",
+      "content": "We believe that through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:3 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "States that all humanity may be saved through the Atonement by obedience to gospel laws and ordinances.",
+      "tags": [
+        "grace",
+        "redemption",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-004",
+      "content": "We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:4 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Lists the first principles and ordinances: faith, repentance, baptism by immersion, and the gift of the Holy Ghost.",
+      "tags": [
+        "faith",
+        "redemption",
+        "beginnings"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-005",
+      "content": "We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:5 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "States that callings come by prophecy and the laying on of hands by those in authority.",
+      "tags": [
+        "leadership",
+        "service",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-006",
+      "content": "We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:6 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Affirms that the primitive Church's organization, including apostles and prophets, is restored.",
+      "tags": [
+        "history",
+        "leadership",
+        "community"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-007",
+      "content": "We believe in the gift of tongues, prophecy, revelation, visions, healing, interpretation of tongues, and so forth.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:7 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Lists the spiritual gifts the Church believes in, such as prophecy, revelation and tongues.",
+      "tags": [
+        "faith",
+        "the-divine",
+        "wonder"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-008",
+      "content": "We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:8 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Affirms belief in the Bible as God's word and the Book of Mormon as the word of God.",
+      "tags": [
+        "scripture",
+        "truth",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-009",
+      "content": "We believe all that God has revealed, all that He does now reveal, and we believe that He will yet reveal many great and important things pertaining to the Kingdom of God.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:9 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Affirms ongoing revelation, saying God has revealed, does reveal, and will yet reveal.",
+      "tags": [
+        "the-divine",
+        "hope",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-010",
+      "content": "We believe in the literal gathering of Israel and in the restoration of the Ten Tribes; that Zion (the New Jerusalem) will be built upon the American continent; that Christ will reign personally upon the earth; and, that the earth will be renewed and receive its paradisiacal glory.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:10 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Declares belief in the literal gathering of Israel, Zion on the American continent, and Christ's millennial reign.",
+      "tags": [
+        "hope",
+        "history",
+        "eternity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-011",
+      "content": "We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:11 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Claims freedom of worship for all, allowing every person to worship as they choose.",
+      "tags": [
+        "freedom",
+        "worship",
+        "equality"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-012",
+      "content": "We believe in being subject to kings, presidents, rulers, and magistrates, in obeying, honoring, and sustaining the law.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:12 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Pledges loyalty to government and the law.",
+      "tags": [
+        "politics",
+        "honor",
+        "community"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "aof-013",
+      "content": "We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men; indeed, we may say that we follow the admonition of Paul—We believe all things, we hope all things, we have endured many things, and hope to be able to endure all things. If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.",
+      "authorName": "Joseph Smith",
+      "source": "Articles of Faith 1:13 (Pearl of Great Price)",
+      "quoteDate": "1842-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Closes with a call to honesty, virtue, benevolence, and seeking after anything virtuous or praiseworthy.",
+      "tags": [
+        "integrity",
+        "honesty",
+        "kindness"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    }
+  ]
+}
