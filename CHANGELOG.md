@@ -11,6 +11,18 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.17.0] - 2026-10-05
+### Added
+Two new collections in the Faith category:
+- **Articles of Faith**: the thirteen Articles of Faith, written by Joseph Smith
+  in 1842.
+- **LDS Scripture Mastery**: the 100 scripture mastery passages from the Old
+  Testament, New Testament, Book of Mormon, and Doctrine and Covenants, with
+  full verse text.
+
+Both are backdated (`addedAt` 2026-06-01) so they do not appear among recent
+collections.
+
 ## [1.16.3] - 2026-10-03
 ### Added
 Two quotes added:
