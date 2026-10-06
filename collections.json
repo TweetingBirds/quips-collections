@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-09-28T12:00:00Z",
+  "lastUpdated": "2026-10-05T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1841,6 +1841,46 @@
       "lastUpdated": "2026-09-15T12:00:00Z",
       "contentHash": "sha256-We08nvrEks50AQNI1ASbd2IfklxvBGh/fay0g0EK18E=",
       "bytes": 21587
+    },
+    {
+      "id": "articles-of-faith",
+      "name": "Articles of Faith",
+      "description": "The thirteen statements of belief written by Joseph Smith in 1842, summarizing core teachings of The Church of Jesus Christ of Latter-day Saints.",
+      "author": "Quips Editorial",
+      "quoteCount": 13,
+      "previewQuotes": [
+        "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.",
+        "We believe that through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel."
+      ],
+      "colorName": "indigo",
+      "colorLightHex": "#494BEC",
+      "colorDarkHex": "#6A7BF3",
+      "iconName": "scroll.fill",
+      "category": "Faith",
+      "addedAt": "2026-06-01T12:00:00Z",
+      "lastUpdated": "2026-06-01T12:00:00Z",
+      "contentHash": "sha256-UTCNrXxieEGaapsDVhWTUnHRj2TBCCJLAQuc2R9cP+Q=",
+      "bytes": 9141
+    },
+    {
+      "id": "lds-scripture-mastery",
+      "name": "LDS Scripture Mastery",
+      "description": "The 100 scripture mastery passages from the Old Testament, New Testament, Book of Mormon, and Doctrine and Covenants that seminary students learn by heart.",
+      "author": "Quips Editorial",
+      "quoteCount": 100,
+      "previewQuotes": [
+        "I can do all things through Christ which strengtheneth me.",
+        "And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God."
+      ],
+      "colorName": "violet",
+      "colorLightHex": "#8839E9",
+      "colorDarkHex": "#A174F0",
+      "iconName": "book.pages.fill",
+      "category": "Faith",
+      "addedAt": "2026-06-01T12:00:00Z",
+      "lastUpdated": "2026-06-01T12:00:00Z",
+      "contentHash": "sha256-NM9J6yFXV3hXtbB4K8U88c5f+U9X3tTy2+o1N6jlxXg=",
+      "bytes": 83437
     }
   ]
 }

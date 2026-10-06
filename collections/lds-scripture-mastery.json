@@ -1,0 +1,1712 @@
+{
+  "id": "lds-scripture-mastery",
+  "name": "LDS Scripture Mastery",
+  "description": "The 100 scripture mastery passages from the Old Testament, New Testament, Book of Mormon, and Doctrine and Covenants that seminary students learn by heart.",
+  "author": "Quips Editorial",
+  "colorName": "violet",
+  "colorLightHex": "#8839E9",
+  "colorDarkHex": "#A174F0",
+  "iconName": "book.pages.fill",
+  "category": "Faith",
+  "addedAt": "2026-06-01T12:00:00Z",
+  "lastUpdated": "2026-06-01T12:00:00Z",
+  "quotes": [
+    {
+      "id": "lsm-001",
+      "content": "For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man.",
+      "authorName": "Pearl of Great Price",
+      "source": "Moses 1:39 (Pearl of Great Price)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "States God's stated purpose for creating the earth and its people.",
+      "tags": [
+        "purpose",
+        "eternity",
+        "the-divine",
+        "meaning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-002",
+      "content": "And the Lord called his people ZION, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them.",
+      "authorName": "Pearl of Great Price",
+      "source": "Moses 7:18 (Pearl of Great Price)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Describes Enoch's city, where unity and righteousness made a people of one heart and mind.",
+      "tags": [
+        "community",
+        "equality",
+        "service",
+        "peace"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-003",
+      "content": "Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones; And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers; for he stood among those that were spirits, and he saw that they were good; and he said unto me: Abraham, thou art one of them; thou wast chosen before thou wast born.",
+      "authorName": "Pearl of Great Price",
+      "source": "Abraham 3:22–23 (Pearl of Great Price)",
+      "quoteDate": "c. 1835",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that spirits existed before birth and that God chose Abraham among the noble and great ones.",
+      "tags": [
+        "destiny",
+        "identity",
+        "eternity",
+        "the-divine"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-004",
+      "content": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God created man in his own image, in the image of God created he him; male and female created he them.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Genesis 1:26–27 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that humans are made in the image of God, male and female.",
+      "tags": [
+        "identity",
+        "the-divine",
+        "family"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-005",
+      "content": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Genesis 2:24 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches the pattern of leaving parents and cleaving to a spouse in marriage.",
+      "tags": [
+        "marriage",
+        "family",
+        "love"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-006",
+      "content": "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?",
+      "authorName": "The Bible (King James Version)",
+      "source": "Genesis 39:9 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joseph's refusal of Potiphar's wife is the scriptural model of fleeing temptation out of loyalty to God.",
+      "tags": [
+        "integrity",
+        "self-control",
+        "sin",
+        "courage"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-007",
+      "content": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Exodus 19:5–6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "God's covenant offer to Israel to become a peculiar treasure, a kingdom of priests and a holy nation.",
+      "tags": [
+        "faith",
+        "community",
+        "identity",
+        "honor"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-008",
+      "content": "Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments. Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain. Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it. Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee. Thou shalt not kill. Thou shalt not commit adultery. Thou shalt not steal. Thou shalt not bear false witness against thy neighbour. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Exodus 20:3–17 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Gives the Ten Commandments, the foundation of God's moral law.",
+      "tags": [
+        "sin",
+        "worship",
+        "honor",
+        "justice",
+        "scripture"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-009",
+      "content": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Joshua 24:15 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joshua's call to choose whom to serve, paired with his declaration for his own household.",
+      "tags": [
+        "choice",
+        "family",
+        "faith",
+        "leadership",
+        "rallying-cry"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-010",
+      "content": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+      "authorName": "The Bible (King James Version)",
+      "source": "1 Samuel 16:7 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that God judges by the heart rather than outward appearance, as Samuel anoints David.",
+      "tags": [
+        "authenticity",
+        "identity",
+        "the-divine",
+        "wisdom"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-011",
+      "content": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place? He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Psalm 24:3–4 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Describes who may stand in the Lord's holy place: clean hands and a pure heart.",
+      "tags": [
+        "integrity",
+        "worship",
+        "sin",
+        "honesty"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-012",
+      "content": "Thy word is a lamp unto my feet, and a light unto my path.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Psalm 119:105 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Compares God's word to a lamp that lights the path ahead.",
+      "tags": [
+        "scripture",
+        "wisdom",
+        "faith",
+        "lyrical"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-013",
+      "content": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Psalm 127:3 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that children are a gift from the Lord.",
+      "tags": [
+        "parenthood",
+        "family",
+        "joy"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-014",
+      "content": "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Proverbs 3:5–6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Counsels trusting God fully rather than relying on one's own understanding.",
+      "tags": [
+        "faith",
+        "wisdom",
+        "humility",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-015",
+      "content": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 1:18 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord's invitation to reason together, promising that sins like scarlet can become white as snow.",
+      "tags": [
+        "redemption",
+        "forgiveness",
+        "mercy",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-016",
+      "content": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 5:20 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Warns against reversing moral categories, calling evil good and good evil.",
+      "tags": [
+        "truth",
+        "sin",
+        "wisdom",
+        "warning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-017",
+      "content": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men: Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 29:13–14 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Isaiah foretells a marvelous work and a wonder among a people who honor God with their lips while their hearts are far from him, which Latter-day Saints understand as the Restoration.",
+      "tags": [
+        "authenticity",
+        "worship",
+        "truth",
+        "wisdom"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-018",
+      "content": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not. Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted. But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 53:3–5 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Isaiah's portrait of the suffering Messiah who bore griefs and sorrows and was wounded for our transgressions.",
+      "tags": [
+        "suffering",
+        "redemption",
+        "grace",
+        "compassion"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-019",
+      "content": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke? Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 58:6–7 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Defines the fast God desires as freeing the oppressed and feeding the hungry.",
+      "tags": [
+        "service",
+        "compassion",
+        "generosity",
+        "justice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-020",
+      "content": "If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words: Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken it.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Isaiah 58:13–14 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Promises blessings for honoring the Sabbath as a delight rather than a burden.",
+      "tags": [
+        "rest",
+        "worship",
+        "joy",
+        "discipline"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-021",
+      "content": "Then the word of the LORD came unto me, saying, Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Jeremiah 1:4–5 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that God knew and set apart Jeremiah before birth.",
+      "tags": [
+        "destiny",
+        "purpose",
+        "identity",
+        "eternity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-022",
+      "content": "The word of the LORD came again unto me, saying, Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions: And join them one to another into one stick; and they shall become one in thine hand.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Ezekiel 37:15–17 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Foretells the joining of the sticks of Judah and Joseph, understood as the Bible and Book of Mormon.",
+      "tags": [
+        "scripture",
+        "community",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-023",
+      "content": "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Amos 3:7 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "States that the Lord reveals his secrets to his servants the prophets.",
+      "tags": [
+        "faith",
+        "scripture",
+        "the-divine",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-024",
+      "content": "Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings. Ye are cursed with a curse: for ye have robbed me, even this whole nation. Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Malachi 3:8–10 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that tithes and offerings are how people honor God and receive his blessings.",
+      "tags": [
+        "generosity",
+        "faith",
+        "sacrifice",
+        "money"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-025",
+      "content": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Malachi 4:5–6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Promises that Elijah will return to turn the hearts of fathers and children to each other.",
+      "tags": [
+        "family",
+        "history",
+        "legacy",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-026",
+      "content": "Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 5:14–16 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus calls his followers to be a light to the world so that others glorify God.",
+      "tags": [
+        "service",
+        "authenticity",
+        "community",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-027",
+      "content": "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 11:28–30 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus invites the weary and burdened to take his yoke and find rest.",
+      "tags": [
+        "rest",
+        "hard-times",
+        "suffering",
+        "encouragement"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-028",
+      "content": "He saith unto them, But whom say ye that I am? And Simon Peter answered and said, Thou art the Christ, the Son of the living God. And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven. And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 16:15–19 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peter's confession of Christ and the promise of keys, the basis for revelation and priesthood authority.",
+      "tags": [
+        "faith",
+        "the-divine",
+        "truth",
+        "leadership"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-029",
+      "content": "Master, which is the great commandment in the law? Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 22:36–39 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus names the two great commandments: love God and love your neighbor.",
+      "tags": [
+        "love",
+        "compassion",
+        "the-divine",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-030",
+      "content": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Matthew 28:19–20 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Great Commission, sending disciples to teach and baptize all nations.",
+      "tags": [
+        "service",
+        "teaching",
+        "faith",
+        "purpose"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-031",
+      "content": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you. But they were terrified and affrighted, and supposed that they had seen a spirit. And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts? Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Luke 24:36–39 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The resurrected Jesus shows the disciples his flesh-and-bone body.",
+      "tags": [
+        "the-divine",
+        "eternity",
+        "faith",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-032",
+      "content": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+      "authorName": "The Bible (King James Version)",
+      "source": "John 3:5 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus teaches that entering the kingdom requires being born of water and the Spirit.",
+      "tags": [
+        "faith",
+        "redemption",
+        "beginnings",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-033",
+      "content": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+      "authorName": "The Bible (King James Version)",
+      "source": "John 14:6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus declares himself the way, the truth and the life.",
+      "tags": [
+        "truth",
+        "the-divine",
+        "faith",
+        "identity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-034",
+      "content": "If ye love me, keep my commandments.",
+      "authorName": "The Bible (King James Version)",
+      "source": "John 14:15 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus ties love for him to keeping his commandments.",
+      "tags": [
+        "love",
+        "discipline",
+        "faith",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-035",
+      "content": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+      "authorName": "The Bible (King James Version)",
+      "source": "John 17:3 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus defines eternal life as knowing the Father and the Son.",
+      "tags": [
+        "eternity",
+        "the-divine",
+        "learning",
+        "meaning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-036",
+      "content": "Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ. Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do? Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Acts 2:36–38 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peter's Pentecost sermon calling listeners to repent and be baptized for the remission of sins.",
+      "tags": [
+        "redemption",
+        "faith",
+        "beginnings",
+        "forgiveness"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-037",
+      "content": "Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord; And he shall send Jesus Christ, which before was preached unto you: Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Acts 3:19–21 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peter urges repentance so sins may be blotted out and times of refreshing come, pointing to a restoration of all things.",
+      "tags": [
+        "redemption",
+        "hope",
+        "change",
+        "history"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-038",
+      "content": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.",
+      "authorName": "The Bible (King James Version)",
+      "source": "1 Corinthians 6:19–20 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul teaches that the body is a temple of the Holy Ghost and is not our own.",
+      "tags": [
+        "self-control",
+        "honor",
+        "identity",
+        "worship"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-039",
+      "content": "But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive.",
+      "authorName": "The Bible (King James Version)",
+      "source": "1 Corinthians 15:20–22 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul declares that Christ's resurrection makes all humanity alive again.",
+      "tags": [
+        "eternity",
+        "hope",
+        "mortality",
+        "grace"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-040",
+      "content": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory. So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:",
+      "authorName": "The Bible (King James Version)",
+      "source": "1 Corinthians 15:40–42 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul describes different degrees of glory in the resurrection, as with sun, moon and stars.",
+      "tags": [
+        "eternity",
+        "wonder",
+        "the-cosmos",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-041",
+      "content": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Galatians 5:22–23 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul lists the fruits of the Spirit, such as love, joy and peace.",
+      "tags": [
+        "kindness",
+        "joy",
+        "peace",
+        "patience"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-042",
+      "content": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
+      "authorName": "The Bible (King James Version)",
+      "source": "Ephesians 4:11–14 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul explains that apostles and prophets are given to unify believers and guard against false doctrine.",
+      "tags": [
+        "leadership",
+        "community",
+        "truth",
+        "teaching"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-043",
+      "content": "I can do all things through Christ which strengtheneth me.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Philippians 4:13 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul's statement that strength comes through Christ.",
+      "tags": [
+        "faith",
+        "courage",
+        "encouragement",
+        "perseverance"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-044",
+      "content": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;",
+      "authorName": "The Bible (King James Version)",
+      "source": "2 Thessalonians 2:1–3 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul warns of an apostasy before Christ's second coming.",
+      "tags": [
+        "truth",
+        "warning",
+        "history",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-045",
+      "content": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: That the man of God may be perfect, throughly furnished unto all good works.",
+      "authorName": "The Bible (King James Version)",
+      "source": "2 Timothy 3:15–17 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Paul teaches that the scriptures make one wise unto salvation and are given by inspiration.",
+      "tags": [
+        "scripture",
+        "wisdom",
+        "learning",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-046",
+      "content": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
+      "authorName": "The Bible (King James Version)",
+      "source": "Hebrews 12:9 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Contrasts earthly fathers with the Father of spirits, teaching that God is the father of our spirits.",
+      "tags": [
+        "parenthood",
+        "the-divine",
+        "identity",
+        "humility"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-047",
+      "content": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+      "authorName": "The Bible (King James Version)",
+      "source": "James 1:5–6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "James counsels asking God for wisdom, the verse that prompted Joseph Smith's First Vision.",
+      "tags": [
+        "prayer",
+        "wisdom",
+        "doubt",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-048",
+      "content": "Even so faith, if it hath not works, is dead, being alone. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
+      "authorName": "The Bible (King James Version)",
+      "source": "James 2:17–18 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "James teaches that faith without works is dead.",
+      "tags": [
+        "faith",
+        "work",
+        "effort",
+        "integrity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-049",
+      "content": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+      "authorName": "The Bible (King James Version)",
+      "source": "1 Peter 4:6 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Peter teaches that the gospel is preached to the dead as well.",
+      "tags": [
+        "eternity",
+        "mercy",
+        "redemption",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-050",
+      "content": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Revelation 20:12 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "John's vision of the final judgment, where the dead are judged by their works recorded in books.",
+      "tags": [
+        "eternity",
+        "justice",
+        "mortality",
+        "warning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-051",
+      "content": "And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.",
+      "authorName": "The Book of Mormon",
+      "source": "1 Nephi 3:7 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi's resolve to obey God's commands, trusting that God provides a way.",
+      "tags": [
+        "courage",
+        "faith",
+        "perseverance",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-052",
+      "content": "Adam fell that men might be; and men are, that they might have joy.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 2:25 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lehi's teaching that Adam fell so humans could exist and find joy.",
+      "tags": [
+        "joy",
+        "meaning",
+        "happiness",
+        "mortality"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-053",
+      "content": "Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 2:27 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lehi teaches that people are free to choose liberty and eternal life through Christ or captivity through the devil.",
+      "tags": [
+        "choice",
+        "freedom",
+        "redemption",
+        "the-divine"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-054",
+      "content": "O that cunning plan of the evil one! O the vainness, and the frailties, and the foolishness of men! When they are learned they think they are wise, and they hearken not unto the counsel of God, for they set it aside, supposing they know of themselves, wherefore, their wisdom is foolishness and it profiteth them not. And they shall perish. But to be learned is good if they hearken unto the counsels of God.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 9:28–29 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jacob warns against the devil's plans, including pride and the false sense of learning without God.",
+      "tags": [
+        "pride",
+        "learning",
+        "warning",
+        "wisdom"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-055",
+      "content": "For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do. And we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ, and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 25:23, 26 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi's teaching that we are saved by grace after all we can do.",
+      "tags": [
+        "grace",
+        "effort",
+        "faith",
+        "teaching"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-056",
+      "content": "Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die; and it shall be well with us. And there shall also be many which shall say: Eat, drink, and be merry; nevertheless, fear God—he will justify in committing a little sin; yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this; and do all these things, for tomorrow we die; and if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God. Yea, and there shall be many which shall teach after this manner, false and vain and foolish doctrines, and shall be puffed up in their hearts, and shall seek deep to hide their counsels from the Lord; and their works shall be in the dark.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 28:7–9 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi warns of false teachers who preach that sin is excused: eat, drink and be merry.",
+      "tags": [
+        "sin",
+        "truth",
+        "warning",
+        "wisdom"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-057",
+      "content": "And now, my beloved brethren, after ye have gotten into this strait and narrow path, I would ask if all is done? Behold, I say unto you, Nay; for ye have not come thus far save it were by the word of Christ with unshaken faith in him, relying wholly upon the merits of him who is mighty to save. Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 31:19–20 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi teaches the doctrine of Christ: press forward with faith, hope and charity, and endure to the end.",
+      "tags": [
+        "perseverance",
+        "hope",
+        "love",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-058",
+      "content": "Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ. Wherefore, I said unto you, feast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 32:3 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi teaches that angels speak by the power of the Holy Ghost and that the words of Christ tell all things to do.",
+      "tags": [
+        "scripture",
+        "the-divine",
+        "learning",
+        "faith"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-059",
+      "content": "And now, my beloved brethren, I perceive that ye ponder still in your hearts; and it grieveth me that I must speak concerning this thing. For if ye would hearken unto the Spirit which teacheth a man to pray, ye would know that ye must pray; for the evil spirit teacheth not a man to pray, but teacheth him that he must not pray. But behold, I say unto you that ye must pray always, and not faint; that ye must not perform any thing unto the Lord save in the first place ye shall pray unto the Father in the name of Christ, that he will consecrate thy performance unto thee, that thy performance may be for the welfare of thy soul.",
+      "authorName": "The Book of Mormon",
+      "source": "2 Nephi 32:8–9 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nephi urges prayer always and not to be weary in doing good.",
+      "tags": [
+        "prayer",
+        "perseverance",
+        "faith",
+        "encouragement"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-060",
+      "content": "And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God.",
+      "authorName": "The Book of Mormon",
+      "source": "Mosiah 2:17 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "King Benjamin teaches that serving others is serving God.",
+      "tags": [
+        "service",
+        "wisdom",
+        "humility",
+        "compassion"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-061",
+      "content": "For the natural man is an enemy to God, and has been from the fall of Adam, and will be, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.",
+      "authorName": "The Book of Mormon",
+      "source": "Mosiah 3:19 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "King Benjamin teaches that the natural man is an enemy to God until he yields to the Spirit and becomes like a child.",
+      "tags": [
+        "humility",
+        "pride",
+        "identity",
+        "change"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-062",
+      "content": "But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not.",
+      "authorName": "The Book of Mormon",
+      "source": "Mosiah 4:30 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "King Benjamin urges watching one's thoughts, words and deeds.",
+      "tags": [
+        "self-control",
+        "discipline",
+        "sin",
+        "warning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-063",
+      "content": "And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people. And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities. Now the Spirit knoweth all things; nevertheless the Son of God suffereth according to the flesh that he might take upon him the sins of his people, that he might blot out their transgressions according to the power of his deliverance; and now behold, this is the testimony which is in me.",
+      "authorName": "The Book of Mormon",
+      "source": "Alma 7:11–13 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alma describes Christ taking on pain, sickness and death so he knows how to succor his people.",
+      "tags": [
+        "compassion",
+        "suffering",
+        "grace",
+        "redemption"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-064",
+      "content": "And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true.",
+      "authorName": "The Book of Mormon",
+      "source": "Alma 32:21 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alma defines faith as hope in things not seen which are true.",
+      "tags": [
+        "faith",
+        "hope",
+        "doubt",
+        "learning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-065",
+      "content": "O, remember, my son, and learn wisdom in thy youth; yea, learn in thy youth to keep the commandments of God.",
+      "authorName": "The Book of Mormon",
+      "source": "Alma 37:35 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alma counsels his son to learn wisdom in youth and keep God's commandments.",
+      "tags": [
+        "wisdom",
+        "learning",
+        "advice",
+        "parenthood"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-066",
+      "content": "Now my son, I would that ye should repent and forsake your sins, and go no more after the lusts of your eyes, but cross yourself in all these things; for except ye do this ye can in nowise inherit the kingdom of God. Oh, remember, and take it upon you, and cross yourself in these things.",
+      "authorName": "The Book of Mormon",
+      "source": "Alma 39:9 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alma calls his son Corianton to repent, forsake sin and counsel with his elder brothers.",
+      "tags": [
+        "sin",
+        "redemption",
+        "advice",
+        "family"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-067",
+      "content": "Do not suppose, because it has been spoken concerning restoration, that ye shall be restored from sin to happiness. Behold, I say unto you, wickedness never was happiness.",
+      "authorName": "The Book of Mormon",
+      "source": "Alma 41:10 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alma teaches that wickedness never was happiness, as part of the principle of restoration.",
+      "tags": [
+        "happiness",
+        "sin",
+        "truth",
+        "justice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-068",
+      "content": "And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation; that when the devil shall send forth his mighty winds, yea, his shafts in the whirlwind, yea, when all his hail and his mighty storm shall beat upon you, it shall have no power over you to drag you down to the gulf of misery and endless wo, because of the rock upon which ye are built, which is a sure foundation, a foundation whereon if men build they cannot fall.",
+      "authorName": "The Book of Mormon",
+      "source": "Helaman 5:12 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Helaman urges his sons to build on the rock of Christ so storms cannot move them.",
+      "tags": [
+        "faith",
+        "resilience",
+        "adversity",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-069",
+      "content": "Therefore I would that ye should be perfect even as I, or your Father who is in heaven is perfect.",
+      "authorName": "The Book of Mormon",
+      "source": "3 Nephi 12:48 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus calls his followers to become perfect even as he and the Father are perfect.",
+      "tags": [
+        "excellence",
+        "effort",
+        "the-divine",
+        "aphorism"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-070",
+      "content": "Verily, verily, I say unto you, ye must watch and pray always, lest ye be tempted by the devil, and ye be led away captive by him. And whatsoever ye shall ask the Father in my name, which is right, believing that ye shall receive, behold it shall be given unto you. Pray in your families unto the Father, always in my name, that your wives and your children may be blessed.",
+      "authorName": "The Book of Mormon",
+      "source": "3 Nephi 18:15, 20–21 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus instructs the Nephites to watch and pray always to resist temptation.",
+      "tags": [
+        "prayer",
+        "self-control",
+        "warning",
+        "discipline"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-071",
+      "content": "And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.",
+      "authorName": "The Book of Mormon",
+      "source": "Ether 12:6 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moroni teaches that faith precedes the witness and miracles.",
+      "tags": [
+        "faith",
+        "hope",
+        "doubt",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-072",
+      "content": "And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.",
+      "authorName": "The Book of Mormon",
+      "source": "Ether 12:27 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moroni teaches that the Lord gives weakness so humility can make weak things strong.",
+      "tags": [
+        "humility",
+        "grace",
+        "self-knowledge",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-073",
+      "content": "And what is it that ye shall hope for? Behold I say unto you that ye shall have hope through the atonement of Christ and the power of his resurrection, to be raised unto life eternal, and this because of your faith in him according to the promise.",
+      "authorName": "The Book of Mormon",
+      "source": "Moroni 7:41 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moroni explains that hope in Christ and his resurrection rises from faith.",
+      "tags": [
+        "hope",
+        "faith",
+        "eternity",
+        "redemption"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-074",
+      "content": "And charity suffereth long, and is kind, and envieth not, and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things. But charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him. Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall be like him, for we shall see him as he is; that we may have this hope; that we may be purified even as he is pure. Amen.",
+      "authorName": "The Book of Mormon",
+      "source": "Moroni 7:45, 47–48 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moroni's description of charity, the pure love of Christ.",
+      "tags": [
+        "love",
+        "kindness",
+        "humility",
+        "patience"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-075",
+      "content": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. And by the power of the Holy Ghost ye may know the truth of all things.",
+      "authorName": "The Book of Mormon",
+      "source": "Moroni 10:4–5 (Book of Mormon)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moroni's promise that sincere seekers can know the truth of the Book of Mormon by the Holy Ghost.",
+      "tags": [
+        "prayer",
+        "truth",
+        "faith",
+        "scripture"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-076",
+      "content": "After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction. But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me. It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him! My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: “they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.” He again forbade me to join with any of them; and many other things did he say unto me, which I cannot write at this time. When I came to myself again, I found myself lying on my back, looking up into heaven. When the light had departed, I had no strength; but soon recovering in some degree, I went home. And as I leaned up to the fireplace, mother inquired what the matter was. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.” It seems as though the adversary was aware, at a very early period of my life, that I was destined to prove a disturber and an annoyer of his kingdom; else why should the powers of darkness combine against me? Why the opposition and persecution that arose against me, almost in my infancy?",
+      "authorName": "Pearl of Great Price",
+      "source": "Joseph Smith—History 1:15–20 (Pearl of Great Price)",
+      "quoteDate": "c. 1838",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joseph Smith's account of the First Vision, in which God and Jesus Christ appeared to him in a grove.",
+      "tags": [
+        "faith",
+        "the-divine",
+        "prayer",
+        "doubt"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-077",
+      "content": "Search these commandments, for they are true and faithful, and the prophecies and promises which are in them shall all be fulfilled. What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 1:37–38 (Doctrine and Covenants)",
+      "quoteDate": "1831-11-01",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord declares that his words will all be fulfilled and the Saints should search the commandments.",
+      "tags": [
+        "scripture",
+        "truth",
+        "the-divine",
+        "learning"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-078",
+      "content": "Look unto me in every thought; doubt not, fear not.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 6:36 (Doctrine and Covenants)",
+      "quoteDate": "c. 1829",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord counsels looking to him in every thought and not fearing.",
+      "tags": [
+        "fear",
+        "faith",
+        "courage",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-079",
+      "content": "Yea, behold, I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart. Now, behold, this is the spirit of revelation; behold, this is the spirit by which Moses brought the children of Israel through the Red Sea on dry ground.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 8:2–3 (Doctrine and Covenants)",
+      "quoteDate": "c. 1829",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that revelation comes to the mind and heart by the Holy Ghost.",
+      "tags": [
+        "the-divine",
+        "faith",
+        "learning",
+        "wisdom"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-080",
+      "content": "Pray always, that you may come off conqueror; yea, that you may conquer Satan, and that you may escape the hands of the servants of Satan that do uphold his work.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 10:5 (Doctrine and Covenants)",
+      "quoteDate": "c. 1828",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord counsels praying always to overcome Satan.",
+      "tags": [
+        "prayer",
+        "courage",
+        "discipline",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-081",
+      "content": "Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 13:1 (Doctrine and Covenants)",
+      "quoteDate": "1829-05-15",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "John the Baptist restores the Aaronic Priesthood to Joseph Smith and Oliver Cowdery.",
+      "tags": [
+        "history",
+        "leadership",
+        "service"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-082",
+      "content": "Remember the worth of souls is great in the sight of God; For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 18:10–11 (Doctrine and Covenants)",
+      "quoteDate": "c. 1829",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that every soul has great worth in his sight.",
+      "tags": [
+        "compassion",
+        "identity",
+        "the-divine",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-083",
+      "content": "And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father! And now, if your joy will be great with one soul that you have brought unto me into the kingdom of my Father, how great will be your joy if you should bring many souls unto me!",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 18:15–16 (Doctrine and Covenants)",
+      "quoteDate": "c. 1829",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord promises joy to one who brings even one soul unto him.",
+      "tags": [
+        "joy",
+        "service",
+        "teaching",
+        "sacrifice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-084",
+      "content": "For behold, I, God, have suffered these things for all, that they might not suffer if they would repent; But if they would not repent they must suffer even as I; Which suffering caused myself, even God, the greatest of all, to tremble because of pain, and to bleed at every pore, and to suffer both body and spirit—and would that I might not drink the bitter cup, and shrink— Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 19:16–19 (Doctrine and Covenants)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that he suffered for all so that they need not suffer if they repent.",
+      "tags": [
+        "redemption",
+        "suffering",
+        "mercy",
+        "sacrifice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-085",
+      "content": "Learn of me, and listen to my words; walk in the meekness of my Spirit, and you shall have peace in me.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 19:23 (Doctrine and Covenants)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord invites the faithful to learn of him and walk in meekness.",
+      "tags": [
+        "learning",
+        "humility",
+        "peace",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-086",
+      "content": "Wherefore, lift up thy heart and rejoice, and cleave unto the covenants which thou hast made.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 25:13 (Doctrine and Covenants)",
+      "quoteDate": "c. 1830",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord counsels Emma Smith to rejoice and keep her covenants.",
+      "tags": [
+        "joy",
+        "faith",
+        "loyalty",
+        "encouragement"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-087",
+      "content": "And ye must practice virtue and holiness before me continually. Even so. Amen.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 46:33 (Doctrine and Covenants)",
+      "quoteDate": "1831-03-08",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord counsels the Saints to practice virtue and holiness continually.",
+      "tags": [
+        "integrity",
+        "discipline",
+        "worship",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-088",
+      "content": "Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 58:27 (Doctrine and Covenants)",
+      "quoteDate": "1831-08-01",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that people should be anxiously engaged in good causes and bring much righteousness by free will.",
+      "tags": [
+        "service",
+        "choice",
+        "work",
+        "effort"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-089",
+      "content": "Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more. By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 58:42–43 (Doctrine and Covenants)",
+      "quoteDate": "1831-08-01",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that the repentant are forgiven and he remembers their sins no more.",
+      "tags": [
+        "forgiveness",
+        "redemption",
+        "mercy",
+        "hope"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-090",
+      "content": "Wherefore, I say unto you, that ye ought to forgive one another; for he that forgiveth not his brother his trespasses standeth condemned before the Lord; for there remaineth in him the greater sin. I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men. And ye ought to say in your hearts—let God judge between me and thee, and reward thee according to thy deeds.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 64:9–11 (Doctrine and Covenants)",
+      "quoteDate": "1831-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord commands the Saints to forgive one another, or the greater sin remains with them.",
+      "tags": [
+        "forgiveness",
+        "mercy",
+        "sin",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-091",
+      "content": "And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives! For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father— That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 76:22–24 (Doctrine and Covenants)",
+      "quoteDate": "1832-02-16",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joseph Smith and Sidney Rigdon's testimony of Jesus Christ as the Only Begotten of the Father.",
+      "tags": [
+        "the-divine",
+        "truth",
+        "faith",
+        "worship"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-092",
+      "content": "And this is the gospel, the glad tidings, which the voice out of the heavens bore record unto us— That he came into the world, even Jesus, to be crucified for the world, and to bear the sins of the world, and to sanctify the world, and to cleanse it from all unrighteousness;",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 76:40–41 (Doctrine and Covenants)",
+      "quoteDate": "1832-02-16",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Describes the gospel as the glad tidings that Christ came to be crucified for the world and bear our sins.",
+      "tags": [
+        "redemption",
+        "grace",
+        "sacrifice",
+        "truth"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-093",
+      "content": "And he who receiveth all things with thankfulness shall be made glorious; and the things of this earth shall be added unto him, even an hundred fold, yea, more.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 78:19 (Doctrine and Covenants)",
+      "quoteDate": "1832-03-01",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord promises that he who receives all things with thankfulness will be made glorious.",
+      "tags": [
+        "gratitude",
+        "joy",
+        "contentment",
+        "eternity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-094",
+      "content": "I, the Lord, am bound when ye do what I say; but when ye do not what I say, ye have no promise.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 82:10 (Doctrine and Covenants)",
+      "quoteDate": "1832-04-26",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that he is bound when we do what he says.",
+      "tags": [
+        "faith",
+        "discipline",
+        "integrity",
+        "justice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-095",
+      "content": "Cease to be idle; cease to be unclean; cease to find fault one with another; cease to sleep longer than is needful; retire to thy bed early, that ye may not be weary; arise early, that your bodies and your minds may be invigorated.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 88:124 (Doctrine and Covenants)",
+      "quoteDate": "1832-12-27",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord counsels the Saints to cease idleness and fault-finding, and to be clean, and be faithful.",
+      "tags": [
+        "work",
+        "discipline",
+        "community",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-096",
+      "content": "And all saints who remember to keep and do these sayings, walking in obedience to the commandments, shall receive health in their navel and marrow to their bones; And shall find wisdom and great treasures of knowledge, even hidden treasures; And shall run and not be weary, and shall walk and not faint. And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 89:18–21 (Doctrine and Covenants)",
+      "quoteDate": "1833-02-27",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Word of Wisdom's promise of health, wisdom, and the destroying angel passing by.",
+      "tags": [
+        "self-control",
+        "discipline",
+        "hope",
+        "advice"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-097",
+      "content": "The Melchizedek Priesthood holds the right of presidency, and has power and authority over all the offices in the church in all ages of the world, to administer in spiritual things.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 107:8 (Doctrine and Covenants)",
+      "quoteDate": "c. 1835",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Teaches that the Melchizedek Priesthood holds the right of presidency.",
+      "tags": [
+        "leadership",
+        "service",
+        "history",
+        "power"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-098",
+      "content": "That the rights of the priesthood are inseparably connected with the powers of heaven, and that the powers of heaven cannot be controlled nor handled only upon the principles of righteousness. No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned; By kindness, and pure knowledge, which shall greatly enlarge the soul without hypocrisy, and without guile—",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 121:36, 41–42 (Doctrine and Covenants)",
+      "quoteDate": "c. 1839",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Lord teaches that priesthood power rests on righteousness and is exercised by persuasion, kindness and love unfeigned.",
+      "tags": [
+        "power",
+        "leadership",
+        "kindness",
+        "integrity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-099",
+      "content": "The Father has a body of flesh and bones as tangible as man’s; the Son also; but the Holy Ghost has not a body of flesh and bones, but is a personage of Spirit. Were it not so, the Holy Ghost could not dwell in us. A man may receive the Holy Ghost, and it may descend upon him and not tarry with him.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 130:22–23 (Doctrine and Covenants)",
+      "quoteDate": "1843-04-02",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joseph Smith teaches that the Father and Son have bodies of flesh and bones and the Holy Ghost is a personage of spirit.",
+      "tags": [
+        "the-divine",
+        "truth",
+        "identity",
+        "eternity"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "lsm-100",
+      "content": "In the celestial glory there are three heavens or degrees; And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage]; And if he does not, he cannot obtain it. He may enter into the other, but that is the end of his kingdom; he cannot have an increase.",
+      "authorName": "Doctrine and Covenants",
+      "source": "D&C 131:1–4 (Doctrine and Covenants)",
+      "quoteDate": "1843-05-16",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Joseph Smith teaches that celestial marriage is required for the highest degree of the celestial kingdom.",
+      "tags": [
+        "marriage",
+        "eternity",
+        "family",
+        "love"
+      ],
+      "addedAt": "2026-06-01T12:00:00Z"
+    }
+  ]
+}
