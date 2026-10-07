@@ -45,6 +45,9 @@ Two extra notes for these runs:
 - Audit at least 20 quotes per run. If no issue has turned up by then, keep
   going until one does, up to a cap of 100 quotes. Stop at the first batch
   boundary after a fix is found (once 20 are done), or at the cap.
+- Verify every quote with web tools (WebSearch/WebFetch against a primary or
+  authoritative source), never from memory or internal knowledge. A quote not
+  checked on the web this run is not counted as audited.
 - Always commit the `.audit-state.json` cursor advance, even when every quote
   was clean, so the next run resumes where this one stopped. State-only commits
   are fine; a commit that also touches a collection file needs the hash refresh
