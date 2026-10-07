@@ -42,10 +42,13 @@ Two extra notes for these runs:
 
 - Rewriting `.audit-state.json` alone is not a data edit and needs no hash
   refresh — but any run that *also* touched a collection file does.
-- A run that finds every quote clean and changes nothing should commit nothing.
-  Don't refresh the state cursor into an otherwise-empty commit and call it a
-  no-op; a commit that touches a collection file is the signal that the hash
-  refresh was required.
+- Keep auditing past the first ~10 quotes until a run finds at least one issue
+  to fix, up to a cap of 100 quotes per run. Stop at the first batch boundary
+  after a fix is found, or at the cap.
+- Always commit the `.audit-state.json` cursor advance, even when every quote
+  was clean, so the next run resumes where this one stopped. State-only commits
+  are fine; a commit that also touches a collection file needs the hash refresh
+  above.
 
 ## Working conventions
 
