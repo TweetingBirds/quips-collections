@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 27,
-    "file": "founding-fathers",
-    "quoteIndex": 25,
-    "note": "found-001..025 audited; next run begins founding-fathers quotes[25] (found-026)."
+    "fileIndex": 28,
+    "file": "friendship",
+    "quoteIndex": 14,
+    "note": "friend-001..014 audited; next run begins friendship quotes[14] (friend-015)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 757,
+  "totalQuotesAudited": 782,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1108,6 +1108,20 @@
       "issue": "content used the abridged Jefferson Memorial inscription wording ('frequent changes') as if it were the letter text; original reads 'certainly ... frequent and untried changes'.",
       "resolution": "content restored to letter wording with ellipsis, note updated; hashes refreshed, validate --strict passed.",
       "processNote": "web fetch unavailable (DNS/egress blocked); verified via WebSearch only. Open PR #213 (first-lines) branch merged in first so cursor is consistent. found-020 'dictates' vs 'dictums' of our passions unresolved, left unchanged."
+    },
+    {
+      "runDate": "2026-10-14",
+      "file": "founding-fathers, friendship",
+      "quoteRange": "found-026..found-036, friend-001..friend-014",
+      "count": 25,
+      "passed": 24,
+      "flagged": 1,
+      "flaggedIds": [
+        "friend-003"
+      ],
+      "issue": "friend-003 content was a non-Ross rendering though notes/source say Ross; Ross reads 'For a wish for friendship may arise quickly, but friendship does not.'",
+      "resolution": "content corrected to Ross wording, note updated; hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PRs #215/#216 (Shedd, Cameron) both correctly marked unverified, citing Quote Investigator, no misattribution; no action."
     }
   ]
 }
