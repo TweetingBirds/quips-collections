@@ -46,13 +46,13 @@
     },
     {
       "id": "found-003",
-      "content": "I am not an advocate for frequent changes in laws and constitutions, but laws and institutions must go hand in hand with the progress of the human mind.",
+      "content": "I am certainly not an advocate for frequent and untried changes in laws and constitutions. [...] laws and institutions must go hand in hand with the progress of the human mind.",
       "authorName": "Thomas Jefferson",
       "source": "Letter to Samuel Kercheval (1816)",
       "quoteDate": "1816-07-12",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "On constitutional reform in Virginia; confirmed on Founders Online. A redacted version is carved on the Jefferson Memorial.",
+      "notes": "On constitutional reform in Virginia. Wording follows the letter itself; the shorter version carved on the Jefferson Memorial drops \"certainly\" and \"and untried\" and joins the two clauses.",
       "tags": [
         "change",
         "politics",
