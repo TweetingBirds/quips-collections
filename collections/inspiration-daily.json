@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-09-21T12:00:00Z",
+  "lastUpdated": "2026-10-14T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -526,6 +526,23 @@
         "advice"
       ],
       "addedAt": "2026-09-21T12:00:00Z"
+    },
+    {
+      "id": "di-033",
+      "content": "Not everything that can be counted counts, and not everything that counts can be counted.",
+      "authorName": "William Bruce Cameron",
+      "source": "Informal Sociology: A Casual Introduction to Sociological Thinking (Random House, 1963), p. 13",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "unverified",
+      "notes": "Widely credited to Einstein via an unreferenced 1986 book's blackboard story; Quote Investigator finds no Einstein evidence and traces the two-part form to Cameron's 1963 textbook, building on his own 1957-58 phrasings. Unverified because the book itself was not opened -- wording and page rest on Quote Investigator and a scholarly citation of 'Cameron (1963, 13)'. The comma-joined wording is QI's transcription.",
+      "tags": [
+        "wisdom",
+        "success",
+        "aphorism",
+        "paradox"
+      ],
+      "addedAt": "2026-10-14T12:00:00Z"
     }
   ]
 }
