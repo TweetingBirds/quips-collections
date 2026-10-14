@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 26,
-    "file": "first-lines",
-    "quoteIndex": 10,
-    "note": "opening-001..010 audited; next run begins first-lines quotes[10] (opening-011)."
+    "fileIndex": 27,
+    "file": "founding-fathers",
+    "quoteIndex": 0,
+    "note": "first-lines fully audited through opening-040; next run begins founding-fathers quotes[0] (found-001)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 702,
+  "totalQuotesAudited": 732,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1081,6 +1081,19 @@
       "flaggedIds": [],
       "issue": "none",
       "processNote": "clean; no open PRs"
+    },
+    {
+      "runDate": "2026-10-10",
+      "file": "first-lines",
+      "quoteRange": "opening-011..opening-040",
+      "count": 30,
+      "passed": 29,
+      "flagged": 1,
+      "flaggedIds": [
+        "opening-036"
+      ],
+      "issue": "note claimed King wrote the line 'as a teenager'; sources date it to March 1970 at U. Maine (King was 22).",
+      "resolution": "note corrected; hashes refreshed, validate --strict passed."
     }
   ]
 }
