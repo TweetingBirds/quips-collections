@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-05T12:00:00Z",
+  "lastUpdated": "2026-10-14T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -547,7 +547,7 @@
       "name": "Disney Animated",
       "description": "Magical quotes from Disney's animated classics, from the golden age to modern masterpieces.",
       "author": "Quips Editorial",
-      "quoteCount": 52,
+      "quoteCount": 53,
       "previewQuotes": [
         "Hakuna Matata! It means no worries for the rest of your days.",
         "To infinity and beyond!"
@@ -558,9 +558,9 @@
       "iconName": "wand.and.stars",
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-NFyg6DHQaWsmGxPVqRKWiAEcEh7X7L8U6irhr11iiaw=",
-      "bytes": 28398
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-6CtNNekS+RIyMUdcIcPSo/QNqu6bVoBnMnbUVKa5uGA=",
+      "bytes": 29315
     },
     {
       "id": "seinfeld",
@@ -1107,7 +1107,7 @@
       "name": "Entrepreneurs",
       "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "Screw it, let's do it.",
         "Competition is for losers."
@@ -1118,9 +1118,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-ebdIRmGhMQlowHy8UMzrcj5hF81ypqzuZx12CMKu1vc=",
-      "bytes": 19185
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-KykjUkA9rK2KMKYCIYAI3bd0YEfGS9TocMlPCgC2LEE=",
+      "bytes": 19999
     },
     {
       "id": "on-leadership",

@@ -6,7 +6,8 @@
     "status": "scheduled",
     "issueNumber": 1,
     "sentAt": null,
-    "notes": "From Jobs's remarks at an internal Apple meeting on October 23, 2007. Verified via the Steve Jobs Archive (stevejobsarchive.com/stories/on-the-origin-of-make-something-wonderful)."
+    "notes": "From Jobs's remarks at an internal Apple meeting on October 23, 2007. Verified via the Steve Jobs Archive (stevejobsarchive.com/stories/on-the-origin-of-make-something-wonderful).",
+    "quoteId": "entre-030"
   },
   {
     "slug": "crocker",
@@ -15,7 +16,8 @@
     "status": "scheduled",
     "issueNumber": 2,
     "sentAt": null,
-    "notes": "Written by Carter Crocker and Karl Geurs for the Disney film. Popularly misattributed to A. A. Milne (dead 41 years before the line existed) and usually shortened to \"You're braver than you believe...\" with the roles flipped so Pooh says it to Christopher Robin."
+    "notes": "Written by Carter Crocker and Karl Geurs for the Disney film. Popularly misattributed to A. A. Milne (dead 41 years before the line existed) and usually shortened to \"You're braver than you believe...\" with the roles flipped so Pooh says it to Christopher Robin.",
+    "quoteId": "disney-053"
   },
   {
     "slug": "ulrich",
@@ -53,7 +55,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The actual line. Popularly misremembered as \"Luke, I am your father\" — a Mandela Effect; a 2023 YouGov poll found 63% recalled the wrong version and only 17% the right one."
+    "notes": "The actual line. Popularly misremembered as \"Luke, I am your father\" — a Mandela Effect; a 2023 YouGov poll found 63% recalled the wrong version and only 17% the right one.",
+    "quoteId": "starwars-012"
   },
   {
     "slug": "hall",
