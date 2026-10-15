@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 26,
-    "file": "first-lines",
-    "quoteIndex": 0,
-    "note": "fantasy-028..036 audited this run; fantasy-worlds complete. Next run begins first-lines quotes[0]."
+    "fileIndex": 28,
+    "file": "friendship",
+    "quoteIndex": 14,
+    "note": "friend-001..014 audited; next run begins friendship quotes[14] (friend-015)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 692,
+  "totalQuotesAudited": 782,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1070,6 +1070,58 @@
       "resolution": "032 citation fixed; 035 note clarified. Hashes refreshed, validate --strict passed. PR #206 (prior audit) reviewed: no issues.",
       "reportedIn": "see this run's report",
       "processNote": "Branch merged with PR #206's branch (unmerged prior audit) so state is contiguous. Batch limited to 9: a first-lines read was blocked by the permission classifier, so first-lines audit deferred to next run."
+    },
+    {
+      "runDate": "2026-10-07",
+      "file": "first-lines",
+      "quoteRange": "opening-001..opening-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "processNote": "clean; no open PRs"
+    },
+    {
+      "runDate": "2026-10-10",
+      "file": "first-lines",
+      "quoteRange": "opening-011..opening-040",
+      "count": 30,
+      "passed": 29,
+      "flagged": 1,
+      "flaggedIds": [
+        "opening-036"
+      ],
+      "issue": "note claimed King wrote the line 'as a teenager'; sources date it to March 1970 at U. Maine (King was 22).",
+      "resolution": "note corrected; hashes refreshed, validate --strict passed."
+    },
+    {
+      "runDate": "2026-10-13",
+      "file": "founding-fathers",
+      "quoteRange": "found-001..found-025",
+      "count": 25,
+      "passed": 24,
+      "flagged": 1,
+      "flaggedIds": [
+        "found-003"
+      ],
+      "issue": "content used the abridged Jefferson Memorial inscription wording ('frequent changes') as if it were the letter text; original reads 'certainly ... frequent and untried changes'.",
+      "resolution": "content restored to letter wording with ellipsis, note updated; hashes refreshed, validate --strict passed.",
+      "processNote": "web fetch unavailable (DNS/egress blocked); verified via WebSearch only. Open PR #213 (first-lines) branch merged in first so cursor is consistent. found-020 'dictates' vs 'dictums' of our passions unresolved, left unchanged."
+    },
+    {
+      "runDate": "2026-10-14",
+      "file": "founding-fathers, friendship",
+      "quoteRange": "found-026..found-036, friend-001..friend-014",
+      "count": 25,
+      "passed": 24,
+      "flagged": 1,
+      "flaggedIds": [
+        "friend-003"
+      ],
+      "issue": "friend-003 content was a non-Ross rendering though notes/source say Ross; Ross reads 'For a wish for friendship may arise quickly, but friendship does not.'",
+      "resolution": "content corrected to Ross wording, note updated; hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PRs #215/#216 (Shedd, Cameron) both correctly marked unverified, citing Quote Investigator, no misattribution; no action."
     }
   ]
 }
