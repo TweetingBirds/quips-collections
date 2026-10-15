@@ -125,6 +125,28 @@
       "collectionId": "new-year",
       "quoteId": "newyear-019",
       "note": "The turn of the year, in the words people actually reach for at midnight."
+    },
+    {
+      "weekStart": "2027-01-04",
+      "collectionId": "lds-scripture-mastery",
+      "note": "No calendar tie this week, so coverage governs: the newest collection in the library, and never featured, gets first look."
+    },
+    {
+      "weekStart": "2027-01-11",
+      "collectionId": "star-wars",
+      "note": "No calendar tie this week either — next in line and never featured."
+    },
+    {
+      "weekStart": "2027-01-18",
+      "collectionId": "civil-rights-voices",
+      "quoteId": "rights-022",
+      "note": "Martin Luther King Jr. Day falls on Monday, January 18, 2027 — opens on his best-known line."
+    },
+    {
+      "weekStart": "2027-01-25",
+      "collectionId": "legendary-coaches",
+      "quoteId": "coach-017",
+      "note": "The College Football Playoff National Championship is played Monday, January 25, 2027 — Bill Walsh on the standard that makes a champion."
     }
   ]
 }
