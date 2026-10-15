@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 28,
-    "file": "friendship",
-    "quoteIndex": 14,
-    "note": "friend-001..014 audited; next run begins friendship quotes[14] (friend-015)."
+    "fileIndex": 29,
+    "file": "gratitude",
+    "quoteIndex": 6,
+    "note": "friend-015..028 and grat-001..006 audited; next run begins gratitude quotes[6] (grat-007)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 782,
+  "totalQuotesAudited": 802,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1122,6 +1122,20 @@
       "issue": "friend-003 content was a non-Ross rendering though notes/source say Ross; Ross reads 'For a wish for friendship may arise quickly, but friendship does not.'",
       "resolution": "content corrected to Ross wording, note updated; hashes refreshed, validate --strict passed.",
       "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PRs #215/#216 (Shedd, Cameron) both correctly marked unverified, citing Quote Investigator, no misattribution; no action."
+    },
+    {
+      "runDate": "2026-10-15",
+      "file": "friendship, gratitude",
+      "quoteRange": "friend-015..friend-028, grat-001..grat-006",
+      "count": 20,
+      "passed": 19,
+      "flagged": 1,
+      "flaggedIds": [
+        "grat-006"
+      ],
+      "issue": "grat-006 cited Seneca Letter IX, which could not be confirmed; saying is Epicurus, Vatican Sayings 35.",
+      "resolution": "source/date/sourceType corrected, status verified->attributed (wording is translator-dependent); hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PR #219 claim (1987 House testimony/Darrow) not confirmed by search; #215/#216/#220 no problems found."
     }
   ]
 }
