@@ -99,10 +99,10 @@
     "fileIndex": 30,
     "file": "great-economists",
     "quoteIndex": 0,
-    "note": "grat-007..030 audited; next run begins great-economists quotes[0]."
+    "note": "Run 2026-10-17 sampled great-economists non-contiguously (see auditedIds); next run starts at quotes[0] and may skip those ids."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 826,
+  "totalQuotesAudited": 848,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1150,6 +1150,44 @@
       "issue": "grat-030 credited to Buddha; no canonical source, earliest trace is Leo Buscaglia's Born for Love (1992).",
       "resolution": "source/notes/quoteDate corrected, status attributed->unverified; hashes refreshed, validate --strict passed.",
       "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. Most grat quotes lack a primary source but are already marked attributed. Weak: grat-023 (Emerson), grat-028 (Seneca De Beneficiis unlocated). PR #219 Darrow 1987 claim still unconfirmed; #215/#216 match Quote Investigator."
+    },
+    {
+      "runDate": "2026-10-17",
+      "file": "great-economists",
+      "quoteRange": "great-economists (non-contiguous sample)",
+      "count": 22,
+      "passed": 21,
+      "flagged": 1,
+      "flaggedIds": [
+        "econ-042"
+      ],
+      "issue": "econ-042 (Sowell) is a paraphrase of A Conflict of Visions ch. 2, not verbatim; status attributed.",
+      "resolution": "source/notes updated per maintainer; hashes refreshed.",
+      "processNote": "WebSearch only. Sampled across file, not in order; cursor left at quotes[0] so remaining ids are still covered. Weak: econ-027 Robinson, econ-041 Bagehot chapter unconfirmed. No open PRs.",
+      "auditedIds": [
+        "econ-001",
+        "econ-006",
+        "econ-008",
+        "econ-009",
+        "econ-011",
+        "econ-014",
+        "econ-015",
+        "econ-018",
+        "econ-022",
+        "econ-023",
+        "econ-024",
+        "econ-027",
+        "econ-029",
+        "econ-030",
+        "econ-031",
+        "econ-032",
+        "econ-034",
+        "econ-035",
+        "econ-036",
+        "econ-039",
+        "econ-041",
+        "econ-042"
+      ]
     }
   ]
 }
