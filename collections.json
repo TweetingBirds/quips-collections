@@ -7,7 +7,7 @@
       "name": "Daily Inspiration",
       "description": "Start your day with motivational quotes from visionary leaders and thinkers.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "The only way to do great work is to love what you do.",
         "You miss 100% of the shots you don't take."
@@ -18,9 +18,9 @@
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-09-21T12:00:00Z",
-      "contentHash": "sha256-zgKtFsxAR1RMd2Y33iKKNwjw9fGCq6M7wI40S4f9UTI=",
-      "bytes": 21853
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-HnlFgsd0iAF3A2zC93/x+6/oPU3gZPXunIkJ/vPYBhQ=",
+      "bytes": 22779
     },
     {
       "id": "grit-perseverance",

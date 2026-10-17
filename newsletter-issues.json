@@ -182,5 +182,15 @@
     "sentAt": null,
     "notes": "Shedd published it in Salt from My Attic (Mosher Press, 1928, p. 20). Grace Hopper popularized a 'port' variant from at least 1981 but did not coin it; a 1995 column's Einstein credit is unsupported.",
     "quoteId": "courage-035"
+  },
+  {
+    "slug": "cameron",
+    "quote": "Not everything that can be counted counts, and not everything that counts can be counted.",
+    "attribution": "William Bruce Cameron, Informal Sociology (1963) (often misattributed to Albert Einstein)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Quote Investigator traces the full two-part form to sociologist William Bruce Cameron's Informal Sociology (1963, p. 13), after his 1957-58 one-part versions. The Einstein link is a 1986 unreferenced blackboard anecdote, three decades after Einstein died.",
+    "quoteId": "di-033"
   }
 ]
