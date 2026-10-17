@@ -95,16 +95,16 @@
       "id": "grat-006",
       "content": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
       "authorName": "Epicurus",
-      "source": "Quoted in Seneca, Letters to Lucilius, IX (c. 65 CE)",
-      "sourceType": "letter",
-      "notes": "Epicurus's counsel on contentment, preserved by Seneca in his ninth moral letter.",
+      "source": "Vatican Sayings, no. 35 (Epicurus, c. 300 BCE)",
+      "sourceType": "unspecified",
+      "notes": "Epicurus's counsel on contentment, Vatican Sayings 35. Earlier source line (Seneca, Letter IX) could not be confirmed; English wording follows one common translation and varies by translator (Bailey, DeWitt, Saint-Andre).",
       "tags": [
         "contentment",
         "longing",
         "advice"
       ],
-      "quoteDate": "c. 65 CE",
-      "verificationStatus": "verified",
+      "quoteDate": "c. 300 BCE",
+      "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -481,16 +481,16 @@
       "id": "grat-030",
       "content": "Let us rise up and be thankful, for if we didn't learn a lot today, at least we learned a little, and if we didn't learn a little, at least we didn't get sick, and if we got sick, at least we didn't die; so, let us all be thankful.",
       "authorName": "Buddha",
-      "source": "Attributed (traditional Buddhist teaching)",
+      "source": "Attributed (not in the Buddhist canon; see notes)",
       "sourceType": "unspecified",
-      "notes": "Popularly attributed to the Buddha; the source is a modern paraphrase rather than a canonical text. The century is a broad estimate for the English paraphrase's circulation, not a documented date.",
+      "notes": "Popularly credited to the Buddha, but no canonical source exists. The earliest trace found is Leo Buscaglia's Born for Love (1992), which credits a Buddhist teacher in Thailand; the English wording reads as a modern paraphrase. The century is a broad estimate for the English paraphrase's circulation, not a documented date.",
       "tags": [
         "learning",
         "gratitude",
         "contentment"
       ],
-      "quoteDate": "c. 20th century",
-      "verificationStatus": "attributed",
+      "quoteDate": "c. 1992",
+      "verificationStatus": "unverified",
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

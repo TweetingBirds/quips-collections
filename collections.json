@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-14T12:00:00Z",
+  "lastUpdated": "2026-10-16T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -67,7 +67,7 @@
       "name": "Courage & Conviction",
       "description": "On facing fear, standing for what's right, and acting anyway.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Courage is resistance to fear, mastery of fear — not absence of fear.",
         "Power concedes nothing without a demand. It never did and it never will."
@@ -78,9 +78,9 @@
       "iconName": "shield.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-09-28T12:00:00Z",
-      "contentHash": "sha256-aYjQsDVBOTnZzHzQ/yTzO1Y1A9QsI/g/x3bxWKB8aZA=",
-      "bytes": 27401
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-ZCFYBRHv4qpU2If8qvbHFd3M6v12EvWUv4Lelwr0ehc=",
+      "bytes": 28212
     },
     {
       "id": "dream-big",
@@ -399,8 +399,8 @@
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-hlpA62JYnJH9+vvsB6tC88rlthd/LhgUznuWc6RWk6o=",
-      "bytes": 18381
+      "contentHash": "sha256-IRv7ZcSZgF7zF+BRPA6SpaReXNEgpJSOstHuxUiUrbo=",
+      "bytes": 18651
     },
     {
       "id": "resilience",
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-21T12:00:00Z",
-      "contentHash": "sha256-0+zSpTyT9ZdJ+q2m8t50ePc64uDRVbpBE/JrKtB1kT4=",
-      "bytes": 18577
+      "lastUpdated": "2026-10-16T12:00:00Z",
+      "contentHash": "sha256-VzpsHI4cT1LOY+zSWLDVT2vjm99S6j8TCaVP7CD7UWM=",
+      "bytes": 18629
     },
     {
       "id": "self-compassion",
@@ -547,7 +547,7 @@
       "name": "Disney Animated",
       "description": "Magical quotes from Disney's animated classics, from the golden age to modern masterpieces.",
       "author": "Quips Editorial",
-      "quoteCount": 52,
+      "quoteCount": 53,
       "previewQuotes": [
         "Hakuna Matata! It means no worries for the rest of your days.",
         "To infinity and beyond!"
@@ -558,9 +558,9 @@
       "iconName": "wand.and.stars",
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-NFyg6DHQaWsmGxPVqRKWiAEcEh7X7L8U6irhr11iiaw=",
-      "bytes": 28398
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-qH/83xg6ubv1aDeFOeychR843TBf4Y1rNiglC4Gu4KY=",
+      "bytes": 29220
     },
     {
       "id": "seinfeld",
@@ -1107,7 +1107,7 @@
       "name": "Entrepreneurs",
       "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "Screw it, let's do it.",
         "Competition is for losers."
@@ -1118,9 +1118,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-ebdIRmGhMQlowHy8UMzrcj5hF81ypqzuZx12CMKu1vc=",
-      "bytes": 19185
+      "lastUpdated": "2026-10-14T12:00:00Z",
+      "contentHash": "sha256-KykjUkA9rK2KMKYCIYAI3bd0YEfGS9TocMlPCgC2LEE=",
+      "bytes": 19999
     },
     {
       "id": "on-leadership",
@@ -1479,8 +1479,8 @@
       "category": "Love & Relationships",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Qy4c2Q8dsjbEbUmWZkn9m2jCkFz3HOwbW58ScKdl+3Y=",
-      "bytes": 17127
+      "contentHash": "sha256-5StgE8w2PGEE7sT5fy2oAiUOXXrxvvzF2dMkKDXe09c=",
+      "bytes": 17220
     },
     {
       "id": "marriage-and-weddings",

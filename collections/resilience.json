@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-21T12:00:00Z",
+  "lastUpdated": "2026-10-16T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -437,17 +437,17 @@
     {
       "id": "res-027",
       "content": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
-      "authorName": "A. A. Milne",
-      "source": "Attributed (Winnie the Pooh)",
-      "sourceType": "unspecified",
-      "notes": "Associated with Winnie the Pooh but originating in the 1997 film adaptation, not Milne's original books.",
+      "authorName": "Christopher Robin",
+      "source": "Pooh's Grand Adventure: The Search for Christopher Robin (1997)",
+      "sourceType": "movie",
+      "notes": "Written by Carter Crocker and Karl Geurs and spoken to Pooh, not by him; often misattributed to A. A. Milne, who died in 1956.",
       "tags": [
         "courage",
         "encouragement",
         "tender"
       ],
-      "quoteDate": "c. 1997",
-      "verificationStatus": "attributed",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
