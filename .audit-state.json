@@ -1156,11 +1156,13 @@
       "file": "great-economists",
       "quoteRange": "great-economists (non-contiguous sample)",
       "count": 22,
-      "passed": 22,
-      "flagged": 0,
-      "flaggedIds": [],
-      "issue": "none (econ-042 Sowell kept verified per maintainer; cited to interview)",
-      "resolution": "source changed to interview; hashes refreshed.",
+      "passed": 21,
+      "flagged": 1,
+      "flaggedIds": [
+        "econ-042"
+      ],
+      "issue": "econ-042 (Sowell) is a paraphrase of A Conflict of Visions ch. 2, not verbatim; status attributed.",
+      "resolution": "source/notes updated per maintainer; hashes refreshed.",
       "processNote": "WebSearch only. Sampled across file, not in order; cursor left at quotes[0] so remaining ids are still covered. Weak: econ-027 Robinson, econ-041 Bagehot chapter unconfirmed. No open PRs.",
       "auditedIds": [
         "econ-001",
