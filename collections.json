@@ -1547,7 +1547,7 @@
       "name": "Earth & the Wild",
       "description": "Reverence for the living world, from the great voices of nature and conservation.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "All flourishing is mutual.",
         "In nature nothing exists alone."
@@ -1558,9 +1558,9 @@
       "iconName": "globe.americas.fill",
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-EB6LigXAaG0TmP1iauj6GsTbNLnTs5OpWR+Qxck2VxY=",
-      "bytes": 18327
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-9mmhnqrPHhEcwPkE7dGz2ic68sY++Ol13EdXuhoQLt8=",
+      "bytes": 19198
     },
     {
       "id": "studio-ghibli",
@@ -1887,7 +1887,7 @@
       "name": "Goals & Fresh Starts",
       "description": "Aims worth setting, resolutions worth keeping, and the courage to begin again.",
       "author": "Quips Editorial",
-      "quoteCount": 18,
+      "quoteCount": 19,
       "previewQuotes": [
         "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
         "Nothing great was ever achieved without enthusiasm."
@@ -1899,8 +1899,8 @@
       "category": "Inspiration",
       "addedAt": "2026-10-17T12:00:00Z",
       "lastUpdated": "2026-10-17T12:00:00Z",
-      "contentHash": "sha256-vmZr9IxMV0AbYk+4IlbqEy7JgJAsXpVHhmqBmWz+Q6c=",
-      "bytes": 12171
+      "contentHash": "sha256-zPtJj5kxpOjQvUXfyU7HoegRURacHuOzGU5zAi1MHVc=",
+      "bytes": 12934
     }
   ]
 }

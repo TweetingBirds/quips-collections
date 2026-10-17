@@ -86,7 +86,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "Written by Texas scriptwriter Ted Perry in 1971 for Home, a 1972 Southern Baptist Radio and Television Commission film, which dropped his writing credit. Perry built on William Arrowsmith's update of Henry A. Smith's 1887 newspaper reconstruction, published 33 years after a speech Seattle probably gave in 1854. The popular \"does not belong to us; we belong to the earth\" form is a later modernized version of Perry's text."
+    "notes": "Written by Texas scriptwriter Ted Perry in 1971 for Home, a 1972 Southern Baptist Radio and Television Commission film, which dropped his writing credit. Perry built on William Arrowsmith's update of Henry A. Smith's 1887 newspaper reconstruction, published 33 years after a speech Seattle probably gave in 1854. The popular \"does not belong to us; we belong to the earth\" form is a later modernized version of Perry's text.",
+    "quoteId": "earth-030"
   },
   {
     "slug": "rohn",
@@ -95,7 +96,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The exact sentence isn't in any Rohn book or dated source. It condenses a lesson Rohn credited to his mentor Earl Shoaff, whom he met in 1955: \"Set a goal of becoming a millionaire for what it will make of you to achieve it.\""
+    "notes": "The exact sentence isn't in any Rohn book or dated source. It condenses a lesson Rohn credited to his mentor Earl Shoaff, whom he met in 1955: \"Set a goal of becoming a millionaire for what it will make of you to achieve it.\"",
+    "quoteId": "goals-019"
   },
   {
     "slug": "apollo13",

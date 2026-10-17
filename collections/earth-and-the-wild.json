@@ -9,7 +9,7 @@
   "iconName": "globe.americas.fill",
   "category": "Nature",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "quotes": [
     {
       "id": "earth-001",
@@ -480,6 +480,22 @@
         "one-liner"
       ],
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "earth-030",
+      "content": "This we know. The earth does not belong to man; man belongs to the earth… Whatever befalls the earth befalls the sons of the earth. Man did not weave the web of life; he is merely a strand in it.",
+      "authorName": "Ted Perry (often credited to Chief Seattle)",
+      "source": "Script for the film Home (Southern Baptist Radio and Television Commission, 1972)",
+      "sourceType": "movie",
+      "quoteDate": "1972",
+      "verificationStatus": "unverified",
+      "notes": "Written by screenwriter Ted Perry, not spoken by Chief Seattle, as Newsweek reported in 1992; the wording is the form in circulation and was not checked against Perry's script, which exists in several variants.",
+      "tags": [
+        "earth",
+        "nature",
+        "community"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }
