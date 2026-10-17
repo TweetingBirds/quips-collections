@@ -9,7 +9,7 @@
   "iconName": "wand.and.stars",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-09-08T00:00:00Z",
+  "lastUpdated": "2026-10-14T12:00:00Z",
   "quotes": [
     {
       "id": "disney-001",
@@ -759,6 +759,23 @@
       "notes": "Pacha's leverage line while guiding llama-Kuzco through the jungle, refusing to help him home unless he spares the village.",
       "tags": [],
       "addedAt": "2026-07-05T03:48:30Z"
+    },
+    {
+      "id": "disney-053",
+      "content": "If ever there's a tomorrow when we're not together, there's something you must remember. [...] You're braver than you believe, and stronger than you seem, and smarter than you think. [...] But the most important thing is, even if we're apart, I'll always be with you.",
+      "authorName": "Christopher Robin",
+      "source": "Pooh's Grand Adventure: The Search for Christopher Robin (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Written by Carter Crocker and Karl Geurs and spoken to Pooh, not by him; often misattributed to A. A. Milne.",
+      "tags": [
+        "encouragement",
+        "courage",
+        "friendship",
+        "tender"
+      ],
+      "addedAt": "2026-10-14T12:00:00Z"
     }
   ]
 }

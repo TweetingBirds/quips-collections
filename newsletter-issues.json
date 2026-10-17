@@ -3,19 +3,21 @@
     "slug": "jobs",
     "quote": "There's lots of ways to be, as a person. And some people express their deep appreciation in different ways. But one of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.",
     "attribution": "Steve Jobs",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 1,
-    "sentAt": null,
-    "notes": "From Jobs's remarks at an internal Apple meeting on October 23, 2007. Verified via the Steve Jobs Archive (stevejobsarchive.com/stories/on-the-origin-of-make-something-wonderful)."
+    "sentAt": "2026-10-08T13:00:54Z",
+    "notes": "From Jobs's remarks at an internal Apple meeting on October 23, 2007. Verified via the Steve Jobs Archive (stevejobsarchive.com/stories/on-the-origin-of-make-something-wonderful).",
+    "quoteId": "entre-030"
   },
   {
     "slug": "crocker",
     "quote": "If ever there's a tomorrow when we're not together, there's something you must remember. [...] You're braver than you believe, and stronger than you seem, and smarter than you think. [...] But the most important thing is, even if we're apart, I'll always be with you.",
     "attribution": "Christopher Robin, Pooh's Grand Adventure: The Search for Christopher Robin (1997)",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 2,
-    "sentAt": null,
-    "notes": "Written by Carter Crocker and Karl Geurs for the Disney film. Popularly misattributed to A. A. Milne (dead 41 years before the line existed) and usually shortened to \"You're braver than you believe...\" with the roles flipped so Pooh says it to Christopher Robin. The film has \"and stronger than you seem, and smarter than you think\"; the poster version drops both \"ands.\""
+    "sentAt": "2026-10-15T13:05:42Z",
+    "notes": "Written by Carter Crocker and Karl Geurs for the Disney film. Popularly misattributed to A. A. Milne (dead 41 years before the line existed) and usually shortened to \"You're braver than you believe...\" with the roles flipped so Pooh says it to Christopher Robin. The film has \"and stronger than you seem, and smarter than you think\"; the poster version drops both \"ands.\"",
+    "quoteId": "disney-053"
   },
   {
     "slug": "ulrich",
@@ -24,7 +26,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "From Ulrich's scholarly article \"Vertuous Women Found: New England Ministerial Literature, 1668–1735\" (American Quarterly, 1976) — an observation that dutiful women are omitted from the historical record, not a call to misbehave. Frequently misattributed to Marilyn Monroe or Eleanor Roosevelt, with its meaning inverted."
+    "notes": "From Ulrich's scholarly article \"Vertuous Women Found: New England Ministerial Literature, 1668–1735\" (American Quarterly, 1976) — an observation that dutiful women are omitted from the historical record, not a call to misbehave. Frequently misattributed to Marilyn Monroe or Eleanor Roosevelt, with its meaning inverted.",
+    "quoteId": "courage-033"
   },
   {
     "slug": "jordan",
@@ -33,7 +36,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The title creed of Michael Jordan with Mark Vancil, I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (HarperSanFrancisco, 1994). Genuinely his, but usually shared without its source or ghostwriter."
+    "notes": "The title creed of Michael Jordan with Mark Vancil, I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (HarperSanFrancisco, 1994). Genuinely his, but usually shared without its source or ghostwriter.",
+    "quoteId": "mj-001"
   },
   {
     "slug": "tolstoy",
@@ -51,7 +55,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The actual line. Popularly misremembered as \"Luke, I am your father\" — a Mandela Effect; a 2023 YouGov poll found 63% recalled the wrong version and only 17% the right one."
+    "notes": "The actual line. Popularly misremembered as \"Luke, I am your father\" — a Mandela Effect; a 2023 YouGov poll found 63% recalled the wrong version and only 17% the right one.",
+    "quoteId": "starwars-012"
   },
   {
     "slug": "hall",
@@ -60,7 +65,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "Written by Hall (pen name S. G. Tallentyre) in The Friends of Voltaire (1906) to characterize Voltaire's attitude, not to quote him; she later confirmed the words were \"my own expression.\" Universally misattributed to Voltaire."
+    "notes": "Written by Hall (pen name S. G. Tallentyre) in The Friends of Voltaire (1906) to characterize Voltaire's attitude, not to quote him; she later confirmed the words were \"my own expression.\" Universally misattributed to Voltaire.",
+    "quoteId": "courage-014"
   },
   {
     "slug": "einstein",
@@ -96,7 +102,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The actual air-to-ground transmission (past tense); commander Jim Lovell then repeated it. The famous present-tense \"Houston, we have a problem\" comes from the 1995 film Apollo 13, which changed the tense for dramatic effect."
+    "notes": "The actual air-to-ground transmission (past tense); commander Jim Lovell then repeated it. The famous present-tense \"Houston, we have a problem\" comes from the 1995 film Apollo 13, which changed the tense for dramatic effect.",
+    "quoteId": "cosmos-034"
   },
   {
     "slug": "gandhi",
@@ -114,7 +121,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The novel's opening line (1878), quoted in the Constance Garnett (1901) translation. The \"Anna Karenina Principle\" was coined by Jared Diamond in Guns, Germs, and Steel (1997)."
+    "notes": "The novel's opening line (1878), quoted in the Constance Garnett (1901) translation. The \"Anna Karenina Principle\" was coined by Jared Diamond in Guns, Germs, and Steel (1997).",
+    "quoteId": "opening-010"
   },
   {
     "slug": "perlman",
@@ -132,7 +140,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "From a non-professional in-house English translation of Toaplan's Zero Wing (arcade 1989; the intro cutscene appeared in the 1991 European Mega Drive port). Spoken by the antagonist CATS, it became one of the first viral internet memes (2000–2001)."
+    "notes": "From a non-professional in-house English translation of Toaplan's Zero Wing (arcade 1989; the intro cutscene appeared in the 1991 European Mega Drive port). Spoken by the antagonist CATS, it became one of the first viral internet memes (2000–2001).",
+    "quoteId": "game-013"
   },
   {
     "slug": "darwin",
@@ -141,7 +150,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "Not in Darwin's writings (Darwin Correspondence Project, Quote Investigator). Leon C. Megginson summarized Darwin in a 1963 address, explicitly as \"according to Darwin's Origin of Species\"; later writers shortened it and credited Darwin directly (1964, 1968, 1982). This exact wording first appears in 1987 House testimony crediting Clarence Darrow; a \"most responsive to change\" variant was circulating by 2008."
+    "notes": "Not in Darwin's writings (Darwin Correspondence Project, Quote Investigator). Leon C. Megginson summarized Darwin in a 1963 address, explicitly as \"according to Darwin's Origin of Species\"; later writers shortened it and credited Darwin directly (1964, 1968, 1982). This exact wording first appears in 1987 House testimony crediting Clarence Darrow; a \"most responsive to change\" variant was circulating by 2008.",
+    "quoteId": "grit-032"
   },
   {
     "slug": "lincoln",
@@ -150,7 +160,8 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "From Lincoln's address before the Wisconsin State Agricultural Society, Milwaukee, September 30, 1859. Lincoln retells the parable as folklore (\"It is said\"), without naming Persia, Sufism, or Solomon; those popular \"ancient proverb\" framings are unsourced and could not be traced to any primary text. Lincoln himself then argues against the sentiment."
+    "notes": "From Lincoln's address before the Wisconsin State Agricultural Society, Milwaukee, September 30, 1859. Lincoln retells the parable as folklore (\"It is said\"), without naming Persia, Sufism, or Solomon; those popular \"ancient proverb\" framings are unsourced and could not be traced to any primary text. Lincoln himself then argues against the sentiment.",
+    "quoteId": "res-029"
   },
   {
     "slug": "frost",
@@ -159,6 +170,27 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "The line is spoken by the exhausted farm-wife narrator's husband Len, not asserted as the poem's own moral — she only half-agrees, fearing her own breakdown. The underlying adage predates Frost: Quote Investigator traces \"the only way out is through\" to an 1870 Harper's Weekly editorial by George William Curtis."
+    "notes": "The line is spoken by the exhausted farm-wife narrator's husband Len, not asserted as the poem's own moral — she only half-agrees, fearing her own breakdown. The underlying adage predates Frost: Quote Investigator traces \"the only way out is through\" to an 1870 Harper's Weekly editorial by George William Curtis.",
+    "quoteId": "poem-036"
+  },
+  {
+    "slug": "shedd",
+    "quote": "A ship in harbor is safe, but that is not what ships are built for.",
+    "attribution": "John A. Shedd, Salt from My Attic (1928) (often credited to Grace Hopper)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Shedd published it in Salt from My Attic (Mosher Press, 1928, p. 20). Grace Hopper popularized a 'port' variant from at least 1981 but did not coin it; a 1995 column's Einstein credit is unsupported.",
+    "quoteId": "courage-035"
+  },
+  {
+    "slug": "cameron",
+    "quote": "Not everything that can be counted counts, and not everything that counts can be counted.",
+    "attribution": "William Bruce Cameron, Informal Sociology (1963) (often misattributed to Albert Einstein)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Quote Investigator traces the full two-part form to sociologist William Bruce Cameron's Informal Sociology (1963, p. 13), after his 1957-58 one-part versions. The Einstein link is a 1986 unreferenced blackboard anecdote, three decades after Einstein died.",
+    "quoteId": "di-033"
   }
 ]
