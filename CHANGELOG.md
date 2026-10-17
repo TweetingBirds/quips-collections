@@ -38,12 +38,18 @@ Two quotes added:
   the fittest" paraphrase) corrected to "but rather the one most adaptable
   to change," with notes clarifying the line's path through Megginson's
   1963 paraphrase and 1987 congressional testimony.
+- **Great Economists**: econ-042 (Sowell, "There are no solutions. There are
+  only trade-offs.") recast as a paraphrase of the argument in *A Conflict of
+  Visions*, ch. 2 — the sentence does not appear verbatim in the book;
+  downgraded from `verified` to `attributed`, with Sowell's fuller interview
+  wording noted.
 - **Star Wars**: starwars-012 ("No, I am your father.") punctuation
   corrected to match the documented line.
 
 ### Audited
-Gratitude collection audited through grat-030; cursor advanced to
-great-economists for the next run.
+Gratitude collection audited through grat-030. Great Economists sampled
+non-contiguously (22 quotes, one flagged: econ-042); the cursor stays at the
+start of the collection so the remaining quotes are still covered.
 
 ## [1.17.0] - 2026-10-05
 ### Added
