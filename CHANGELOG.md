@@ -11,6 +11,40 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.17.2] - 2026-10-17
+### Added
+Two quotes added:
+- **Courage & Conviction**: John A. Shedd's "A ship in harbor is safe, but
+  that is not what ships are built for" (1928), traced via Quote
+  Investigator and WIST to his *Salt from My Attic* collection rather than
+  the popular Grace Hopper or Einstein attributions.
+- **Daily Inspiration**: William Bruce Cameron's "Not everything that can be
+  counted counts..." (1963), traced via Quote Investigator to his
+  *Informal Sociology* textbook rather than the popular Einstein
+  attribution.
+
+### Fixed
+- **Resilience**: res-027 ("You're braver than you believe...") recredited
+  from A. A. Milne to Christopher Robin, the character who speaks the line
+  in *Pooh's Grand Adventure* (1997); promoted from `attributed` to
+  `verified` now that the real source is identified.
+- **Gratitude**: grat-006 (Epicurus, "Do not spoil what you have...")
+  resourced to *Vatican Sayings* no. 35 after the prior Seneca citation
+  could not be confirmed; downgraded from `verified` to `attributed`.
+  grat-030 (Buddha, "Let us rise up and be thankful...") traced to Leo
+  Buscaglia's *Born for Love* (1992) rather than canonical Buddhist
+  scripture; downgraded from `attributed` to `unverified`.
+- **Grit & Perseverance**: grit-032 (the Darwin-misattributed "survival of
+  the fittest" paraphrase) corrected to "but rather the one most adaptable
+  to change," with notes clarifying the line's path through Megginson's
+  1963 paraphrase and 1987 congressional testimony.
+- **Star Wars**: starwars-012 ("No, I am your father.") punctuation
+  corrected to match the documented line.
+
+### Audited
+Gratitude collection audited through grat-030; cursor advanced to
+great-economists for the next run.
+
 ## [1.17.0] - 2026-10-05
 ### Added
 Two new collections in the Faith category:
