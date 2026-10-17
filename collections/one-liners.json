@@ -9,7 +9,7 @@
   "iconName": "text.bubble.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "quotes": [
     {
       "id": "oneliner-001",
@@ -442,6 +442,22 @@
         "one-liner"
       ],
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "oneliner-028",
+      "content": "Insanity is doing the same thing, over and over again, but expecting different results.",
+      "authorName": "Rita Mae Brown",
+      "source": "Sudden Death (Bantam Books, 1983), p. 68, spoken by the character Jane Fulton",
+      "sourceType": "book",
+      "quoteDate": "1983",
+      "verificationStatus": "unverified",
+      "notes": "Not Einstein, who is not known to have said it. The wording is as reported by Quote Investigator and Barry Popik; the book itself was not consulted, and earlier 1981 Al-Anon and Narcotics Anonymous variants exist.",
+      "tags": [
+        "habits",
+        "mistakes",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }
