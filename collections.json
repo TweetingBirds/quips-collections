@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-14T12:00:00Z",
+  "lastUpdated": "2026-10-16T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-21T12:00:00Z",
-      "contentHash": "sha256-0+zSpTyT9ZdJ+q2m8t50ePc64uDRVbpBE/JrKtB1kT4=",
-      "bytes": 18577
+      "lastUpdated": "2026-10-16T12:00:00Z",
+      "contentHash": "sha256-VzpsHI4cT1LOY+zSWLDVT2vjm99S6j8TCaVP7CD7UWM=",
+      "bytes": 18629
     },
     {
       "id": "self-compassion",
