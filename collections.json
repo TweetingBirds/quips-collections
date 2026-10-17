@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-16T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1881,6 +1881,26 @@
       "lastUpdated": "2026-06-01T12:00:00Z",
       "contentHash": "sha256-NM9J6yFXV3hXtbB4K8U88c5f+U9X3tTy2+o1N6jlxXg=",
       "bytes": 83437
+    },
+    {
+      "id": "goals-fresh-starts",
+      "name": "Goals & Fresh Starts",
+      "description": "Aims worth setting, resolutions worth keeping, and the courage to begin again.",
+      "author": "Quips Editorial",
+      "quoteCount": 18,
+      "previewQuotes": [
+        "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
+        "Nothing great was ever achieved without enthusiasm."
+      ],
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
+      "iconName": "flag.fill",
+      "category": "Inspiration",
+      "addedAt": "2026-10-17T12:00:00Z",
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-vmZr9IxMV0AbYk+4IlbqEy7JgJAsXpVHhmqBmWz+Q6c=",
+      "bytes": 12171
     }
   ]
 }

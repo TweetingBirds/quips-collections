@@ -1,0 +1,317 @@
+{
+  "id": "goals-fresh-starts",
+  "name": "Goals & Fresh Starts",
+  "description": "Aims worth setting, resolutions worth keeping, and the courage to begin again.",
+  "author": "Quips Editorial",
+  "colorName": "green",
+  "colorLightHex": "#27AE57",
+  "colorDarkHex": "#2BD66A",
+  "iconName": "flag.fill",
+  "category": "Inspiration",
+  "addedAt": "2026-10-17T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
+  "quotes": [
+    {
+      "id": "goals-001",
+      "content": "Marilla, isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
+      "authorName": "L. M. Montgomery",
+      "source": "Anne of Green Gables, ch. XXI, 'A New Departure in Flavorings' (1908)",
+      "quoteDate": "1908",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Anne says it to Marilla after the liniment-cake mishap, and Marilla answers that she will make plenty.",
+      "tags": [
+        "beginnings",
+        "starting-over",
+        "hope",
+        "encouragement"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-002",
+      "content": "Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain.",
+      "authorName": "William James",
+      "source": "The Principles of Psychology, vol. 1, ch. IV, 'Habit' (1890)",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The third of James's practical maxims for forming a habit, drawn partly from Alexander Bain.",
+      "tags": [
+        "habits",
+        "discipline",
+        "beginnings",
+        "advice",
+        "new-year"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-003",
+      "content": "Never suffer an exception to occur till the new habit is securely rooted in your life.",
+      "authorName": "William James",
+      "source": "The Principles of Psychology, vol. 1, ch. IV, 'Habit' (1890)",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "James's second maxim; he follows it with the image of a dropped ball of string that undoes many turns of winding.",
+      "tags": [
+        "habits",
+        "discipline",
+        "perseverance",
+        "advice"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-004",
+      "content": "I will honour Christmas in my heart, and try to keep it all the year. I will live in the Past, the Present, and the Future. The Spirits of all Three shall strive within me. I will not shut out the lessons that they teach.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave Four, 'The Last of the Spirits' (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Scrooge's vow to the Spirit of Christmas Yet to Come in the graveyard, before the story's turn to morning.",
+      "tags": [
+        "starting-over",
+        "redemption",
+        "learning",
+        "new-year"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-005",
+      "content": "I am not the man I was. I will not be the man I must have been but for this intercourse.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol, Stave Four, 'The Last of the Spirits' (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Scrooge pleads with the Spirit as he stands before his own gravestone.",
+      "tags": [
+        "starting-over",
+        "change",
+        "self-knowledge"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-006",
+      "content": "Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, 'Conclusion' (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The last lines of the book.",
+      "tags": [
+        "beginnings",
+        "hope",
+        "present-moment",
+        "lyrical"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-007",
+      "content": "Nothing great was ever achieved without enthusiasm.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Essays: First Series, 'Circles' (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson writes it in a passage about drawing 'a new circle' and surprising yourself.",
+      "tags": [
+        "ambition",
+        "effort",
+        "excellence",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-008",
+      "content": "You know also that the beginning is the most important part of any work, especially in the case of a young and tender thing; for that is the time at which the character is being formed and the desired impression is more readily taken.",
+      "authorName": "Plato",
+      "source": "The Republic, Book II (trans. Benjamin Jowett, 1871)",
+      "quoteDate": "c. 375 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Socrates is arguing that the stories children hear first shape their character.",
+      "tags": [
+        "beginnings",
+        "habits",
+        "learning"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-009",
+      "content": "\"Would you tell me, please, which way I ought to go from here?\"\n\"That depends a good deal on where you want to get to,\" said the Cat.\n\"I don't much care where--\" said Alice.\n\"Then it doesn't matter which way you go,\" said the Cat.",
+      "authorName": "Lewis Carroll",
+      "source": "Alice's Adventures in Wonderland, ch. VI, 'Pig and Pepper' (1865)",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Alice asks the Cheshire Cat for directions.",
+      "tags": [
+        "purpose",
+        "choice",
+        "wisdom",
+        "wit"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-010",
+      "content": "Will not the knowledge of it, then, have a great influence on life? Shall we not, like archers who have a mark to aim at, be more likely to hit upon what is right?",
+      "authorName": "Aristotle",
+      "source": "Nicomachean Ethics, Book I, ch. 2 (trans. W. D. Ross)",
+      "quoteDate": "c. 350 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Aristotle's opening argument that knowing the highest good gives direction to everything we do.",
+      "tags": [
+        "purpose",
+        "wisdom",
+        "ambition"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-011",
+      "content": "Let thine eyes look right on, and let thine eyelids look straight before thee. Ponder the path of thy feet, and let all thy ways be established.",
+      "authorName": "Solomon",
+      "source": "Proverbs 4:25-26, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A father's counsel to keep the gaze forward and weigh each step.",
+      "tags": [
+        "purpose",
+        "discipline",
+        "advice",
+        "scripture"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-012",
+      "content": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+      "authorName": "The Preacher",
+      "source": "Ecclesiastes 9:10, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The call to work with full effort comes from a reminder that time is short.",
+      "tags": [
+        "effort",
+        "work",
+        "time",
+        "scripture"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-013",
+      "content": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+      "authorName": "Solomon",
+      "source": "Proverbs 29:18, King James Version (1611)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "'Vision' here means prophetic revelation, though the line is now quoted about having a goal.",
+      "tags": [
+        "purpose",
+        "hope",
+        "scripture"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-014",
+      "content": "It was about this time I conceiv'd the bold and arduous project of arriving at moral perfection. I wish'd to live without committing any fault at any time; I would conquer all that either natural inclination, custom, or company might lead me into.",
+      "authorName": "Benjamin Franklin",
+      "source": "The Autobiography of Benjamin Franklin (written 1771-1790)",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Franklin goes on to describe the little book in which he tracked thirteen virtues, a page for each, with a mark for every fault.",
+      "tags": [
+        "ambition",
+        "habits",
+        "discipline",
+        "new-year"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-015",
+      "content": "Remember that time is money.",
+      "authorName": "Benjamin Franklin",
+      "source": "Advice to a Young Tradesman, Written by an Old One (1748)",
+      "quoteDate": "1748",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Franklin addresses the essay to a young tradesman and counts a half-day of idleness as a real expense.",
+      "tags": [
+        "time",
+        "work",
+        "advice",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-016",
+      "content": "Afoot and light-hearted I take to the open road,\nHealthy, free, the world before me,\nThe long brown path before me leading wherever I choose.",
+      "authorName": "Walt Whitman",
+      "source": "Song of the Open Road, Leaves of Grass (1891-92 edition)",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Whitman revised the poem across editions; this is the opening of the final text.",
+      "tags": [
+        "beginnings",
+        "freedom",
+        "travel",
+        "lyrical"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-017",
+      "content": "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
+      "authorName": "Helen Keller",
+      "source": "Optimism: An Essay (1903)",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Keller makes the case that every advance began with someone who hoped.",
+      "tags": [
+        "hope",
+        "courage",
+        "wonder",
+        "encouragement"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-018",
+      "content": "The greatest results in life are usually attained by simple means, and the exercise of ordinary qualities. The road of human welfare lies along the old highway of steadfast well-doing; and they who are the most persistent, and work in the truest spirit, will usually be the most successful.",
+      "authorName": "Samuel Smiles",
+      "source": "Self-Help, ch. IV, 'Application and Perseverance' (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening of the chapter on perseverance in Smiles's bestseller.",
+      "tags": [
+        "perseverance",
+        "effort",
+        "success",
+        "advice"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
+    }
+  ]
+}

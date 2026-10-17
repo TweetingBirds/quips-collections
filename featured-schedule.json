@@ -128,8 +128,8 @@
     },
     {
       "weekStart": "2027-01-04",
-      "collectionId": "lds-scripture-mastery",
-      "note": "No calendar tie this week, so coverage governs: the newest collection in the library, and never featured, gets first look."
+      "collectionId": "goals-fresh-starts",
+      "note": "The first full week of the year, with Quitters' Day on the second Friday (the 8th), when New Year's resolutions are said to fade most: words for setting a course and starting again."
     },
     {
       "weekStart": "2027-01-11",
@@ -147,6 +147,11 @@
       "collectionId": "legendary-coaches",
       "quoteId": "coach-017",
       "note": "The College Football Playoff National Championship is played Monday, January 25, 2027 — Bill Walsh on the standard that makes a champion."
+    },
+    {
+      "weekStart": "2027-02-01",
+      "collectionId": "grit-perseverance",
+      "note": "No calendar tie this week, so coverage governs: a never-featured collection, and a good one for the weeks after January's resolutions meet reality."
     }
   ]
 }

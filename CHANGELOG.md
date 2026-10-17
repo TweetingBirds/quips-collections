@@ -11,9 +11,14 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [1.17.2] - 2026-10-17
+## [1.18.0] - 2026-10-17
 ### Added
-Two quotes added:
+One new collection in the Inspiration category:
+- **Goals & Fresh Starts**: 18 quotes on setting aims, keeping resolutions,
+  and beginning again, from Montgomery, William James, Dickens, Thoreau,
+  Franklin, Whitman, and others. Featured the week of 2027-01-04.
+
+Two quotes added to existing collections:
 - **Courage & Conviction**: John A. Shedd's "A ship in harbor is safe, but
   that is not what ships are built for" (1928), traced via Quote
   Investigator and WIST to his *Salt from My Attic* collection rather than
