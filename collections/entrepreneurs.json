@@ -9,7 +9,7 @@
   "iconName": "lightbulb.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-20T12:00:00Z",
+  "lastUpdated": "2026-10-14T12:00:00Z",
   "quotes": [
     {
       "id": "entre-001",
@@ -475,6 +475,22 @@
         "advice"
       ],
       "addedAt": "2026-08-20T12:00:00Z"
+    },
+    {
+      "id": "entre-030",
+      "content": "There's lots of ways to be, as a person. And some people express their deep appreciation in different ways. But one of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.",
+      "authorName": "Steve Jobs",
+      "source": "Remarks at an internal Apple meeting (October 23, 2007)",
+      "quoteDate": "2007-10-23",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Jobs's answer to an employee's question about keeping Apple's culture as it grew; confirmed against the recording published by the Steve Jobs Archive.",
+      "tags": [
+        "craft",
+        "gratitude",
+        "purpose"
+      ],
+      "addedAt": "2026-10-14T12:00:00Z"
     }
   ]
 }

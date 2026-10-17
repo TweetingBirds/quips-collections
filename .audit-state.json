@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 27,
-    "file": "founding-fathers",
-    "quoteIndex": 25,
-    "note": "found-001..025 audited; next run begins founding-fathers quotes[25] (found-026)."
+    "fileIndex": 30,
+    "file": "great-economists",
+    "quoteIndex": 0,
+    "note": "grat-007..030 audited; next run begins great-economists quotes[0]."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 757,
+  "totalQuotesAudited": 826,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1108,6 +1108,48 @@
       "issue": "content used the abridged Jefferson Memorial inscription wording ('frequent changes') as if it were the letter text; original reads 'certainly ... frequent and untried changes'.",
       "resolution": "content restored to letter wording with ellipsis, note updated; hashes refreshed, validate --strict passed.",
       "processNote": "web fetch unavailable (DNS/egress blocked); verified via WebSearch only. Open PR #213 (first-lines) branch merged in first so cursor is consistent. found-020 'dictates' vs 'dictums' of our passions unresolved, left unchanged."
+    },
+    {
+      "runDate": "2026-10-14",
+      "file": "founding-fathers, friendship",
+      "quoteRange": "found-026..found-036, friend-001..friend-014",
+      "count": 25,
+      "passed": 24,
+      "flagged": 1,
+      "flaggedIds": [
+        "friend-003"
+      ],
+      "issue": "friend-003 content was a non-Ross rendering though notes/source say Ross; Ross reads 'For a wish for friendship may arise quickly, but friendship does not.'",
+      "resolution": "content corrected to Ross wording, note updated; hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PRs #215/#216 (Shedd, Cameron) both correctly marked unverified, citing Quote Investigator, no misattribution; no action."
+    },
+    {
+      "runDate": "2026-10-15",
+      "file": "friendship, gratitude",
+      "quoteRange": "friend-015..friend-028, grat-001..grat-006",
+      "count": 20,
+      "passed": 19,
+      "flagged": 1,
+      "flaggedIds": [
+        "grat-006"
+      ],
+      "issue": "grat-006 cited Seneca Letter IX, which could not be confirmed; saying is Epicurus, Vatican Sayings 35.",
+      "resolution": "source/date/sourceType corrected, status verified->attributed (wording is translator-dependent); hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. PR #219 claim (1987 House testimony/Darrow) not confirmed by search; #215/#216/#220 no problems found."
+    },
+    {
+      "runDate": "2026-10-16",
+      "file": "gratitude",
+      "quoteRange": "grat-007..grat-030",
+      "count": 24,
+      "passed": 23,
+      "flagged": 1,
+      "flaggedIds": [
+        "grat-030"
+      ],
+      "issue": "grat-030 credited to Buddha; no canonical source, earliest trace is Leo Buscaglia's Born for Love (1992).",
+      "resolution": "source/notes/quoteDate corrected, status attributed->unverified; hashes refreshed, validate --strict passed.",
+      "processNote": "WebFetch unavailable (DNS blocked); WebSearch only. Most grat quotes lack a primary source but are already marked attributed. Weak: grat-023 (Emerson), grat-028 (Seneca De Beneficiis unlocated). PR #219 Darrow 1987 claim still unconfirmed; #215/#216 match Quote Investigator."
     }
   ]
 }
