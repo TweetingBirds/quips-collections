@@ -145,12 +145,12 @@
   },
   {
     "slug": "darwin",
-    "quote": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
-    "attribution": "Leon C. Megginson, 1963 (often misattributed to Charles Darwin)",
+    "quote": "It is not the strongest of the species that survives, nor the most intelligent, but rather the one most adaptable to change.",
+    "attribution": "Misattributed to Charles Darwin (condensed from Leon C. Megginson's 1963 paraphrase)",
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "No edition of Darwin's Origin of Species contains this line (confirmed via the Darwin Correspondence Project, Quote Investigator, and Wikiquote). Megginson's original wording, from his 1963 presidential address to the Southwestern Social Science Association, was explicitly framed as \"according to Darwin\" and was further compressed over decades into this now-famous version.",
+    "notes": "Not in Darwin's writings (Darwin Correspondence Project, Quote Investigator). Leon C. Megginson summarized Darwin in a 1963 address, explicitly as \"according to Darwin's Origin of Species\"; later writers shortened it and credited Darwin directly (1964, 1968, 1982). This exact wording first appears in 1987 House testimony crediting Clarence Darrow; a \"most responsive to change\" variant was circulating by 2008.",
     "quoteId": "grit-032"
   },
   {
