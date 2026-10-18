@@ -23,8 +23,8 @@
     "slug": "ulrich",
     "quote": "Well-behaved women seldom make history.",
     "attribution": "Laurel Thatcher Ulrich, 1976",
-    "status": "scheduled",
-    "issueNumber": 3,
+    "status": "backlog",
+    "issueNumber": null,
     "sentAt": null,
     "notes": "The sentence closes the opening paragraph of Ulrich's article \"Vertuous Women Found: New England Ministerial Literature, 1668–1735\" (American Quarterly, Spring 1976): an observation that pious women rarely entered the historical record, not a call to misbehave. It spread online from 1996 and was later credited to Marilyn Monroe and Eleanor Roosevelt.",
     "quoteId": "courage-033"
@@ -62,8 +62,8 @@
     "slug": "hall",
     "quote": "I disapprove of what you say, but I will defend to the death your right to say it.",
     "attribution": "Evelyn Beatrice Hall, 1906 (describing Voltaire)",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 3,
     "sentAt": null,
     "notes": "Written by Hall (pen name S. G. Tallentyre) in The Friends of Voltaire (1906) to sum up Voltaire's attitude when Helvétius's De l'esprit was burned, not to quote him. In 1935 she called it a paraphrase, and in a 1939 letter said it was \"my own expression\" that \"should not have been put in inverted commas.\" Not found in Voltaire's works.",
     "quoteId": "courage-014"
