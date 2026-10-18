@@ -192,5 +192,34 @@
     "sentAt": null,
     "notes": "Quote Investigator traces the full two-part form to sociologist William Bruce Cameron's Informal Sociology (1963, p. 13), after his 1957-58 one-part versions. The Einstein link is a 1986 unreferenced blackboard anecdote, three decades after Einstein died.",
     "quoteId": "di-033"
+  },
+  {
+    "slug": "baudelaire",
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
+    "attribution": "Verbal Kint (Kevin Spacey), The Usual Suspects (1995), echoing Charles Baudelaire (1864)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Spoken in The Usual Suspects (1995, screenplay by Christopher McQuarrie). It echoes Baudelaire's \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher who said his cleverest ruse is to persuade you he does not exist. Similar remarks appear in 1836 and 1856 books, so the idea is older than Baudelaire."
+  },
+  {
+    "slug": "roosevelt",
+    "quote": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, and comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.",
+    "attribution": "Theodore Roosevelt, \"Citizenship in a Republic,\" Sorbonne, Paris, April 23, 1910",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Genuine, and the wording is not in doubt. The passage is about 140 words of a speech titled \"Citizenship in a Republic,\" aimed at educated listeners and a warning against cynicism; the sentence after it rebukes \"the man of cultivated taste\" who sneers at rough work. Popularly known as \"The Man in the Arena.\"",
+    "quoteId": "speech-037"
+  },
+  {
+    "slug": "santayana",
+    "quote": "Only the dead are safe; only the dead have seen the end of war.",
+    "attribution": "George Santayana, \"Tipperary,\" Soliloquies in England and Later Soliloquies (1922) (often credited to Plato)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "From Santayana's essay about wounded officers singing \"Tipperary\" in an Oxford coffee-house on Armistice day. General MacArthur credited it to Plato in his May 12, 1962 West Point address; American Rhetoric's transcript footnotes that Santayana, not Plato, is the source.",
+    "quoteId": "vets-027"
   }
 ]
