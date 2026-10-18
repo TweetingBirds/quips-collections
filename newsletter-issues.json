@@ -33,8 +33,8 @@
     "slug": "jordan",
     "quote": "I can accept failure. Everyone fails at something. But I can't accept not trying.",
     "attribution": "Michael Jordan",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 4,
     "sentAt": null,
     "notes": "The title line of I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (HarperSanFrancisco, 1994), a 36-page book with photographs by Sandro Miller; library records credit the text to Jordan and the editing to Mark Vancil. Genuinely his, but usually shared without its source.",
     "quoteId": "mj-001"
