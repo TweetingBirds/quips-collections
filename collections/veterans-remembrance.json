@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "quotes": [
     {
       "id": "vets-001",
@@ -445,6 +445,23 @@
         "politics"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "vets-027",
+      "content": "Only the dead are safe; only the dead have seen the end of war.",
+      "authorName": "George Santayana",
+      "source": "\"Tipperary,\" Soliloquies in England and Later Soliloquies (Charles Scribner's Sons, 1922), p. 102",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Santayana's essay on the Armistice bells in Oxford and wounded officers singing \"Tipperary\" in a coffee-house. General MacArthur credited \"Only the dead have seen the end of war\" to Plato in his West Point address on May 12, 1962; the sentence is Santayana's.",
+      "tags": [
+        "war",
+        "peace",
+        "mortality",
+        "warning"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }
