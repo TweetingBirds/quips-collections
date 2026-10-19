@@ -1198,9 +1198,9 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-17T12:00:00Z",
-      "contentHash": "sha256-vh5DhbNa73af5hur4X1cdGkr0fUuOnrmruYuseZvWaU=",
-      "bytes": 25899
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-wTe0HzJOZXp8cGE/z5fDVSc9M+ooUuV8Q/pz8FthFo4=",
+      "bytes": 25983
     },
     {
       "id": "founding-fathers",
@@ -1767,7 +1767,7 @@
       "name": "Veterans & Remembrance",
       "description": "Words for those who served, and for the days we set aside to remember them.",
       "author": "Quips Editorial",
-      "quoteCount": 26,
+      "quoteCount": 27,
       "previewQuotes": [
         "Old soldiers never die; they just fade away.",
         "The old Lie: Dulce et decorum est\nPro patria mori."
@@ -1778,9 +1778,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-mETjl8v/72BxnTueoo37hOJBEnAn9r4I1wUL3DmD/jM=",
-      "bytes": 18024
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-HusNtHYrpz3NKEDH+7Lckmd3eVTCWPVahkz7mftp5bI=",
+      "bytes": 18771
     },
     {
       "id": "hunger-games",
