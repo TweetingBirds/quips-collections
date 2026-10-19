@@ -222,5 +222,15 @@
     "sentAt": null,
     "notes": "From Santayana's essay \"Tipperary\" (Scribner's, 1922, p. 102). Douglas MacArthur credited it to Plato in his \"Duty, Honor, Country\" address at West Point, May 12, 1962; no source in Plato is known.",
     "quoteId": "vets-027"
+  },
+  {
+    "slug": "pascal",
+    "quote": "The present letter is a very long one, simply because I had no leisure to make it shorter.",
+    "attribution": "Blaise Pascal (popularly paraphrased as \"If I had more time, I would have written a shorter letter\" and often credited to Mark Twain)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "From Pascal's Provincial Letters, no. 16 (dated December 4, 1656), in Thomas M'Crie's 1856 English translation; the French is \"Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.\" The 'more time' form is a later paraphrase, Quote Investigator finds earlier versions (Balzac, 1652) and no Twain evidence.",
+    "quoteId": "cm-035"
   }
 ]
