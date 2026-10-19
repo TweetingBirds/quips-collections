@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-10-14T12:00:00Z",
+  "lastUpdated": "2026-10-19T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -581,6 +581,23 @@
         "advice"
       ],
       "addedAt": "2026-10-14T12:00:00Z"
+    },
+    {
+      "id": "courage-036",
+      "content": "Do one thing every day that scares you.",
+      "authorName": "Mary Schmich",
+      "source": "\"Advice, Like Youth, Probably Just Wasted on the Young,\" Chicago Tribune (June 1, 1997)",
+      "sourceType": "newspaper",
+      "quoteDate": "1997-06-01",
+      "verificationStatus": "unverified",
+      "notes": "Often credited to Eleanor Roosevelt, whose nearest known line is 'You must do the thing you think you cannot do' (You Learn by Living, 1960); Quote Investigator finds the exact sentence in Schmich's 1997 column, and Schmich has said she has seen no evidence Roosevelt said it. Unverified because the Tribune column itself was not opened -- wording and date rest on Quote Investigator's citation and Wikipedia's reference.",
+      "tags": [
+        "courage",
+        "fear",
+        "advice",
+        "one-liner"
+      ],
+      "addedAt": "2026-10-19T12:00:00Z"
     }
   ]
 }
