@@ -197,11 +197,11 @@
     "slug": "baudelaire",
     "quote": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
     "attribution": "Verbal Kint (Kevin Spacey), The Usual Suspects (1995), echoing Charles Baudelaire (1864)",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 4,
     "sentAt": null,
     "notes": "Christopher McQuarrie's line echoes Baudelaire's prose poem \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher warning that \"la plus belle des ruses du diable est de vous persuader qu'il n'existe pas.\" Quote Investigator, March 20, 2018.",
-    "quoteId": null
+    "quoteId": "oneliner-028"
   },
   {
     "slug": "roosevelt",
