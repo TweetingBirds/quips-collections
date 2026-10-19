@@ -1387,7 +1387,7 @@
       "name": "One-Liners",
       "description": "Rapier wit in a single sentence, from the sharpest tongues in comedy and letters.",
       "author": "Quips Editorial",
-      "quoteCount": 27,
+      "quoteCount": 28,
       "previewQuotes": [
         "Take my wife... please.",
         "What fresh hell can this be?"
@@ -1398,9 +1398,9 @@
       "iconName": "text.bubble.fill",
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-i7kRr7gUNeW1EmVzNTgaxa2WLZvS+FmXIWOcm+k97mg=",
-      "bytes": 15237
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-7ziomx5GNdA7E1UlnkTWRX58N+bsf34cixw3+/3ArAo=",
+      "bytes": 16019
     },
     {
       "id": "mark-twain-wit",

@@ -197,10 +197,11 @@
     "slug": "baudelaire",
     "quote": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
     "attribution": "Verbal Kint (Kevin Spacey), The Usual Suspects (1995), echoing Charles Baudelaire (1864)",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 4,
     "sentAt": null,
-    "notes": "Spoken in The Usual Suspects (1995, screenplay by Christopher McQuarrie). It echoes Baudelaire's \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher who said his cleverest ruse is to persuade you he does not exist. Similar remarks appear in 1836 and 1856 books, so the idea is older than Baudelaire."
+    "notes": "Christopher McQuarrie's line echoes Baudelaire's prose poem \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher warning that \"la plus belle des ruses du diable est de vous persuader qu'il n'existe pas.\" Quote Investigator, March 20, 2018.",
+    "quoteId": "oneliner-028"
   },
   {
     "slug": "roosevelt",
@@ -209,17 +210,17 @@
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "Genuine, and the wording is not in doubt. The passage is about 140 words of a speech titled \"Citizenship in a Republic,\" aimed at educated listeners and a warning against cynicism; the sentence after it rebukes \"the man of cultivated taste\" who sneers at rough work. Popularly known as \"The Man in the Arena.\"",
+    "notes": "The speech was titled \"Citizenship in a Republic\" and is only popularly known as \"The Man in the Arena.\" Text from African and European Addresses (1910), p. 31 onward; the printed text has not been compared with a report of the speech as delivered.",
     "quoteId": "speech-037"
   },
   {
     "slug": "santayana",
     "quote": "Only the dead are safe; only the dead have seen the end of war.",
-    "attribution": "George Santayana, \"Tipperary,\" Soliloquies in England and Later Soliloquies (1922) (often credited to Plato)",
+    "attribution": "George Santayana, \"Tipperary,\" Soliloquies in England and Later Soliloquies (1922) (often misattributed to Plato)",
     "status": "backlog",
     "issueNumber": null,
     "sentAt": null,
-    "notes": "From Santayana's essay about wounded officers singing \"Tipperary\" in an Oxford coffee-house on Armistice day. General MacArthur credited it to Plato in his May 12, 1962 West Point address; American Rhetoric's transcript footnotes that Santayana, not Plato, is the source.",
+    "notes": "From Santayana's essay \"Tipperary\" (Scribner's, 1922, p. 102). Douglas MacArthur credited it to Plato in his \"Duty, Honor, Country\" address at West Point, May 12, 1962; no source in Plato is known.",
     "quoteId": "vets-027"
   }
 ]
