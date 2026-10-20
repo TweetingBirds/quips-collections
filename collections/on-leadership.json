@@ -9,7 +9,7 @@
   "iconName": "person.3.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-03T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "quotes": [
     {
       "id": "ldr-001",
@@ -474,6 +474,22 @@
         "aphorism"
       ],
       "addedAt": "2026-08-03T12:00:00Z"
+    },
+    {
+      "id": "ldr-030",
+      "content": "The mark of a man was to be able to say at the end, \"I've done my share.\"",
+      "authorName": "Alfred E. Perlman (as reported by David P. Morgan)",
+      "source": "Trains, July 1983, p. 4 (Morgan's memorial to Perlman)",
+      "sourceType": "magazine",
+      "quoteDate": "c. 1940",
+      "verificationStatus": "unverified",
+      "notes": "Morgan reports that Perlman, the railroad executive, \"once observed in 1940\" this; the wording is checked against the printed page, but it is Morgan's report and no other source has been found.",
+      "tags": [
+        "service",
+        "legacy",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }

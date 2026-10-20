@@ -1127,7 +1127,7 @@
       "name": "On Leadership",
       "description": "What it takes to lead — insight on trust, vision, and service from those who led.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "Leadership belongs to those who take it.",
         "Perpetual optimism is a force multiplier."
@@ -1138,9 +1138,9 @@
       "iconName": "person.3.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-03T12:00:00Z",
-      "contentHash": "sha256-jYipqRdc3rMSXQ9NZA/VRlgTRGjAuZgmyti8XXoFjcY=",
-      "bytes": 18984
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-EbcH1XcX9piNv4ZiQwGchkZZn5h4y/SqxXezC2l8qtA=",
+      "bytes": 19703
     },
     {
       "id": "money-investing",
@@ -1387,7 +1387,7 @@
       "name": "One-Liners",
       "description": "Rapier wit in a single sentence, from the sharpest tongues in comedy and letters.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Take my wife... please.",
         "What fresh hell can this be?"
@@ -1399,8 +1399,8 @@
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-10-19T12:00:00Z",
-      "contentHash": "sha256-7ziomx5GNdA7E1UlnkTWRX58N+bsf34cixw3+/3ArAo=",
-      "bytes": 16019
+      "contentHash": "sha256-6FJR3ViJnbfl2EJe4HgXPy4uta4ZTt63lM7oyWluX/c=",
+      "bytes": 16754
     },
     {
       "id": "mark-twain-wit",
@@ -1447,7 +1447,7 @@
       "name": "Love & Romance",
       "description": "The timeless language of the heart, from the greatest poets and writers of love.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "How do I love thee? Let me count the ways.",
         "You pierce my soul. I am half agony, half hope."
@@ -1458,9 +1458,9 @@
       "iconName": "heart.circle.fill",
       "category": "Love & Relationships",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-W7sLfGrYdQAgnoz2ki5CO9EnPgCe3kfif4xh9ri/SJ0=",
-      "bytes": 16418
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-mTlKTKAb5jx5iqAy89stQHiiSKkujKG8nrEAumJq6ok=",
+      "bytes": 17121
     },
     {
       "id": "friendship",
@@ -1547,7 +1547,7 @@
       "name": "Earth & the Wild",
       "description": "Reverence for the living world, from the great voices of nature and conservation.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "All flourishing is mutual.",
         "In nature nothing exists alone."
@@ -1558,9 +1558,9 @@
       "iconName": "globe.americas.fill",
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-EB6LigXAaG0TmP1iauj6GsTbNLnTs5OpWR+Qxck2VxY=",
-      "bytes": 18327
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-9mmhnqrPHhEcwPkE7dGz2ic68sY++Ol13EdXuhoQLt8=",
+      "bytes": 19198
     },
     {
       "id": "studio-ghibli",
@@ -1887,7 +1887,7 @@
       "name": "Goals & Fresh Starts",
       "description": "Aims worth setting, resolutions worth keeping, and the courage to begin again.",
       "author": "Quips Editorial",
-      "quoteCount": 18,
+      "quoteCount": 19,
       "previewQuotes": [
         "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
         "Nothing great was ever achieved without enthusiasm."
@@ -1899,8 +1899,8 @@
       "category": "Inspiration",
       "addedAt": "2026-10-17T12:00:00Z",
       "lastUpdated": "2026-10-17T12:00:00Z",
-      "contentHash": "sha256-vmZr9IxMV0AbYk+4IlbqEy7JgJAsXpVHhmqBmWz+Q6c=",
-      "bytes": 12171
+      "contentHash": "sha256-zPtJj5kxpOjQvUXfyU7HoegRURacHuOzGU5zAi1MHVc=",
+      "bytes": 12934
     }
   ]
 }

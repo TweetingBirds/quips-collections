@@ -9,7 +9,7 @@
   "iconName": "heart.circle.fill",
   "category": "Love & Relationships",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-10-17T12:00:00Z",
   "quotes": [
     {
       "id": "love-001",
@@ -458,6 +458,22 @@
         "lyrical"
       ],
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "love-029",
+      "content": "He walked down, for a long while avoiding looking at her as at the sun, but seeing her, as one does the sun, without looking.",
+      "authorName": "Leo Tolstoy",
+      "source": "Anna Karenina, Part 1, Chapter 9, translated by Constance Garnett (1901)",
+      "sourceType": "book",
+      "quoteDate": "1878",
+      "verificationStatus": "verified",
+      "notes": "Levin watching Kitty skate before he has proposed, not Vronsky and Anna; the poster wording \"He stepped down, trying not to look long at her\" is not Garnett's.",
+      "tags": [
+        "love",
+        "longing",
+        "lyrical"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }

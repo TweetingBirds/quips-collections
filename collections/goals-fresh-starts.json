@@ -312,6 +312,21 @@
         "advice"
       ],
       "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "goals-019",
+      "content": "Set a goal to become a millionaire, for what it will make of you to achieve it.",
+      "authorName": "Jim Rohn (quoting his mentor, Earl Shoaff)",
+      "source": "How to Have Your Best Year Ever! (seminar), Chapter 3, as transcribed by Spread Great Ideas",
+      "sourceType": "lecture",
+      "verificationStatus": "unverified",
+      "notes": "Rohn's own account of what Shoaff told him, in his seminar; the wording follows a third-party transcript, the recording was not heard and its date is unknown, and the popular \"the prize is not the trophy\" form is a later paraphrase.",
+      "tags": [
+        "ambition",
+        "effort",
+        "identity"
+      ],
+      "addedAt": "2026-10-17T12:00:00Z"
     }
   ]
 }
