@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-09-28T12:00:00Z",
+  "lastUpdated": "2026-10-19T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -557,6 +557,23 @@
         "craft"
       ],
       "addedAt": "2026-09-28T12:00:00Z"
+    },
+    {
+      "id": "cm-035",
+      "content": "The present letter is a very long one, simply because I had no leisure to make it shorter.",
+      "authorName": "Blaise Pascal",
+      "source": "Provincial Letters, Letter XVI (December 4, 1656), in Thomas M'Crie's 1856 English translation",
+      "sourceType": "letter",
+      "quoteDate": "1656-12-04",
+      "verificationStatus": "unverified",
+      "notes": "Popularly paraphrased as 'If I had more time, I would have written a shorter letter' and often credited to Twain or Franklin; the line is Pascal's, near the end of Provincial Letters no. 16 ('Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte'). Unverified because the French original was not opened -- wording rests on M'Crie's English translation (Project Gutenberg #73959) and Quote Investigator's citation of the French.",
+      "tags": [
+        "writing",
+        "craft",
+        "time",
+        "wit"
+      ],
+      "addedAt": "2026-10-19T12:00:00Z"
     }
   ]
 }

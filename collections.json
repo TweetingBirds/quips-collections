@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-17T12:00:00Z",
+  "lastUpdated": "2026-10-19T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -127,7 +127,7 @@
       "name": "Creative Minds",
       "description": "Insights on creativity and innovation from artists, writers, and inventors.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
         "Every child is an artist. The problem is how to remain an artist once we grow up."
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-09-28T12:00:00Z",
-      "contentHash": "sha256-V4iKcXEfztYeywcaTHvpW4x9zF1SzYe6OkcEQdcEBL8=",
-      "bytes": 25251
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-5H8r3wBRxZyenYU9xEGmPfEHY7pOYdZzYruPeas+vCg=",
+      "bytes": 26273
     },
     {
       "id": "tech-visionaries",
