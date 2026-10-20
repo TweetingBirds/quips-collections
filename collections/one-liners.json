@@ -9,7 +9,7 @@
   "iconName": "text.bubble.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-17T12:00:00Z",
+  "lastUpdated": "2026-10-19T12:00:00Z",
   "quotes": [
     {
       "id": "oneliner-001",
@@ -445,6 +445,22 @@
     },
     {
       "id": "oneliner-028",
+      "content": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
+      "authorName": "Verbal Kint (Kevin Spacey)",
+      "source": "The Usual Suspects (1995), screenplay by Christopher McQuarrie",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Verbal's line about Keyser Söze, repeated near the end of the film. It echoes Charles Baudelaire's prose poem \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where a preacher warns that \"la plus belle des ruses du diable est de vous persuader qu'il n'existe pas.\"",
+      "tags": [
+        "power",
+        "wit",
+        "one-liner"
+      ],
+      "addedAt": "2026-10-19T12:00:00Z"
+    },
+    {
+      "id": "oneliner-029",
       "content": "Insanity is doing the same thing, over and over again, but expecting different results.",
       "authorName": "Rita Mae Brown",
       "source": "Sudden Death (Bantam Books, 1983), p. 68, spoken by the character Jane Fulton",

@@ -63,8 +63,8 @@
     "slug": "hall",
     "quote": "I disapprove of what you say, but I will defend to the death your right to say it.",
     "attribution": "Evelyn Beatrice Hall, 1906 (describing Voltaire)",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 3,
     "sentAt": null,
     "notes": "Written by Hall (pen name S. G. Tallentyre) in The Friends of Voltaire (1906) to sum up Voltaire's attitude when Helvétius's De l'esprit was burned, not to quote him. In 1935 she called it a paraphrase, and in a 1939 letter said it was \"my own expression\" that \"should not have been put in inverted commas.\" Not found in Voltaire's works.",
     "quoteId": "courage-014"
@@ -77,7 +77,7 @@
     "issueNumber": null,
     "sentAt": null,
     "notes": "Not found in Einstein's works; listed as misattributed in The Ultimate Quotable Einstein. Quote Investigator's earliest match is an Al-Anon item in the Knoxville News-Sentinel (October 11, 1981), then a November 1981 Narcotics Anonymous draft and Rita Mae Brown's Sudden Death (1983). The Einstein credit first appears in 1990.",
-    "quoteId": "oneliner-028"
+    "quoteId": "oneliner-029"
   },
   {
     "slug": "chief-seattle",
@@ -198,5 +198,45 @@
     "sentAt": null,
     "notes": "Quote Investigator traces the full two-part form to sociologist William Bruce Cameron's Informal Sociology (1963, p. 13), after his 1957-58 one-part versions. The Einstein link is a 1986 unreferenced blackboard anecdote, three decades after Einstein died.",
     "quoteId": "di-033"
+  },
+  {
+    "slug": "baudelaire",
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
+    "attribution": "Verbal Kint (Kevin Spacey), The Usual Suspects (1995), echoing Charles Baudelaire (1864)",
+    "status": "scheduled",
+    "issueNumber": 4,
+    "sentAt": null,
+    "notes": "Christopher McQuarrie's line echoes Baudelaire's prose poem \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher warning that \"la plus belle des ruses du diable est de vous persuader qu'il n'existe pas.\" Quote Investigator, March 20, 2018.",
+    "quoteId": "oneliner-028"
+  },
+  {
+    "slug": "roosevelt",
+    "quote": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, and comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.",
+    "attribution": "Theodore Roosevelt, \"Citizenship in a Republic,\" Sorbonne, Paris, April 23, 1910",
+    "status": "scheduled",
+    "issueNumber": 5,
+    "sentAt": null,
+    "notes": "The speech was titled \"Citizenship in a Republic\" and is only popularly known as \"The Man in the Arena.\" Text from African and European Addresses (1910), p. 31 onward; the printed text has not been compared with a report of the speech as delivered.",
+    "quoteId": "speech-037"
+  },
+  {
+    "slug": "santayana",
+    "quote": "Only the dead are safe; only the dead have seen the end of war.",
+    "attribution": "George Santayana, \"Tipperary,\" Soliloquies in England and Later Soliloquies (1922) (often misattributed to Plato)",
+    "status": "scheduled",
+    "issueNumber": 6,
+    "sentAt": null,
+    "notes": "From Santayana's essay \"Tipperary\" (Scribner's, 1922, p. 102). Douglas MacArthur credited it to Plato in his \"Duty, Honor, Country\" address at West Point, May 12, 1962; no source in Plato is known.",
+    "quoteId": "vets-027"
+  },
+  {
+    "slug": "pascal",
+    "quote": "The present letter is a very long one, simply because I had no leisure to make it shorter.",
+    "attribution": "Blaise Pascal (popularly paraphrased as \"If I had more time, I would have written a shorter letter\" and often credited to Mark Twain)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "From Pascal's Provincial Letters, no. 16 (dated December 4, 1656), in Thomas M'Crie's 1856 English translation; the French is \"Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.\" The 'more time' form is a later paraphrase, Quote Investigator finds earlier versions (Balzac, 1652) and no Twain evidence.",
+    "quoteId": "cm-035"
   }
 ]

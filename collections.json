@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-17T12:00:00Z",
+  "lastUpdated": "2026-10-19T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -127,7 +127,7 @@
       "name": "Creative Minds",
       "description": "Insights on creativity and innovation from artists, writers, and inventors.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
         "Every child is an artist. The problem is how to remain an artist once we grow up."
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-09-28T12:00:00Z",
-      "contentHash": "sha256-V4iKcXEfztYeywcaTHvpW4x9zF1SzYe6OkcEQdcEBL8=",
-      "bytes": 25251
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-5H8r3wBRxZyenYU9xEGmPfEHY7pOYdZzYruPeas+vCg=",
+      "bytes": 26273
     },
     {
       "id": "tech-visionaries",
@@ -1198,9 +1198,9 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-17T12:00:00Z",
-      "contentHash": "sha256-vh5DhbNa73af5hur4X1cdGkr0fUuOnrmruYuseZvWaU=",
-      "bytes": 25899
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-wTe0HzJOZXp8cGE/z5fDVSc9M+ooUuV8Q/pz8FthFo4=",
+      "bytes": 25983
     },
     {
       "id": "founding-fathers",
@@ -1387,7 +1387,7 @@
       "name": "One-Liners",
       "description": "Rapier wit in a single sentence, from the sharpest tongues in comedy and letters.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Take my wife... please.",
         "What fresh hell can this be?"
@@ -1398,9 +1398,9 @@
       "iconName": "text.bubble.fill",
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-17T12:00:00Z",
-      "contentHash": "sha256-JRk+6INAtqDO8PRczvtfCHide2sTzb5uzXNJWPh1oiE=",
-      "bytes": 15972
+      "lastUpdated": "2026-10-19T12:00:00Z",
+      "contentHash": "sha256-6FJR3ViJnbfl2EJe4HgXPy4uta4ZTt63lM7oyWluX/c=",
+      "bytes": 16754
     },
     {
       "id": "mark-twain-wit",
@@ -1767,7 +1767,7 @@
       "name": "Veterans & Remembrance",
       "description": "Words for those who served, and for the days we set aside to remember them.",
       "author": "Quips Editorial",
-      "quoteCount": 26,
+      "quoteCount": 27,
       "previewQuotes": [
         "Old soldiers never die; they just fade away.",
         "The old Lie: Dulce et decorum est\nPro patria mori."
@@ -1778,9 +1778,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-mETjl8v/72BxnTueoo37hOJBEnAn9r4I1wUL3DmD/jM=",
-      "bytes": 18024
+      "lastUpdated": "2026-10-17T12:00:00Z",
+      "contentHash": "sha256-gkirx9kwZxBzLEvJanVks6vlQcKAr33V/1GamW0nNCA=",
+      "bytes": 18817
     },
     {
       "id": "hunger-games",
