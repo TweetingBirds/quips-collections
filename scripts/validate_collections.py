@@ -36,6 +36,13 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
       token's pair, on both the file and the index entry, per schema/palette.json
       (skipped with a warning if that mirror is missing or unreadable)
     - no duplicate quote text within a collection
+    - the same quote text carries the same verificationStatus everywhere it
+      appears, across every collection. Quotes are grouped by normalized text
+      (see normalize_quote_text) and a group whose members disagree fails,
+      unless it is on the checked-in list of known disagreements,
+      schema/known-standing-disagreements.json. A listed group that no longer
+      disagrees, or that gains a copy, fails too, so the list only shrinks.
+      Under --collection only groups containing that collection are checked.
     - quote tags, when present, are known slugs from schema/tags.json, unique,
       at most MAX_TAGS_PER_QUOTE of them, and include at least one 'theme' tag
       (skipped with a warning if the vocabulary is missing or unreadable)
@@ -82,6 +89,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import Counter
 
 REQUIRED_QUOTE_FIELDS = {"id", "content", "authorName", "source", "verificationStatus", "notes"}
@@ -147,6 +155,11 @@ WEBSITE_ICONS_REL = os.path.join("schema", "website-icons.json")
 # render from the pair and iOS from the token, so a pair that drifts from its
 # token shows a collection in two different colours depending on the device.
 PALETTE_REL = os.path.join("schema", "palette.json")
+# The cross-collection standing check's allowance for disagreements that were
+# already in the data when the check arrived. See check_standing_agreement. The
+# file may only ever lose entries: each one is a quote whose trust badge differs
+# by collection, which is a defect waiting on editorial research, not a policy.
+STANDING_EXCEPTIONS_REL = os.path.join("schema", "known-standing-disagreements.json")
 # Controlled tag vocabulary. Tags are only worth having if two quotes in
 # different collections land on the *same* one, so the set is closed and this
 # file is the whole of it -- see its own "note" field.
@@ -393,6 +406,15 @@ def validate_quote_tags(cid, qid, tags, vocab, rep, require_tags):
         rep.error(f"{cid}/{qid}: no 'theme' tag among {tags}")
 
 
+def has_quote_objects(data):
+    """Whether `data` is a collection file whose quotes can be compared."""
+    return (
+        isinstance(data, dict)
+        and isinstance(data.get("quotes"), list)
+        and all(isinstance(q, dict) for q in data["quotes"])
+    )
+
+
 def prefix_of(quote_id):
     return quote_id.rsplit("-", 1)[0] if "-" in quote_id else quote_id
 
@@ -538,6 +560,139 @@ def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, requ
     return next(iter(prefixes)) if len(prefixes) == 1 else None
 
 
+def normalize_quote_text(text):
+    """The key under which the same quote in two collections lands together.
+
+    Case-folded, with every run of punctuation, symbols, spacing and line breaks
+    collapsed to a single space. That covers curly versus straight quotes and
+    apostrophes, dash and ellipsis spellings, surrounding quote marks, trailing
+    punctuation, a semicolon where another copy has a comma, and verse set on
+    separate lines versus the same lines run together. Letters, accents and
+    digits are left alone, so two quotes collide only when their words are
+    identical in order.
+    """
+    folded = unicodedata.normalize("NFKC", text).casefold()
+    kept = "".join(c if unicodedata.category(c)[0] in "LMN" else " " for c in folded)
+    return " ".join(kept.split())
+
+
+def group_quotes_by_text(collections_by_id):
+    """{normalized text: [(collection id, quote id, verificationStatus, authorName)]},
+    only for texts that more than one quote carries.
+
+    `collections_by_id` maps a collection id to its parsed file. A quote whose
+    content or standing is unusable is left out; validate_collection reports it.
+    """
+    groups = {}
+    for cid, data in collections_by_id.items():
+        for q in data["quotes"]:
+            content, status = q.get("content"), q.get("verificationStatus")
+            if not isinstance(content, str) or not isinstance(status, str):
+                continue
+            key = normalize_quote_text(content)
+            if key:
+                groups.setdefault(key, []).append((cid, q.get("id", "?"), status, q.get("authorName")))
+    return {k: sorted(v) for k, v in groups.items() if len(v) > 1}
+
+
+def disagreeing_groups(groups):
+    """The groups whose members do not all carry the same verificationStatus."""
+    return {k: v for k, v in groups.items() if len({status for _, _, status, _ in v}) > 1}
+
+
+def load_standing_exceptions(root, rep):
+    """{normalized text: set of quote ids}, or None if the file is unreadable.
+
+    A missing file is an empty list, so every disagreement is then reported
+    rather than none. A file that exists but is malformed is an error and
+    switches the check off: the errors it would otherwise produce are noise next
+    to that one.
+    """
+    path = os.path.join(root, STANDING_EXCEPTIONS_REL)
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            entries = json.load(f).get("groups")
+    except (OSError, json.JSONDecodeError, AttributeError) as e:
+        rep.error(f"{STANDING_EXCEPTIONS_REL}: unreadable ({e}) - skipping the standing check")
+        return None
+    if not isinstance(entries, list):
+        rep.error(f"{STANDING_EXCEPTIONS_REL}: no 'groups' list - skipping the standing check")
+        return None
+    known = {}
+    for position, e in enumerate(entries):
+        quotes = e.get("quotes") if isinstance(e, dict) else None
+        ids = {q.get("id") for q in quotes if isinstance(q, dict)} if isinstance(quotes, list) else set()
+        if not isinstance(e, dict) or not isinstance(e.get("text"), str) or not ids or None in ids:
+            rep.error(
+                f"{STANDING_EXCEPTIONS_REL}: group {position} needs a 'text' string and a "
+                f"'quotes' list of objects with an 'id'"
+            )
+            return None
+        if normalize_quote_text(e["text"]) != e["text"]:
+            rep.error(f"{STANDING_EXCEPTIONS_REL}: group {position} 'text' is not in normalized form")
+            return None
+        known[e["text"]] = ids
+    return known
+
+
+def describe_group(members):
+    return ", ".join(f"{qid} ({cid}) {status}" for cid, qid, status, _ in members)
+
+
+def check_standing_agreement(groups, known, rep, only_collection=None):
+    """Quotes with the same text must carry the same verificationStatus.
+
+    The app shows verificationStatus as a trust badge, so one line that is
+    "verified" in one collection and "attributed" in another tells readers two
+    things about the same words. Three outcomes are errors:
+
+      - a group disagrees and is not in `known` (the rule proper);
+      - a group in `known` no longer disagrees, or no longer exists, so its
+        entry is stale and has to go;
+      - a group in `known` has gained a copy, since an allowance covers the
+        copies that existed when it was written and no others.
+
+    `known` is {normalized text: ids}. With `only_collection`, only groups that
+    include that collection are judged and stale entries are not reported, since
+    a single-collection run cannot see whether the rest of the list still holds.
+    """
+    for key, members in sorted(disagreeing_groups(groups).items()):
+        if only_collection and all(cid != only_collection for cid, *_ in members):
+            continue
+        if key not in known:
+            rep.error(
+                f"standing: the same quote carries different verificationStatus values - "
+                f"{describe_group(members)}: {key[:80]!r}. Give every copy the same status "
+                f"(settle it for all copies, not just one). Do not add it to "
+                f"{STANDING_EXCEPTIONS_REL}, which only ever shrinks"
+            )
+            continue
+        gained = sorted({qid for _, qid, _, _ in members} - known[key])
+        if gained:
+            rep.error(
+                f"standing: {key[:80]!r} is on the known-disagreement list but has gained "
+                f"{gained} - the allowance covers only the copies that were there when it was "
+                f"written. Settle the group instead: {describe_group(members)}"
+            )
+
+    if only_collection:
+        return
+    disagreeing = disagreeing_groups(groups)
+    for key in sorted(known):
+        if key in disagreeing:
+            continue
+        if key in groups:
+            reason = f"all its copies now agree ({describe_group(groups[key])})"
+        else:
+            reason = "no group of duplicate quotes matches it any more"
+        rep.error(
+            f"{STANDING_EXCEPTIONS_REL}: the entry for {key[:80]!r} is stale - {reason}. "
+            f"Delete the entry"
+        )
+
+
 def main():
     ap = argparse.ArgumentParser(description="Validate Quips collections data.")
     ap.add_argument("--root", default=".", help="repo root containing collections.json")
@@ -602,6 +757,7 @@ def main():
             rep.error(f"{cid}: file present but not in collections.json index")
 
     prefixes = {}
+    loaded = {}
     for cid in targets:
         if cid in entries:
             validate_index_entry(cid, entries[cid], rep, palette)
@@ -611,6 +767,8 @@ def main():
         prefix = validate_collection(
             cid, data, entries.get(cid), rep, icon_names, vocab, args.require_tags, palette
         )
+        if has_quote_objects(data):
+            loaded[cid] = data
         if prefix:
             prefixes.setdefault(prefix, []).append(cid)
 
@@ -618,6 +776,28 @@ def main():
         for prefix, owners in sorted(prefixes.items()):
             if len(owners) > 1:
                 rep.error(f"prefix {prefix!r} used by multiple collections: {sorted(owners)}")
+
+    # The standing rule compares quotes across collections, so a run scoped to
+    # one collection still reads the others, quietly: their own problems are
+    # not this run's to report.
+    if args.collection:
+        for cid in sorted(files - {args.collection}):
+            try:
+                with open(os.path.join(coll_dir, f"{cid}.json"), encoding="utf-8") as f:
+                    data = json.load(f)
+            except (OSError, json.JSONDecodeError):
+                continue
+            if has_quote_objects(data):
+                loaded[cid] = data
+    known = load_standing_exceptions(args.root, rep)
+    if known is not None:
+        groups = group_quotes_by_text(loaded)
+        check_standing_agreement(groups, known, rep, args.collection)
+        if not args.collection:
+            print(
+                f"standing: {len(groups)} duplicate-text group(s) across collections, "
+                f"{len(disagreeing_groups(groups))} disagreeing, {len(known)} on the known list"
+            )
 
     for msg in rep.errors:
         print(f"[ERROR] {msg}")

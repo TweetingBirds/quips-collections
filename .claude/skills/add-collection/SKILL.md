@@ -134,8 +134,10 @@ entry, and `previewQuotes`.
    cross-collection prefix-uniqueness check runs and catches a new collection that reuses an
    existing prefix. It also confirms both files parse, `quoteCount` matches the actual count,
    ids are unique and well-formed, required fields are present, the colour pair matches its
-   token, the icon is one the website draws, and there's no duplicate quote text. Don't report
-   success until it passes.
+   token, the icon is one the website draws, and there's no duplicate quote text. It also fails a
+   quote whose text is already in another collection under a different `verificationStatus`:
+   give every copy the same status, never add to `schema/known-standing-disagreements.json`.
+   Don't report success until it passes.
    ```bash
    python3 scripts/validate_collections.py --strict
    ```

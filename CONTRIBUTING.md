@@ -112,6 +112,13 @@ Rules enforced in CI:
 - `sourceType` (optional) must be a known value — keep it in sync with
   `QuoteSourceType` in the iOS app.
 - No duplicate quote text within a collection.
+- The same quote text carries the same `verificationStatus` in every collection
+  that has it. Text is compared with case, punctuation and spacing ignored. A
+  quote you add or re-grade that already lives in another collection must end up
+  with the same status in all copies. The few disagreements that predate the rule
+  are listed in `schema/known-standing-disagreements.json`; that list only
+  shrinks. Never add to it, and delete an entry when its group has been settled
+  (the validator fails on an entry that no longer disagrees).
 
 ## Releasing
 
