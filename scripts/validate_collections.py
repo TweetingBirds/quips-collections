@@ -32,6 +32,9 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
       (speech, book, movie, podcast, …)
     - iconName is one the website can render, per schema/website-icons.json
       (skipped with a warning if that mirror is missing or unreadable)
+    - colorName is a Palette 2.0 token and colorLightHex/colorDarkHex are that
+      token's pair, on both the file and the index entry, per schema/palette.json
+      (skipped with a warning if that mirror is missing or unreadable)
     - no duplicate quote text within a collection
     - quote tags, when present, are known slugs from schema/tags.json, unique,
       at most MAX_TAGS_PER_QUOTE of them, and include at least one 'theme' tag
@@ -139,6 +142,11 @@ JSON_TYPE_NAMES = {str: "a string", int: "an integer", list: "a list"}
 # whole constraint this side needs to enforce. Checked in rather than fetched so
 # validation stays offline and stdlib-only; refresh with refresh_website_icons.py.
 WEBSITE_ICONS_REL = os.path.join("schema", "website-icons.json")
+# Mirror of the app's Palette 2.0: each colorName token and the light/dark hex
+# pair the app derives from it (ColorTintOption.hexPair). Cross-platform clients
+# render from the pair and iOS from the token, so a pair that drifts from its
+# token shows a collection in two different colours depending on the device.
+PALETTE_REL = os.path.join("schema", "palette.json")
 # Controlled tag vocabulary. Tags are only worth having if two quotes in
 # different collections land on the *same* one, so the set is closed and this
 # file is the whole of it -- see its own "note" field.
@@ -265,6 +273,45 @@ def load_website_icons(root, rep):
     return set(names)
 
 
+def load_palette(root, rep):
+    """{token: (light, dark)}, or None if the mirror is unavailable.
+
+    Like the icon mirror, a missing file warns rather than errors: it disables
+    the colour check rather than indicating bad data.
+    """
+    path = os.path.join(root, PALETTE_REL)
+    try:
+        with open(path, encoding="utf-8") as f:
+            tokens = json.load(f).get("tokens")
+    except (OSError, json.JSONDecodeError, AttributeError) as e:
+        rep.warn(f"{PALETTE_REL}: unreadable ({e}) — skipping the colour check")
+        return None
+    if not isinstance(tokens, dict) or not tokens:
+        rep.warn(f"{PALETTE_REL}: no 'tokens' object — skipping the colour check")
+        return None
+    return {name: (pair.get("light"), pair.get("dark")) for name, pair in tokens.items()
+            if isinstance(pair, dict)}
+
+
+def check_colour(where, obj, palette, rep):
+    """colorName must be a palette token, and the hex pair must be that token's."""
+    if palette is None or not isinstance(obj, dict):
+        return
+    name = obj.get("colorName")
+    if name not in palette:
+        rep.error(
+            f"{where}: colorName {name!r} is not a Palette 2.0 token — pick one from {PALETTE_REL}"
+        )
+        return
+    light, dark = palette[name]
+    for key, expected in (("colorLightHex", light), ("colorDarkHex", dark)):
+        actual = obj.get(key)
+        if actual is None:
+            rep.error(f"{where}: {key} is missing — {name!r} is {expected}")
+        elif not isinstance(actual, str) or actual.upper() != expected.upper():
+            rep.error(f"{where}: {key} {actual!r} is not {name!r}'s {expected} (see {PALETTE_REL})")
+
+
 def load_tag_vocabulary(root, rep):
     """The tag vocabulary as (slugs, theme_slugs, avoid_map), or None.
 
@@ -350,7 +397,7 @@ def prefix_of(quote_id):
     return quote_id.rsplit("-", 1)[0] if "-" in quote_id else quote_id
 
 
-def validate_index_entry(cid, entry, rep):
+def validate_index_entry(cid, entry, rep, palette=None):
     """Check one index entry for what the app needs in order to decode it.
 
     Apart from validate_collection, whose index checks are comparisons with the
@@ -364,6 +411,7 @@ def validate_index_entry(cid, entry, rep):
             f"{cid}: index id is not one the app accepts "
             f"(letters, digits, '-' and '_', 100 at most)"
         )
+    check_colour(f"{cid}: index", entry, palette, rep)
     preview = entry.get("previewQuotes")
     if isinstance(preview, list) and not all(isinstance(p, str) for p in preview):
         rep.error(
@@ -372,7 +420,8 @@ def validate_index_entry(cid, entry, rep):
         )
 
 
-def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, require_tags=False):
+def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, require_tags=False,
+                        palette=None):
     """Validate one collection file against its index entry. Returns the
     collection's quote-id prefix (or None) for the cross-collection check."""
     if data is None:
@@ -385,6 +434,8 @@ def validate_collection(cid, data, entry, rep, icon_names=None, vocab=None, requ
 
     if data.get("id") != cid:
         rep.error(f"{cid}: file id {data.get('id')!r} != filename")
+
+    check_colour(f"{cid}: file", data, palette, rep)
 
     # The website renders from its own SVG set and fails its deploy on a name it
     # has no drawing for. Catching it here means a bad icon surfaces while the
@@ -517,6 +568,7 @@ def main():
         rep.warn("collections.json: top-level lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
 
     icon_names = load_website_icons(args.root, rep)
+    palette = load_palette(args.root, rep)
     vocab = load_tag_vocabulary(args.root, rep)
 
     listed = index.get("collections")
@@ -552,12 +604,12 @@ def main():
     prefixes = {}
     for cid in targets:
         if cid in entries:
-            validate_index_entry(cid, entries[cid], rep)
+            validate_index_entry(cid, entries[cid], rep, palette)
         if cid not in files:
             continue
         data = load_json(os.path.join(coll_dir, f"{cid}.json"), rep)
         prefix = validate_collection(
-            cid, data, entries.get(cid), rep, icon_names, vocab, args.require_tags
+            cid, data, entries.get(cid), rep, icon_names, vocab, args.require_tags, palette
         )
         if prefix:
             prefixes.setdefault(prefix, []).append(cid)
