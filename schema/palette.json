@@ -1,0 +1,69 @@
+{
+  "note": "Mirror of the Quips Palette 2.0 tokens and their light/dark hex pairs, from the app's ColorTintOption.hexPair (QuipsDesignSystem/Sources/QuipsDesignSystem/Tokens/ColorTintOption.swift in TweetingBirds/quotebook-ios). validate_collections.py requires every collection's colorName to be one of these tokens and its colorLightHex/colorDarkHex to be that token's pair. Change it only when the app's palette changes.",
+  "tokens": {
+    "rose": {
+      "light": "#E03063",
+      "dark": "#F66E89"
+    },
+    "red": {
+      "light": "#E92528",
+      "dark": "#FA7064"
+    },
+    "orange": {
+      "light": "#E1791C",
+      "dark": "#FDA260"
+    },
+    "amber": {
+      "light": "#E2A520",
+      "dark": "#FBB620"
+    },
+    "yellow": {
+      "light": "#F7E120",
+      "dark": "#DAC720"
+    },
+    "lime": {
+      "light": "#9EDB2A",
+      "dark": "#9DDC21"
+    },
+    "green": {
+      "light": "#27AE57",
+      "dark": "#2BD66A"
+    },
+    "teal": {
+      "light": "#27A98A",
+      "dark": "#2BD1AA"
+    },
+    "cyan": {
+      "light": "#29ACB2",
+      "dark": "#2DD3DA"
+    },
+    "sky": {
+      "light": "#1F9ED4",
+      "dark": "#45C2FC"
+    },
+    "blue": {
+      "light": "#116BDF",
+      "dark": "#4790FB"
+    },
+    "indigo": {
+      "light": "#494BEC",
+      "dark": "#6A7BF3"
+    },
+    "violet": {
+      "light": "#8839E9",
+      "dark": "#A174F0"
+    },
+    "purple": {
+      "light": "#B632CA",
+      "dark": "#DE56F3"
+    },
+    "magenta": {
+      "light": "#D72D97",
+      "dark": "#F762B7"
+    },
+    "gray": {
+      "light": "#8A8D90",
+      "dark": "#9CA0A3"
+    }
+  }
+}

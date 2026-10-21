@@ -28,21 +28,13 @@ entry, and `previewQuotes`.
      `Literature`, `Movies`, `Philosophy`, `Technology`, `Television`, `Wellness`. Add a new
      one only if none fit.
    - `colorName` + `colorLightHex` + `colorDarkHex` — pick one token from the Quips
-     Palette 2.0 (16 OKLCH tokens) and set the matching light/dark hex pair. All three
-     fields are required, on both the file and the index entry. Pick the token whose hue
-     fits the theme; the hex pair is fixed per token:
-
-     | token | light | dark | token | light | dark |
-     |-------|-------|------|-------|-------|------|
-     | `rose` | `#E03063` | `#F66E89` | `sky` | `#1F9ED4` | `#45C2FC` |
-     | `red` | `#E92528` | `#FA7064` | `blue` | `#116BDF` | `#4790FB` |
-     | `orange` | `#E1791C` | `#FDA260` | `indigo` | `#494BEC` | `#6A7BF3` |
-     | `amber` | `#E2A520` | `#FBB620` | `violet` | `#8839E9` | `#A174F0` |
-     | `yellow` | `#F7E120` | `#DAC720` | `purple` | `#B632CA` | `#DE56F3` |
-     | `lime` | `#9EDB2A` | `#9DDC21` | `magenta` | `#D72D97` | `#F762B7` |
-     | `green` | `#27AE57` | `#2BD66A` | `gray` | `#8A8D90` | `#9CA0A3` |
-     | `teal` | `#27A98A` | `#2BD1AA` | `cyan` | `#29ACB2` | `#2DD3DA` |
-
+     Palette 2.0 and copy its light/dark pair from `schema/palette.json`, which mirrors the
+     app's `ColorTintOption.hexPair`. All three fields are required, on both the file and
+     the index entry, and `validate_collections.py` rejects a token that isn't in the
+     palette or a pair that isn't that token's. Pick the token whose hue fits the theme:
+     ```bash
+     python3 -c "import json; [print(f'{n:8} {p[\"light\"]} {p[\"dark\"]}') for n, p in json.load(open('schema/palette.json'))['tokens'].items()]"
+     ```
      Cross-platform clients render from the hex pair; iOS prefers `colorName`. Match an
      existing collection's token when the new one is thematically similar, for consistency.
    - `iconName` — an SF Symbol. Match an existing collection's when the theme is
@@ -63,13 +55,15 @@ entry, and `previewQuotes`.
 
 2. **Choose a quote id prefix** — a short slug unique to the collection (e.g. `himym`,
    `seinfeld`, `marvel`). Quote ids follow the `add-quotes` format (`<prefix>-NNN`, zero-padded
-   to 3 digits) starting at `001`. Check `collections/` for prefixes already in use and pick
-   one that's free.
+   to 3 digits) starting at `001`. Check `collections/` **on `origin/main`** (`git fetch origin
+   main && git ls-tree --name-only origin/main collections/`) for collection ids already in
+   use, and grep their quote ids for prefixes — another branch may have claimed one since you
+   branched. The full validator sweep in step 7 also fails on a reused prefix.
 
-3. **Build the quotes following the `add-quotes` skill** — its field shape, its verification
-   bar (`verified` requires *both* exact wording *and* a real primary source; aggregator sites
-   establish neither; magnet names like Einstein/Twain/Lincoln get extra suspicion), its
-   in-batch dedup, and its `notes` rules. Number ids from `<prefix>-001`.
+3. **Build the quotes following the `add-quotes` skill** — its field shape, its four
+   verification statuses and the bar for `verified` (*both* exact wording *and* a real primary
+   source; aggregator sites establish neither; magnet names like Einstein/Twain/Lincoln get
+   extra suspicion), its in-batch dedup, and its `notes` rules. Number ids from `<prefix>-001`.
    - Target ~30 quotes (existing collections run 25–40) unless the user specifies a count —
      but every quote still clears the verification bar. Don't pad to a number with shaky
      quotes; if you can't verify enough for a substantial collection, surface that rather than
@@ -126,26 +120,29 @@ entry, and `previewQuotes`.
    - Bump the index's top-level `lastUpdated` to `<today>T12:00:00Z`.
 
 6. **Refresh the index hashes.** Run `compute_hashes.py` to fill in the new entry's
-   `contentHash` + `bytes` (and refresh any others) from the files on disk. These drive
-   progressive downloads — clients re-fetch only collections whose hash changed — and CI
-   rejects a stale index, so this is not optional:
+   `contentHash` + `bytes` from the files on disk. These drive progressive downloads — clients
+   re-fetch only collections whose hash changed — and CI rejects a stale index, so this is not
+   optional:
    ```bash
    python3 scripts/compute_hashes.py
    ```
+   It also rewrites the hash of **any** collection with uncommitted edits on disk. The only
+   entry whose hash should change is your new one; follow `add-quotes` step 7 to check that
+   and restore the rest.
 
 7. **Validate.** Run the shared validator as a full sweep — no `--collection` — so the
    cross-collection prefix-uniqueness check runs and catches a new collection that reuses an
    existing prefix. It also confirms both files parse, `quoteCount` matches the actual count,
-   ids are unique and well-formed, required fields are present, and there's no duplicate quote
-   text. Don't report success until it passes.
+   ids are unique and well-formed, required fields are present, the colour pair matches its
+   token, the icon is one the website draws, and there's no duplicate quote text. Don't report
+   success until it passes.
    ```bash
    python3 scripts/validate_collections.py --strict
    ```
 
-8. **Publish.** A new collection reaches users only through a release — follow the
-   **Publishing** section of the `add-quotes` skill. Use a **minor** version bump for a new
-   collection (branch and PR, tag `vX.Y.Z` once merged, then bump `.data-version` in the
-   quipsapp.com repo to ship to the website).
+8. **Open a PR.** A new collection reaches users only through a release — follow the
+   **Publishing** section of the `add-quotes` skill: branch and PR, and stop there. The
+   weekly release check will call it a **minor** release; the tag is Nate's.
 
-9. **Report** the new collection id, quote count, the released version, and any quotes marked
-   `unverified` (with reason).
+9. **Report** the new collection id, quote count, the PR, and any quotes that are not
+   `verified` (with their status and reason).

@@ -92,6 +92,10 @@ Rules enforced in CI:
   tables are the `APP_*` constants in `scripts/validate_collections.py`; change
   them only together with the app's `PublicCollectionModels.swift`.
 - File `id` matches the filename; every file is in the index and vice versa.
+- `colorName` is a Palette 2.0 token and `colorLightHex`/`colorDarkHex` are that
+  token's pair, on the file and its index entry. The pairs are mirrored in
+  `schema/palette.json` from the app's `ColorTintOption.hexPair`; change the two
+  together.
 - Quote `id` is `<prefix>-NNN` (3+ digits), unique within the collection; all
   quotes share one prefix, and each prefix is unique across all collections.
 - Required quote fields: `id`, `content`, `authorName`, `source`,

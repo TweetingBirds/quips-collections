@@ -43,6 +43,8 @@ def valid_tree():
         "description": "A collection for the validator's tests.",
         "author": "Quips Editorial",
         "colorName": "blue",
+        "colorLightHex": "#116BDF",
+        "colorDarkHex": "#4790FB",
         "iconName": "book",
         "category": "Testing",
         "addedAt": STAMP,
@@ -77,6 +79,9 @@ def run_validator(tree):
             os.path.join("collections", "demo.json"): tree["file"],
             os.path.join("schema", "tags.json"): tree["tags"],
             os.path.join("schema", "website-icons.json"): {"names": ["book"]},
+            os.path.join("schema", "palette.json"): {
+                "tokens": {"blue": {"light": "#116BDF", "dark": "#4790FB"}}
+            },
         }
         for relative, document in documents.items():
             with open(os.path.join(root, relative), "w", encoding="utf-8") as f:
@@ -265,6 +270,30 @@ class ValidatorTests(unittest.TestCase):
     def test_tag_entry_that_is_not_an_object(self):
         self.tree["tags"]["tags"].append("calm")
         self.assert_rejected("tag 1 is a string, not an object")
+
+    # --- colour
+
+    def test_colour_name_must_be_a_palette_token(self):
+        for side, where in ((lambda: self.file, "demo: file"), (lambda: self.entry, "demo: index")):
+            with self.subTest(where=where):
+                self.setUp()
+                side()["colorName"] = "navyBlue"
+                self.assert_rejected(f"{where}: colorName 'navyBlue' is not a Palette 2.0 token")
+
+    def test_hex_pair_must_be_the_tokens_pair(self):
+        for side, where in ((lambda: self.file, "demo: file"), (lambda: self.entry, "demo: index")):
+            with self.subTest(where=where):
+                self.setUp()
+                side()["colorDarkHex"] = "#000000"
+                self.assert_rejected(f"{where}: colorDarkHex '#000000' is not 'blue''s #4790FB")
+
+    def test_hex_pair_is_required(self):
+        del self.file["colorLightHex"]
+        self.assert_rejected("demo: file: colorLightHex is missing")
+
+    def test_hex_case_does_not_matter(self):
+        self.file["colorLightHex"] = "#116bdf"
+        self.assert_accepted()
 
 
 if __name__ == "__main__":

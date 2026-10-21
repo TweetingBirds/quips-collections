@@ -32,6 +32,12 @@ Writing is idempotent — a clean tree produces no diff — so running it when i
 wasn't needed is free. Run it whenever you're unsure. Never commit a data edit
 without it.
 
+The mirror-image trap: it hashes **whatever is on disk**, so uncommitted edits to
+collections you are *not* committing land in the index too, and CI goes red on a
+commit that describes files it doesn't contain. After every run, check that the
+only entries whose `contentHash` changed are ones you're committing — the
+`add-quotes` skill, step 7, has the check.
+
 Both scripts are stdlib-only; there is nothing to install.
 
 ## Recurring audit runs
@@ -74,5 +80,11 @@ Two extra notes for these runs:
   validator; a new one has to reach the website's `js/icons.js` first, then
   `scripts/refresh_website_icons.py` pulls it into the mirror. Skipping that
   order ships a release that fails the website's deploy, not ours.
+- A collection's `colorName` must be a Palette 2.0 token and its
+  `colorLightHex`/`colorDarkHex` that token's pair, per `schema/palette.json`
+  (a mirror of the app's `ColorTintOption.hexPair`), enforced by the validator.
 - Releases happen by pushing a semver tag: patch for quote edits, minor for a
-  new collection. See [CONTRIBUTING.md](CONTRIBUTING.md).
+  new collection. See [CONTRIBUTING.md](CONTRIBUTING.md). **Pushing that tag
+  publishes, so it is Nate's step**: a Saturday routine proposes each release as a
+  `release/<version>` PR that writes the changelog, and Nate merges and tags it.
+  Don't push a `v*` tag or hand-edit `CHANGELOG.md` from a data PR.
