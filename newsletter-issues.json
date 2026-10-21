@@ -77,7 +77,8 @@
     "issueNumber": null,
     "sentAt": null,
     "notes": "Not found in Einstein's works; listed as misattributed in The Ultimate Quotable Einstein. Quote Investigator's earliest match is an Al-Anon item in the Knoxville News-Sentinel (October 11, 1981), then a November 1981 Narcotics Anonymous draft and Rita Mae Brown's Sudden Death (1983). The Einstein credit first appears in 1990.",
-    "quoteId": "oneliner-029"
+    "quoteId": "oneliner-029",
+    "paraphrasesQuoteId": true
   },
   {
     "slug": "chief-seattle",
@@ -97,7 +98,8 @@
     "issueNumber": null,
     "sentAt": null,
     "notes": "The exact sentence isn't in any Rohn book or dated source. It condenses a lesson Rohn credited to his mentor Earl Shoaff, whom he met in 1955: \"Set a goal of becoming a millionaire for what it will make of you to achieve it.\"",
-    "quoteId": "goals-019"
+    "quoteId": "goals-019",
+    "paraphrasesQuoteId": true
   },
   {
     "slug": "apollo13",
@@ -117,7 +119,8 @@
     "issueNumber": null,
     "sentAt": null,
     "notes": "Not found in Gandhi's writings. The earliest close match is Arleen Lorrance's 1974 \"Love Project\" (\"be the change you want to see happen\"), and the earliest Gandhi credit Quote Investigator found is 1987. Gandhi's related idea, translated from a 1913 Gujarati Indian Opinion column: \"We but mirror the world... If we could change ourselves, the tendencies in the world would also change.\"",
-    "quoteId": "courage-034"
+    "quoteId": "courage-034",
+    "paraphrasesQuoteId": true
   },
   {
     "slug": "tolstoy-diamond",
