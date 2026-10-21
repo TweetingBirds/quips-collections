@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-16T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -336,11 +336,11 @@
     },
     {
       "id": "res-021",
-      "content": "It's not whether you get knocked down; it's whether you get up.",
+      "content": "It's not whether you get knocked down, it's whether you get up.",
       "authorName": "Vince Lombardi",
-      "source": "Attributed (c. 1960s)",
+      "source": "Attributed to Vince Lombardi; quoted on the Lombardi family's official website",
       "sourceType": "unspecified",
-      "notes": "Attributed to the legendary Green Bay Packers coach.",
+      "notes": "Source axis is uncertain: the Lombardi estate carries the line, but no speech, interview or contemporary report of it has been traced. Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
       "tags": [
         "resilience",
         "encouragement",
@@ -388,17 +388,17 @@
       "id": "res-024",
       "content": "It's not what happens to you, but how you react to it that matters.",
       "authorName": "Epictetus",
-      "source": "Attributed (paraphrase of the Enchiridion, c. 125 CE)",
+      "source": "Attributed to Epictetus; a modern paraphrase of Enchiridion 5",
       "sourceType": "unspecified",
-      "notes": "A modern paraphrase of the Stoic doctrine that judgments, not events, disturb us.",
+      "notes": "Wording axis fails: Enchiridion 5 reads 'Men are disturbed not by things, but by the views which they take of things' (Higginson's translation), and this modern line appears in neither the Enchiridion nor the Discourses. The century is a broad estimate for the paraphrase's English circulation, not a documented date.",
       "tags": [
         "choice",
         "self-control",
         "adversity",
         "aphorism"
       ],
-      "quoteDate": "c. 125 CE",
-      "verificationStatus": "attributed",
+      "quoteDate": "c. 20th century",
+      "verificationStatus": "unverified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

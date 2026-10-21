@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-19T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -18,9 +18,9 @@
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-10-14T12:00:00Z",
-      "contentHash": "sha256-HnlFgsd0iAF3A2zC93/x+6/oPU3gZPXunIkJ/vPYBhQ=",
-      "bytes": 22779
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-aZ4mMcwcnzoiaFpjNxC2iM7vOJyrbad3z1FhnaPnG6E=",
+      "bytes": 22949
     },
     {
       "id": "grit-perseverance",
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-iZMA+5J9s5vAbgeDN2BNqPep3YRT8dnmExwzf1xG+0g=",
-      "bytes": 24755
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-dgIYlaDyL94D0N3H6T1vajgBLuehLd9gv5QgBgpaIL4=",
+      "bytes": 25053
     },
     {
       "id": "leadership-vision",
@@ -58,9 +58,9 @@
       "iconName": "flag.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-L6yOXWh8sjx3zlpMFkB+aisELdOA+iSCcC+L+togmPw=",
-      "bytes": 21712
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-jBAyixoWclZJAYuidE/wvs+3p2PN2OuHKN/HHnHvE2M=",
+      "bytes": 21967
     },
     {
       "id": "courage-conviction",
@@ -78,9 +78,9 @@
       "iconName": "shield.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-10-19T12:00:00Z",
-      "contentHash": "sha256-N8peYfx1SgCdEwjAwlAj4aYKVSa4SurquyAHrYUIiSk=",
-      "bytes": 29143
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-JkDhgGeaIkiVOTIW44A5fQTknGgdbOC8QvV5UQxRXyg=",
+      "bytes": 29561
     },
     {
       "id": "dream-big",
@@ -98,9 +98,9 @@
       "iconName": "moon.stars.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-4DmG9uGsWr5UUYFnzhis6Y+67vpxdJohdRgZtpeccNQ=",
-      "bytes": 19909
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-hHgEokw224Q64ZbuQ6eFsEE9Fus5yX/2JG6yL4Ci3oI=",
+      "bytes": 20110
     },
     {
       "id": "stoic-wisdom",
@@ -118,9 +118,9 @@
       "iconName": "building.columns.fill",
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-PTjyc6mWBbc+nApQ49itTO6lWHn2DJ4pqkIJmoIOLDg=",
-      "bytes": 18415
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-SglvNnSufNghKaGLntIRvscoC7DBnu+C/fH0GU0afWQ=",
+      "bytes": 18637
     },
     {
       "id": "creative-minds",
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-16T12:00:00Z",
-      "contentHash": "sha256-VzpsHI4cT1LOY+zSWLDVT2vjm99S6j8TCaVP7CD7UWM=",
-      "bytes": 18629
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-JAaqUn8btsKA9xxSmMCMdiqxvSqeyx99uDh6LryvKg0=",
+      "bytes": 19123
     },
     {
       "id": "self-compassion",
@@ -1058,9 +1058,9 @@
       "iconName": "figure.american.football",
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-24T12:00:00Z",
-      "contentHash": "sha256-uYw5tKWAxID+esgxNd/XOCP83/GnjmDLZndIfJoHxdk=",
-      "bytes": 19048
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-pcJqMXy8pllisCCh0V5hE3WkClS3NYQvnSxEGOH90uo=",
+      "bytes": 19228
     },
     {
       "id": "champions-mindset",
@@ -1118,9 +1118,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-14T12:00:00Z",
-      "contentHash": "sha256-KykjUkA9rK2KMKYCIYAI3bd0YEfGS9TocMlPCgC2LEE=",
-      "bytes": 19999
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-dunKr5zxu5LC++wCK/5iDAaLZAoYY+5tmSX+4txDxN4=",
+      "bytes": 20282
     },
     {
       "id": "on-leadership",
@@ -1138,9 +1138,9 @@
       "iconName": "person.3.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-17T12:00:00Z",
-      "contentHash": "sha256-EbcH1XcX9piNv4ZiQwGchkZZn5h4y/SqxXezC2l8qtA=",
-      "bytes": 19703
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-U3HVZekOWGX92DLh7NF8OC9vy7+rpyThOTOwxztm81M=",
+      "bytes": 20165
     },
     {
       "id": "money-investing",
@@ -1278,9 +1278,9 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-fcGlRNCXLfxk9VlLgjeF0/XJy7jFNtB6OnFh2Ww80GY=",
-      "bytes": 21282
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-Q0x6YNWtJxG2i+kxQtAFldiwpYSYcB2ZsF54cOa/Ufs=",
+      "bytes": 21226
     },
     {
       "id": "great-scientists",
@@ -1778,9 +1778,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-10-17T12:00:00Z",
-      "contentHash": "sha256-gkirx9kwZxBzLEvJanVks6vlQcKAr33V/1GamW0nNCA=",
-      "bytes": 18817
+      "lastUpdated": "2026-10-20T12:00:00Z",
+      "contentHash": "sha256-BrMQeBsPG4fOb5MbDbDG6x/Fg0Fgcw4BB+/LEAfC3PU=",
+      "bytes": 19114
     },
     {
       "id": "hunger-games",

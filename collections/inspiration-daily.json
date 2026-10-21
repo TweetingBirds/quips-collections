@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-10-14T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -79,11 +79,11 @@
       "id": "di-005",
       "content": "It does not matter how slowly you go as long as you do not stop.",
       "authorName": "Confucius",
-      "source": "Attributed (c. 500 BCE)",
+      "source": "Attributed to Confucius; not found in the Analects",
       "sourceType": "unspecified",
-      "quoteDate": "c. 500 BCE",
-      "verificationStatus": "folk-wisdom",
-      "notes": "Traditional attribution to Confucius. The sentiment aligns with Confucian philosophy of steady self-cultivation, though exact original text varies in translation.",
+      "quoteDate": "c. 20th century",
+      "verificationStatus": "unverified",
+      "notes": "Attribution axis fails: the line is not in the Analects, whose nearest passage (IX.20 in Legge's translation) has Confucius say of his disciple Yen Yuan only 'I never saw him stop in his progress.' The century is a broad estimate for the line's modern English circulation; no pre-modern source exists.",
       "tags": [
         "perseverance",
         "patience",

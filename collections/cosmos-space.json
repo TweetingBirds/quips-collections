@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -132,11 +132,11 @@
       "id": "cosmos-008",
       "content": "Somewhere, something incredible is waiting to be known.",
       "authorName": "Carl Sagan",
-      "source": "Widely attributed; no primary source located",
-      "quoteDate": "c. 1977",
+      "source": "Newsweek, 'Seeking Other Worlds' (15 August 1977), p. 53, in the reporters' own voice",
+      "quoteDate": "1977-08-15",
       "verificationStatus": "unverified",
-      "sourceType": "unspecified",
-      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts. Date is estimated from the earliest documented appearance: the closing line of Sharon Begley's Newsweek profile of Sagan, 15 August 1977, which Begley has confirmed she wrote herself.",
+      "sourceType": "magazine",
+      "notes": "Attribution axis fails: the line closes Newsweek's 1977 profile of Sagan outside quotation marks, and the reporter Sharon Begley told Quote Investigator in 2015 that the words were hers, not Sagan's.",
       "tags": [
         "curiosity",
         "wonder",
