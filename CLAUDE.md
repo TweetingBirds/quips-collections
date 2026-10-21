@@ -54,6 +54,13 @@ Two extra notes for these runs:
 - Verify every quote with web tools (WebSearch/WebFetch against a primary or
   authoritative source), never from memory or internal knowledge. A quote not
   checked on the web this run is not counted as audited.
+- A quote's text may appear in several collections, and `verificationStatus` must
+  agree across all of them. Before you change one quote's status, search for its
+  text in the other collections and change every copy together; the validator
+  fails a disagreement it hasn't seen before. Disagreements that predate the
+  rule are listed in `schema/known-standing-disagreements.json`. Don't add to
+  it. If your edit settles one of them, delete its entry, or the validator
+  reports it as stale.
 - Always commit the `.audit-state.json` cursor advance, even when every quote
   was clean, so the next run resumes where this one stopped. State-only commits
   are fine; a commit that also touches a collection file needs the hash refresh

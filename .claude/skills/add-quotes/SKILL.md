@@ -72,6 +72,10 @@ Rules:
 
 3. **Check for duplicates.** Before appending, confirm the quote — and any near-paraphrase of
    it — is not already in the collection. Skip duplicates and report them rather than adding them.
+   The same text may already be in *another* collection, and that is allowed — but the copy you
+   add must carry the same `verificationStatus` as the existing one, or the validator fails.
+   Search the other collections' `content` first; if they disagree with what you found, settle
+   all copies together rather than adding a new disagreement.
 
 4. **Append each new quote** to the `quotes` array with all fields. When adding several at
    once, number them sequentially from the current max (`max+1`, `max+2`, …):
