@@ -3,8 +3,13 @@
 the Quote Unquote newsletter ("As seen in Quote Unquote").
 
 Cross-references newsletter-issues.json against the collections: an issue's
-quote is matched to a collection quote when their normalized texts (lowercased,
-alphanumerics only) contain one another. Matched collection quotes are emitted
+quote is the collection quote its `quoteId` names, or, for an entry with no
+`quoteId`, the one whose normalized text (lowercased, alphanumerics only)
+contains the issue's or is contained by it. The id wins because it is the only
+link for an issue that debunks a paraphrase (`paraphrasesQuoteId: true`): its
+quote is the popular wording, and `quoteId` names the authentic line, which no
+text match would find. quote-unquote's check_newsletter_sync.py verifies that
+every other id's text matches. Matched collection quotes are emitted
 with a `newsletterIssue` number and a `sourceCollection` back-reference. Not
 every newsletter quote maps to a collection quote — many issues are about
 misattributions/paraphrases with no verified entry in the dataset; those are
@@ -63,12 +68,13 @@ def main():
     coll_dir = os.path.join(args.root, "collections")
     files = sorted(fn for fn in os.listdir(coll_dir) if fn.endswith(".json"))
 
-    # (collection_id, quote, normalized_content) for every quote.
+    # (collection_id, quote, normalized_content) for every quote, and by id.
     quotes = []
     for fn in files:
         data = json.load(open(os.path.join(coll_dir, fn), encoding="utf-8"))
         for q in data.get("quotes", []):
             quotes.append((data["id"], q, normalize(q.get("content", ""))))
+    by_id = {q.get("id"): (cid, q) for cid, q, _ in quotes if q.get("id")}
 
     with open(os.path.join(args.root, "newsletter-issues.json"), encoding="utf-8") as f:
         issues = json.load(f)
@@ -89,7 +95,7 @@ def main():
     picked, unmatched = [], []
     for p in sent:
         pn = normalize(p.get("quote", ""))
-        match = next((
+        match = by_id.get(p.get("quoteId")) or next((
             (cid, q) for cid, q, qn in quotes if pn and (pn in qn or qn in pn)
         ), None)
         if match:
