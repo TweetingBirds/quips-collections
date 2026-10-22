@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 32,
-    "file": "great-scientists",
-    "quoteIndex": 25,
-    "note": "sci-001..sci-025 audited. Next run starts at sci-026."
+    "fileIndex": 33,
+    "file": "great-speeches",
+    "quoteIndex": 10,
+    "note": "great-scientists complete (sci-001..036); great-speeches speech-001..010 audited. Next run starts at speech-011."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 931,
+  "totalQuotesAudited": 952,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1345,6 +1345,44 @@
         "sci-023",
         "sci-024",
         "sci-025"
+      ]
+    },
+    {
+      "runDate": "2026-10-22",
+      "file": "great-scientists + great-speeches",
+      "quoteRange": "sci-026..sci-036, speech-001..speech-010",
+      "count": 21,
+      "passed": 19,
+      "flagged": 2,
+      "flaggedIds": [
+        "sci-027",
+        "sci-028"
+      ],
+      "issue": "sci-027: 'nature in itself' should be 'nature itself' (Physics and Philosophy p.78); sci-028: 'my corn plants' not in Keller p.198, which reads 'them'",
+      "resolution": "fixed in fix PR; hashes refreshed",
+      "processNote": "WebSearch/WebFetch (Yale Avalon, Gutenberg, QI, Talbott). Weak, unchanged: sci-027 book text not directly viewed; sci-034 via Dick 1981; MLK text via secondary transcript; sci-033 NBC wording not checked against footage. No open data PRs besides #247 (already reviewed 10-21).",
+      "auditedIds": [
+        "sci-026",
+        "sci-027",
+        "sci-028",
+        "sci-029",
+        "sci-030",
+        "sci-031",
+        "sci-032",
+        "sci-033",
+        "sci-034",
+        "sci-035",
+        "sci-036",
+        "speech-001",
+        "speech-002",
+        "speech-003",
+        "speech-004",
+        "speech-005",
+        "speech-006",
+        "speech-007",
+        "speech-008",
+        "speech-009",
+        "speech-010"
       ]
     }
   ]
