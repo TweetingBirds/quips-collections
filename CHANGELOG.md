@@ -11,6 +11,54 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.18.2] - 2026-10-22
+### Added
+Two quotes added to existing collections:
+- **Stand-Up Legends**: two lines from Jerry Seinfeld's Halloween routine.
+  "First ten years of my life, I think the only clear thought I had was:
+  'Get candy!'" is from *I'm Telling You for the Last Time* (HBO, 1998) and
+  was checked against the recording. "Someone's giving out candy? Who's giving
+  out candy?" is from *Halloween* (2002), the picture book he adapted from
+  that routine.
+
+### Fixed
+- **Standing across collections**: the 11 quotes that carried different
+  `verificationStatus` values in different collections now carry one standing
+  everywhere, plus the same source and notes. Two were promoted to `verified`:
+  Welch's "Before you are a leader..." (*Winning*, 2005, p. 61) and Zimmern's
+  translation of Thucydides 2.40.3 (*The Greek Commonwealth*, 1911). Five were
+  set to `unverified`: Sagan, Confucius, Epictetus, Maxwell and Drucker. Four
+  were set to `attributed`: Estée Lauder, Nathan Hale, Rosalynn Carter and
+  Lombardi. As a result, sw-003 (Stoic Wisdom), entre-027 (Entrepreneurs) and
+  coach-004 (Legendary Coaches) lose a `verified` badge they hadn't earned.
+- **Daily Inspiration**: di-014 now has the line John Lennon actually sang:
+  "Life is what happens to you while you're busy making other plans." The
+  notes trace it to Allen Saunders in *Reader's Digest* (1957).
+- **Tech Visionaries / Dream Big**: "Stay hungry. Stay foolish." is resourced
+  to the back cover of Stewart Brand's *Whole Earth Epilog* (1974) in tv-001,
+  with the cover's punctuation. dream-014 still credits Jobs's Stanford
+  address. Each entry's notes point to the other.
+- **Great Scientists**: sci-020 (Pasteur, "Science knows no country...") is
+  downgraded from `verified` to `unverified`, because no record of the 1876
+  Milan toast it cited could be found.
+
+### Changed
+- The validator now fails a quote whose text appears in more than one
+  collection with different `verificationStatus` values.
+  `schema/known-standing-disagreements.json` lists the exceptions, and it is
+  empty as of this release.
+- The validator now checks each collection's colour against the Palette 2.0
+  tokens in `schema/palette.json`.
+- `newsletter-issues.json`: the einstein, rohn and gandhi issues debunk a
+  popular paraphrase, so they now carry `paraphrasesQuoteId`.
+  `build_newsletter_picks.py` picks the quote named by `quoteId` instead of
+  matching on text. No issue changed status, so `newsletter-picks.json` is
+  unaffected.
+
+### Audited
+Great Scientists audited through sci-025 (24 pass, sci-020 fixed). The
+cursor moves to sci-026.
+
 ## [1.18.1] - 2026-10-20
 ### Added
 Nine quotes added to existing collections, most of them correcting a popular
