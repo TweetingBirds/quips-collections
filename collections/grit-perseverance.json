@@ -9,7 +9,7 @@
   "iconName": "flame.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "grit-001",
@@ -249,13 +249,13 @@
     },
     {
       "id": "grit-015",
-      "content": "It's not whether you get knocked down; it's whether you get up.",
+      "content": "It's not whether you get knocked down, it's whether you get up.",
       "authorName": "Vince Lombardi",
-      "source": "Attributed to Lombardi's talks and writings",
+      "source": "Attributed to Vince Lombardi; quoted on the Lombardi family's official website",
       "sourceType": "unspecified",
       "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
-      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis). Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
+      "notes": "Source axis is uncertain: the Lombardi estate carries the line, but no speech, interview or contemporary report of it has been traced. Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
       "tags": [
         "resilience",
         "encouragement",
@@ -489,11 +489,11 @@
       "id": "grit-029",
       "content": "It does not matter how slowly you go as long as you do not stop.",
       "authorName": "Confucius",
-      "source": "Attributed to Confucius",
+      "source": "Attributed to Confucius; not found in the Analects",
       "sourceType": "unspecified",
       "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails). The century is a broad estimate for the line's modern English circulation; no pre-modern source exists.",
+      "notes": "Attribution axis fails: the line is not in the Analects, whose nearest passage (IX.20 in Legge's translation) has Confucius say of his disciple Yen Yuan only 'I never saw him stop in his progress.' The century is a broad estimate for the line's modern English circulation; no pre-modern source exists.",
       "tags": [
         "perseverance",
         "patience",
@@ -506,11 +506,11 @@
       "id": "grit-030",
       "content": "It's not what happens to you, but how you react to it that matters.",
       "authorName": "Epictetus",
-      "source": "Attributed to Epictetus",
+      "source": "Attributed to Epictetus; a modern paraphrase of Enchiridion 5",
       "sourceType": "unspecified",
       "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails). The century is a broad estimate for the paraphrase's modern English circulation, not a documented date.",
+      "notes": "Wording axis fails: Enchiridion 5 reads 'Men are disturbed not by things, but by the views which they take of things' (Higginson's translation), and this modern line appears in neither the Enchiridion nor the Discourses. The century is a broad estimate for the paraphrase's English circulation, not a documented date.",
       "tags": [
         "choice",
         "self-control",

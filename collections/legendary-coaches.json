@@ -9,7 +9,7 @@
   "iconName": "figure.american.football",
   "category": "Sports",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-24T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "coach-001",
@@ -63,11 +63,11 @@
       "id": "coach-004",
       "content": "It's not whether you get knocked down, it's whether you get up.",
       "authorName": "Vince Lombardi",
-      "source": "Vince Lombardi, quoted on the official Lombardi family website",
-      "quoteDate": "c. 1965",
-      "verificationStatus": "verified",
-      "sourceType": "speech",
-      "notes": "A signature Lombardi line on resilience, preserved by the official Lombardi estate.",
+      "source": "Attributed to Vince Lombardi; quoted on the Lombardi family's official website",
+      "quoteDate": "c. 1960s",
+      "verificationStatus": "attributed",
+      "sourceType": "unspecified",
+      "notes": "Source axis is uncertain: the Lombardi estate carries the line, but no speech, interview or contemporary report of it has been traced. Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
       "tags": [
         "resilience",
         "encouragement",

@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "Philosophy",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "sw-001",
@@ -47,11 +47,11 @@
       "id": "sw-003",
       "content": "It's not what happens to you, but how you react to it that matters.",
       "authorName": "Epictetus",
-      "source": "Enchiridion, Chapter 5 (c. 125 CE)",
-      "sourceType": "book",
-      "quoteDate": "c. 125 CE",
-      "verificationStatus": "verified",
-      "notes": "Paraphrased from the Enchiridion (Handbook). The original discusses how we are disturbed not by things but by our judgments about things.",
+      "source": "Attributed to Epictetus; a modern paraphrase of Enchiridion 5",
+      "sourceType": "unspecified",
+      "quoteDate": "c. 20th century",
+      "verificationStatus": "unverified",
+      "notes": "Wording axis fails: Enchiridion 5 reads 'Men are disturbed not by things, but by the views which they take of things' (Higginson's translation), and this modern line appears in neither the Enchiridion nor the Discourses. The century is a broad estimate for the paraphrase's English circulation, not a documented date.",
       "tags": [
         "choice",
         "self-control",

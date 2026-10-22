@@ -9,7 +9,7 @@
   "iconName": "lightbulb.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-14T12:00:00Z",
+  "lastUpdated": "2026-10-20T12:00:00Z",
   "quotes": [
     {
       "id": "entre-001",
@@ -431,11 +431,11 @@
       "id": "entre-027",
       "content": "I never dreamed about success. I worked for it.",
       "authorName": "Estée Lauder",
-      "source": "Official Estée Lauder Companies 'Our Founder' heritage page",
-      "quoteDate": "c. 1985",
-      "verificationStatus": "verified",
-      "sourceType": "website",
-      "notes": "Wording is endorsed by the company she founded on its official heritage page; date is approximate as the page does not pin it to a book passage or occasion.",
+      "source": "Quoted from Fortune magazine in Newsmakers (Gale Research, 1992), p. 301",
+      "quoteDate": "c. 1992",
+      "verificationStatus": "attributed",
+      "sourceType": "magazine",
+      "notes": "Source axis is uncertain: the exact wording has not been confirmed in her memoir Estée: A Success Story (1985), and the interviews around its publication gave a longer form ('I did not get there by wishing for it, or dreaming about it, or hoping for it'), and the Fortune piece Newsmakers cites has not been traced; her company's heritage page carries this wording. Date is the earliest documented printing of this wording.",
       "tags": [
         "effort",
         "success",
