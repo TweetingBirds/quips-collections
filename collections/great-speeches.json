@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-19T12:00:00Z",
+  "lastUpdated": "2026-10-22T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -605,6 +605,38 @@
         "rallying-cry"
       ],
       "addedAt": "2026-09-17T12:00:00Z"
+    },
+    {
+      "id": "speech-038",
+      "content": "A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free.",
+      "authorName": "Abraham Lincoln",
+      "source": "\"House Divided\" speech, Illinois Republican State Convention, Springfield (June 16, 1858)",
+      "quoteDate": "1858-06-16",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "addedAt": "2026-10-22T12:00:00Z",
+      "notes": "Lincoln's acceptance speech as the Republican Senate nominee, quoting Mark 3:25; wording confirmed against the text published by the National Park Service from The Collected Works of Abraham Lincoln.",
+      "tags": [
+        "equality",
+        "freedom",
+        "warning"
+      ]
+    },
+    {
+      "id": "speech-039",
+      "content": "We will never forget them, nor the last time we saw them, this morning, as they prepared for their journey and waved goodbye and 'slipped the surly bonds of earth' to 'touch the face of God.'",
+      "authorName": "Ronald Reagan",
+      "source": "Address to the Nation on the Explosion of the Space Shuttle Challenger, Oval Office, Washington, D.C. (January 28, 1986)",
+      "quoteDate": "1986-01-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "addedAt": "2026-10-22T12:00:00Z",
+      "notes": "Closing lines of Reagan's televised address, quoting John Gillespie Magee Jr.'s poem 'High Flight'; wording confirmed against the Reagan Presidential Library transcript.",
+      "tags": [
+        "grief",
+        "eulogy",
+        "mortality"
+      ]
     }
   ]
 }
