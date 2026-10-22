@@ -9,7 +9,7 @@
   "iconName": "mic.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-16T12:00:00Z",
+  "lastUpdated": "2026-10-22T12:00:00Z",
   "quotes": [
     {
       "id": "standup-001",
@@ -426,6 +426,37 @@
         "lyrical"
       ],
       "addedAt": "2026-07-16T12:00:00Z"
+    },
+    {
+      "id": "standup-027",
+      "content": "First ten years of my life, I think the only clear thought I had was: 'Get candy!'",
+      "authorName": "Jerry Seinfeld",
+      "source": "I'm Telling You for the Last Time (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "attributed",
+      "sourceType": "television",
+      "notes": "From the 'Halloween' bit in his 1998 HBO special; wording is the axis not yet confirmed, taken from a fan transcript of the special (Kveller quotes it as 'In the first 10 years of my life… get candy') and not yet checked against the recording.",
+      "tags": [
+        "aging",
+        "humor",
+        "one-liner"
+      ],
+      "addedAt": "2026-10-22T12:00:00Z"
+    },
+    {
+      "id": "standup-028",
+      "content": "What is this? What did you say? Someone's giving out candy? Who's giving out candy? Everyone we know is just giving out candy?",
+      "authorName": "Jerry Seinfeld",
+      "source": "Halloween (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "attributed",
+      "sourceType": "book",
+      "notes": "A child's first encounter with Halloween in the picture book Seinfeld adapted from his 1998 stand-up routine; wording is the axis not yet confirmed, matching the excerpts in the Kirkus and Kveller reviews but not checked against the book itself.",
+      "tags": [
+        "joy",
+        "humor"
+      ],
+      "addedAt": "2026-10-22T12:00:00Z"
     }
   ]
 }
