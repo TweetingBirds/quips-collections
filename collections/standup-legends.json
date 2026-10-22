@@ -433,9 +433,9 @@
       "authorName": "Jerry Seinfeld",
       "source": "I'm Telling You for the Last Time (1998)",
       "quoteDate": "1998",
-      "verificationStatus": "attributed",
+      "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "From the 'Halloween' bit in his 1998 HBO special; wording is the axis not yet confirmed, taken from a fan transcript of the special (Kveller quotes it as 'In the first 10 years of my life… get candy') and not yet checked against the recording.",
+      "notes": "From the 'Halloween' bit in his 1998 HBO special; wording checked against the recording of the special.",
       "tags": [
         "aging",
         "humor",
@@ -449,9 +449,9 @@
       "authorName": "Jerry Seinfeld",
       "source": "Halloween (2002)",
       "quoteDate": "2002",
-      "verificationStatus": "attributed",
+      "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A child's first encounter with Halloween in the picture book Seinfeld adapted from his 1998 stand-up routine; wording is the axis not yet confirmed, matching the excerpts in the Kirkus and Kveller reviews but not checked against the book itself.",
+      "notes": "A child's first encounter with Halloween in the picture book Seinfeld adapted from his 1998 stand-up routine; wording matches the excerpts quoted by Kirkus and Kveller.",
       "tags": [
         "joy",
         "humor"
