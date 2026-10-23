@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 33,
     "file": "great-speeches",
-    "quoteIndex": 10,
-    "note": "great-scientists complete (sci-001..036); great-speeches speech-001..010 audited. Next run starts at speech-011."
+    "quoteIndex": 30,
+    "note": "great-speeches speech-001..030 audited. Next run starts at speech-031."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 952,
+  "totalQuotesAudited": 972,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1383,6 +1383,42 @@
         "speech-008",
         "speech-009",
         "speech-010"
+      ]
+    },
+    {
+      "runDate": "2026-10-23",
+      "file": "great-speeches",
+      "quoteRange": "speech-011..speech-030",
+      "count": 20,
+      "passed": 19,
+      "flagged": 1,
+      "flaggedIds": [
+        "speech-023"
+      ],
+      "issue": "speech-023: 'who formed the Union' should be 'who formed this Union' (UMD Voices of Democracy text of 3 Apr 1873)",
+      "resolution": "fixed in fix PR; hashes refreshed",
+      "processNote": "Several primary sites 403/404; some long quotes checked only in part (speech-012, 014, 018, 020, 027, 028). Unresolved: speech-030 'We must always take sides' (Nobel site per search) vs PBS/Wiesel Foundation 'We must take sides'. No open PRs.",
+      "auditedIds": [
+        "speech-011",
+        "speech-012",
+        "speech-013",
+        "speech-014",
+        "speech-015",
+        "speech-016",
+        "speech-017",
+        "speech-018",
+        "speech-019",
+        "speech-020",
+        "speech-021",
+        "speech-022",
+        "speech-023",
+        "speech-024",
+        "speech-025",
+        "speech-026",
+        "speech-027",
+        "speech-028",
+        "speech-029",
+        "speech-030"
       ]
     }
   ]
