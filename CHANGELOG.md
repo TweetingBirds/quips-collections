@@ -11,6 +11,31 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.18.3] - 2026-10-24
+### Added
+Two quotes added to Great Speeches:
+- **speech-038**: Lincoln's "A house divided against itself cannot stand..."
+  from the "House Divided" speech (Illinois Republican State Convention,
+  Springfield, June 16, 1858), confirmed against the National Park Service's
+  text of *The Collected Works of Abraham Lincoln*.
+- **speech-039**: Reagan's closing lines on the Challenger disaster ("...slipped
+  the surly bonds of earth..."), confirmed against the Reagan Presidential
+  Library transcript of the Oval Office address (January 28, 1986).
+
+### Fixed
+- **Great Scientists**: sci-027 (Heisenberg) now reads "nature itself" rather
+  than "nature in itself", per *Physics and Philosophy* (1958). sci-028
+  (McClintock) now reads "I know them intimately..." rather than "my corn
+  plants", per Evelyn Fox Keller's *A Feeling for the Organism* (1983, p. 198).
+- **Great Speeches**: speech-023 (Susan B. Anthony) now reads "...who formed
+  this Union" rather than "the Union", per the text of her April 3, 1873
+  address on Voices of Democracy.
+
+### Audited
+Great Scientists audited through sci-036 (9 pass, sci-027 and sci-028 fixed).
+Great Speeches audited through speech-030 (29 pass, speech-023 fixed). The
+cursor moves to speech-031.
+
 ## [1.18.2] - 2026-10-22
 ### Added
 Two quotes added to existing collections:
