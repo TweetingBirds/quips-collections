@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 33,
-    "file": "great-speeches",
-    "quoteIndex": 30,
-    "note": "great-speeches speech-001..030 audited. Next run starts at speech-031."
+    "fileIndex": 34,
+    "file": "grit-perseverance",
+    "quoteIndex": 11,
+    "note": "great-speeches complete (speech-001..039); grit-perseverance grit-001..011 audited. Next run starts at grit-012."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 972,
+  "totalQuotesAudited": 992,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1419,6 +1419,43 @@
         "speech-028",
         "speech-029",
         "speech-030"
+      ]
+    },
+    {
+      "runDate": "2026-10-24",
+      "file": "great-speeches + grit-perseverance",
+      "quoteRange": "speech-031..speech-039, grit-001..grit-011",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "speech-031",
+        "speech-037"
+      ],
+      "issue": "speech-031: 'men or women' should be 'men and women' (PBS and Wiesel Foundation transcripts); speech-037: 'who errs, and comes short' -> 'who errs, who comes short', 'know neither victory' -> 'neither know victory' (TR Center text); grit-031 (same text) 'knows great enthusiasms' -> 'knows the great enthusiasms'",
+      "resolution": "fixed in fix PR; hashes refreshed",
+      "processNote": "Nobel site 403; Wiesel checked via PBS/Foundation. Weak/unresolved: grit-007 (Jordan ad, aggregators only, no primary); grit-010 (Angelou 'Letter to My Daughter' not confirmed; Wikiquote shows 'We may...' unsourced); grit-001 (ICS transcript 3 'never' after 'never give in' x2 vs Wikiquote/Langworth 4; unchanged); speech-032 'for a human being' absent from Fowler (in Greek/Jowett); speech-033 checked vs Rev transcript only; grit-002/003/008/009 via search snippets/secondary pages. speech-030 'always take sides' unresolved from 10-23: PBS and Foundation both say 'We must take sides', so 'always' unsupported there. No open PRs.",
+      "auditedIds": [
+        "speech-031",
+        "speech-032",
+        "speech-033",
+        "speech-034",
+        "speech-035",
+        "speech-036",
+        "speech-037",
+        "speech-038",
+        "speech-039",
+        "grit-001",
+        "grit-002",
+        "grit-003",
+        "grit-004",
+        "grit-005",
+        "grit-006",
+        "grit-007",
+        "grit-008",
+        "grit-009",
+        "grit-010",
+        "grit-011"
       ]
     }
   ]
