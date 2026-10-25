@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 34,
-    "file": "grit-perseverance",
-    "quoteIndex": 11,
-    "note": "great-speeches complete (speech-001..039); grit-perseverance grit-001..011 audited. Next run starts at grit-012."
+    "fileIndex": 35,
+    "file": "hadith",
+    "quoteIndex": 0,
+    "note": "grit-perseverance complete (grit-001..031). Next run starts at hadith-001."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 992,
+  "totalQuotesAudited": 1012,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1456,6 +1456,43 @@
         "grit-009",
         "grit-010",
         "grit-011"
+      ]
+    },
+    {
+      "runDate": "2026-10-25",
+      "file": "grit-perseverance",
+      "quoteRange": "grit-012..grit-031",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "grit-017",
+        "grit-020"
+      ],
+      "issue": "grit-017 (Ruth): earliest form is 'You just can't beat the person who never gives up' (Rotarian, July 1940, byline); grit-020 (Rudolph): primary source is 'Wilma' (1977) ch. 5, wording matches",
+      "resolution": "source/date/notes corrected in fix PR; both left 'attributed'; hashes refreshed",
+      "processNote": "Checked via Quote Investigator, Popik, wist.info, archive.org OCR (grit-023 verified p.507). grit-014 Coolidge not his origin (QI; notes already say so). grit-012/013/015/016/019/021/022/024/025/026/027/028/029/030 remain attributed/unverified, no primary found; grit-018 passage opening matches wist.info/Sheean, rest unseen; grit-031 checked last run. Walter Elliot may be mis-identified (a 1918 'Spiritual Life' lead by Walter Elliott, Paulist, unconfirmed). Open PRs: none.",
+      "auditedIds": [
+        "grit-012",
+        "grit-013",
+        "grit-014",
+        "grit-015",
+        "grit-016",
+        "grit-017",
+        "grit-018",
+        "grit-019",
+        "grit-020",
+        "grit-021",
+        "grit-022",
+        "grit-023",
+        "grit-024",
+        "grit-025",
+        "grit-026",
+        "grit-027",
+        "grit-028",
+        "grit-029",
+        "grit-030",
+        "grit-031"
       ]
     }
   ]
