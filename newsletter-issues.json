@@ -251,5 +251,15 @@
     "sentAt": null,
     "notes": "The sentence is from Mary Schmich's Chicago Tribune column of June 1, 1997, the one that circulated online as a supposed Kurt Vonnegut commencement speech. It is widely credited to Eleanor Roosevelt, whose closest known line is 'You must do the thing you think you cannot do' (1960).",
     "quoteId": "courage-036"
+  },
+  {
+    "slug": "ford",
+    "quote": "If I had asked my customers what they wanted, they would have said a faster horse.",
+    "attribution": "Attributed to Henry Ford (no Ford source found)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "entre-031",
+    "notes": "No record of Henry Ford saying it has turned up, and his museum says it was never satisfactorily traced to him. The earliest direct ascription is a January 2001 letter to Marketing Week, 54 years after his death; the faster-horses image itself appears in print in 1930 (Edward Menge) and 1946 (Lewis Mumford)."
   }
 ]
