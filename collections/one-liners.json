@@ -9,7 +9,7 @@
   "iconName": "text.bubble.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-19T12:00:00Z",
+  "lastUpdated": "2026-10-26T12:00:00Z",
   "quotes": [
     {
       "id": "oneliner-001",
@@ -474,6 +474,21 @@
         "aphorism"
       ],
       "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "oneliner-030",
+      "content": "A lie can travel halfway around the world while the truth is putting on its shoes.",
+      "authorName": "Proverb (often misattributed to Mark Twain)",
+      "source": "Proverb; the earliest known form is Jonathan Swift, The Examiner, November 2-9, 1710: \"Falsehood flies, and the Truth comes limping after it\"",
+      "sourceType": "unspecified",
+      "verificationStatus": "unverified",
+      "notes": "Not Twain, who died in 1910 and has no documented source for it; the first Twain ascription found is 1919, and the \"shoes\" wording appears in 1924, as reported by Quote Investigator (the underlying publications were not consulted).",
+      "tags": [
+        "truth",
+        "warning",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-26T12:00:00Z"
     }
   ]
 }

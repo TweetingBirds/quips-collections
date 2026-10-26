@@ -251,5 +251,15 @@
     "sentAt": null,
     "notes": "The sentence is from Mary Schmich's Chicago Tribune column of June 1, 1997, the one that circulated online as a supposed Kurt Vonnegut commencement speech. It is widely credited to Eleanor Roosevelt, whose closest known line is 'You must do the thing you think you cannot do' (1960).",
     "quoteId": "courage-036"
+  },
+  {
+    "slug": "twain-shoes",
+    "quote": "A lie can travel halfway around the world while the truth is putting on its shoes.",
+    "attribution": "Misattributed to Mark Twain (an old proverb; earliest known form is Jonathan Swift, 1710)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "oneliner-030",
+    "notes": "No Twain source exists; he died in 1910 and the first Twain ascription found is from 1919. Swift wrote 'Falsehood flies, and the Truth comes limping after it' in 1710, the boots version appears in 1820 and Charles Spurgeon called it an old proverb in 1859; the shoes wording turns up in 1924."
   }
 ]
