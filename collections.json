@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-22T12:00:00Z",
+  "lastUpdated": "2026-10-26T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1107,7 +1107,7 @@
       "name": "Entrepreneurs",
       "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Screw it, let's do it.",
         "Competition is for losers."
@@ -1118,9 +1118,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-dunKr5zxu5LC++wCK/5iDAaLZAoYY+5tmSX+4txDxN4=",
-      "bytes": 20282
+      "lastUpdated": "2026-10-26T12:00:00Z",
+      "contentHash": "sha256-UTXYuid00Xb9XeakUJTtSqhkgbOZvJFa2rDltrIl5mw=",
+      "bytes": 21146
     },
     {
       "id": "on-leadership",
