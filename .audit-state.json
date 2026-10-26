@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 35,
     "file": "hadith",
-    "quoteIndex": 0,
-    "note": "grit-perseverance complete (grit-001..031). Next run starts at hadith-001."
+    "quoteIndex": 20,
+    "note": "hadith-001..020 audited. Next run starts at hadith-021."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1012,
+  "totalQuotesAudited": 1032,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1493,6 +1493,43 @@
         "grit-029",
         "grit-030",
         "grit-031"
+      ]
+    },
+    {
+      "runDate": "2026-10-26",
+      "file": "hadith",
+      "quoteRange": "hadith-001..hadith-020",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "hadith-005",
+        "hadith-009"
+      ],
+      "issue": "hadith-005: notes named Abu Hurayra, but Bukhari 6019 (and Muslim 48) is Abu Shurayh al-Khuza'i. hadith-009: notes said at-Tirmidhi graded it hasan; Tirmidhi called it gharib (al-Nawawi hasan, Zai weak).",
+      "resolution": "notes corrected in fix PR; statuses unchanged; hashes refreshed",
+      "processNote": "sunnah.com 403s; checked via hadithunlocked.com mirror. PR #258 (Twain/shoes, unverified) consistent with Quote Investigator.",
+      "auditedIds": [
+        "hadith-001",
+        "hadith-002",
+        "hadith-003",
+        "hadith-004",
+        "hadith-005",
+        "hadith-006",
+        "hadith-007",
+        "hadith-008",
+        "hadith-009",
+        "hadith-010",
+        "hadith-011",
+        "hadith-012",
+        "hadith-013",
+        "hadith-014",
+        "hadith-015",
+        "hadith-016",
+        "hadith-017",
+        "hadith-018",
+        "hadith-019",
+        "hadith-020"
       ]
     }
   ]
