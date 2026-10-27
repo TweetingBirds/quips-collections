@@ -899,8 +899,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-WIjJlTn96Xh2geYxDmN8CCiQz6UcjJ8gWHHnpHqJb+w=",
-      "bytes": 17921
+      "contentHash": "sha256-Oo4+/s8z6/RDiixg0K8S2Bnr1FPSdyxaUyEOCl/J0pM=",
+      "bytes": 18202
     },
     {
       "id": "bhagavad-gita",
@@ -1019,8 +1019,8 @@
       "category": "Faith",
       "addedAt": "2026-09-15T12:00:00Z",
       "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-QfVkL5BKG5wieentb3xtEGhSZYro7AjFriScJJ8JjT4=",
-      "bytes": 19981
+      "contentHash": "sha256-7t8+oPPfk21GN61MmAkv5H+squLeSDxveguCg6N73MY=",
+      "bytes": 19985
     },
     {
       "id": "sikh-wisdom",
@@ -1107,7 +1107,7 @@
       "name": "Entrepreneurs",
       "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Screw it, let's do it.",
         "Competition is for losers."
@@ -1118,9 +1118,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-dunKr5zxu5LC++wCK/5iDAaLZAoYY+5tmSX+4txDxN4=",
-      "bytes": 20282
+      "lastUpdated": "2026-10-26T12:00:00Z",
+      "contentHash": "sha256-UTXYuid00Xb9XeakUJTtSqhkgbOZvJFa2rDltrIl5mw=",
+      "bytes": 21146
     },
     {
       "id": "on-leadership",

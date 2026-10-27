@@ -83,7 +83,7 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra on hospitality; graded sahih and also recorded in Sahih Muslim 48.",
+      "notes": "Narrated by Abu Shurayh al-Khuza'i on hospitality; graded sahih and also recorded in Sahih Muslim 48.",
       "tags": [
         "generosity",
         "faith",
@@ -147,7 +147,7 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded hasan by at-Tirmidhi and included in An-Nawawi's collection.",
+      "notes": "Narrated by Abu Hurayra; at-Tirmidhi called it gharib, al-Nawawi graded it hasan (included in his Forty Hadith), and some scholars (e.g. Ahmad, al-Bukhari) judged the authentic form to be a mursal report from Ali ibn al-Husayn.",
       "tags": [
         "self-control",
         "wisdom",
@@ -397,7 +397,7 @@
     },
     {
       "id": "hadith-025",
-      "content": "The most complete of believers in faith are those with the best character, and the best of you are those best to their families.",
+      "content": "The most complete of believers in faith are those with the best character, and the best of you are those best to their wives.",
       "authorName": "Prophet Muhammad",
       "source": "Riyad as-Salihin 278 (Jami' at-Tirmidhi 1162)",
       "quoteDate": "c. 620 CE",
@@ -431,11 +431,11 @@
       "id": "hadith-027",
       "content": "Every act of kindness is charity, and a good word is charity.",
       "authorName": "Prophet Muhammad",
-      "source": "Sahih al-Bukhari 2989 (An-Nawawi's Forty Hadith, No. 26)",
+      "source": "Sahih al-Bukhari 6021 and 2989 (An-Nawawi's Forty Hadith, No. 26)",
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1009.",
+      "notes": "Two sahih sayings joined: \"every act of kindness (ma'ruf) is charity\" (Bukhari 6021, narrated by Jabir) and \"a good word is charity\" (Bukhari 2989 / Muslim 1009, narrated by Abu Hurayra; Nawawi No. 26).",
       "tags": [
         "kindness",
         "generosity",

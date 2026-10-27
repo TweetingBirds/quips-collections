@@ -253,6 +253,16 @@
     "quoteId": "courage-036"
   },
   {
+    "slug": "ford",
+    "quote": "If I had asked my customers what they wanted, they would have said a faster horse.",
+    "attribution": "Attributed to Henry Ford (no Ford source found)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "entre-031",
+    "notes": "No record of Henry Ford saying it has turned up, and his museum says it was never satisfactorily traced to him. The earliest direct ascription is a January 2001 letter to Marketing Week, 54 years after his death; the faster-horses image itself appears in print in 1930 (Edward Menge) and 1946 (Lewis Mumford)."
+  },
+  {
     "slug": "twain-shoes",
     "quote": "A lie can travel halfway around the world while the truth is putting on its shoes.",
     "attribution": "Misattributed to Mark Twain (an old proverb; earliest known form is Jonathan Swift, 1710)",

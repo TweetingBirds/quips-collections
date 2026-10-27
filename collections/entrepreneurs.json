@@ -9,7 +9,7 @@
   "iconName": "lightbulb.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-10-26T12:00:00Z",
   "quotes": [
     {
       "id": "entre-001",
@@ -491,6 +491,21 @@
         "purpose"
       ],
       "addedAt": "2026-10-14T12:00:00Z"
+    },
+    {
+      "id": "entre-031",
+      "content": "If I had asked my customers what they wanted, they would have said a faster horse.",
+      "authorName": "Attributed to Henry Ford",
+      "source": "First ascribed to Ford in a letter from David Lowings, Marketing Week (London), January 18, 2001; no Ford source has been found",
+      "sourceType": "article",
+      "verificationStatus": "unverified",
+      "notes": "Ford died in 1947 and no record of him saying it has turned up; The Henry Ford museum says it has never been satisfactorily traced to him. The faster-horses image predates the Ford link (Edward Menge, Quarterly Review of Biology, 1930), and the wording follows the 2001 letter as reported by Quote Investigator.",
+      "tags": [
+        "imagination",
+        "change",
+        "aphorism"
+      ],
+      "addedAt": "2026-10-26T12:00:00Z"
     }
   ]
 }
