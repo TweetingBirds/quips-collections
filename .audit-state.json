@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 35,
-    "file": "hadith",
-    "quoteIndex": 0,
-    "note": "grit-perseverance complete (grit-001..031). Next run starts at hadith-001."
+    "fileIndex": 36,
+    "file": "hanukkah",
+    "quoteIndex": 9,
+    "note": "hadith complete (hadith-001..031). hanukkah audited through hanuk-009. Next run starts at hanuk-010."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1012,
+  "totalQuotesAudited": 1052,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1493,6 +1493,81 @@
         "grit-029",
         "grit-030",
         "grit-031"
+      ]
+    },
+    {
+      "runDate": "2026-10-26",
+      "file": "hadith",
+      "quoteRange": "hadith-001..hadith-020",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "hadith-005",
+        "hadith-009"
+      ],
+      "issue": "hadith-005: notes named Abu Hurayra, but Bukhari 6019 (and Muslim 48) is Abu Shurayh al-Khuza'i. hadith-009: notes said at-Tirmidhi graded it hasan; Tirmidhi called it gharib (al-Nawawi hasan, Zai weak).",
+      "resolution": "notes corrected in fix PR; statuses unchanged; hashes refreshed",
+      "processNote": "sunnah.com 403s; checked via hadithunlocked.com mirror. PR #258 (Twain/shoes, unverified) consistent with Quote Investigator.",
+      "auditedIds": [
+        "hadith-001",
+        "hadith-002",
+        "hadith-003",
+        "hadith-004",
+        "hadith-005",
+        "hadith-006",
+        "hadith-007",
+        "hadith-008",
+        "hadith-009",
+        "hadith-010",
+        "hadith-011",
+        "hadith-012",
+        "hadith-013",
+        "hadith-014",
+        "hadith-015",
+        "hadith-016",
+        "hadith-017",
+        "hadith-018",
+        "hadith-019",
+        "hadith-020"
+      ]
+    },
+    {
+      "runDate": "2026-10-27",
+      "file": "hadith, hanukkah",
+      "quoteRange": "hadith-021..hadith-031, hanuk-001..hanuk-009",
+      "count": 20,
+      "passed": 17,
+      "flagged": 3,
+      "flaggedIds": [
+        "hadith-025",
+        "hadith-027",
+        "hanuk-001"
+      ],
+      "issue": "hadith-025: 'families' vs Arabic li-nisa'ihim (wives/women). hadith-027: two hadiths (Bukhari 6021 + 2989) merged under one citation. hanuk-001: RSV has 'the days of the dedication', quote dropped 'the'.",
+      "resolution": "fixed on this branch (wording/source/notes); statuses unchanged; hashes refreshed",
+      "processNote": "sunnah.com 403s; used thehouseofislam/hadithunlocked mirrors and biblegateway RSV. PR #258 unchanged since last review.",
+      "auditedIds": [
+        "hadith-021",
+        "hadith-022",
+        "hadith-023",
+        "hadith-024",
+        "hadith-025",
+        "hadith-026",
+        "hadith-027",
+        "hadith-028",
+        "hadith-029",
+        "hadith-030",
+        "hadith-031",
+        "hanuk-001",
+        "hanuk-002",
+        "hanuk-003",
+        "hanuk-004",
+        "hanuk-005",
+        "hanuk-006",
+        "hanuk-007",
+        "hanuk-008",
+        "hanuk-009"
       ]
     }
   ]
