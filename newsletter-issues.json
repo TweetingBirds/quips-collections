@@ -261,5 +261,15 @@
     "sentAt": null,
     "quoteId": "entre-031",
     "notes": "No record of Henry Ford saying it has turned up, and his museum says it was never satisfactorily traced to him. The earliest direct ascription is a January 2001 letter to Marketing Week, 54 years after his death; the faster-horses image itself appears in print in 1930 (Edward Menge) and 1946 (Lewis Mumford)."
+  },
+  {
+    "slug": "twain-shoes",
+    "quote": "A lie can travel halfway around the world while the truth is putting on its shoes.",
+    "attribution": "Misattributed to Mark Twain (an old proverb; earliest known form is Jonathan Swift, 1710)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "oneliner-030",
+    "notes": "No Twain source exists; he died in 1910 and the first Twain ascription found is from 1919. Swift wrote 'Falsehood flies, and the Truth comes limping after it' in 1710, the boots version appears in 1820 and Charles Spurgeon called it an old proverb in 1859; the shoes wording turns up in 1924."
   }
 ]
