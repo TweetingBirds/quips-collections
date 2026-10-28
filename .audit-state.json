@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 36,
     "file": "hanukkah",
-    "quoteIndex": 9,
-    "note": "hadith complete (hadith-001..031). hanukkah audited through hanuk-009. Next run starts at hanuk-010."
+    "quoteIndex": 19,
+    "note": "hanukkah audited through hanuk-019 (hanuk-013..016 deferred: Talmud English not reachable). Next run starts at hanuk-020."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1052,
+  "totalQuotesAudited": 1061,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1568,6 +1568,31 @@
         "hanuk-007",
         "hanuk-008",
         "hanuk-009"
+      ]
+    },
+    {
+      "runDate": "2026-10-28",
+      "file": "hanukkah",
+      "quoteRange": "hanuk-010..hanuk-019 (partial), hanuk-026..028",
+      "count": 9,
+      "passed": 8,
+      "flagged": 1,
+      "flaggedIds": [
+        "hanuk-019"
+      ],
+      "issue": "hanuk-019: 'Shabbat lamp' not in the text ('lamp of his house'); translation unidentified. Downgraded to attributed.",
+      "resolution": "status/notes fixed; hashes refreshed",
+      "processNote": "Web tools returned paraphrases only; hanuk-013..016 (Soncino wording) and 020..025, 029 not confirmed this run, so not counted. 017/018 translation also unidentified; left verified. No open PRs.",
+      "auditedIds": [
+        "hanuk-010",
+        "hanuk-011",
+        "hanuk-012",
+        "hanuk-017",
+        "hanuk-018",
+        "hanuk-019",
+        "hanuk-026",
+        "hanuk-027",
+        "hanuk-028"
       ]
     }
   ]
