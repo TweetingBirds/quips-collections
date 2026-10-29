@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-26T12:00:00Z",
+  "lastUpdated": "2026-10-29T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -247,7 +247,7 @@
       "name": "Edgar Allan Poe",
       "description": "Haunting lines from the gothic tales and shadow-haunted poems of Edgar Allan Poe, master of mystery and the macabre.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "Quoth the Raven, \"Nevermore.\"",
         "All that we see or seem Is but a dream within a dream."
@@ -258,16 +258,16 @@
       "iconName": "bird.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-gdj/VMbzkMeKsu5VWtSUcwLvHS0zykB9wIP/SHizfR0=",
-      "bytes": 16850
+      "lastUpdated": "2026-10-29T12:00:00Z",
+      "contentHash": "sha256-BiS9TN+ocRMgopyrlxmfzOL4xzG92x0Lft/ZQznvyMw=",
+      "bytes": 17382
     },
     {
       "id": "jane-austen",
       "name": "Jane Austen",
       "description": "Wit, romance, and razor-sharp social observation from the novels of England's most beloved chronicler of the human heart.",
       "author": "Quips Editorial",
-      "quoteCount": 37,
+      "quoteCount": 38,
       "previewQuotes": [
         "You pierce my soul. I am half agony, half hope.",
         "If I loved you less, I might be able to talk about it more."
@@ -278,9 +278,9 @@
       "iconName": "heart.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-qEiQUnhHhZbn2XYhWnUWVB0YlOuG08dgocfkkPTIzpM=",
-      "bytes": 19291
+      "lastUpdated": "2026-10-29T12:00:00Z",
+      "contentHash": "sha256-a9Q2iVTCgSH/vL5tDr2xsCL9P+yJ4zZJh8H1PwAGc6U=",
+      "bytes": 20044
     },
     {
       "id": "great-poems",
@@ -1527,7 +1527,7 @@
       "name": "Thoreau & Walden",
       "description": "Simplicity, solitude, and deliberate living from the sage of Walden Pond.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "We need the tonic of wildness.",
         "Things do not change; we change."
@@ -1538,9 +1538,9 @@
       "iconName": "tree.fill",
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-wflfi1q2qDfAUG1++j7Y+PfE+WSc9amYS6C4aApBVtg=",
-      "bytes": 17471
+      "lastUpdated": "2026-10-29T12:00:00Z",
+      "contentHash": "sha256-yF8F6+jrzeNcZJs+J+uEgyCdrku2GexhTuLilZGZb+4=",
+      "bytes": 18547
     },
     {
       "id": "earth-and-the-wild",

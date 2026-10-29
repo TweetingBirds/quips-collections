@@ -9,7 +9,7 @@
   "iconName": "heart.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-10-29T12:00:00Z",
   "quotes": [
     {
       "id": "austen-001",
@@ -603,6 +603,22 @@
         "paradox"
       ],
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "austen-038",
+      "content": "Seldom, very seldom does complete truth belong to any human disclosure; seldom can it happen that something is not a little disguised, or a little mistaken.",
+      "authorName": "Jane Austen",
+      "source": "Emma, Vol. III, Ch. XIII (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "notes": "Narration after Emma and Mr. Knightley's engagement; wording follows the Project Gutenberg text (no comma after 'very seldom', as some editions print it), and the sentence is cut at its semicolon-joined first two clauses.",
+      "tags": [
+        "honesty",
+        "truth",
+        "love"
+      ],
+      "verificationStatus": "verified",
+      "addedAt": "2026-10-29T12:00:00Z"
     }
   ]
 }
