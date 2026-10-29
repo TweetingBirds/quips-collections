@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 36,
     "file": "hanukkah",
-    "quoteIndex": 19,
-    "note": "hanukkah audited through hanuk-019 (hanuk-013..016 deferred: Talmud English not reachable). Next run starts at hanuk-020."
+    "quoteIndex": 25,
+    "note": "hanukkah audited through hanuk-025 (026-028 done 2026-10-28; hanuk-013..016 still deferred). Next run starts at hanuk-029, then how-i-met-your-mother."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1061,
+  "totalQuotesAudited": 1067,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1593,6 +1593,30 @@
         "hanuk-026",
         "hanuk-027",
         "hanuk-028"
+      ]
+    },
+    {
+      "runDate": "2026-10-29",
+      "file": "hanukkah",
+      "quoteRange": "hanuk-020..hanuk-025",
+      "count": 6,
+      "passed": 3,
+      "flagged": 3,
+      "flaggedIds": [
+        "hanuk-020",
+        "hanuk-021",
+        "hanuk-022"
+      ],
+      "issue": "Liturgical English translations unidentified and not matching retrievable renderings; downgraded to attributed. hanuk-023..025 matched JPS 1917 via Sefaria.",
+      "resolution": "status/notes fixed; hashes refreshed",
+      "processNote": "Below the 20-quote minimum: HIMYM episode transcripts unreachable via web tools (searches gave only secondary recaps; himym-016 may be Ted's line, unconfirmed), so none counted. No open PRs.",
+      "auditedIds": [
+        "hanuk-020",
+        "hanuk-021",
+        "hanuk-022",
+        "hanuk-023",
+        "hanuk-024",
+        "hanuk-025"
       ]
     }
   ]
