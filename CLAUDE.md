@@ -54,6 +54,11 @@ Two extra notes for these runs:
 - Verify every quote with web tools (WebSearch/WebFetch against a primary or
   authoritative source), never from memory or internal knowledge. A quote not
   checked on the web this run is not counted as audited.
+- When a quote's `notes` name the printed edition its wording was confirmed against,
+  that edition governs. A transcription that differs from it (a foundation's or
+  archive's web page, a later reprint) is not a reason to change the text: record the
+  difference in `notes` instead. Check `newsletter-issues.json` too, because an issue
+  that quotes the same edition must keep matching its `quoteId`.
 - A quote's text may appear in several collections, and `verificationStatus` must
   agree across all of them. Before you change one quote's status, search for its
   text in the other collections and change every copy together; the validator
