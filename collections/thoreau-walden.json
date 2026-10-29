@@ -9,7 +9,7 @@
   "iconName": "tree.fill",
   "category": "Nature",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-10-29T12:00:00Z",
   "quotes": [
     {
       "id": "thoreau-001",
@@ -490,6 +490,38 @@
         "advice"
       ],
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "thoreau-031",
+      "content": "But lo! men have become the tools of their tools.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Economy\" (1854)",
+      "quoteDate": "1854",
+      "sourceType": "book",
+      "notes": "From the opening chapter, on how possessions and implements end up directing the people who made them.",
+      "tags": [
+        "technology",
+        "work",
+        "simplicity"
+      ],
+      "verificationStatus": "verified",
+      "addedAt": "2026-10-29T12:00:00Z"
+    },
+    {
+      "id": "thoreau-032",
+      "content": "The universe is wider than our views of it.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "quoteDate": "1854",
+      "sourceType": "book",
+      "notes": "From the opening paragraph of the closing chapter, urging readers past the limits of their own perspective.",
+      "tags": [
+        "wonder",
+        "wisdom",
+        "aphorism"
+      ],
+      "verificationStatus": "verified",
+      "addedAt": "2026-10-29T12:00:00Z"
     }
   ]
 }

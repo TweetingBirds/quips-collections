@@ -9,7 +9,7 @@
   "iconName": "bird.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-10-29T12:00:00Z",
   "quotes": [
     {
       "id": "poe-001",
@@ -506,6 +506,22 @@
         "craft"
       ],
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "poe-032",
+      "content": "Deep into that darkness peering, long I stood there wondering, fearing,",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "notes": "The narrator stares into the dark beyond his chamber door, the poem's turn from grief toward dread.",
+      "tags": [
+        "fear",
+        "doubt",
+        "lyrical"
+      ],
+      "verificationStatus": "verified",
+      "addedAt": "2026-10-29T12:00:00Z"
     }
   ]
 }
