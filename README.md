@@ -14,6 +14,7 @@ collections.json          Index of all collections (metadata + preview quotes)
 collections/<id>.json     One file per collection, containing its quotes
 schema/                   JSON Schema for the index and collection files
 scripts/                  Validation + release tooling (stdlib Python only)
+changelogs/               One file per released version, plus unreleased/ fragments
 ```
 
 ## Consuming the data
@@ -42,8 +43,10 @@ git push origin v1.2.0
 ```
 
 `.github/workflows/release.yml` then validates the data, builds the bundle and
-`manifest.json`, creates the GitHub Release, and uploads everything to R2 behind
-`data.quipsapp.com`.
+`manifest.json`, creates the GitHub Release with `changelogs/<version>.md` as its
+notes, and uploads everything to R2 behind `data.quipsapp.com`. A tag with no notes
+file is refused before anything is published. The versioning scheme is in
+[`changelogs/README.md`](changelogs/README.md).
 
 ## License
 

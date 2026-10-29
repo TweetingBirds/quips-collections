@@ -18,6 +18,13 @@ jobs:
       # small valid tree one field at a time and expect the validator to name it.
       - name: Test the validator
         run: python3 scripts/test_validate_collections.py
+      # Each pull request writes its release notes to a fragment in
+      # changelogs/unreleased/; the release PR folds them into changelogs/<version>.md.
+      # A malformed fragment would otherwise surface only in the release PR.
+      - name: Test the changelog tool
+        run: python3 scripts/test_changelog.py
+      - name: The changelog fragments, version files and index are well-formed
+        run: python3 scripts/changelog.py check
       # Validator is stdlib-only; no dependencies to install.
       - name: Validate collections data
         run: python3 scripts/validate_collections.py --strict --require-tags

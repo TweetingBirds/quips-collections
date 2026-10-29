@@ -122,5 +122,12 @@ Rules enforced in CI:
 
 ## Releasing
 
-Maintainers cut a release by pushing a semver tag (`git tag v1.2.0 && git push
-origin v1.2.0`). See [README](README.md#releasing).
+A pull request that changes published data writes its release notes to a fragment of
+its own, `changelogs/unreleased/<branch-name>.md`; the format is in `scripts/changelog.py`,
+and `python3 scripts/changelog.py check` validates it (CI runs it). The weekly release
+PR folds the fragments into `changelogs/<version>.md` with
+`python3 scripts/changelog.py release <version>`, which deletes them. Maintainers
+then cut the release by pushing a semver tag (`git tag v1.2.0 && git push origin
+v1.2.0`); the release workflow publishes `changelogs/<version>.md` as the notes and
+refuses a tag that has none. See [README](README.md#releasing) and
+[`changelogs/README.md`](changelogs/README.md) for the versioning scheme.

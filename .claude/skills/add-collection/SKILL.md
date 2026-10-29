@@ -143,7 +143,8 @@ entry, and `previewQuotes`.
    ```
 
 8. **Open a PR.** A new collection reaches users only through a release — follow the
-   **Publishing** section of the `add-quotes` skill: branch and PR, and stop there. The
+   **Publishing** section of the `add-quotes` skill: branch, release-notes fragment
+   (an `### Added` section naming the collection) and PR, and stop there. The
    weekly release check will call it a **minor** release; the tag is Nate's.
 
 9. **Report** the new collection id, quote count, the PR, and any quotes that are not

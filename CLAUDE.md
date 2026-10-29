@@ -66,6 +66,8 @@ Two extra notes for these runs:
   rule are listed in `schema/known-standing-disagreements.json`. Don't add to
   it. If your edit settles one of them, delete its entry, or the validator
   reports it as stale.
+- An audit run that fixes a quote adds its fragment (`### Fixed`, and an
+  `### Audited` line naming how far the cursor moved), as any data PR does.
 - Always commit the `.audit-state.json` cursor advance, even when every quote
   was clean, so the next run resumes where this one stopped. State-only commits
   are fine; a commit that also touches a collection file needs the hash refresh
@@ -99,4 +101,13 @@ Two extra notes for these runs:
   new collection. See [CONTRIBUTING.md](CONTRIBUTING.md). **Pushing that tag
   publishes, so it is Nate's step**: a Saturday routine proposes each release as a
   `release/<version>` PR that writes the changelog, and Nate merges and tags it.
-  Don't push a `v*` tag or hand-edit `CHANGELOG.md` from a data PR.
+  Don't push a `v*` tag from a data PR, and don't edit a released
+  `changelogs/<version>.md`.
+- **A PR that changes something a release publishes writes its release notes to a
+  fragment of its own**, `changelogs/unreleased/<branch-name>.md` (the branch name with `/`
+  turned into `-`): `### Added`, `### Changed`, `### Removed`, `### Fixed`,
+  `### Audited` or `### Notes`, each followed by the notes in the house style of the
+  newest `changelogs/<version>.md`. A fragment per PR means no two PRs edit the same
+  file. The release PR folds them into `changelogs/<version>.md` with
+  `python3 scripts/changelog.py release <version>`, which deletes them; CI runs
+  `python3 scripts/changelog.py check`. The format is in `scripts/changelog.py`.
