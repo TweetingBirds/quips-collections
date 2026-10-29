@@ -82,22 +82,16 @@ jobs:
           python3 scripts/build_manifest.py "$VER" > dist/manifest.json
           echo "Manifest:"; cat dist/manifest.json
 
-      - name: Extract release notes from CHANGELOG
+      # The notes are changelogs/<version>.md, less its heading, which the release PR
+      # wrote from the pull requests' fragments (scripts/changelog.py). A tag with no
+      # notes file fails here, before the GitHub Release and the R2 upload, rather
+      # than publishing a release whose body is only its name.
+      - name: Read the release notes (gate the release)
         env:
           TAG: ${{ github.ref_name }}        # e.g. v1.1.0
         run: |
           set -euo pipefail
-          VER="${TAG#v}"
-          # Pull the "## [VER] - date" section out of CHANGELOG.md, up to the next
-          # version heading, and use it as the release body.
-          awk -v ver="$VER" '
-            $0 ~ "^## \\[" ver "\\]" {flag=1; next}
-            flag && /^## \[/ {exit}
-            flag {print}
-          ' CHANGELOG.md | sed '/./,$!d' > RELEASE_NOTES.md
-          if [ ! -s RELEASE_NOTES.md ]; then
-            echo "Release ${TAG}" > RELEASE_NOTES.md
-          fi
+          python3 scripts/changelog.py notes "${TAG#v}" > RELEASE_NOTES.md
           echo "--- release notes ---"; cat RELEASE_NOTES.md
 
       - name: Create GitHub Release

@@ -198,10 +198,23 @@ R2 behind `data.quipsapp.com`, and creates a GitHub Release — public and hard 
    git commit -m "Add N quotes to <id>"
    git push -u origin HEAD
    ```
-   Don't edit `CHANGELOG.md`: release notes are written when a release is cut.
+   Add the PR's release notes as a fragment, `changelogs/unreleased/<branch-name>.md` (the branch
+   name with `/` turned into `-`), in the style of the newest `changelogs/<version>.md`:
+   ```markdown
+   ### Added
+   Three quotes added to existing collections:
+   - **Daily Inspiration**: …
+   ```
+   Sections are `Added`, `Changed`, `Removed`, `Fixed`, `Audited` and `Notes`; nothing
+   goes outside one. Check it with `python3 scripts/changelog.py check`, and commit it
+   with the data (`git add changelogs/unreleased/<branch-name>.md`). Never edit a
+   released `changelogs/<version>.md`.
 2. **The release.** Every Saturday a scheduled check decides whether merged changes warrant
    a release, picks the tier (patch for quote additions and edits, minor for a new
-   collection), writes the `CHANGELOG.md` section, and opens a `release/<version>` PR.
+   collection), folds the fragments into `changelogs/<version>.md`
+   (`python3 scripts/changelog.py release <version>`, adding notes for anything that
+   counts but has no fragment, such as a newly sent newsletter issue), and opens a
+   `release/<version>` PR.
    Nate merges it and pushes the `vX.Y.Z` tag, which publishes. Merging alone publishes
    nothing — if a `release/*` PR has been merged and `git tag -l v<version>` is empty,
    tell Nate.
