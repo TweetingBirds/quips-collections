@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 36,
-    "file": "hanukkah",
-    "quoteIndex": 25,
-    "note": "hanukkah audited through hanuk-025 (026-028 done 2026-10-28; hanuk-013..016 still deferred). Next run starts at hanuk-029, then how-i-met-your-mother."
+    "fileIndex": 37,
+    "file": "how-i-met-your-mother",
+    "quoteIndex": 55,
+    "note": "hanukkah complete (hanuk-013..016 still deferred). how-i-met-your-mother audited through himym-055; deferred (no episode cited or text unreachable): himym-003,005,007..011,013,014,016,017,020..025,028,029,032,033,035..041,043,044,046..048,050..052,054. Next run starts at himym-056."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1067,
+  "totalQuotesAudited": 1087,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1617,6 +1617,48 @@
         "hanuk-023",
         "hanuk-024",
         "hanuk-025"
+      ]
+    },
+    {
+      "runDate": "2026-10-30",
+      "file": "hanukkah, how-i-met-your-mother",
+      "quoteRange": "hanuk-029..030, himym-001..055 (selected)",
+      "count": 20,
+      "passed": 13,
+      "flagged": 7,
+      "flaggedIds": [
+        "himym-004",
+        "himym-012",
+        "himym-018",
+        "himym-034",
+        "himym-042",
+        "himym-045",
+        "himym-053"
+      ],
+      "issue": "himym-004 wrong episode (S1E3, not S4E2); 034 wrong episode/date (S2E13, 2007-01-22); 053 not in cited Pilot, now unverified; 012 paraphrase, attributed; 045/042/018 wording aligned to transcripts.",
+      "resolution": "fixed in this run's PR; hashes refreshed",
+      "processNote": "Transcripts via springfieldspringfield.co.uk (unlabelled speakers). himym-017 lyrics and 052 (partial) not counted. No open PRs.",
+      "auditedIds": [
+        "hanuk-029",
+        "hanuk-030",
+        "himym-001",
+        "himym-002",
+        "himym-004",
+        "himym-006",
+        "himym-012",
+        "himym-015",
+        "himym-018",
+        "himym-019",
+        "himym-026",
+        "himym-027",
+        "himym-030",
+        "himym-031",
+        "himym-034",
+        "himym-042",
+        "himym-045",
+        "himym-049",
+        "himym-053",
+        "himym-055"
       ]
     }
   ]
