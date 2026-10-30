@@ -23,7 +23,7 @@ heading, is used verbatim as that release's notes, and a tag with no file is ref
 
 ## Versions
 
-- [1.18.3](1.18.3.md) — 2026-10-24
+- [1.18.3](1.18.3.md) — 2026-10-29
 - [1.18.2](1.18.2.md) — 2026-10-22
 - [1.18.1](1.18.1.md) — 2026-10-20
 - [1.18.0](1.18.0.md) — 2026-10-17
