@@ -8,4 +8,8 @@ How I Met Your Mother quotes corrected against episode transcripts:
 - **himym-045**, **himym-042**, **himym-018**: wording aligned with the transcript.
 
 ### Audited
-Audit cursor advanced through hanuk-030 and himym-055 (20 quotes checked; some deferred ids are listed in `.audit-state.json`).
+Audit cursor advanced through hanuk-030 and himym-075 (40 quotes checked; some deferred ids are listed in `.audit-state.json`).
+- **himym-062**: from S5E12 "Girls vs. Suits" (2010), not S4E22; wording corrected.
+- **himym-063**: the wording is in S6E13 "Bad News" (2011), not S4E4; the speaker is unlabelled, so the status is `attributed`.
+- **himym-068**: the wording is in the "Last Forever" finale, not S4E21; the speaker is unconfirmed, so the status is `unverified`.
+- **himym-057**, **himym-065**, **himym-071**, **himym-074**: wording aligned with the transcript.
