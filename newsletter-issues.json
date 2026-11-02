@@ -281,5 +281,15 @@
     "sentAt": null,
     "quoteId": "civic-036",
     "notes": "The line is genuine, from Acton's April 1887 letter to Mandell Creighton, printed in Creighton's 1904 Life and Letters. It was not a remark about politics in general but part of an argument that historians must not give popes and kings a favored presumption of innocence. The day (probably April 5) is unverified."
+  },
+  {
+    "slug": "great-minds",
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "attribution": "Misattributed to Eleanor Roosevelt (traced to a remark of Henry Thomas Buckle, recalled in 1901)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "oneliner-031",
+    "notes": "No Roosevelt source exists; the earliest credit to her found is 1987. Charles Stewart's 1901 memoir recalls the historian Henry Thomas Buckle ranking people by whether they talk about persons, things or ideas. The 'events' wording is in print by 1931, and Admiral Rickover repeated it in 1959 without claiming it."
   }
 ]
