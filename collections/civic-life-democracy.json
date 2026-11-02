@@ -585,9 +585,9 @@
       "authorName": "Lord Acton",
       "source": "Letter to Mandell Creighton, April 1887, as printed in Louise Creighton, Life and Letters of Mandell Creighton (Longmans, Green, 1904), vol. 1, p. 372",
       "quoteDate": "c. 1887",
-      "verificationStatus": "verified",
+      "verificationStatus": "attributed",
       "sourceType": "letter",
-      "notes": "Wording confirmed against the 1904 printed extract of the letter (the manuscript was not consulted). It is often shortened to \"Power corrupts\" or \"absolute power corrupts absolutely\"; the sentence comes from Acton's argument that historians must judge popes and kings by the same moral standard as anyone else.",
+      "notes": "Attribution is solid; wording is the failing axis. Two scans of the 1904 Creighton biography print \"Power tends to corrupt, and absolute power corrupts absolutely\" as an extract of the 1887 letter, but a summary of WIST's entry reads the letter as \"All power tends to corrupt\", and the full letter (Liberty Fund edition) could not be opened. It is often shortened to \"Power corrupts\".",
       "tags": [
         "power",
         "history",
