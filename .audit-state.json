@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 38,
     "file": "hunger-games",
-    "quoteIndex": 0,
-    "note": "hanukkah complete (hanuk-013..016 still deferred). how-i-met-your-mother audited through himym-055; deferred (no episode cited or text unreachable): himym-003,005,007..011,013,014,016,017,020..025,028,029,032,033,035..041,043,044,046..048,050..052,054. Run 2026-10-31 audited himym-056..075. Run 2026-11-01 audited himym-077..097 (himym-076 deferred: no episode cited, not found). how-i-met-your-mother complete. Next run starts at hunger-games quote 0."
+    "quoteIndex": 15,
+    "note": "hanukkah complete (hanuk-013..016 still deferred). how-i-met-your-mother audited through himym-055; deferred (no episode cited or text unreachable): himym-003,005,007..011,013,014,016,017,020..025,028,029,032,033,035..041,043,044,046..048,050..052,054. Run 2026-10-31 audited himym-056..075. Run 2026-11-01 audited himym-077..097 (himym-076 deferred: no episode cited, not found). how-i-met-your-mother complete. Run 2026-11-02 (hunger-games) corroborated 001-007,013,015 via excerpts only; deferred 008-012,014. Next run starts at hunger-games quote 15 (hunger-016)."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1128,
+  "totalQuotesAudited": 1137,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1745,6 +1745,29 @@
         "himym-095",
         "himym-096",
         "himym-097"
+      ]
+    },
+    {
+      "runDate": "2026-11-02",
+      "file": "hunger-games",
+      "quoteRange": "hunger-001..hunger-015",
+      "count": 9,
+      "passed": 9,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none found; run short of 20 (see processNote)",
+      "resolution": "no collection edits",
+      "processNote": "Novel text not freely reachable (archive.org empty); wording corroborated only via study-guide/Goodreads excerpts, no primary text. Deferred: hunger-008 (referent of 'last hope' unconfirmed vs notes), 009 (passage not found), 010-012, 014.",
+      "auditedIds": [
+        "hunger-001",
+        "hunger-002",
+        "hunger-003",
+        "hunger-004",
+        "hunger-005",
+        "hunger-006",
+        "hunger-007",
+        "hunger-013",
+        "hunger-015"
       ]
     }
   ]
