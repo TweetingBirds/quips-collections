@@ -271,5 +271,15 @@
     "sentAt": null,
     "quoteId": "oneliner-030",
     "notes": "No Twain source exists; he died in 1910 and the first Twain ascription found is from 1919. Swift wrote 'Falsehood flies, and the Truth comes limping after it' in 1710, the boots version appears in 1820 and Charles Spurgeon called it an old proverb in 1859; the shoes wording turns up in 1924."
+  },
+  {
+    "slug": "great-minds",
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "attribution": "Misattributed to Eleanor Roosevelt (traced to a remark of Henry Thomas Buckle, recalled in 1901)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "oneliner-031",
+    "notes": "No Roosevelt source exists; the earliest credit to her found is 1987. Charles Stewart's 1901 memoir recalls the historian Henry Thomas Buckle ranking people by whether they talk about persons, things or ideas. The 'events' wording is in print by 1931, and Admiral Rickover repeated it in 1959 without claiming it."
   }
 ]
