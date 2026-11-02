@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-29T12:00:00Z",
+  "lastUpdated": "2026-11-02T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1247,7 +1247,7 @@
       "name": "Civic Life & Democracy",
       "description": "The vote, the jury, the town meeting, the dissent — voices on the daily work of governing ourselves.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 36,
       "previewQuotes": [
         "The spirit of liberty is the spirit which is not too sure that it is right.",
         "Do not obey in advance. Most of the power of authoritarianism is freely given."
@@ -1258,9 +1258,9 @@
       "iconName": "building.columns.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-cEqCT/HoFIduIhTkUDDIukcKJjeafkDQwNj7yVIbo8M=",
-      "bytes": 25706
+      "lastUpdated": "2026-11-02T12:00:00Z",
+      "contentHash": "sha256-7J40o7ZeDvukbce6mEkRiHG8VqcaOqVMmGYlH9DhFFo=",
+      "bytes": 26585
     },
     {
       "id": "cosmos-space",

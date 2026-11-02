@@ -271,5 +271,15 @@
     "sentAt": null,
     "quoteId": "oneliner-030",
     "notes": "No Twain source exists; he died in 1910 and the first Twain ascription found is from 1919. Swift wrote 'Falsehood flies, and the Truth comes limping after it' in 1710, the boots version appears in 1820 and Charles Spurgeon called it an old proverb in 1859; the shoes wording turns up in 1924."
+  },
+  {
+    "slug": "acton",
+    "quote": "Power tends to corrupt, and absolute power corrupts absolutely.",
+    "attribution": "Lord Acton (in a letter to Bishop Mandell Creighton, 1887)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "civic-036",
+    "notes": "The line is genuine, from Acton's 1887 letter to Mandell Creighton, printed in Creighton's 1904 Life and Letters. It was not a remark about politics in general but part of an argument that historians must not give popes and kings a favored presumption of innocence."
   }
 ]
