@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "History & Speeches",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-11-02T12:00:00Z",
   "quotes": [
     {
       "id": "civic-001",
@@ -578,6 +578,22 @@
         "legacy"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "civic-036",
+      "content": "Power tends to corrupt, and absolute power corrupts absolutely.",
+      "authorName": "Lord Acton",
+      "source": "Letter to Mandell Creighton, 1887, as printed in Louise Creighton, Life and Letters of Mandell Creighton (Longmans, Green, 1904), vol. 1, p. 372; also in the Liberty Fund edition of the Acton-Creighton correspondence",
+      "quoteDate": "c. 1887",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Wording confirmed against the printed 1904 page (p. 372) and the Liberty Fund text of the letter; Liberty Fund omits the comma after \"corrupt\", which is punctuation only. Often shortened to \"Power corrupts\". The sentence is part of Acton's argument that historians must judge popes and kings by the same moral standard as anyone else.",
+      "tags": [
+        "power",
+        "history",
+        "politics"
+      ],
+      "addedAt": "2026-11-02T12:00:00Z"
     }
   ]
 }
