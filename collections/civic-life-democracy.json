@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "History & Speeches",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-11-02T12:00:00Z",
+  "lastUpdated": "2026-11-04T12:00:00Z",
   "quotes": [
     {
       "id": "civic-001",
@@ -594,6 +594,38 @@
         "politics"
       ],
       "addedAt": "2026-11-02T12:00:00Z"
+    },
+    {
+      "id": "civic-037",
+      "content": "Americans can always be trusted to do the right thing, once all other possibilities have been exhausted.",
+      "authorName": "Unknown (often misattributed to Winston Churchill)",
+      "source": "Popular wording; an earlier form was ascribed to an unnamed \"Irishman\" in House Subcommittee on Housing testimony by Bernard F. Hillenbrand, June 8, 1970, p. 471. First credited to Churchill in 1980 (Gov. James R. Thompson, Mine and Quarry, Jul/Aug 1980)",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis fails: the Churchill Project at Hillsdale finds it in no Churchill speech, writing, or memoir, Richard Langworth lists it only tentatively in Churchill by Himself (2008), and Quote Investigator traces it to Abba Eban's 1967 line that nations \"behave wisely once they have exhausted all other alternatives,\" with the Churchill credit appearing only in 1980, fifteen years after his death.",
+      "tags": [
+        "politics",
+        "wit",
+        "satire"
+      ],
+      "addedAt": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "civic-038",
+      "content": "You can fool some of the people all of the time, and all of the people some of the time, but you can not fool all of the people all of the time.",
+      "authorName": "Unknown (often misattributed to Abraham Lincoln)",
+      "source": "Earliest known Lincoln credit: letter by H. Clay Bascom, The Voice (New York), September 3, 1885, p. 3, twenty years after Lincoln's death",
+      "quoteDate": "c. 1885",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis fails: no record from Lincoln's lifetime contains it, the Abraham Lincoln Association's newsletter ran \"Lincoln Never Said That\" (2003), and Quote Investigator finds it first credited to him by prohibitionists in 1885-86, with a French precursor in Jacques Abbadie's 1684 Traité de la vérité de la religion chrétienne; P. T. Barnum was also credited by 1899.",
+      "tags": [
+        "politics",
+        "honesty",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-04T12:00:00Z"
     }
   ]
 }
