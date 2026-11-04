@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 39,
     "file": "iconic-game-lines",
-    "quoteIndex": 6,
-    "note": "hunger-games complete (deferred: 008-012,014,030,032,033). Run 2026-11-03 audited game-001..006. Next run starts at game-007."
+    "quoteIndex": 30,
+    "note": "hunger-games complete (deferred: 008-012,014,030,032,033). Run 2026-11-04 audited game-007..030. Next run starts at game-031."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1159,
+  "totalQuotesAudited": 1183,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1804,6 +1804,46 @@
         "game-004",
         "game-005",
         "game-006"
+      ]
+    },
+    {
+      "runDate": "2026-11-04",
+      "file": "iconic-game-lines",
+      "quoteRange": "game-007..game-030",
+      "count": 24,
+      "passed": 23,
+      "flagged": 1,
+      "flaggedIds": [
+        "game-010"
+      ],
+      "issue": "game-010 notes mis-sourced the creed to the historical Assassins; it comes from Bartol's novel Alamut (Wikipedia, Britannica via search). Notes corrected; wording and status unchanged.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "Game dialogue has no freely reachable primary scripts; wording corroborated via wikis/press. Unconfirmed claims left as-is: game-012 Bouchard attribution, game-030 Roper as zug-zug voice (status already unverified for 012).",
+      "auditedIds": [
+        "game-007",
+        "game-008",
+        "game-009",
+        "game-010",
+        "game-011",
+        "game-012",
+        "game-013",
+        "game-014",
+        "game-015",
+        "game-016",
+        "game-017",
+        "game-018",
+        "game-019",
+        "game-020",
+        "game-021",
+        "game-022",
+        "game-023",
+        "game-024",
+        "game-025",
+        "game-026",
+        "game-027",
+        "game-028",
+        "game-029",
+        "game-030"
       ]
     }
   ]
