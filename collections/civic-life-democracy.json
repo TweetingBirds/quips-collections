@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "History & Speeches",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-11-04T12:00:00Z",
+  "lastUpdated": "2026-11-05T12:00:00Z",
   "quotes": [
     {
       "id": "civic-001",
@@ -626,6 +626,23 @@
         "aphorism"
       ],
       "addedAt": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "civic-039",
+      "content": "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Farewell Radio and Television Address to the American People, January 17, 1961",
+      "sourceType": "speech",
+      "quoteDate": "1961-01-17",
+      "verificationStatus": "verified",
+      "notes": "Wording confirmed against the transcript on the National Archives' Milestone Documents page; the warning continues that the potential for the disastrous rise of misplaced power exists and will persist.",
+      "tags": [
+        "power",
+        "warning",
+        "politics",
+        "history"
+      ],
+      "addedAt": "2026-11-05T12:00:00Z"
     }
   ]
 }

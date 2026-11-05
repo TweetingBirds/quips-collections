@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "Philosophy",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-11-05T12:00:00Z",
   "quotes": [
     {
       "id": "sw-001",
@@ -507,6 +507,23 @@
         "aphorism"
       ],
       "addedAt": "2026-06-27T20:29:50Z"
+    },
+    {
+      "id": "sw-032",
+      "content": "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
+      "authorName": "Epictetus",
+      "source": "Enchiridion (Handbook), Sec. 5, trans. Elizabeth Carter (c. 125 CE)",
+      "sourceType": "book",
+      "quoteDate": "c. 125 CE",
+      "verificationStatus": "verified",
+      "notes": "Wording follows Elizabeth Carter's translation as hosted by MIT's Internet Classics Archive; other translations render it 'opinions about things'.",
+      "tags": [
+        "wisdom",
+        "anxiety",
+        "self-control",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-05T12:00:00Z"
     }
   ]
 }

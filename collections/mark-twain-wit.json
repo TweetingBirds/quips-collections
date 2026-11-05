@@ -9,7 +9,7 @@
   "iconName": "quote.bubble.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-11-05T12:00:00Z",
   "quotes": [
     {
       "id": "twain-001",
@@ -545,6 +545,23 @@
         "one-liner"
       ],
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "twain-033",
+      "content": "Get your facts first, and then you can distort 'em as much as you please.",
+      "authorName": "Mark Twain",
+      "source": "Rudyard Kipling, \"An Interview with Mark Twain,\" From Sea to Sea (1899), p. 281",
+      "sourceType": "interview",
+      "quoteDate": "1889",
+      "verificationStatus": "verified",
+      "notes": "Reported by Kipling from their 1889 meeting in Elmira, N.Y., as Twain's spoken advice to a young journalist, not from Twain's own writing; Kipling prints 'distort 'em', and the common 'distort them' is a later smoothing.",
+      "tags": [
+        "truth",
+        "honesty",
+        "writing",
+        "wit"
+      ],
+      "addedAt": "2026-11-05T12:00:00Z"
     }
   ]
 }
