@@ -305,9 +305,9 @@
       "id": "res-019",
       "content": "It always seems impossible until it's done.",
       "authorName": "Nelson Mandela",
-      "source": "Attributed",
+      "source": "Attributed to Nelson Mandela; no primary source found",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Mandela; a fixed original source has not been established. Date is estimated from the earliest documented attribution to Mandela, an Australian newspaper in 2001.",
+      "notes": "Attribution axis fails: Quote Investigator finds no Mandela book or speech containing the line, and the Nelson Mandela Foundation told Africa Check it has no record of him saying it; the earliest Mandela attribution is an Australian newspaper in 2001. The idea is older, e.g. Pliny the Elder's Natural History. Date is estimated from that 2001 attribution.",
       "tags": [
         "perseverance",
         "hope",
@@ -315,7 +315,7 @@
         "one-liner"
       ],
       "quoteDate": "c. 2001",
-      "verificationStatus": "attributed",
+      "verificationStatus": "unverified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
