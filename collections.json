@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-04T12:00:00Z",
+  "lastUpdated": "2026-11-05T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -107,7 +107,7 @@
       "name": "Stoic Wisdom",
       "description": "Timeless philosophy from Marcus Aurelius, Seneca, and Epictetus to guide your life.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "You have power over your mind - not outside events. Realize this, and you will find strength.",
         "We suffer more often in imagination than in reality."
@@ -118,9 +118,9 @@
       "iconName": "building.columns.fill",
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-SglvNnSufNghKaGLntIRvscoC7DBnu+C/fH0GU0afWQ=",
-      "bytes": 18637
+      "lastUpdated": "2026-11-05T12:00:00Z",
+      "contentHash": "sha256-7TX4TRsvjnbP9gdFWFUM5y9L1FBlelcTcDiR8Zyb+7A=",
+      "bytes": 19325
     },
     {
       "id": "creative-minds",
@@ -1247,7 +1247,7 @@
       "name": "Civic Life & Democracy",
       "description": "The vote, the jury, the town meeting, the dissent — voices on the daily work of governing ourselves.",
       "author": "Quips Editorial",
-      "quoteCount": 38,
+      "quoteCount": 39,
       "previewQuotes": [
         "The spirit of liberty is the spirit which is not too sure that it is right.",
         "Do not obey in advance. Most of the power of authoritarianism is freely given."
@@ -1258,9 +1258,9 @@
       "iconName": "building.columns.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-11-04T12:00:00Z",
-      "contentHash": "sha256-Wn+y7UtpfehedX4qxpSg0LFJcQGpkBqd/NBFDm2GCBg=",
-      "bytes": 28870
+      "lastUpdated": "2026-11-05T12:00:00Z",
+      "contentHash": "sha256-qIURZIk/Zs9aLvBrCLDxeiwNZCN1YAh7nFvSxDSRTGI=",
+      "bytes": 29691
     },
     {
       "id": "cosmos-space",
@@ -1407,7 +1407,7 @@
       "name": "Mark Twain's Wit",
       "description": "The wisecracks and satire of America's greatest humorist, drawn from his own pen.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "When in doubt, tell the truth.",
         "All right, then, I'll go to hell."
@@ -1418,9 +1418,9 @@
       "iconName": "quote.bubble.fill",
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Te58KHKcKvFo0TNZs14C0i7xiMRJ5EXKTWqN8WR+HHI=",
-      "bytes": 19497
+      "lastUpdated": "2026-11-05T12:00:00Z",
+      "contentHash": "sha256-0xsnlT0hyKUzwZzb3cqvSeqohVoFZFrlpjCEaHUe5ww=",
+      "bytes": 20237
     },
     {
       "id": "standup-legends",
