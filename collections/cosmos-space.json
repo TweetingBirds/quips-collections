@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-11-07T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -559,6 +559,23 @@
         "one-liner"
       ],
       "addedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "cosmos-035",
+      "content": "And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas, and God bless all of you - all of you on the good Earth.",
+      "authorName": "Frank Borman",
+      "source": "Apollo 8 Christmas Eve broadcast from lunar orbit, December 24, 1968 (NASA NSSDCA transcript)",
+      "quoteDate": "1968-12-24",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Borman's sign-off after the crew read Genesis 1:1-10 (Anders, Lovell, then Borman); Christine Laitin, the wife of public affairs officer Joe Laitin, suggested they \"begin at the beginning.\"",
+      "tags": [
+        "earth",
+        "wonder",
+        "blessing",
+        "faith"
+      ],
+      "addedAt": "2026-11-07T12:00:00Z"
     }
   ]
 }
