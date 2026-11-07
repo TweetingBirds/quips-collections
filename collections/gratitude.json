@@ -9,7 +9,7 @@
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-11-07T12:00:00Z",
   "quotes": [
     {
       "id": "grat-001",
@@ -492,6 +492,23 @@
       "quoteDate": "c. 1992",
       "verificationStatus": "unverified",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "grat-031",
+      "content": "Gratitude is the memory of the heart.",
+      "authorName": "Jean Massieu",
+      "source": "As recorded by Roch-Ambroise Sicard, Cours d'instruction d'un sourd-muet de naissance (Paris, 1800), pp. 405 and 525-526",
+      "quoteDate": "1800",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sicard's deaf pupil Massieu wrote \"la reconnoissance est la mémoire du cœur\" mid-lesson when asked what gratitude was; Sicard printed it in 1800 and again in 1808, and the 1815 London booklet of Massieu's answers gives \"souvenir du cœur\" instead. Not an old French proverb or Lao Tzu; nothing earlier was found in print. The English is a translation.",
+      "tags": [
+        "gratitude",
+        "memory",
+        "kindness",
+        "thank-you"
+      ],
+      "addedAt": "2026-11-07T12:00:00Z"
     }
   ]
 }

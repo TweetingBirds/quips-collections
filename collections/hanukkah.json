@@ -9,7 +9,7 @@
   "iconName": "flame.fill",
   "category": "Faith",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-11-07T12:00:00Z",
   "quotes": [
     {
       "id": "hanuk-001",
@@ -175,11 +175,11 @@
       "id": "hanuk-011",
       "content": "And from that time to this we celebrate this festival, and call it Lights. I suppose the reason was, because this liberty beyond our hopes appeared to us.",
       "authorName": "Flavius Josephus",
-      "source": "Antiquities of the Jews, Book XII, ch. 7, trans. William Whiston",
+      "source": "Antiquities of the Jews, Book XII, ch. 7, sec. 7, trans. William Whiston",
       "quoteDate": "c. 94 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The first surviving use of 'Festival of Lights' for Hanukkah, written some 230 years after the rededication — and note that Josephus gives liberty, not oil, as the reason.",
+      "notes": "The first surviving use of 'Lights' as a name for Hanukkah, written about 250 years after the rededication (164 BCE), and Josephus gives liberty, not oil, as his guess at the reason. Whiston's sentence continues \"; and that thence was the name given to that festival.\"",
       "tags": [
         "history",
         "worship",
