@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-05T12:00:00Z",
+  "lastUpdated": "2026-11-07T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -387,7 +387,7 @@
       "name": "Gratitude & Thankfulness",
       "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Gratitude turns what we have into enough.",
         "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
@@ -398,9 +398,9 @@
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-IRv7ZcSZgF7zF+BRPA6SpaReXNEgpJSOstHuxUiUrbo=",
-      "bytes": 18651
+      "lastUpdated": "2026-11-07T12:00:00Z",
+      "contentHash": "sha256-4OSrQdAuZbSwCn4AxVU+JU823/zgG3ffN0mWbLmQvD8=",
+      "bytes": 19537
     },
     {
       "id": "resilience",
@@ -999,8 +999,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-FbnDMIQsIxY+f6esUQSZKq359QM6UsE1pg8VQhfHXvs=",
-      "bytes": 19318
+      "contentHash": "sha256-LwENWzI2CRf5Hd8j5nqGUrduJeBhNWp8hXQdUw9q/pE=",
+      "bytes": 19536
     },
     {
       "id": "hanukkah",
@@ -1018,9 +1018,9 @@
       "iconName": "flame.fill",
       "category": "Faith",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-3lrCmz9fMXzUvXSDYg/T1akcrcA1t2KigeiIwoBpjQ4=",
-      "bytes": 20766
+      "lastUpdated": "2026-11-07T12:00:00Z",
+      "contentHash": "sha256-ljTMDfPtb9tEAbelVVkkIVOD63nKlUPNPqExRLWIxKU=",
+      "bytes": 20871
     },
     {
       "id": "sikh-wisdom",
@@ -1198,9 +1198,9 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-22T12:00:00Z",
-      "contentHash": "sha256-7ij3VTS2A6S01p/1NGENONiXSCceQ8t7KVpW0tGxDHE=",
-      "bytes": 27724
+      "lastUpdated": "2026-11-07T12:00:00Z",
+      "contentHash": "sha256-d34juoMsg5KyrpNMfPq3CXu8JSWGcXr+g4nJ6VdZS0M=",
+      "bytes": 27820
     },
     {
       "id": "founding-fathers",
@@ -1267,7 +1267,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1278,9 +1278,9 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-Q0x6YNWtJxG2i+kxQtAFldiwpYSYcB2ZsF54cOa/Ufs=",
-      "bytes": 21226
+      "lastUpdated": "2026-11-07T12:00:00Z",
+      "contentHash": "sha256-k1kvUdYKKdJboPiRcBYV8V1g8FKvZgJ7Pv9Ifd+xZ2E=",
+      "bytes": 22031
     },
     {
       "id": "great-scientists",
@@ -1838,9 +1838,9 @@
       "iconName": "sparkles",
       "category": "Holidays",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-09-15T12:00:00Z",
-      "contentHash": "sha256-We08nvrEks50AQNI1ASbd2IfklxvBGh/fay0g0EK18E=",
-      "bytes": 21587
+      "lastUpdated": "2026-11-07T12:00:00Z",
+      "contentHash": "sha256-ihP+ZgLWHVt7cZXBHRDZyXDFZeqhOST9B6S0G6ESqvQ=",
+      "bytes": 21758
     },
     {
       "id": "articles-of-faith",

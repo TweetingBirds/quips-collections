@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 42,
-    "file": "jewish-wisdom",
+    "fileIndex": 43,
+    "file": "john-muir",
     "quoteIndex": 0,
-    "note": "inspiration-daily and jane-austen complete (deferred: di-001 Stanford 403, di-010 not checked). Next run starts at jewish-wisdom first quote."
+    "note": "jewish-wisdom complete (deferred: jewish-002,003,005,006,007,012-016 not individually checked). Next run starts at john-muir first quote."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1253,
+  "totalQuotesAudited": 1276,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1947,6 +1947,45 @@
         "austen-036",
         "austen-037",
         "austen-038"
+      ]
+    },
+    {
+      "runDate": "2026-11-07",
+      "file": "jewish-wisdom",
+      "quoteRange": "jewish-001..jewish-033 (subset)",
+      "count": 23,
+      "passed": 22,
+      "flagged": 1,
+      "flaggedIds": [
+        "jewish-032"
+      ],
+      "issue": "jewish-032: cited God in Search of Man (1955) could not be confirmed; downgraded to attributed.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "JPS 1917 verses checked against biblehub JPS text; Avot/Talmud entries are translations (Sefaria wording differs, e.g. jewish-017). jewish-018 Yoma 9b confirmed only via secondary pages. Open PRs: none.",
+      "auditedIds": [
+        "jewish-001",
+        "jewish-004",
+        "jewish-008",
+        "jewish-009",
+        "jewish-010",
+        "jewish-011",
+        "jewish-017",
+        "jewish-018",
+        "jewish-019",
+        "jewish-020",
+        "jewish-021",
+        "jewish-022",
+        "jewish-023",
+        "jewish-024",
+        "jewish-025",
+        "jewish-026",
+        "jewish-027",
+        "jewish-028",
+        "jewish-029",
+        "jewish-030",
+        "jewish-031",
+        "jewish-032",
+        "jewish-033"
       ]
     }
   ]

@@ -291,5 +291,65 @@
     "sentAt": null,
     "quoteId": "oneliner-031",
     "notes": "No Roosevelt source exists; the earliest credit to her found is 1987. Charles Stewart's 1901 memoir recalls the historian Henry Thomas Buckle ranking people by whether they talk about persons, things or ideas. The 'events' wording is in print by 1931, and Admiral Rickover repeated it in 1959 without claiming it."
+  },
+  {
+    "slug": "massieu",
+    "quote": "Gratitude is the memory of the heart.",
+    "attribution": "Jean Massieu (as recorded by the Abbé Sicard, translated from the French)",
+    "status": "scheduled",
+    "issueNumber": 8,
+    "sentAt": null,
+    "quoteId": "grat-031",
+    "notes": "Sicard's deaf pupil Jean Massieu wrote \"la reconnoissance est la mémoire du cœur\" in pencil mid-lesson in Paris; Sicard printed it in 1800 (Cours d'instruction, pp. 405, 525-526) and again in 1808. The 1815 London booklet of Massieu's answers has \"souvenir du cœur\" and says the definition had already gone around Europe; Mary Swift Lamson (1878) suspected his teachers' words. Not an old French proverb or Lao Tzu."
+  },
+  {
+    "slug": "fdr-infamy",
+    "quote": "Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.",
+    "attribution": "Franklin D. Roosevelt",
+    "status": "scheduled",
+    "issueNumber": 9,
+    "sentAt": null,
+    "quoteId": "speech-021",
+    "notes": "Address to Congress, December 8, 1941, dictated to Grace Tully the evening before. The first draft read \"a date which will live in world history\"; Roosevelt penciled in \"infamy\" and changed \"simultaneously\" to \"suddenly.\" Often misquoted as \"a day of infamy.\" The National Archives now says the reading copy is missing."
+  },
+  {
+    "slug": "josephus",
+    "quote": "And from that time to this we celebrate this festival, and call it Lights. I suppose the reason was, because this liberty beyond our hopes appeared to us.",
+    "attribution": "Flavius Josephus (William Whiston's translation)",
+    "status": "scheduled",
+    "issueNumber": 10,
+    "sentAt": null,
+    "quoteId": "hanuk-011",
+    "notes": "Antiquities of the Jews 12.7.7 (c. 94 CE), the earliest surviving use of \"Lights\" as the festival's name, about 250 years after the rededication. Josephus guesses the name comes from unexpected liberty and never mentions oil; the cruse-of-oil miracle is in the Babylonian Talmud, Shabbat 21b. The sentence continues past \"appeared to us.\""
+  },
+  {
+    "slug": "yes-virginia",
+    "quote": "Yes, Virginia, there is a Santa Claus. He exists as certainly as love and generosity and devotion exist, and you know that they abound and give to your life its highest beauty and joy.",
+    "attribution": "Francis Pharcellus Church",
+    "status": "scheduled",
+    "issueNumber": 11,
+    "sentAt": null,
+    "quoteId": "xmas-026",
+    "notes": "Unsigned editorial answering eight-year-old Virginia O'Hanlon, The Sun (New York), September 21, 1897. The Sun kept editorial writers anonymous and broke the rule only for Church, naming him after his death on April 11, 1906 (O'Brien, The Story of The Sun, 1918). Her original letter was appraised on Antiques Roadshow in 1997."
+  },
+  {
+    "slug": "apollo8",
+    "quote": "And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas, and God bless all of you - all of you on the good Earth.",
+    "attribution": "Frank Borman",
+    "status": "scheduled",
+    "issueNumber": 12,
+    "sentAt": null,
+    "quoteId": "cosmos-035",
+    "notes": "Sign-off of the Apollo 8 Christmas Eve broadcast from lunar orbit, December 24, 1968, after the crew read Genesis 1:1-10. Christine Laitin suggested the reading; Madalyn Murray O'Hair's suit against NASA was dismissed in 1969 and her appeal in 1970. Lovell's card to his wife is quoted two ways by AP (2018) and Astronomy (2023)."
+  },
+  {
+    "slug": "auld-lang-syne",
+    "quote": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne!",
+    "attribution": "Robert Burns (reworking an older song)",
+    "status": "scheduled",
+    "issueNumber": 13,
+    "sentAt": null,
+    "quoteId": "newyear-004",
+    "notes": "First printed as song 413 in The Scots Musical Museum, vol. 5 (1796), the year Burns died. Burns credited \"an old man's singing\" and a \"heaven-inspired poet\"; the opening line is older (a song attributed to Sir Robert Aytoun, printed 1711), but most of the sung text is his. Thomson set it to today's tune in 1799; the Museum footnotes \"Some Sing Kiss in place of Cup.\""
   }
 ]
