@@ -63,9 +63,9 @@
     "slug": "hall",
     "quote": "I disapprove of what you say, but I will defend to the death your right to say it.",
     "attribution": "Evelyn Beatrice Hall, 1906 (describing Voltaire)",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 3,
-    "sentAt": null,
+    "sentAt": "2026-10-22T13:00:52Z",
     "notes": "Written by Hall (pen name S. G. Tallentyre) in The Friends of Voltaire (1906) to sum up Voltaire's attitude when Helvétius's De l'esprit was burned, not to quote him. In 1935 she called it a paraphrase, and in a 1939 letter said it was \"my own expression\" that \"should not have been put in inverted commas.\" Not found in Voltaire's works.",
     "quoteId": "courage-014"
   },
@@ -84,8 +84,8 @@
     "slug": "chief-seattle",
     "quote": "This we know. The earth does not belong to man; man belongs to the earth… Whatever befalls the earth befalls the sons of the earth. Man did not weave the web of life; he is merely a strand in it.",
     "attribution": "Attributed to Chief Seattle (actually written by Ted Perry)",
-    "status": "backlog",
-    "issueNumber": null,
+    "status": "scheduled",
+    "issueNumber": 7,
     "sentAt": null,
     "notes": "Written by Texas scriptwriter Ted Perry in 1971 for Home, a 1972 Southern Baptist Radio and Television Commission film, which dropped his writing credit. Perry built on William Arrowsmith's update of Henry A. Smith's 1887 newspaper reconstruction, published 33 years after a speech Seattle probably gave in 1854. The popular \"does not belong to us; we belong to the earth\" form is a later modernized version of Perry's text.",
     "quoteId": "earth-030"
@@ -206,9 +206,9 @@
     "slug": "baudelaire",
     "quote": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
     "attribution": "Verbal Kint (Kevin Spacey), The Usual Suspects (1995), echoing Charles Baudelaire (1864)",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 4,
-    "sentAt": null,
+    "sentAt": "2026-10-29T13:00:29Z",
     "notes": "Christopher McQuarrie's line echoes Baudelaire's prose poem \"Le Joueur généreux\" (Le Figaro, February 7, 1864), where the Devil recalls a preacher warning that \"la plus belle des ruses du diable est de vous persuader qu'il n'existe pas.\" Quote Investigator, March 20, 2018.",
     "quoteId": "oneliner-028"
   },
@@ -216,9 +216,9 @@
     "slug": "roosevelt",
     "quote": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, and comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.",
     "attribution": "Theodore Roosevelt, \"Citizenship in a Republic,\" Sorbonne, Paris, April 23, 1910",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 5,
-    "sentAt": null,
+    "sentAt": "2026-11-05T14:00:29Z",
     "notes": "The speech was titled \"Citizenship in a Republic\" and is only popularly known as \"The Man in the Arena.\" Text from African and European Addresses (1910), p. 31 onward; the printed text has not been compared with a report of the speech as delivered.",
     "quoteId": "speech-037"
   },
@@ -291,5 +291,65 @@
     "sentAt": null,
     "quoteId": "oneliner-031",
     "notes": "No Roosevelt source exists; the earliest credit to her found is 1987. Charles Stewart's 1901 memoir recalls the historian Henry Thomas Buckle ranking people by whether they talk about persons, things or ideas. The 'events' wording is in print by 1931, and Admiral Rickover repeated it in 1959 without claiming it."
+  },
+  {
+    "slug": "massieu",
+    "quote": "Gratitude is the memory of the heart.",
+    "attribution": "Jean Massieu (as recorded by the Abbé Sicard, translated from the French)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "grat-031",
+    "notes": "Sicard's deaf pupil Jean Massieu wrote \"la reconnoissance est la mémoire du cœur\" in pencil mid-lesson in Paris; Sicard printed it in 1800 (Cours d'instruction, pp. 405, 525-526) and again in 1808. The 1815 London booklet of Massieu's answers has \"souvenir du cœur\" and says the definition had already gone around Europe; Mary Swift Lamson (1878) suspected his teachers' words. Not an old French proverb or Lao Tzu."
+  },
+  {
+    "slug": "fdr-infamy",
+    "quote": "Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.",
+    "attribution": "Franklin D. Roosevelt",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "speech-021",
+    "notes": "Address to Congress, December 8, 1941, dictated to Grace Tully the evening before. The first draft read \"a date which will live in world history\"; Roosevelt penciled in \"infamy\" and changed \"simultaneously\" to \"suddenly.\" Often misquoted as \"a day of infamy.\" The National Archives now says the reading copy is missing."
+  },
+  {
+    "slug": "josephus",
+    "quote": "And from that time to this we celebrate this festival, and call it Lights. I suppose the reason was, because this liberty beyond our hopes appeared to us.",
+    "attribution": "Flavius Josephus (William Whiston's translation)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "hanuk-011",
+    "notes": "Antiquities of the Jews 12.7.7 (c. 94 CE), the earliest surviving use of \"Lights\" as the festival's name, about 250 years after the rededication. Josephus guesses the name comes from unexpected liberty and never mentions oil; the cruse-of-oil miracle is in the Babylonian Talmud, Shabbat 21b. The sentence continues past \"appeared to us.\""
+  },
+  {
+    "slug": "yes-virginia",
+    "quote": "Yes, Virginia, there is a Santa Claus. He exists as certainly as love and generosity and devotion exist, and you know that they abound and give to your life its highest beauty and joy.",
+    "attribution": "Francis Pharcellus Church",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "xmas-026",
+    "notes": "Unsigned editorial answering eight-year-old Virginia O'Hanlon, The Sun (New York), September 21, 1897. The Sun kept editorial writers anonymous and broke the rule only for Church, naming him after his death on April 11, 1906 (O'Brien, The Story of The Sun, 1918). Her original letter was appraised on Antiques Roadshow in 1997."
+  },
+  {
+    "slug": "apollo8",
+    "quote": "And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas, and God bless all of you - all of you on the good Earth.",
+    "attribution": "Frank Borman",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "cosmos-035",
+    "notes": "Sign-off of the Apollo 8 Christmas Eve broadcast from lunar orbit, December 24, 1968, after the crew read Genesis 1:1-10. Christine Laitin suggested the reading; Madalyn Murray O'Hair's suit against NASA was dismissed in 1969 and her appeal in 1970. Lovell's card to his wife is quoted two ways by AP (2018) and Astronomy (2023)."
+  },
+  {
+    "slug": "auld-lang-syne",
+    "quote": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne!",
+    "attribution": "Robert Burns (reworking an older song)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "newyear-004",
+    "notes": "First printed as song 413 in The Scots Musical Museum, vol. 5 (1796), the year Burns died. Burns credited \"an old man's singing\" and a \"heaven-inspired poet\"; the opening line is older (a song attributed to Sir Robert Aytoun, printed 1711), but most of the sung text is his. Thomson set it to today's tune in 1799; the Museum footnotes \"Some Sing Kiss in place of Cup.\""
   }
 ]

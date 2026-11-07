@@ -9,7 +9,7 @@
   "iconName": "sparkles",
   "category": "Holidays",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-09-15T12:00:00Z",
+  "lastUpdated": "2026-11-07T12:00:00Z",
   "quotes": [
     {
       "id": "newyear-001",
@@ -66,13 +66,13 @@
     },
     {
       "id": "newyear-004",
-      "content": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd days o' lang syne?",
+      "content": "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne!",
       "authorName": "Robert Burns",
-      "source": "\"Auld Lang Syne,\" The Scots Musical Museum, vol. 5 (1796)",
+      "source": "\"Auld lang syne,\" song 413, The Scots Musical Museum, vol. 5 (1796)",
       "quoteDate": "1796",
       "verificationStatus": "verified",
       "sourceType": "song",
-      "notes": "Burns sent the song to James Johnson as an old fragment he had taken down from an old man's singing, then finished himself — a claim he made to George Thomson. The familiar fourth line, \"And auld lang syne\", is in neither primary printing.",
+      "notes": "The first printing, as engraved in Johnson's Museum (checked against the National Library of Scotland scan); the copy Burns sent Frances Dunlop in 1788 reads \"And days o' lang syne?\" Burns told George Thomson he took the song down \"from an old man's singing,\" but the opening line is older, from a song attributed to Sir Robert Aytoun printed in 1711.",
       "tags": [
         "new-year",
         "friendship",
@@ -84,13 +84,13 @@
     },
     {
       "id": "newyear-005",
-      "content": "And for auld lang syne, my jo,\nFor auld lang syne,\nWe'll tak a cup o' kindness yet,\nFor auld lang syne.",
+      "content": "For auld lang syne my jo,\nFor auld lang syne,\nWe'll tak a cup o' kindness yet\nFor auld lang syne.",
       "authorName": "Robert Burns",
-      "source": "\"Auld Lang Syne,\" chorus, The Scots Musical Museum, vol. 5 (1796)",
+      "source": "\"Auld lang syne,\" chorus, song 413, The Scots Musical Museum, vol. 5 (1796)",
       "quoteDate": "1796",
       "verificationStatus": "verified",
       "sourceType": "song",
-      "notes": "The chorus sung at midnight across the world, usually with the words half-remembered; \"auld lang syne\" means old long since, or times gone by. The Museum's text opens \"And for\"; Thomson's 1799 printing reads \"my dear\" for \"my jo\".",
+      "notes": "The chorus sung at midnight across the world; \"auld lang syne\" means roughly old time's sake. The Museum engraves it under the music with the footnote \"Some Sing Kiss in place of Cup,\" and Thomson's 1799 printing, which first set it to today's tune, reads \"my dear\" for \"my jo\".",
       "tags": [
         "new-year",
         "toast",
