@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 43,
-    "file": "john-muir",
+    "fileIndex": 44,
+    "file": "johnny-cash",
     "quoteIndex": 0,
-    "note": "jewish-wisdom complete (deferred: jewish-002,003,005,006,007,012-016 not individually checked). Next run starts at john-muir first quote."
+    "note": "john-muir complete (deferred: muir-003,005,007,008,010,011,017,018,019,026,031,032 not individually confirmed on the web; journal-based John of the Mountains pages not available online). Next run starts at johnny-cash first quote."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1276,
+  "totalQuotesAudited": 1296,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -1986,6 +1986,42 @@
         "jewish-031",
         "jewish-032",
         "jewish-033"
+      ]
+    },
+    {
+      "runDate": "2026-11-08",
+      "file": "john-muir",
+      "quoteRange": "muir-001..muir-032 (subset)",
+      "count": 20,
+      "passed": 19,
+      "flagged": 1,
+      "flaggedIds": [
+        "muir-004"
+      ],
+      "issue": "muir-004: dropped 'and cheer' (Hetch Hetchy ch. 16, not ch. 15); fixed.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "Open PRs: none. Unresolved: muir-005 (NPS cites Wilderness World, repo cites John of the Mountains p. 313), muir-024 (Quotepark cites ch. 6 vs repo ch. 5), muir-027 (archive transcription omits \"Only\"), muir-014 (Gutenberg prints lowercase \"universe\").",
+      "auditedIds": [
+        "muir-001",
+        "muir-002",
+        "muir-004",
+        "muir-006",
+        "muir-009",
+        "muir-012",
+        "muir-013",
+        "muir-014",
+        "muir-015",
+        "muir-016",
+        "muir-020",
+        "muir-021",
+        "muir-022",
+        "muir-023",
+        "muir-024",
+        "muir-025",
+        "muir-027",
+        "muir-028",
+        "muir-029",
+        "muir-030"
       ]
     }
   ]
