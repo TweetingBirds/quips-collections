@@ -1287,7 +1287,7 @@
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 36,
+      "quoteCount": 37,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1298,9 +1298,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-09-24T12:00:00Z",
-      "contentHash": "sha256-qQmcyXH17mA6eiUEyq2yVFUIm1Q4flctnEWCcLuSK/Y=",
-      "bytes": 25715
+      "lastUpdated": "2026-11-09T12:00:00Z",
+      "contentHash": "sha256-gpgFXxuAPqXYRDYpZAcPpIkh7UH5dwQo7w/1sHQboH4=",
+      "bytes": 27334
     },
     {
       "id": "curiosity-discovery",

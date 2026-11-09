@@ -353,6 +353,16 @@
     "notes": "First printed as song 413 in The Scots Musical Museum, vol. 5 (1796), the year Burns died. Burns credited \"an old man's singing\" and a \"heaven-inspired poet\"; the opening line is older (a song attributed to Sir Robert Aytoun, printed 1711), but most of the sung text is his. Thomson set it to today's tune in 1799; the Museum footnotes \"Some Sing Kiss in place of Cup.\""
   },
   {
+    "slug": "einstein-simple",
+    "quote": "Everything should be made as simple as possible, but not simpler.",
+    "attribution": "Attributed to Albert Einstein (a paraphrase; earliest form from Roger Sessions, 1950)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Not found in Einstein's writings. Quote Investigator's earliest version is composer Roger Sessions in the New York Times (January 8, 1950), who said Einstein put it \"in effect\" that way; Louis Zukofsky quoted it as Einstein's in Poetry (June 1950). The nearest Einstein sentence is from his 1933 Herbert Spencer Lecture at Oxford, where the supreme goal of theory is irreducible elements \"as simple and as few as possible\" without surrendering a single datum of experience.",
+    "quoteId": "sci-037"
+  },
+  {
     "slug": "wilde",
     "quote": "Be yourself. Everyone else is already taken.",
     "attribution": "Misattributed to Oscar Wilde (origin unknown)",
