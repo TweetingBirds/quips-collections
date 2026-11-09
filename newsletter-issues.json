@@ -361,5 +361,15 @@
     "sentAt": null,
     "notes": "Not found in Einstein's writings. Quote Investigator's earliest version is composer Roger Sessions in the New York Times (January 8, 1950), who said Einstein put it \"in effect\" that way; Louis Zukofsky quoted it as Einstein's in Poetry (June 1950). The nearest Einstein sentence is from his 1933 Herbert Spencer Lecture at Oxford, where the supreme goal of theory is irreducible elements \"as simple and as few as possible\" without surrendering a single datum of experience.",
     "quoteId": "sci-037"
+  },
+  {
+    "slug": "wilde",
+    "quote": "Be yourself. Everyone else is already taken.",
+    "attribution": "Misattributed to Oscar Wilde (origin unknown)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Not found in Wilde's works or in Ralph Keyes's Wit & Wisdom of Oscar Wilde. Quote Investigator's earliest exact match is an unattributed Usenet signature from December 27, 1999; by 2000-2001 it was credited to a \"Gilbert Perreira\" (unconfirmed), and a September 2000 Menards ad insert printed it with no author. Thomas Merton's 1967 essay \"Day of a Stranger\" is the nearest earlier thematic match, and Wilde's real lines on poses and borrowed opinions (Dorian Gray, De Profundis) point the other way.",
+    "quoteId": "di-034"
   }
 ]
