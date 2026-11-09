@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-09-24T12:00:00Z",
+  "lastUpdated": "2026-11-09T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -586,6 +586,23 @@
         "aphorism"
       ],
       "addedAt": "2026-09-24T12:00:00Z"
+    },
+    {
+      "id": "sci-037",
+      "content": "Everything should be made as simple as possible, but not simpler.",
+      "authorName": "Albert Einstein (attributed; a paraphrase)",
+      "source": "Earliest known form: Roger Sessions, \"How a 'Difficult' Composer Gets That Way,\" The New York Times (8 January 1950), reporting Einstein's remark \"in effect\"; closest Einstein sentence is in \"On the Method of Theoretical Physics,\" Herbert Spencer Lecture, Oxford (10 June 1933)",
+      "sourceType": "unspecified",
+      "quoteDate": "c. 1950",
+      "verificationStatus": "unverified",
+      "notes": "No direct evidence in Einstein's writings: Quote Investigator finds the aphorism first in Roger Sessions's 1950 New York Times article, which says Einstein put it \"in effect\" that way, and in Louis Zukofsky's June 1950 review in Poetry, which quotes it as Einstein's. The 1933 Oxford lecture says the supreme goal of theory is to make the irreducible basic elements \"as simple and as few as possible\" without surrendering the adequate representation of a single datum of experience, which may be the seed. Both wording and attribution are the failing axes; the trail rests on Quote Investigator and The Ultimate Quotable Einstein, and neither the Times article nor the lecture text was opened.",
+      "tags": [
+        "simplicity",
+        "science",
+        "aphorism",
+        "advice"
+      ],
+      "addedAt": "2026-11-09T12:00:00Z"
     }
   ]
 }
