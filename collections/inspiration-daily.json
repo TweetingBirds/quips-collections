@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-11-09T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -542,6 +542,23 @@
         "paradox"
       ],
       "addedAt": "2026-10-14T12:00:00Z"
+    },
+    {
+      "id": "di-034",
+      "content": "Be yourself. Everyone else is already taken.",
+      "authorName": "Unknown (often misattributed to Oscar Wilde)",
+      "source": "Earliest exact match found by Quote Investigator: an unattributed Usenet signature, 27 December 1999; credited to \"Gilbert Perreira\" on the web by 2000-2001",
+      "sourceType": "unspecified",
+      "quoteDate": "c. 1999",
+      "verificationStatus": "unverified",
+      "notes": "Not Oscar Wilde: it is absent from Ralph Keyes's The Wit & Wisdom of Oscar Wilde and from Wilde's works, and Quote Investigator traces the exact wording to an anonymous December 1999 Usenet post, soon credited to a \"Gilbert Perreira\" whose identity is unconfirmed. Thomas Merton's \"Day of a Stranger\" (The Hudson Review, Summer 1967) is the closest earlier thematic match. Both wording and attribution are the failing axes; the trail rests on Quote Investigator, and the Usenet posts were not opened.",
+      "tags": [
+        "authenticity",
+        "identity",
+        "aphorism",
+        "wit"
+      ],
+      "addedAt": "2026-11-09T12:00:00Z"
     }
   ]
 }

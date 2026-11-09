@@ -351,5 +351,15 @@
     "sentAt": null,
     "quoteId": "newyear-004",
     "notes": "First printed as song 413 in The Scots Musical Museum, vol. 5 (1796), the year Burns died. Burns credited \"an old man's singing\" and a \"heaven-inspired poet\"; the opening line is older (a song attributed to Sir Robert Aytoun, printed 1711), but most of the sung text is his. Thomson set it to today's tune in 1799; the Museum footnotes \"Some Sing Kiss in place of Cup.\""
+  },
+  {
+    "slug": "wilde",
+    "quote": "Be yourself. Everyone else is already taken.",
+    "attribution": "Misattributed to Oscar Wilde (origin unknown)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "Not found in Wilde's works or in Ralph Keyes's Wit & Wisdom of Oscar Wilde. Quote Investigator's earliest exact match is an unattributed Usenet signature from December 27, 1999; by 2000-2001 it was credited to a \"Gilbert Perreira\" (unconfirmed), and a September 2000 Menards ad insert printed it with no author. Thomas Merton's 1967 essay \"Day of a Stranger\" is the nearest earlier thematic match, and Wilde's real lines on poses and borrowed opinions (Dorian Gray, De Profundis) point the other way.",
+    "quoteId": "di-034"
   }
 ]
