@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 44,
-    "file": "johnny-cash",
-    "quoteIndex": 20,
-    "note": "johnny-cash cash-001..020 web-checked; cash-021 is next. Rolling Stone 'Johnny Cash Won't Back Down' is paywalled (HTTP 402), so cash-003/005 wording is not confirmed from the original."
+    "fileIndex": 45,
+    "file": "lds-general-conference",
+    "quoteIndex": 15,
+    "note": "cash-021..025 and ldsgc-001..015 web-checked; ldsgc-016 is next."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1316,
+  "totalQuotesAudited": 1336,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2058,6 +2058,40 @@
         "cash-018",
         "cash-019",
         "cash-020"
+      ]
+    },
+    {
+      "runDate": "2026-11-10",
+      "file": "lds-general-conference",
+      "quoteRange": "cash-021..025, ldsgc-001..015",
+      "count": 20,
+      "passed": 20,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "processNote": "No open PRs. cash-021..025 stay unverified (no primary source found on web).",
+      "auditedIds": [
+        "cash-021",
+        "cash-022",
+        "cash-023",
+        "cash-024",
+        "cash-025",
+        "ldsgc-001",
+        "ldsgc-002",
+        "ldsgc-003",
+        "ldsgc-004",
+        "ldsgc-005",
+        "ldsgc-006",
+        "ldsgc-007",
+        "ldsgc-008",
+        "ldsgc-009",
+        "ldsgc-010",
+        "ldsgc-011",
+        "ldsgc-012",
+        "ldsgc-013",
+        "ldsgc-014",
+        "ldsgc-015"
       ]
     }
   ]
