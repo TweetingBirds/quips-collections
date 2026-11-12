@@ -98,11 +98,11 @@
   "cursor": {
     "fileIndex": 45,
     "file": "lds-general-conference",
-    "quoteIndex": 35,
-    "note": "ldsgc-016..035 web-checked; ldsgc-036 is next."
+    "quoteIndex": 55,
+    "note": "ldsgc-036..055 web-checked; ldsgc-056 is next."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1356,
+  "totalQuotesAudited": 1376,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2128,6 +2128,43 @@
         "ldsgc-033",
         "ldsgc-034",
         "ldsgc-035"
+      ]
+    },
+    {
+      "runDate": "2026-11-12",
+      "file": "lds-general-conference",
+      "quoteRange": "ldsgc-036..ldsgc-055",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "ldsgc-039",
+        "ldsgc-044"
+      ],
+      "issue": "ldsgc-044: quoteDate was 2024-04-06; the talk was given in the Sunday morning session (2024-04-07). ldsgc-039: inner quotation marks were single where the talk prints double, and the note gave Holland's office as President rather than Acting President of the Quorum of the Twelve.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "No open PRs. ldsgc-045 and ldsgc-054 match the talk's lead/closing sentence respectively (each talk also carries a variant of the same sentence); ldsgc-048 starts mid-sentence (\"Because heaven isn't...\"), left as is.",
+      "auditedIds": [
+        "ldsgc-036",
+        "ldsgc-037",
+        "ldsgc-038",
+        "ldsgc-039",
+        "ldsgc-040",
+        "ldsgc-041",
+        "ldsgc-042",
+        "ldsgc-043",
+        "ldsgc-044",
+        "ldsgc-045",
+        "ldsgc-046",
+        "ldsgc-047",
+        "ldsgc-048",
+        "ldsgc-049",
+        "ldsgc-050",
+        "ldsgc-051",
+        "ldsgc-052",
+        "ldsgc-053",
+        "ldsgc-054",
+        "ldsgc-055"
       ]
     }
   ]
