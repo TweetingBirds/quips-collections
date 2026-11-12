@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-09T12:00:00Z",
+  "lastUpdated": "2026-11-12T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -387,7 +387,7 @@
       "name": "Gratitude & Thankfulness",
       "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "Gratitude turns what we have into enough.",
         "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
@@ -398,9 +398,9 @@
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-11-07T12:00:00Z",
-      "contentHash": "sha256-4OSrQdAuZbSwCn4AxVU+JU823/zgG3ffN0mWbLmQvD8=",
-      "bytes": 19537
+      "lastUpdated": "2026-11-12T12:00:00Z",
+      "contentHash": "sha256-mSKLwhvVVqbKyQXCMLgPisdQVluZe7VPW/UniZdCIgc=",
+      "bytes": 20628
     },
     {
       "id": "resilience",
@@ -1027,7 +1027,7 @@
       "name": "Sikh Wisdom",
       "description": "Teachings of the Gurus on devotion, equality, and honest living from the Guru Granth Sahib.",
       "author": "Quips Editorial",
-      "quoteCount": 19,
+      "quoteCount": 20,
       "previewQuotes": [
         "Truth is higher than everything; but higher still is truthful living.",
         "So why call her bad? From her, kings are born."
@@ -1038,9 +1038,9 @@
       "iconName": "book.closed.fill",
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
-      "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-9ylr/K+B6keUNpdQicD3nKqG8Qo3wxAC4ee/qzwWopI=",
-      "bytes": 13314
+      "lastUpdated": "2026-11-12T12:00:00Z",
+      "contentHash": "sha256-DL3ozTat5dpdtHSjCUbqaIuP1WvVEawvsEw1LNCt4NY=",
+      "bytes": 14045
     },
     {
       "id": "legendary-coaches",
@@ -1767,7 +1767,7 @@
       "name": "Veterans & Remembrance",
       "description": "Words for those who served, and for the days we set aside to remember them.",
       "author": "Quips Editorial",
-      "quoteCount": 27,
+      "quoteCount": 29,
       "previewQuotes": [
         "Old soldiers never die; they just fade away.",
         "The old Lie: Dulce et decorum est\nPro patria mori."
@@ -1778,9 +1778,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-09-15T12:00:00Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-BrMQeBsPG4fOb5MbDbDG6x/Fg0Fgcw4BB+/LEAfC3PU=",
-      "bytes": 19114
+      "lastUpdated": "2026-11-12T12:00:00Z",
+      "contentHash": "sha256-XPQAGuSjGGSsSSdaVVb270QRJlzxz3jW01g/x0cCpmI=",
+      "bytes": 21021
     },
     {
       "id": "hunger-games",

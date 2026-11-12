@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-09-15T12:00:00Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-11-12T12:00:00Z",
   "quotes": [
     {
       "id": "vets-001",
@@ -462,6 +462,41 @@
         "warning"
       ],
       "addedAt": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "vets-028",
+      "content": "To us in America, the reflections of Armistice Day will be filled with solemn pride in the heroism of those who died in the country's service and with gratitude for the victory, both because of the thing from which it has freed us and because of the opportunity it has given America to show her sympathy with peace and justice in the councils of the nations.",
+      "authorName": "Woodrow Wilson",
+      "source": "Armistice Day message to the American people, The White House (November 11, 1919)",
+      "quoteDate": "1919-11-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Wilson's message for the first Armistice Day, the observance that became Veterans Day in 1954; wording as given by the Department of Veterans Affairs and by the Woodrow Wilson House, which cites Messages and Papers of the Presidents (both end the excerpt here with an ellipsis).",
+      "tags": [
+        "memory",
+        "sacrifice",
+        "gratitude",
+        "peace",
+        "war"
+      ],
+      "addedAt": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "vets-029",
+      "content": "Here dead lie we because we did not choose\nTo live and shame the land from which we sprung.\nLife, to be sure, is nothing much to lose;\nBut young men think it is, and we were young.",
+      "authorName": "A. E. Housman",
+      "source": "More Poems, XXXVI (New York: Alfred A. Knopf, 1936), p. 53",
+      "quoteDate": "1936",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The whole poem, published in the posthumous collection his brother Laurence assembled; the printed first line is \"Here dead lie we\", though it is commonly quoted as \"Here dead we lie\".",
+      "tags": [
+        "sacrifice",
+        "mortality",
+        "war",
+        "honor"
+      ],
+      "addedAt": "2026-11-12T12:00:00Z"
     }
   ]
 }

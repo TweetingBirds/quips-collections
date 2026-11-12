@@ -9,7 +9,7 @@
   "iconName": "book.closed.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-07-16T12:00:00Z",
+  "lastUpdated": "2026-11-12T12:00:00Z",
   "quotes": [
     {
       "id": "sikh-001",
@@ -314,6 +314,23 @@
         "courage"
       ],
       "addedAt": "2026-07-16T12:00:00Z"
+    },
+    {
+      "id": "sikh-020",
+      "content": "See the brotherhood of all mankind as the highest order of Yogis; conquer your own mind, and conquer the world.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib (Pauri 28), Guru Granth Sahib, Ang 6 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Nanak recasting the yogi's outward badges as inner virtues, ending in mastery of the mind; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "tags": [
+        "self-control",
+        "equality",
+        "community",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-12T12:00:00Z"
     }
   ]
 }
