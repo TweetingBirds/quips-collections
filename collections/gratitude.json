@@ -9,7 +9,7 @@
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-11-07T12:00:00Z",
+  "lastUpdated": "2026-11-12T12:00:00Z",
   "quotes": [
     {
       "id": "grat-001",
@@ -509,6 +509,22 @@
         "thank-you"
       ],
       "addedAt": "2026-11-07T12:00:00Z"
+    },
+    {
+      "id": "grat-032",
+      "content": "The year that is drawing towards its close, has been filled with the blessings of fruitful fields and healthful skies. To these bounties, which are so constantly enjoyed that we are prone to forget the source from which they come, others have been added, which are of so extraordinary a nature, that they cannot fail to penetrate and soften even the heart which is habitually insensible to the ever watchful providence of Almighty God.",
+      "authorName": "Abraham Lincoln",
+      "source": "Proclamation of Thanksgiving, Washington, D.C. (October 3, 1863)",
+      "sourceType": "speech",
+      "notes": "The opening of the Civil War proclamation that fixed Thanksgiving on the last Thursday of November; issued over Lincoln's signature, though his secretary John Nicolay wrote in 1864 that Secretary of State William Seward drafted it.",
+      "tags": [
+        "gratitude",
+        "the-divine",
+        "war"
+      ],
+      "quoteDate": "1863-10-03",
+      "verificationStatus": "verified",
+      "addedAt": "2026-11-12T12:00:00Z"
     }
   ]
 }
