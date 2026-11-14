@@ -23,7 +23,7 @@ heading, is used verbatim as that release's notes, and a tag with no file is ref
 
 ## Versions
 
-- Unreleased: 8 fragments in [`unreleased/`](unreleased/)
+- Unreleased: 9 fragments in [`unreleased/`](unreleased/)
 - [1.18.4](1.18.4.md) — 2026-11-07
 - [1.18.3](1.18.3.md) — 2026-10-29
 - [1.18.2](1.18.2.md) — 2026-10-22
