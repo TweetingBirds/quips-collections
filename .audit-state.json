@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 46,
-    "file": "leadership-vision",
-    "quoteIndex": 19,
-    "note": "ldsgc-056, lead-001..019 web-checked; lead-020 is next."
+    "fileIndex": 47,
+    "file": "legend-of-zelda",
+    "quoteIndex": 9,
+    "note": "lead-020..030, zelda-001..009 web-checked; zelda-010 is next."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1396,
+  "totalQuotesAudited": 1416,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2201,6 +2201,44 @@
         "lead-017",
         "lead-018",
         "lead-019"
+      ]
+    },
+    {
+      "runDate": "2026-11-14",
+      "file": "leadership-vision, legend-of-zelda",
+      "quoteRange": "lead-020..lead-030, zelda-001..zelda-009",
+      "count": 20,
+      "passed": 17,
+      "flagged": 3,
+      "flaggedIds": [
+        "lead-024",
+        "zelda-005",
+        "zelda-006"
+      ],
+      "issue": "lead-024: note said the line had no documented source; Quote Investigator traces it to Dolly Parton (1997, The Most Important Thing I Know, pp. 60-61), Adams first credited 2002. Note and quoteDate (c. 1997) updated. zelda-005/006: notes misplaced Sheik's lines (Sacred Forest Meadow; after the Water Temple).",
+      "resolution": "fixed in this run's PR",
+      "processNote": "No open PRs. Zelda wikis (zeldawiki.wiki, fandom, Zelda Dungeon) blocked fetches; game lines checked via search results and Zelda's Palace. lead-025: wist.info cites Nader at the Time Leadership Conference, Time 8 Nov 1976 p. 57; not applied.",
+      "auditedIds": [
+        "lead-020",
+        "lead-021",
+        "lead-022",
+        "lead-023",
+        "lead-024",
+        "lead-025",
+        "lead-026",
+        "lead-027",
+        "lead-028",
+        "lead-029",
+        "lead-030",
+        "zelda-001",
+        "zelda-002",
+        "zelda-003",
+        "zelda-004",
+        "zelda-005",
+        "zelda-006",
+        "zelda-007",
+        "zelda-008",
+        "zelda-009"
       ]
     }
   ]
