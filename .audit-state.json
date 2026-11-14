@@ -2215,7 +2215,7 @@
         "zelda-005",
         "zelda-006"
       ],
-      "issue": "lead-024: note said the line had no documented source; Quote Investigator traces it to Dolly Parton (1997, The Most Important Thing I Know, pp. 60-61), Adams first credited 2002. Note and quoteDate (c. 1997) updated. zelda-005/006: notes misplaced Sheik's lines (Sacred Forest Meadow; after the Water Temple).",
+      "issue": "lead-024: note said the line had no documented source; Quote Investigator traces it to Dolly Parton (1997, The Most Important Thing I Know, pp. 60-61), Adams first credited 2002. Reattributed to Parton with her 1997 wording and marked verified (follow-up at Nate's request). zelda-005/006: notes misplaced Sheik's lines (Sacred Forest Meadow; after the Water Temple).",
       "resolution": "fixed in this run's PR",
       "processNote": "No open PRs. Zelda wikis (zeldawiki.wiki, fandom, Zelda Dungeon) blocked fetches; game lines checked via search results and Zelda's Palace. lead-025: wist.info cites Nader at the Time Leadership Conference, Time 8 Nov 1976 p. 57; not applied.",
       "auditedIds": [
