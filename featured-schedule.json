@@ -152,6 +152,30 @@
       "weekStart": "2027-02-01",
       "collectionId": "grit-perseverance",
       "note": "No calendar tie this week, so coverage governs: a never-featured collection, and a good one for the weeks after January's resolutions meet reality."
+    },
+    {
+      "weekStart": "2027-02-08",
+      "collectionId": "love-and-romance",
+      "quoteId": "love-001",
+      "note": "Valentine's Day falls on Sunday, February 14 — Elizabeth Barrett Browning's best-known line opens the week."
+    },
+    {
+      "weekStart": "2027-02-15",
+      "collectionId": "founding-fathers",
+      "quoteId": "found-035",
+      "note": "Presidents' Day (Washington's Birthday) falls on Monday, February 15 — Washington's own Farewell Address words open the week."
+    },
+    {
+      "weekStart": "2027-02-22",
+      "collectionId": "quran",
+      "quoteId": "quran-027",
+      "note": "Ramadan, expected to begin around February 8, 2027, is in full swing this week — a verse on patience and prayer for the month of fasting."
+    },
+    {
+      "weekStart": "2027-03-01",
+      "collectionId": "childrens-literature",
+      "quoteId": "kidlit-002",
+      "note": "Read Across America Week runs March 2-6, timed to Dr. Seuss's birthday on March 2."
     }
   ]
 }
