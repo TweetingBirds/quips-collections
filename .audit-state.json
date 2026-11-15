@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 47,
-    "file": "legend-of-zelda",
+    "fileIndex": 48,
+    "file": "legendary-coaches",
     "quoteIndex": 9,
-    "note": "lead-020..030, zelda-001..009 web-checked; zelda-010 is next."
+    "note": "zelda-010..020, coach-001..009 web-checked; coach-010 is next."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1416,
+  "totalQuotesAudited": 1436,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2239,6 +2239,42 @@
         "zelda-007",
         "zelda-008",
         "zelda-009"
+      ]
+    },
+    {
+      "runDate": "2026-11-15",
+      "file": "legend-of-zelda, legendary-coaches",
+      "quoteRange": "zelda-010..zelda-020, coach-001..coach-009",
+      "count": 20,
+      "passed": 19,
+      "flagged": 1,
+      "flaggedIds": [
+        "zelda-017"
+      ],
+      "issue": "zelda-017: misattributed to King Rhoam; Wikiquote and Zelda Universe give it to Princess Zelda. Credited to Zelda, notes corrected.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "No open PRs. Zelda wikis blocked fetches. Not changed, wording unconfirmed: zelda-018 (Zelda Wiki summary gives the fate-of-Hyrule line to Zelda), coach-005 (not on vincelombardi.com), coach-006 (Esquire Nov 1962 citation untraced).",
+      "auditedIds": [
+        "zelda-010",
+        "zelda-011",
+        "zelda-012",
+        "zelda-013",
+        "zelda-014",
+        "zelda-015",
+        "zelda-016",
+        "zelda-017",
+        "zelda-018",
+        "zelda-019",
+        "zelda-020",
+        "coach-001",
+        "coach-002",
+        "coach-003",
+        "coach-004",
+        "coach-005",
+        "coach-006",
+        "coach-007",
+        "coach-008",
+        "coach-009"
       ]
     }
   ]
