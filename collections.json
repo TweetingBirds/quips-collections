@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-12T12:00:00Z",
+  "lastUpdated": "2026-11-16T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -167,7 +167,7 @@
       "name": "Literary Classics",
       "description": "Memorable lines from the greatest works of literature throughout history.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "It was the best of times, it was the worst of times.",
         "All happy families are alike; each unhappy family is unhappy in its own way."
@@ -178,9 +178,9 @@
       "iconName": "book.fill",
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-30T12:00:00Z",
-      "contentHash": "sha256-7+G1ydU0UWxQR3NuXvTaGPla7naqBajoW61RjeXYUwQ=",
-      "bytes": 17814
+      "lastUpdated": "2026-11-16T12:00:00Z",
+      "contentHash": "sha256-ENu7K9tNptlQrQi4C80JnE6qFXT+7774kNH8La9NGQI=",
+      "bytes": 19176
     },
     {
       "id": "shakespeare",
