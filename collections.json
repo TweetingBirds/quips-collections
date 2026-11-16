@@ -27,7 +27,7 @@
       "name": "Grit & Perseverance",
       "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
         "Grit is passion and perseverance for very long-term goals."
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-zYii6KhBPNlx14bpklbcxxQbejVZs0QJ39S8cXwETxg=",
-      "bytes": 25352
+      "lastUpdated": "2026-11-16T12:00:00Z",
+      "contentHash": "sha256-4S90B4dYqIOiGuYu7R9a8wOvr1sESPkORFPnSpQzGQc=",
+      "bytes": 26422
     },
     {
       "id": "leadership-vision",
@@ -127,7 +127,7 @@
       "name": "Creative Minds",
       "description": "Insights on creativity and innovation from artists, writers, and inventors.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 36,
       "previewQuotes": [
         "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
         "Every child is an artist. The problem is how to remain an artist once we grow up."
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-10-19T12:00:00Z",
-      "contentHash": "sha256-5H8r3wBRxZyenYU9xEGmPfEHY7pOYdZzYruPeas+vCg=",
-      "bytes": 26273
+      "lastUpdated": "2026-11-16T12:00:00Z",
+      "contentHash": "sha256-ohw3qSZk9eGX8qpScebct/0ctvBsJeTZd5ZnZ3EmshE=",
+      "bytes": 27359
     },
     {
       "id": "tech-visionaries",
@@ -1059,8 +1059,8 @@
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-pcJqMXy8pllisCCh0V5hE3WkClS3NYQvnSxEGOH90uo=",
-      "bytes": 19228
+      "contentHash": "sha256-qyj49E9JJRdhYzaDtfbc8hCn+cjL01eDMAlggNyuD0c=",
+      "bytes": 19282
     },
     {
       "id": "champions-mindset",

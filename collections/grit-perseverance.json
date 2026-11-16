@@ -9,7 +9,7 @@
   "iconName": "flame.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-10-20T12:00:00Z",
+  "lastUpdated": "2026-11-16T12:00:00Z",
   "quotes": [
     {
       "id": "grit-001",
@@ -551,6 +551,22 @@
         "aphorism"
       ],
       "addedAt": "2026-07-27T12:00:00Z"
+    },
+    {
+      "id": "grit-033",
+      "content": "80 percent of success is showing up.",
+      "authorName": "Woody Allen",
+      "source": "Letter to William Safire, quoted in \"On Language: The Elision Fields,\" The New York Times Magazine, August 13, 1989; first reported as \"Showing up is 80 percent of life,\" quoted by Marshall Brickman in The New York Times, August 21, 1977",
+      "sourceType": "letter",
+      "quoteDate": "1989-08-13",
+      "verificationStatus": "verified",
+      "notes": "Allen's own wording, from his letter to Safire: \"I did say that 80 percent of success is showing up.\" The earliest print version, per Quote Investigator, is Marshall Brickman quoting Allen as saying \"Showing up is 80 percent of life\" in Susan Braudy's joint profile of the two (New York Times, August 21, 1977; not opened); 'ninety percent' and 'most of life' variants followed, including from President Bush and Governor Cuomo.",
+      "tags": [
+        "discipline",
+        "success",
+        "one-liner"
+      ],
+      "addedAt": "2026-11-16T12:00:00Z"
     }
   ]
 }
