@@ -96,13 +96,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 48,
-    "file": "legendary-coaches",
-    "quoteIndex": 9,
-    "note": "zelda-010..020, coach-001..009 web-checked; coach-010 is next."
+    "fileIndex": 49,
+    "file": "lego-movies",
+    "quoteIndex": 0,
+    "note": "coach-010..031 web-checked; lego-movies first quote is next."
   },
   "totalQuotes": 3052,
-  "totalQuotesAudited": 1436,
+  "totalQuotesAudited": 1458,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2275,6 +2275,45 @@
         "coach-007",
         "coach-008",
         "coach-009"
+      ]
+    },
+    {
+      "runDate": "2026-11-16",
+      "file": "legendary-coaches",
+      "quoteRange": "coach-010..coach-031",
+      "count": 22,
+      "passed": 20,
+      "flagged": 2,
+      "flaggedIds": [
+        "coach-028",
+        "coach-030"
+      ],
+      "issue": "coach-028: dated Sept 29, 2014 (the KC loss); Patriots.com transcript puts the press conference on Oct 1, 2014. coach-030: book dated 2003; Open Library gives 1997 (Contemporary Books), matching coach-010.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "Open PRs #294-296 (lc-032, cm-036, grit-033) checked: all pass. Not changed: coach-014 'verified' rests on no book text found (ABC News 2005 has 'You win in life with people'); coach-015..020, 022, 023, 029 wording not seen in the cited books (Google Books quota).",
+      "auditedIds": [
+        "coach-010",
+        "coach-011",
+        "coach-012",
+        "coach-013",
+        "coach-014",
+        "coach-015",
+        "coach-016",
+        "coach-017",
+        "coach-018",
+        "coach-019",
+        "coach-020",
+        "coach-021",
+        "coach-022",
+        "coach-023",
+        "coach-024",
+        "coach-025",
+        "coach-026",
+        "coach-027",
+        "coach-028",
+        "coach-029",
+        "coach-030",
+        "coach-031"
       ]
     }
   ]
