@@ -373,6 +373,16 @@
     "quoteId": "di-034"
   },
   {
+    "slug": "marie-antoinette",
+    "quote": "Let them eat cake.",
+    "attribution": "Misattributed to Marie Antoinette (first found in Rousseau's Confessions, spoken by an unnamed \"great princess\")",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "notes": "The line first appears in Book VI of Rousseau's Confessions, written mostly in 1766-67 and published in 1782: recalling a year as a tutor in Lyon in 1740, Rousseau remembers an unnamed great princess who said \"Qu'ils mangent de la brioche\" and uses it to excuse buying a brioche to go with stolen wine. Marie Antoinette was ten or eleven and living in Vienna when he wrote it; the earliest attribution to her that Wikipedia reports is Alphonse Karr's in 1843, fifty years after her death.",
+    "quoteId": "lc-032"
+  },
+  {
     "slug": "allen",
     "quote": "80 percent of success is showing up.",
     "attribution": "Woody Allen (letter to William Safire, 1989)",

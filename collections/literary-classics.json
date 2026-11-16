@@ -9,7 +9,7 @@
   "iconName": "book.fill",
   "category": "Literature",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-11-16T12:00:00Z",
   "quotes": [
     {
       "id": "lc-001",
@@ -494,6 +494,23 @@
         "aphorism"
       ],
       "addedAt": "2026-07-30T12:00:00Z"
+    },
+    {
+      "id": "lc-032",
+      "content": "Let them eat cake.",
+      "authorName": "Jean-Jacques Rousseau (often misattributed to Marie Antoinette)",
+      "source": "Confessions, Book VI (written c. 1766-1767, published 1782), where an unnamed \"great princess\" answers \"Qu'ils mangent de la brioche\"",
+      "sourceType": "book",
+      "quoteDate": "c. 1766",
+      "verificationStatus": "unverified",
+      "notes": "Not Marie Antoinette: the earliest known source is Rousseau's Confessions, Book VI, where he recalls his 1740 post as a tutor in Lyon and \"the thoughtless saying of a great princess\" he does not name, \"Qu'ils mangent de la brioche\" (French Wikisource text of the 1889 Launette edition; the 1903 Aldus Society translation on Project Gutenberg, eBook #3906, renders it \"Then let them eat pastry!\"). Rousseau wrote most of the Confessions at Wootton in 1766-67 (1911 Britannica), when Marie Antoinette, born 2 November 1755, was ten or eleven and still in Vienna. Both axes fail: 'cake' is the popular English rendering of 'brioche', and the speaker is unnamed; the first attribution to Marie Antoinette, per Wikipedia's summary, is Alphonse Karr's Les Guêpes in 1843 (not opened).",
+      "tags": [
+        "ignorance",
+        "money",
+        "power",
+        "one-liner"
+      ],
+      "addedAt": "2026-11-16T12:00:00Z"
     }
   ]
 }
