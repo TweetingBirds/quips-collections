@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-12T12:00:00Z",
+  "lastUpdated": "2026-11-16T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -27,7 +27,7 @@
       "name": "Grit & Perseverance",
       "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
         "Grit is passion and perseverance for very long-term goals."
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-zYii6KhBPNlx14bpklbcxxQbejVZs0QJ39S8cXwETxg=",
-      "bytes": 25352
+      "lastUpdated": "2026-11-16T12:00:00Z",
+      "contentHash": "sha256-4S90B4dYqIOiGuYu7R9a8wOvr1sESPkORFPnSpQzGQc=",
+      "bytes": 26422
     },
     {
       "id": "leadership-vision",
