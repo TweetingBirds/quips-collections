@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-10-19T12:00:00Z",
+  "lastUpdated": "2026-11-16T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -574,6 +574,23 @@
         "wit"
       ],
       "addedAt": "2026-10-19T12:00:00Z"
+    },
+    {
+      "id": "cm-036",
+      "content": "Beneath the rule of men entirely great\nThe pen is mightier than the sword.",
+      "authorName": "Edward Bulwer-Lytton",
+      "source": "Richelieu; or, The Conspiracy, Act II, Scene II (London: Saunders and Otley, 1839), p. 39; first performed at Covent Garden, March 7, 1839",
+      "sourceType": "play",
+      "quoteDate": "1839-03-07",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Cardinal Richelieu as he lifts his pen, moments after he fails to wield a two-handed sword; the qualifying first line, 'Beneath the rule of men entirely great', is almost always dropped. Wording and lineation checked against the 1839 Saunders and Otley first edition on the Internet Archive (University of Toronto copy). The phrase itself is a little older: Pascal Tréguer (wordhistories.net) found 'The pen is mightier than the sword' in the Belfast Northern Whig of 23 April 1832.",
+      "tags": [
+        "writing",
+        "language",
+        "power",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-16T12:00:00Z"
     }
   ]
 }
