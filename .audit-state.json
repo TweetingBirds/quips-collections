@@ -3,6 +3,7 @@
   "description": "Tracks progress of the recurring quote-sourcing audit so each run covers the next unaudited batch instead of re-checking randomly. Order is the alphabetically sorted list of collections/*.json filenames (without extension); within a file, quotes are walked in their existing array order.",
   "order": [
     "andor-rogue-one",
+    "articles-of-faith",
     "avatar-last-airbender",
     "battlestar-galactica",
     "bhagavad-gita",
@@ -31,6 +32,7 @@
     "first-lines",
     "founding-fathers",
     "friendship",
+    "goals-fresh-starts",
     "gratitude",
     "great-economists",
     "great-poems",
@@ -48,6 +50,7 @@
     "john-muir",
     "johnny-cash",
     "lds-general-conference",
+    "lds-scripture-mastery",
     "leadership-vision",
     "legend-of-zelda",
     "legendary-coaches",
@@ -96,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 49,
-    "file": "lego-movies",
+    "fileIndex": 53,
+    "file": "literary-classics",
     "quoteIndex": 0,
-    "note": "coach-010..031 web-checked; lego-movies first quote is next."
+    "note": "lego-001..027 web-checked; literary-classics first quote is next."
   },
-  "totalQuotes": 3052,
-  "totalQuotesAudited": 1458,
+  "totalQuotes": 3232,
+  "totalQuotesAudited": 1485,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2314,6 +2317,52 @@
         "coach-029",
         "coach-030",
         "coach-031"
+      ]
+    },
+    {
+      "runDate": "2026-11-17",
+      "file": "lego-movies",
+      "quoteRange": "lego-001..lego-027",
+      "count": 27,
+      "passed": 23,
+      "flagged": 4,
+      "flaggedIds": [
+        "lego-011",
+        "lego-014",
+        "lego-015",
+        "lego-022"
+      ],
+      "issue": "lego-015: cited 'All of Nothing'; Ninjago Wiki transcript puts it in S1E13 'Day of the Great Devourer' (2012-04-11), wording 'when he is down'. lego-014: Snakebit aired 2012-01-25, not 2011. lego-011/012: episode and date added. lego-022: note said one-liner; it is the Batcave password.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "No open PRs. Films checked against springfieldspringfield transcripts, TV against Ninjago Wiki transcripts. Added articles-of-faith, goals-fresh-starts, lds-scripture-mastery (added 2026-10-20) to order[]; all sort before the cursor, so they are covered after the wrap.",
+      "auditedIds": [
+        "lego-001",
+        "lego-002",
+        "lego-003",
+        "lego-004",
+        "lego-005",
+        "lego-006",
+        "lego-007",
+        "lego-008",
+        "lego-009",
+        "lego-010",
+        "lego-011",
+        "lego-012",
+        "lego-013",
+        "lego-014",
+        "lego-015",
+        "lego-016",
+        "lego-017",
+        "lego-018",
+        "lego-019",
+        "lego-020",
+        "lego-021",
+        "lego-022",
+        "lego-023",
+        "lego-024",
+        "lego-025",
+        "lego-026",
+        "lego-027"
       ]
     }
   ]
