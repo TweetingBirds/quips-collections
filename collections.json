@@ -179,8 +179,8 @@
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-11-16T12:00:00Z",
-      "contentHash": "sha256-ENu7K9tNptlQrQi4C80JnE6qFXT+7774kNH8La9NGQI=",
-      "bytes": 19176
+      "contentHash": "sha256-IGbuFFr0vxkHkf/pSZkZQWTDJkViVa9uogaFDTbBv94=",
+      "bytes": 19522
     },
     {
       "id": "shakespeare",
@@ -619,8 +619,8 @@
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-B1/9XcwiBSjkaFLPa2iBePgU7b3bkY6FYm0K6nqc3DM=",
-      "bytes": 20687
+      "contentHash": "sha256-2euA+kFW08ugGczp/k8lfbmR36VG6phVJx8iSd6THq0=",
+      "bytes": 20765
     },
     {
       "id": "western-movies",

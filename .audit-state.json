@@ -101,11 +101,11 @@
   "cursor": {
     "fileIndex": 53,
     "file": "literary-classics",
-    "quoteIndex": 0,
-    "note": "lego-001..027 web-checked; literary-classics first quote is next."
+    "quoteIndex": 20,
+    "note": "lc-001..020 web-checked; lc-021 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1485,
+  "totalQuotesAudited": 1505,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2363,6 +2363,43 @@
         "lego-025",
         "lego-026",
         "lego-027"
+      ]
+    },
+    {
+      "runDate": "2026-11-18",
+      "file": "literary-classics",
+      "quoteRange": "lc-001..lc-020",
+      "count": 20,
+      "passed": 18,
+      "flagged": 2,
+      "flaggedIds": [
+        "lc-014",
+        "lc-005"
+      ],
+      "issue": "lc-014: misattributed to Maya Angelou; it is Zora Neale Hurston, Dust Tracks on a Road (1942), ch. 11, 'There is no agony like...' (Quote Investigator). lc-005 (and fantasy-002): notes placed Gandalf's line in Moria; the book has it at Bag End, 'The Shadow of the Past'.",
+      "resolution": "fixed in this run's PR",
+      "processNote": "No open PRs. Project Gutenberg was down for maintenance; checked via web search.",
+      "auditedIds": [
+        "lc-001",
+        "lc-002",
+        "lc-003",
+        "lc-004",
+        "lc-005",
+        "lc-006",
+        "lc-007",
+        "lc-008",
+        "lc-009",
+        "lc-010",
+        "lc-011",
+        "lc-012",
+        "lc-013",
+        "lc-014",
+        "lc-015",
+        "lc-016",
+        "lc-017",
+        "lc-018",
+        "lc-019",
+        "lc-020"
       ]
     }
   ]
