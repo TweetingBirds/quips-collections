@@ -84,7 +84,7 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "Gandalf's words to Frodo in Moria. One of the most quoted passages from The Lord of the Rings.",
+      "notes": "Gandalf's words to Frodo at Bag End, in \"The Shadow of the Past\", after Frodo wishes the Ring had not come in his time; Peter Jackson's film moves the exchange to Moria. One of the most quoted passages from The Lord of the Rings.",
       "tags": [
         "time",
         "choice",
@@ -214,13 +214,13 @@
     },
     {
       "id": "lc-014",
-      "content": "There is no greater agony than bearing an untold story inside you.",
-      "authorName": "Maya Angelou",
-      "source": "I Know Why the Caged Bird Sings (1969)",
+      "content": "There is no agony like bearing an untold story inside you.",
+      "authorName": "Zora Neale Hurston",
+      "source": "Dust Tracks on a Road, Chapter 11, \"Books and Things\" (1942)",
       "sourceType": "book",
-      "quoteDate": "1969",
+      "quoteDate": "1942",
       "verificationStatus": "verified",
-      "notes": "From Angelou's autobiography about her childhood. Reflects the importance of voice and storytelling in healing.",
+      "notes": "From Hurston's autobiography (J. B. Lippincott, 1942), pp. 220–221, per Quote Investigator. Widely misattributed to Maya Angelou's I Know Why the Caged Bird Sings in the reworded form \"There is no greater agony than bearing an untold story inside you\"; no source traces that wording to Angelou.",
       "tags": [
         "writing",
         "suffering",
