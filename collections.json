@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-16T12:00:00Z",
+  "lastUpdated": "2026-11-19T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -227,7 +227,7 @@
       "name": "Sherlock Holmes",
       "description": "The sharp deductions, dry wit, and enduring friendship of Sherlock Holmes and Dr. Watson, drawn straight from Arthur Conan Doyle's canon.",
       "author": "Quips Editorial",
-      "quoteCount": 47,
+      "quoteCount": 49,
       "previewQuotes": [
         "You see, but you do not observe. The distinction is clear.",
         "Come, Watson, come! The game is afoot."
@@ -238,9 +238,9 @@
       "iconName": "magnifyingglass",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-09-03T12:00:00Z",
-      "contentHash": "sha256-4sE48xH/tA8KWP8md0W6njP/2vgnzb3NbfbTJt7BlxM=",
-      "bytes": 26503
+      "lastUpdated": "2026-11-19T12:00:00Z",
+      "contentHash": "sha256-eOuvaeP0SvTy8RYOcQfhiMaMQUL4RSa8CjJyrCfkShI=",
+      "bytes": 27820
     },
     {
       "id": "edgar-allan-poe",
@@ -387,7 +387,7 @@
       "name": "Gratitude & Thankfulness",
       "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Gratitude turns what we have into enough.",
         "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
@@ -398,9 +398,9 @@
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-11-12T12:00:00Z",
-      "contentHash": "sha256-mSKLwhvVVqbKyQXCMLgPisdQVluZe7VPW/UniZdCIgc=",
-      "bytes": 20628
+      "lastUpdated": "2026-11-19T12:00:00Z",
+      "contentHash": "sha256-rb8/9sC8P0mZWmB2KsRkkG1gxvmxhvYApL8TwRSc48c=",
+      "bytes": 21547
     },
     {
       "id": "resilience",
@@ -1527,7 +1527,7 @@
       "name": "Thoreau & Walden",
       "description": "Simplicity, solitude, and deliberate living from the sage of Walden Pond.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "We need the tonic of wildness.",
         "Things do not change; we change."
@@ -1538,9 +1538,9 @@
       "iconName": "tree.fill",
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-10-29T12:00:00Z",
-      "contentHash": "sha256-yF8F6+jrzeNcZJs+J+uEgyCdrku2GexhTuLilZGZb+4=",
-      "bytes": 18547
+      "lastUpdated": "2026-11-19T12:00:00Z",
+      "contentHash": "sha256-YZ85XQ79TNWWU0Mn34xnUnBGrkSwtwqxFyTv1Uy5adQ=",
+      "bytes": 19190
     },
     {
       "id": "earth-and-the-wild",

@@ -9,7 +9,7 @@
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-11-12T12:00:00Z",
+  "lastUpdated": "2026-11-19T12:00:00Z",
   "quotes": [
     {
       "id": "grat-001",
@@ -525,6 +525,22 @@
       "quoteDate": "1863-10-03",
       "verificationStatus": "verified",
       "addedAt": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "grat-033",
+      "content": "Whereas it is the duty of all Nations to acknowledge the providence of Almighty God, to obey his will, to be grateful for his benefits, and humbly to implore his protection and favor…",
+      "authorName": "George Washington",
+      "source": "Thanksgiving Proclamation, City of New York (October 3, 1789)",
+      "sourceType": "speech",
+      "notes": "The opening clause of the first presidential Thanksgiving proclamation under the Constitution, issued at Congress's request and naming Thursday, November 26, 1789; wording checked against the Wikisource transcription of the manuscript, matching the Founders Online text cited by Teaching American History.",
+      "tags": [
+        "gratitude",
+        "the-divine",
+        "politics"
+      ],
+      "quoteDate": "1789-10-03",
+      "verificationStatus": "verified",
+      "addedAt": "2026-11-19T12:00:00Z"
     }
   ]
 }
