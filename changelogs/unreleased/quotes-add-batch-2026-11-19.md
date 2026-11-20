@@ -1,0 +1,5 @@
+### Added
+Four quotes added to existing collections:
+- **Gratitude & Thankfulness**: `grat-033`, the opening of George Washington's Thanksgiving Proclamation of October 3, 1789 ("Whereas it is the duty of all Nations to acknowledge the providence of Almighty God… to be grateful for his benefits…"), the first presidential Thanksgiving proclamation, `verified` against the Wikisource transcription and the Founders Online text.
+- **Thoreau & Walden**: `thoreau-033`, "I have a great deal of company in my house; especially in the morning, when nobody calls." (*Walden*, "Solitude", 1854), `verified` against the Wikisource transcription of the first edition.
+- **Sherlock Holmes**: `sherlock-048`, "The emotional qualities are antagonistic to clear reasoning." (*The Sign of the Four*, ch. 2, 1890), and `sherlock-049`, "Never trust to general impressions, my boy, but concentrate yourself upon details." ("A Case of Identity", 1891), both `verified` against the first printings in *Lippincott's* and *The Strand* on Wikisource.

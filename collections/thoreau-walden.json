@@ -9,7 +9,7 @@
   "iconName": "tree.fill",
   "category": "Nature",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-10-29T12:00:00Z",
+  "lastUpdated": "2026-11-19T12:00:00Z",
   "quotes": [
     {
       "id": "thoreau-001",
@@ -522,6 +522,22 @@
       ],
       "verificationStatus": "verified",
       "addedAt": "2026-10-29T12:00:00Z"
+    },
+    {
+      "id": "thoreau-033",
+      "content": "I have a great deal of company in my house; especially in the morning, when nobody calls.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Solitude\" (1854)",
+      "quoteDate": "1854",
+      "sourceType": "book",
+      "notes": "Thoreau's deadpan answer to the charge that life at the pond must be lonely, checked against the Wikisource transcription of the 1854 Ticknor and Fields first edition.",
+      "tags": [
+        "solitude",
+        "contentment",
+        "wit"
+      ],
+      "verificationStatus": "verified",
+      "addedAt": "2026-11-19T12:00:00Z"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "iconName": "magnifyingglass",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-09-03T12:00:00Z",
+  "lastUpdated": "2026-11-19T12:00:00Z",
   "quotes": [
     {
       "id": "sherlock-001",
@@ -758,6 +758,38 @@
         "blunt"
       ],
       "addedAt": "2026-09-03T12:00:00Z"
+    },
+    {
+      "id": "sherlock-048",
+      "content": "The emotional qualities are antagonistic to clear reasoning.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four, ch. 2 \"The Statement of the Case\" (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes's reply when Watson calls Mary Morstan attractive, checked against the Wikisource transcription of the story's first printing in Lippincott's Monthly Magazine, February 1890.",
+      "tags": [
+        "wisdom",
+        "self-control",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "sherlock-049",
+      "content": "Never trust to general impressions, my boy, but concentrate yourself upon details.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Case of Identity (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes coaching Watson after he describes Mary Sutherland, checked against the Wikisource transcription of the story's first printing in The Strand Magazine, vol. 2, no. 9 (September 1891).",
+      "tags": [
+        "learning",
+        "wisdom",
+        "advice"
+      ],
+      "addedAt": "2026-11-19T12:00:00Z"
     }
   ]
 }
