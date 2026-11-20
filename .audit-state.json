@@ -99,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 53,
-    "file": "literary-classics",
-    "quoteIndex": 20,
-    "note": "lc-001..020 web-checked; lc-021 is next."
+    "fileIndex": 54,
+    "file": "love-and-romance",
+    "quoteIndex": 8,
+    "note": "love-001..008 web-checked; love-009 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1505,
+  "totalQuotesAudited": 1525,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2400,6 +2400,46 @@
         "lc-018",
         "lc-019",
         "lc-020"
+      ]
+    },
+    {
+      "runDate": "2026-11-19",
+      "file": "literary-classics + love-and-romance",
+      "quoteRange": "lc-021..lc-032, love-001..love-008",
+      "count": 20,
+      "passed": 15,
+      "flagged": 5,
+      "flaggedIds": [
+        "lc-030",
+        "lc-031",
+        "love-007",
+        "love-008",
+        "love-004"
+      ],
+      "issue": "lc-030: Book 3 -> Book 4 (ch. 34). lc-031: Chapter 2 -> 3. love-007: wording is Norton's 1934 translation, not Mitchell's. love-008: not Letters to a Young Poet; letter to Paula Modersohn-Becker, 12 Feb 1902 (Greene/Norton 1945). love-004: wording is not Eisner's; not changed.",
+      "resolution": "lc-030, lc-031, love-007, love-008 fixed in this run's PR; love-004 left for review",
+      "processNote": "No open PRs. love-004: poets.org Eisner text differs; Tapscott transcriptions disagree ('are to be loved, in secret' vs 'are loved, secretly'), so translator not reassigned.",
+      "auditedIds": [
+        "lc-021",
+        "lc-022",
+        "lc-023",
+        "lc-024",
+        "lc-025",
+        "lc-026",
+        "lc-027",
+        "lc-028",
+        "lc-029",
+        "lc-030",
+        "lc-031",
+        "lc-032",
+        "love-001",
+        "love-002",
+        "love-003",
+        "love-004",
+        "love-005",
+        "love-006",
+        "love-007",
+        "love-008"
       ]
     }
   ]
