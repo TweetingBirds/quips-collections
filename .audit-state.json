@@ -99,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 54,
-    "file": "love-and-romance",
-    "quoteIndex": 8,
-    "note": "love-001..008 web-checked; love-009 is next."
+    "fileIndex": 55,
+    "file": "mark-twain-wit",
+    "quoteIndex": 0,
+    "note": "love-and-romance complete this pass; twain-001 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1525,
+  "totalQuotesAudited": 1546,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2440,6 +2440,43 @@
         "love-006",
         "love-007",
         "love-008"
+      ]
+    },
+    {
+      "runDate": "2026-11-20",
+      "file": "love-and-romance",
+      "quoteRange": "love-009..love-029",
+      "count": 21,
+      "passed": 20,
+      "flagged": 1,
+      "flaggedIds": [
+        "love-021"
+      ],
+      "issue": "love-021: Angelou poem cited to I Shall Not Be Moved (1990), which does not contain it; traceable printing is Love's Exquisite Freedom (Welcome Books, 2011).",
+      "resolution": "fixed in this run's PR; source corrected and status set to attributed (print text not checked)",
+      "processNote": "No open PRs. Project Gutenberg down (503); used Lit2Go, Standard Ebooks, RPO, marxists.org.",
+      "auditedIds": [
+        "love-009",
+        "love-010",
+        "love-011",
+        "love-012",
+        "love-013",
+        "love-014",
+        "love-015",
+        "love-016",
+        "love-017",
+        "love-018",
+        "love-019",
+        "love-020",
+        "love-021",
+        "love-022",
+        "love-023",
+        "love-024",
+        "love-025",
+        "love-026",
+        "love-027",
+        "love-028",
+        "love-029"
       ]
     }
   ]
