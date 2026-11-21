@@ -99,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 55,
-    "file": "mark-twain-wit",
+    "fileIndex": 56,
+    "file": "marriage-and-weddings",
     "quoteIndex": 0,
-    "note": "love-and-romance complete this pass; twain-001 is next."
+    "note": "mark-twain-wit complete this pass; first marriage-and-weddings quote is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1546,
+  "totalQuotesAudited": 1579,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2477,6 +2477,60 @@
         "love-027",
         "love-028",
         "love-029"
+      ]
+    },
+    {
+      "runDate": "2026-11-21",
+      "file": "mark-twain-wit",
+      "quoteRange": "twain-001..twain-033",
+      "count": 33,
+      "passed": 27,
+      "flagged": 6,
+      "flaggedIds": [
+        "twain-021",
+        "twain-022",
+        "twain-032",
+        "twain-002",
+        "twain-010",
+        "twain-019"
+      ],
+      "issue": "twain-021: Innocents Abroad Ch. 54 -> 55. twain-022: dropped 'that'. twain-032: note's Apuleius margin-note claim unsupported; cite Paine p. 236. twain-002/010/019: first-edition punctuation.",
+      "resolution": "all fixed in this run's PR",
+      "processNote": "No open PRs. Project Gutenberg down; used Standard Ebooks and archive.org first-edition scans. twain-033 page 'p. 281' not confirmed (edition pagination varies); wording confirmed.",
+      "auditedIds": [
+        "twain-001",
+        "twain-002",
+        "twain-003",
+        "twain-004",
+        "twain-005",
+        "twain-006",
+        "twain-007",
+        "twain-008",
+        "twain-009",
+        "twain-010",
+        "twain-011",
+        "twain-012",
+        "twain-013",
+        "twain-014",
+        "twain-015",
+        "twain-016",
+        "twain-017",
+        "twain-018",
+        "twain-019",
+        "twain-020",
+        "twain-021",
+        "twain-022",
+        "twain-023",
+        "twain-024",
+        "twain-025",
+        "twain-026",
+        "twain-027",
+        "twain-028",
+        "twain-029",
+        "twain-030",
+        "twain-031",
+        "twain-032",
+        "twain-033"
       ]
     }
   ]
