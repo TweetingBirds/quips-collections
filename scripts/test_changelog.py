@@ -130,9 +130,14 @@ class ChangelogTests(unittest.TestCase):
         self.write("changelogs/1.0.1.md", "## [1.0.1] - 2026-07-01\n### Fixed\nX.\n")
         self.assertRefused(lambda: changelog.check(self.root), "out of date")
 
-    def test_the_index_counts_waiting_fragments(self):
+    def test_the_index_notes_waiting_fragments(self):
         self.fragment("quotes-a", "### Added\nA.\n")
-        self.assertIn("Unreleased: 1 fragment", self.read("changelogs/README.md"))
+        self.assertIn("Unreleased: fragments waiting", self.read("changelogs/README.md"))
+
+    def test_a_second_fragment_needs_no_index_change(self):
+        self.fragment("quotes-a", "### Added\nA.\n")
+        self.write("changelogs/unreleased/quotes-b.md", "### Added\nB.\n")
+        changelog.check(self.root)
 
     def test_this_repository_passes(self):
         changelog.check(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

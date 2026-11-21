@@ -84,9 +84,9 @@
     "slug": "chief-seattle",
     "quote": "This we know. The earth does not belong to man; man belongs to the earth… Whatever befalls the earth befalls the sons of the earth. Man did not weave the web of life; he is merely a strand in it.",
     "attribution": "Attributed to Chief Seattle (actually written by Ted Perry)",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 7,
-    "sentAt": null,
+    "sentAt": "2026-11-19T14:00:28Z",
     "notes": "Written by Texas scriptwriter Ted Perry in 1971 for Home, a 1972 Southern Baptist Radio and Television Commission film, which dropped his writing credit. Perry built on William Arrowsmith's update of Henry A. Smith's 1887 newspaper reconstruction, published 33 years after a speech Seattle probably gave in 1854. The popular \"does not belong to us; we belong to the earth\" form is a later modernized version of Perry's text.",
     "quoteId": "earth-030"
   },
@@ -226,9 +226,9 @@
     "slug": "santayana",
     "quote": "Only the dead are safe; only the dead have seen the end of war.",
     "attribution": "George Santayana, \"Tipperary,\" Soliloquies in England and Later Soliloquies (1922) (often misattributed to Plato)",
-    "status": "scheduled",
+    "status": "sent",
     "issueNumber": 6,
-    "sentAt": null,
+    "sentAt": "2026-11-12T14:00:18Z",
     "notes": "From Santayana's essay \"Tipperary\" (Scribner's, 1922, p. 102). Douglas MacArthur credited it to Plato in his \"Duty, Honor, Country\" address at West Point, May 12, 1962; no source in Plato is known.",
     "quoteId": "vets-027"
   },

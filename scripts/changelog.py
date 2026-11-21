@@ -178,9 +178,10 @@ def read_version(path, root):
 
 def render_index(root):
     lines = [README_HEADER]
-    count = len(fragment_paths(root))
-    if count:
-        lines.append(f"- Unreleased: {count} fragment{'' if count == 1 else 's'} in [`unreleased/`](unreleased/)")
+    # The line says whether fragments are waiting, never how many: a count changes with
+    # every fragment PR, so two of them merged back to back leave main's index stale.
+    if fragment_paths(root):
+        lines.append("- Unreleased: fragments waiting in [`unreleased/`](unreleased/)")
     for path in version_paths(root):
         version, date, _ = read_version(path, root)
         lines.append(f"- [{version}]({version}.md) — {date}")
