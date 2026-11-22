@@ -99,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 56,
-    "file": "marriage-and-weddings",
+    "fileIndex": 57,
+    "file": "marvel-movies",
     "quoteIndex": 0,
-    "note": "mark-twain-wit complete this pass; first marriage-and-weddings quote is next."
+    "note": "marriage-and-weddings complete this pass; first marvel-movies quote is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1579,
+  "totalQuotesAudited": 1603,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2531,6 +2531,50 @@
         "twain-031",
         "twain-032",
         "twain-033"
+      ]
+    },
+    {
+      "runDate": "2026-11-22",
+      "file": "marriage-and-weddings",
+      "quoteRange": "wed-001..wed-024",
+      "count": 24,
+      "passed": 19,
+      "flagged": 5,
+      "flaggedIds": [
+        "wed-010",
+        "wed-008",
+        "wed-001",
+        "wed-011",
+        "wed-016"
+      ],
+      "issue": "wed-010: not Letters to a Young Poet; letter to Emanuel von Bodman, 17 Aug 1901 (Greene/Norton 1945, pp. 57-58), wording restored. wed-008: Jane Eyre Ch. 23 -> 27. wed-001: note named wrong chapter ('Marriage Bells' is Ch. 55). wed-011: translator credit unconfirmed. wed-016: 'earthquake' vs 'volcanoes' unconfirmed.",
+      "resolution": "wed-010, wed-008, wed-001 fixed in this run's PR; wed-011 and wed-016 left for review",
+      "processNote": "No open PRs. Project Gutenberg down (503); used archive.org scans, Standard Ebooks, monadnock.net, biblegateway. wed-011 'salute' wording vs note's Mitchell credit and wed-016 need a print copy.",
+      "auditedIds": [
+        "wed-001",
+        "wed-002",
+        "wed-003",
+        "wed-004",
+        "wed-005",
+        "wed-006",
+        "wed-007",
+        "wed-008",
+        "wed-009",
+        "wed-010",
+        "wed-011",
+        "wed-012",
+        "wed-013",
+        "wed-014",
+        "wed-015",
+        "wed-016",
+        "wed-017",
+        "wed-018",
+        "wed-019",
+        "wed-020",
+        "wed-021",
+        "wed-022",
+        "wed-023",
+        "wed-024"
       ]
     }
   ]
