@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-19T12:00:00Z",
+  "lastUpdated": "2026-11-23T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -67,7 +67,7 @@
       "name": "Courage & Conviction",
       "description": "On facing fear, standing for what's right, and acting anyway.",
       "author": "Quips Editorial",
-      "quoteCount": 36,
+      "quoteCount": 37,
       "previewQuotes": [
         "Courage is resistance to fear, mastery of fear — not absence of fear.",
         "Power concedes nothing without a demand. It never did and it never will."
@@ -78,9 +78,9 @@
       "iconName": "shield.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-10-20T12:00:00Z",
-      "contentHash": "sha256-JkDhgGeaIkiVOTIW44A5fQTknGgdbOC8QvV5UQxRXyg=",
-      "bytes": 29561
+      "lastUpdated": "2026-11-23T12:00:00Z",
+      "contentHash": "sha256-KR/92gHRCMM8w51pZOD1Zigka0K8cJCGmWrtq/1DoMM=",
+      "bytes": 30703
     },
     {
       "id": "dream-big",
