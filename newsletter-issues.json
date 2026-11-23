@@ -401,5 +401,15 @@
     "sentAt": null,
     "notes": "From Bulwer-Lytton's play Richelieu; or, The Conspiracy (Act II, Scene II), first performed March 7, 1839. Cardinal Richelieu says it after failing to lift a sword, and the first line, about the rule of 'men entirely great', makes it a remark about the reach of an all-powerful minister's signature rather than a tribute to writers. The bare phrase was already in print in a Belfast newspaper in 1832.",
     "quoteId": "cm-036"
+  },
+  {
+    "slug": "voltaire",
+    "quote": "In his writings a wise Italian\nSays that the best is the enemy of the good.",
+    "attribution": "Voltaire, La Bégueule (1772), crediting an Italian proverb (translated from the French)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "cm-037",
+    "notes": "The source of 'perfect is the enemy of good' is the opening couplet of Voltaire's verse tale La Bégueule (1772), 'Dans ses écrits un sage Italien / Dit que le mieux est l'ennemi du bien,' in which he hands the credit to an Italian. The next lines exempt prudence, kindness, talent and knowledge from the rule, and the tale's moral is that nothing is so dangerous as leaving the good to be better."
   }
 ]
