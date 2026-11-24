@@ -99,13 +99,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 57,
-    "file": "marvel-movies",
-    "quoteIndex": 20,
-    "note": "marvel-001..020 done; marvel-021 is next."
+    "fileIndex": 58,
+    "file": "michael-jordan",
+    "quoteIndex": 0,
+    "note": "marvel-movies complete; michael-jordan first quote is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1623,
+  "totalQuotesAudited": 1643,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2613,6 +2613,48 @@
         "marvel-018",
         "marvel-019",
         "marvel-020"
+      ]
+    },
+    {
+      "runDate": "2026-11-24",
+      "file": "marvel-movies",
+      "quoteRange": "marvel-021..marvel-040",
+      "count": 20,
+      "passed": 13,
+      "flagged": 7,
+      "flaggedIds": [
+        "marvel-025",
+        "marvel-034",
+        "marvel-027",
+        "marvel-021",
+        "marvel-022",
+        "marvel-030",
+        "marvel-031"
+      ],
+      "issue": "marvel-025, marvel-034: wording fixed to the spoken lines. marvel-027: not in X-Men (2000); comics catchphrase, now unverified. marvel-021/022/030/031: wrong scene in notes.",
+      "resolution": "all fixed in this run's PR",
+      "processNote": "No open PRs. Used springfieldspringfield transcripts. Left as is: marvel-024 'em vs subtitle 'them'; marvel-028 omits leading 'Ah,'.",
+      "auditedIds": [
+        "marvel-021",
+        "marvel-022",
+        "marvel-023",
+        "marvel-024",
+        "marvel-025",
+        "marvel-026",
+        "marvel-027",
+        "marvel-028",
+        "marvel-029",
+        "marvel-030",
+        "marvel-031",
+        "marvel-032",
+        "marvel-033",
+        "marvel-034",
+        "marvel-035",
+        "marvel-036",
+        "marvel-037",
+        "marvel-038",
+        "marvel-039",
+        "marvel-040"
       ]
     }
   ]

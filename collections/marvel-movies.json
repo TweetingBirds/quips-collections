@@ -303,7 +303,7 @@
       "sourceType": "movie",
       "quoteDate": "2018-04-27",
       "verificationStatus": "verified",
-      "notes": "Loki's final words to Thor before Thanos kills him. Shows his character growth and fraternal love.",
+      "notes": "Loki to Thor aboard the Statesman, as he hands the Tesseract to Thanos; not his last words (those are \"You... will never be... a god,\" to Thanos). Shows his character growth and fraternal love.",
       "tags": [
         "hope",
         "hard-times",
@@ -319,7 +319,7 @@
       "sourceType": "movie",
       "quoteDate": "2011-07-22",
       "verificationStatus": "verified",
-      "notes": "Steve's humble self-description to Dr. Erskine. Defines his character's everyman quality.",
+      "notes": "Steve's reply to Johann Schmidt (Red Skull), who asks what made him so special. Defines his character's everyman quality.",
       "tags": [
         "humility",
         "identity",
@@ -361,13 +361,13 @@
     },
     {
       "id": "marvel-025",
-      "content": "Just because someone stumbles and loses their path, doesn't mean they can't be saved.",
+      "content": "Just because someone stumbles, loses their way, doesn't mean they're lost forever.",
       "authorName": "Charles Xavier (James McAvoy)",
       "source": "X-Men: Days of Future Past (2014)",
       "sourceType": "movie",
       "quoteDate": "2014-05-23",
       "verificationStatus": "verified",
-      "notes": "Charles' message about hope and redemption. Central to the X-Men's philosophy on mutant rehabilitation.",
+      "notes": "Young Charles to Hank, rejecting the idea that Mystique is fated to kill Trask; Old Charles says the same words to him earlier. Central to the X-Men's philosophy on redemption.",
       "tags": [
         "redemption",
         "hope",
@@ -398,8 +398,8 @@
       "source": "X-Men (2000)",
       "sourceType": "movie",
       "quoteDate": "2000-07-14",
-      "verificationStatus": "verified",
-      "notes": "Classic Wolverine line from the comics. First appeared in Wolverine #1 (1982) by Chris Claremont.",
+      "verificationStatus": "unverified",
+      "notes": "Attribution is the failing axis: the line is not spoken in X-Men (2000); a full transcript of the film has no such line. It is Wolverine's catchphrase from the 1982 Claremont/Miller Wolverine limited series, and is credited to the films only loosely.",
       "tags": [
         "identity",
         "pride",
@@ -442,7 +442,7 @@
       "sourceType": "movie",
       "quoteDate": "2016-02-12",
       "verificationStatus": "verified",
-      "notes": "Wade's response to meeting Colossus. Exemplifies the R-rated humor that defined the film.",
+      "notes": "Wade's aside during the opening freeway shootout, before Colossus arrives. Exemplifies the R-rated humor that defined the film.",
       "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -454,7 +454,7 @@
       "sourceType": "movie",
       "quoteDate": "2016-02-12",
       "verificationStatus": "verified",
-      "notes": "Wade's creative threat during the final battle. Shows Deadpool's absurdist approach to violence.",
+      "notes": "Wade's threat to one of Francis's henchmen at an ice rink, during his mid-film manhunt for Francis. Shows Deadpool's absurdist approach to violence.",
       "tags": [],
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -484,7 +484,7 @@
     },
     {
       "id": "marvel-034",
-      "content": "I could do this all day. Yeah, I know.",
+      "content": "I can do this all day. Yeah, I know. I know.",
       "authorName": "Steve Rogers (Chris Evans)",
       "source": "Avengers: Endgame (2019)",
       "sourceType": "movie",
