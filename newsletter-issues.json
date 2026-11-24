@@ -403,6 +403,16 @@
     "quoteId": "cm-036"
   },
   {
+    "slug": "voltaire",
+    "quote": "In his writings a wise Italian\nSays that the best is the enemy of the good.",
+    "attribution": "Voltaire, La Bégueule (1772), crediting an Italian proverb (translated from the French)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "cm-037",
+    "notes": "The source of 'perfect is the enemy of good' is the opening couplet of Voltaire's verse tale La Bégueule (1772), 'Dans ses écrits un sage Italien / Dit que le mieux est l'ennemi du bien,' in which he hands the credit to an Italian. The next lines exempt prudence, kindness, talent and knowledge from the rule, and the tale's moral is that nothing is so dangerous as leaving the good to be better."
+  },
+  {
     "slug": "klein",
     "quote": "First they ignore you. Then they ridicule you. And then they attack you and want to burn you. And then they build monuments to you.",
     "attribution": "Nicholas Klein, 1918 (often misattributed to Mahatma Gandhi)",

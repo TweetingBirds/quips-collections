@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-11-16T12:00:00Z",
+  "lastUpdated": "2026-11-23T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -591,6 +591,23 @@
         "aphorism"
       ],
       "addedAt": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "cm-037",
+      "content": "In his writings a wise Italian\nSays that the best is the enemy of the good.",
+      "authorName": "Voltaire",
+      "source": "La Bégueule, conte moral (1772), lines 1-2; Œuvres complètes de Voltaire, vol. 10 (Paris: Garnier Frères, 1877), p. 50",
+      "sourceType": "poem",
+      "quoteDate": "1772",
+      "verificationStatus": "verified",
+      "notes": "The origin of 'perfect is the enemy of good': Voltaire's 'Dans ses écrits un sage Italien / Dit que le mieux est l'ennemi du bien' opens a verse tale whose moral is that nothing is so dangerous as leaving the good to be better, and he credits the saying to an Italian (the Garnier editor notes he quotes the Italian line in his article 'Art dramatique'). Wording checked against the Wikisource transcription of the 1877 Garnier edition; the English is a literal translation, and 'le mieux' is literally 'the better'.",
+      "tags": [
+        "excellence",
+        "contentment",
+        "wisdom",
+        "aphorism"
+      ],
+      "addedAt": "2026-11-23T12:00:00Z"
     }
   ]
 }
