@@ -411,5 +411,15 @@
     "sentAt": null,
     "quoteId": "cm-037",
     "notes": "The source of 'perfect is the enemy of good' is the opening couplet of Voltaire's verse tale La Bégueule (1772), 'Dans ses écrits un sage Italien / Dit que le mieux est l'ennemi du bien,' in which he hands the credit to an Italian. The next lines exempt prudence, kindness, talent and knowledge from the rule, and the tale's moral is that nothing is so dangerous as leaving the good to be better."
+  },
+  {
+    "slug": "klein",
+    "quote": "First they ignore you. Then they ridicule you. And then they attack you and want to burn you. And then they build monuments to you.",
+    "attribution": "Nicholas Klein, 1918 (often misattributed to Mahatma Gandhi)",
+    "status": "backlog",
+    "issueNumber": null,
+    "sentAt": null,
+    "quoteId": "courage-037",
+    "notes": "Labor lawyer Nicholas Klein said it to the Amalgamated Clothing Workers' convention in Baltimore on May 15, 1918, as printed in the union's Documentary History (p. 53). No Gandhi source exists; the earliest Gandhi credit Quote Investigator found is 1982. Gandhi did write about a movement passing from ridicule to 'repression or respect' in articles collected in Freedom's Battle (1921), but not in these words."
   }
 ]
