@@ -101,11 +101,11 @@
   "cursor": {
     "fileIndex": 58,
     "file": "michael-jordan",
-    "quoteIndex": 0,
-    "note": "marvel-movies complete; michael-jordan first quote is next."
+    "quoteIndex": 20,
+    "note": "michael-jordan mj-001..mj-020 done; mj-021 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1643,
+  "totalQuotesAudited": 1663,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2655,6 +2655,49 @@
         "marvel-038",
         "marvel-039",
         "marvel-040"
+      ]
+    },
+    {
+      "runDate": "2026-11-25",
+      "file": "michael-jordan",
+      "quoteRange": "mj-001..mj-020",
+      "count": 20,
+      "passed": 12,
+      "flagged": 8,
+      "flaggedIds": [
+        "mj-006",
+        "mj-014",
+        "mj-008",
+        "mj-017",
+        "mj-009",
+        "mj-019",
+        "mj-020",
+        "mj-007"
+      ],
+      "issue": "mj-006: sentence cut short at 'climb it.' mj-014: note said commitment chapter; it is in Fears. mj-008, mj-017: unmarked trims (mj-017 splices pull-quote and body). mj-009 'a'/'the', mj-019 and mj-020 splicing unconfirmed. mj-007 'win' confirmed; Wikiquote's 'wins' is secondary.",
+      "resolution": "mj-006 and mj-014 fixed in this run's PR; others left for review",
+      "processNote": "No open PRs. Book text not online (archive.org lending, Google Books blocked); checked against chapter-by-chapter transcriptions (justdreams30, hoopthoughts). The 'verified' book quotes rest on those, not the printed book. Seen for next run: mj-038 note says 'Chicago arena', Encyclopedia of Major Marketing Campaigns says Soldier Field; mj-023, mj-030 wording doubtful; most Driven from Within quotes found nowhere online.",
+      "auditedIds": [
+        "mj-001",
+        "mj-002",
+        "mj-003",
+        "mj-004",
+        "mj-005",
+        "mj-006",
+        "mj-007",
+        "mj-008",
+        "mj-009",
+        "mj-010",
+        "mj-011",
+        "mj-012",
+        "mj-013",
+        "mj-014",
+        "mj-015",
+        "mj-016",
+        "mj-017",
+        "mj-018",
+        "mj-019",
+        "mj-020"
       ]
     }
   ]
