@@ -9,7 +9,7 @@
   "iconName": "book.closed.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-11-26T12:00:00Z",
   "quotes": [
     {
       "id": "bible-001",
@@ -520,6 +520,38 @@
         "advice"
       ],
       "addedAt": "2026-07-01T01:58:18Z"
+    },
+    {
+      "id": "bible-032",
+      "content": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Psalm 100:4 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Psalm of praise' sung as a call to worship at the Temple gates; wording checked against the KJV text on Bible Gateway.",
+      "tags": [
+        "worship",
+        "gratitude",
+        "the-divine"
+      ],
+      "addedAt": "2026-11-26T12:00:00Z"
+    },
+    {
+      "id": "bible-033",
+      "content": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever.",
+      "authorName": "The Bible (King James Version)",
+      "source": "Psalm 107:1 (King James Version)",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening refrain of Psalm 107, which goes on to recount the redeemed giving thanks for deliverance; wording checked against the KJV text on Bible Gateway, with LORD in the collection's small-caps convention.",
+      "tags": [
+        "mercy",
+        "gratitude",
+        "the-divine"
+      ],
+      "addedAt": "2026-11-26T12:00:00Z"
     }
   ]
 }

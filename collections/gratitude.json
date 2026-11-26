@@ -9,7 +9,7 @@
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-11-19T12:00:00Z",
+  "lastUpdated": "2026-11-26T12:00:00Z",
   "quotes": [
     {
       "id": "grat-001",
@@ -541,6 +541,22 @@
       "quoteDate": "1789-10-03",
       "verificationStatus": "verified",
       "addedAt": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "grat-034",
+      "content": "And although it be not always so plentiful, as it was at this time with us, yet by the goodness of God, we are so far from want, that we often wish you partakers of our plenty.",
+      "authorName": "Edward Winslow",
+      "source": "Letter of December 11, 1621, printed in Mourt's Relation (London, 1622)",
+      "sourceType": "letter",
+      "notes": "The closing line of Winslow's eyewitness account of the autumn 1621 Plymouth harvest celebration, one of only two primary sources for the 'First Thanksgiving'; wording is the modern-spelling version on Pilgrim Hall Museum's primary-source page, whose original-spelling text reads 'plentifull', 'farre' and 'plentie'.",
+      "tags": [
+        "generosity",
+        "gratitude",
+        "community"
+      ],
+      "quoteDate": "1621-12-11",
+      "verificationStatus": "verified",
+      "addedAt": "2026-11-26T12:00:00Z"
     }
   ]
 }
