@@ -101,11 +101,11 @@
   "cursor": {
     "fileIndex": 58,
     "file": "michael-jordan",
-    "quoteIndex": 20,
-    "note": "michael-jordan mj-001..mj-020 done; mj-021 is next."
+    "quoteIndex": 40,
+    "note": "michael-jordan mj-001..mj-040 done; mj-041 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1663,
+  "totalQuotesAudited": 1683,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2698,6 +2698,57 @@
         "mj-018",
         "mj-019",
         "mj-020"
+      ]
+    },
+    {
+      "runDate": "2026-11-26",
+      "file": "michael-jordan",
+      "quoteRange": "mj-021..mj-040",
+      "count": 20,
+      "passed": 4,
+      "flagged": 16,
+      "flaggedIds": [
+        "mj-038",
+        "mj-021",
+        "mj-023",
+        "mj-028",
+        "mj-031",
+        "mj-036",
+        "mj-037",
+        "mj-024",
+        "mj-026",
+        "mj-027",
+        "mj-029",
+        "mj-030",
+        "mj-032",
+        "mj-033",
+        "mj-034",
+        "mj-035"
+      ],
+      "issue": "mj-038: note said 'a Chicago arena'; the ad was shot at Soldier Field. mj-021/023/031/036/037: only part of the text found online; mj-028 only on AZQuotes (p. 132). mj-024/026/027/029/030/032/033/034/035: not found online.",
+      "resolution": "mj-038 fixed in this run's PR; others left for review",
+      "processNote": "Only open PR was #311 (this audit's own). Sources: Encyclopedia of Major Marketing Campaigns via encyclopedia.com (ad); singjupost transcript (HOF speech); bigbencomedy page-numbered list and a Goodreads Kindle highlight (Driven from Within). whatgotyouthere is behind Cloudflare. Seen for next run: singjupost has mj-041 as 'my place', mj-043 as 'It's not an I in team, but it's I in win.'",
+      "auditedIds": [
+        "mj-021",
+        "mj-022",
+        "mj-023",
+        "mj-024",
+        "mj-025",
+        "mj-026",
+        "mj-027",
+        "mj-028",
+        "mj-029",
+        "mj-030",
+        "mj-031",
+        "mj-032",
+        "mj-033",
+        "mj-034",
+        "mj-035",
+        "mj-036",
+        "mj-037",
+        "mj-038",
+        "mj-039",
+        "mj-040"
       ]
     }
   ]
