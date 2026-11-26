@@ -9,7 +9,7 @@
   "iconName": "theatermasks.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-11-26T12:00:00Z",
   "quotes": [
     {
       "id": "shakespeare-001",
@@ -874,6 +874,22 @@
         "lyrical"
       ],
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "shakespeare-055",
+      "content": "Blow, blow, thou winter wind. Thou art not so unkind As man's ingratitude.",
+      "authorName": "William Shakespeare",
+      "source": "As You Like It, Act 2, Scene 7 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Amiens's song to the banished Duke Senior's court in the Forest of Arden, ranking a friend's thanklessness as colder than the winter wind; wording checked against the Folger Shakespeare Library text.",
+      "tags": [
+        "betrayal",
+        "gratitude",
+        "lyrical"
+      ],
+      "addedAt": "2026-11-26T12:00:00Z"
     }
   ]
 }

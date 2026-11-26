@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-23T12:00:00Z",
+  "lastUpdated": "2026-11-26T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -187,7 +187,7 @@
       "name": "Shakespeare",
       "description": "Timeless lines from the Bard's plays and sonnets, still echoing four centuries on.",
       "author": "Quips Editorial",
-      "quoteCount": 54,
+      "quoteCount": 55,
       "previewQuotes": [
         "To be, or not to be, that is the question.",
         "All the world's a stage, and all the men and women merely players."
@@ -198,9 +198,9 @@
       "iconName": "theatermasks.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-PIhTdimg2muIin/HSNjV9lvvl9/JrktX5K8gJuOOqQ0=",
-      "bytes": 28727
+      "lastUpdated": "2026-11-26T12:00:00Z",
+      "contentHash": "sha256-snTX26KeV6RHIqvdMs5IWH0Qd+SYNp+3xKCgh+GFY4k=",
+      "bytes": 29409
     },
     {
       "id": "oscar-wilde",
@@ -387,7 +387,7 @@
       "name": "Gratitude & Thankfulness",
       "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "Gratitude turns what we have into enough.",
         "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
@@ -398,9 +398,9 @@
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-11-19T12:00:00Z",
-      "contentHash": "sha256-rb8/9sC8P0mZWmB2KsRkkG1gxvmxhvYApL8TwRSc48c=",
-      "bytes": 21547
+      "lastUpdated": "2026-11-26T12:00:00Z",
+      "contentHash": "sha256-0XhKPKxJgfXJbjp2E9HhdcJYkmRryQ2+XZZmv/MxlG8=",
+      "bytes": 22476
     },
     {
       "id": "resilience",
@@ -767,7 +767,7 @@
       "name": "Bible Wisdom",
       "description": "Timeless verses of faith, hope, and love from the pages of Scripture.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 33,
       "previewQuotes": [
         "The LORD is my shepherd; I shall not want.",
         "Be still, and know that I am God."
@@ -778,9 +778,9 @@
       "iconName": "book.closed.fill",
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ShgUpNjfqyzM5aOM35jaz91mOc4kFZcpSjhTOLLO8E8=",
-      "bytes": 17772
+      "lastUpdated": "2026-11-26T12:00:00Z",
+      "contentHash": "sha256-/GFCi70jYZTi7l+kkXGkmylEWNV6EUn5GZZnLai/pKo=",
+      "bytes": 19115
     },
     {
       "id": "words-of-jesus",
