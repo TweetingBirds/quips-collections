@@ -79,16 +79,16 @@
       "id": "mp-005",
       "content": "Almost everything will work again if you unplug it for a few minutes, including you.",
       "authorName": "Anne Lamott",
-      "source": "Attributed (c. 2010s)",
-      "sourceType": "unspecified",
-      "notes": "From Lamott's writings and talks. Uses a technology metaphor to explain the importance of rest and reset.",
+      "source": "\"12 Truths I Learned from Life and Writing,\" TED2017 talk, Vancouver, April 2017",
+      "sourceType": "speech",
+      "notes": "Truth number two of the twelve in her TED talk; TED's own transcript has the wording exactly, with the audience laughing before \"including you\". Uses a technology metaphor to explain the importance of rest and reset.",
       "tags": [
         "anxiety",
         "simplicity",
         "wit"
       ],
-      "quoteDate": "c. 2010s",
-      "verificationStatus": "attributed",
+      "quoteDate": "2017-04",
+      "verificationStatus": "verified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -111,16 +111,15 @@
       "id": "mp-007",
       "content": "The greatest weapon against stress is our ability to choose one thought over another.",
       "authorName": "William James",
-      "source": "The Principles of Psychology (1890)",
-      "sourceType": "book",
-      "notes": "From James' foundational psychology text. He pioneered ideas about attention and the selective nature of consciousness.",
+      "source": "Attributed; not found in James's writings",
+      "sourceType": "unspecified",
+      "notes": "Widely credited to William James, but not in The Principles of Psychology or his other works; it is credited to him in print only from 1993, decades after his death in 1910. The word \"stress\" in this sense is also anachronistic for James. Kept as a popular attribution.",
       "tags": [
         "anxiety",
         "choice",
         "self-control"
       ],
-      "quoteDate": "1890",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
