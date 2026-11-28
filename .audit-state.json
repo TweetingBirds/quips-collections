@@ -101,11 +101,11 @@
   "cursor": {
     "fileIndex": 59,
     "file": "mindfulness",
-    "quoteIndex": 8,
-    "note": "michael-jordan complete; mindfulness mp-001..mp-008 done; mp-009 is next."
+    "quoteIndex": 28,
+    "note": "mindfulness mp-001..mp-028 done; mp-029 is next."
   },
   "totalQuotes": 3232,
-  "totalQuotesAudited": 1703,
+  "totalQuotesAudited": 1723,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -2795,6 +2795,56 @@
         "mp-006",
         "mp-007",
         "mp-008"
+      ]
+    },
+    {
+      "runDate": "2026-11-28",
+      "file": "mindfulness",
+      "quoteRange": "mp-009..mp-028",
+      "count": 20,
+      "passed": 5,
+      "flagged": 15,
+      "flaggedIds": [
+        "mp-009",
+        "mp-012",
+        "mp-013",
+        "mp-014",
+        "mp-016",
+        "mp-017",
+        "mp-018",
+        "mp-019",
+        "mp-020",
+        "mp-021",
+        "mp-023",
+        "mp-024",
+        "mp-025",
+        "mp-027",
+        "mp-028"
+      ],
+      "issue": "mp-009: 'best time to relax' is a later variant; Harris's 1954 column reads 'The time to relax...'. Left for review: mp-012 'world earth' vs 'whole earth'; mp-013 modern paraphrase of Long's 'as if it were the last', marked verified; mp-014 usually credited to Storm Jameson, not found in Radical Acceptance; mp-018 not in Tao Te Ching ch. 17; mp-024 chapter 44 unconfirmed; mp-016, mp-017, mp-019, mp-020, mp-021, mp-023, mp-025 'verified' but cited book not confirmed (mp-023 likely 'Discover the Immeasurable', mp-025 likely 'The Art of Mindfulness' wording); mp-027 fake Buddha quote (Kornfield/Buscaglia); mp-028 Lukkoor attribution untraced.",
+      "resolution": "mp-009 fixed in this run's PR (wording, source, date, verified per Quote Investigator); others left for review",
+      "processNote": "Resumed at mp-009 from open PR #313's cursor (no audit/state- PR open). Sources: Quote Investigator, Standard Ebooks (Long), Wikiquote, Tricycle.",
+      "auditedIds": [
+        "mp-009",
+        "mp-010",
+        "mp-011",
+        "mp-012",
+        "mp-013",
+        "mp-014",
+        "mp-015",
+        "mp-016",
+        "mp-017",
+        "mp-018",
+        "mp-019",
+        "mp-020",
+        "mp-021",
+        "mp-022",
+        "mp-023",
+        "mp-024",
+        "mp-025",
+        "mp-026",
+        "mp-027",
+        "mp-028"
       ]
     }
   ]
